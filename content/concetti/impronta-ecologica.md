@@ -141,3 +141,19 @@ Le sezioni di spiegazione, definizione, fattori dell'indicatore e misconcezioni 
 - [[agenda-2030]]
 - [[economia-circolare]]
 - [[attivita-impronta-ecologica-personale]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/World_map_of_countries_by_ecological_deficit_%282013%29.svg/langit-330px-World_map_of_countries_by_ecological_deficit_%282013%29.svg.png" alt="Impronta ecologica" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">indicatore per la valutazione del consumo umano di risorse rispetto alla loro rigenerazione · <a href="https://it.wikipedia.org/wiki/Impronta_ecologica" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"
+    src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU"
+    title="Il riscaldamento globale: le cause" frameborder="0"
+    allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
+    allowfullscreen></iframe>
+</div>
+<p style="font-size:12px;color:#64748b;margin:4px 0 16px">📺 <em>Il riscaldamento globale: le cause</em> · Geopop</p>

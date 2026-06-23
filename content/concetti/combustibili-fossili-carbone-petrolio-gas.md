@@ -181,3 +181,11 @@ Rubrica di valutazione del concetto (4 livelli):
 - [[energia-nucleare]] — un'altra fonte non rinnovabile, per confronto
 - [[cambiamento-climatico-ed-effetto-serra]] — le emissioni di CO₂ dai fossili e il riscaldamento globale
 - [[uda-energia-sostenibile]] — il percorso più ampio sulla transizione energetica
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Combustibili_fossili.png/640px-Combustibili_fossili.png" alt="Combustibile fossile" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">combustibili derivanti dalla trasformazione di sostanze organiche avvenuta nel corso di milioni di anni · <a href="https://it.wikipedia.org/wiki/Combustibile_fossile" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

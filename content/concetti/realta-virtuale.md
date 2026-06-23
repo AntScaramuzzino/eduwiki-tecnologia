@@ -46,3 +46,11 @@ _— nessuna: contenuti da validare con fonti in `raw/` —_
 
 - [[realta-aumentata]]
 - [[didattica-immersiva]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg/640px-Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg" alt="Realtà virtuale" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">tipo di realtà · <a href="https://it.wikipedia.org/wiki/Realt%C3%A0_virtuale" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

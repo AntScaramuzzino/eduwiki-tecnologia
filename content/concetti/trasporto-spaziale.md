@@ -199,3 +199,11 @@ A gruppi, gli studenti progettano una missione spaziale fittizia: scelgono la de
 - [[sistema-dei-trasporti-e-mobilita]]
 - [[attivita-mezzo-di-trasporto-sostenibile]]
 - [[uda-trasporti-mobilita-sostenibile]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vostok1_descent_module.jpg/640px-Vostok1_descent_module.jpg" alt="Esplorazione spaziale" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">viaggi nello spazio di strumenti tecnologici e dell'uomo · <a href="https://it.wikipedia.org/wiki/Esplorazione_spaziale" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

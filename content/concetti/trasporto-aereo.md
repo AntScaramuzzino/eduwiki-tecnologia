@@ -218,3 +218,11 @@ In gruppi da 3-4, gli studenti progettano e costruiscono un profilo alare in car
 - [[logistica-e-trasporto-intermodale]]
 - [[uda-trasporti-mobilita-sostenibile]]
 - [[attivita-mezzo-di-trasporto-sostenibile]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2f/Patchwork_Aviazione.JPG/640px-Patchwork_Aviazione.JPG" alt="Aviazione" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">insieme di attività che coinvolgono qualsiasi tipo di apparecchio adatto al volo · <a href="https://it.wikipedia.org/wiki/Aviazione" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

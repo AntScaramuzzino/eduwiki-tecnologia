@@ -191,3 +191,11 @@ Gli studenti compilano una **scheda di abbinamento** (testo o foglio A4): a sini
 - [[grandezze-elettriche-e-circuito]]
 - [[esperimenti-con-i-circuiti-elettrici]]
 - [[elettronica-di-base]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CoulombsLaw.svg/langit-330px-CoulombsLaw.svg.png" alt="Interazione elettromagnetica" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">interazione fondamentale della natura · <a href="https://it.wikipedia.org/wiki/Interazione_elettromagnetica" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

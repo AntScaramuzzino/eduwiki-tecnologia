@@ -140,3 +140,11 @@ Sfida della trave: gruppi diversi costruiscono una trave di carta o cartoncino l
     Apri scheda completa →
   </a>
 </div>
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hochregallager_01.jpg/640px-Hochregallager_01.jpg" alt="Struttura resistente" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">sub-sistema di una costruzione destinato ad assorbire il carico strutturale · <a href="https://it.wikipedia.org/wiki/Struttura_resistente" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

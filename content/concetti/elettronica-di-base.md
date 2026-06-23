@@ -145,3 +145,11 @@ Oggetto di valutazione: riconoscere i componenti e la loro funzione, distinguere
 - [[effetti-della-corrente-elettrica]] — cosa fa la corrente (luminoso, termico, magnetico): il LED sfrutta l'effetto luminoso.
 - [[sicurezza-elettrica]] — lavorare in sicurezza con la corrente, indispensabile per le attività di laboratorio.
 - [[esperimenti-con-i-circuiti-elettrici]] — attività di laboratorio collegate.
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arduino_ftdi_chip-1.jpg/640px-Arduino_ftdi_chip-1.jpg" alt="Elettronica" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">ramo della scienza e della tecnica · <a href="https://it.wikipedia.org/wiki/Elettronica" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

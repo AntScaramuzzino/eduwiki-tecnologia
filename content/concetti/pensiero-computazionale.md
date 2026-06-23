@@ -168,3 +168,19 @@ Collegamento: [[inclusione-coding-robotica]].
     Apri scheda completa →
   </a>
 </div>
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Computational_Thinking_Process.jpg/640px-The_Computational_Thinking_Process.jpg" alt="Pensiero computazionale" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px"><a href="https://it.wikipedia.org/wiki/Pensiero_computazionale" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"
+    src="https://www.youtube-nocookie.com/embed/pzg1-UpMypA"
+    title="La robotica educativa e il pensiero computazionale" frameborder="0"
+    allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
+    allowfullscreen></iframe>
+</div>
+<p style="font-size:12px;color:#64748b;margin:4px 0 16px">📺 <em>La robotica educativa e il pensiero computazionale</em> · YouTube EDU</p>

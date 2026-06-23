@@ -125,3 +125,11 @@ Nota: le sezioni didattiche (attività, rubriche, inclusione, strumenti digitali
 - [[sketchup-modellazione-3d]]
 - [[cad-disegno-assistito-dal-computer]]
 - [[uda-disegno-tecnico-progetto-cameretta]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graverat_titelblad_-_Skoklosters_slott_-_93500.tif/lossy-page1-330px-Graverat_titelblad_-_Skoklosters_slott_-_93500.tif.jpg" alt="Prospettiva" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">tecnica geometrica per realizzare una rappresentazione grafica bidimensionale degli oggetti come visti dall'occhio umano · <a href="https://it.wikipedia.org/wiki/Prospettiva" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

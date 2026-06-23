@@ -106,3 +106,11 @@ Le sezioni "Dal concetto all'attività" (livello avanzato), parte degli "Strumen
 - [[agricoltura-sostenibile-e-biologica]]
 - [[agricoltura-di-precisione]]
 - [[uda-agricoltura-allevamento-pesca-orto-scolastico]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg/640px-Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg" alt="Idroponica" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">tecnica di coltivazione fuori dal suolo · <a href="https://it.wikipedia.org/wiki/Idroponica" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

@@ -236,3 +236,11 @@ Le sezioni "Livello avanzato", alcune voci di "Strumenti digitali utili" e parti
 - [[mobilita-sostenibile-e-trasporto-green]]
 - [[uda-trasporti-mobilita-sostenibile]]
 - [[attivita-analisi-rete-trasporti-territorio]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lazio_02-06-2006_cagliari_%284%29.jpg/640px-Lazio_02-06-2006_cagliari_%284%29.jpg" alt="Nave" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">mezzo di trasporto su acqua · <a href="https://it.wikipedia.org/wiki/Nave" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

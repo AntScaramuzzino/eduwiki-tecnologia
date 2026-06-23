@@ -153,3 +153,15 @@ Le parti marcate **(proposta progettuale)** non derivano dai testi e sono propos
     Apri scheda completa →
   </a>
 </div>
+
+
+## Risorse multimediali
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"
+    src="https://www.youtube-nocookie.com/embed/4ENRgYohsMU"
+    title="Urbanistica e mobilità sostenibile" frameborder="0"
+    allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
+    allowfullscreen></iframe>
+</div>
+<p style="font-size:12px;color:#64748b;margin:4px 0 16px">📺 <em>Urbanistica e mobilità sostenibile</em> · YouTube EDU</p>

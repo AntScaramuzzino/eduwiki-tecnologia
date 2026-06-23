@@ -118,3 +118,11 @@ Le definizioni e gli esempi di base sono tratti dai testi. Le sezioni didattiche
 - [[cambiamento-climatico-ed-effetto-serra]] — i combustibili fossili e le emissioni
 - [[economia-circolare]] — recuperare materia per ridurre il prelievo di risorse
 - [[impronta-ecologica]] — misurare il consumo di risorse naturali
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bio-K_Blister_CG.jpg/640px-Bio-K_Blister_CG.jpg" alt="Risorsa rinnovabile" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">risorsa naturale che si rigenera nella scala dei tempi umana · <a href="https://it.wikipedia.org/wiki/Risorsa_rinnovabile" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

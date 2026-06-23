@@ -230,3 +230,19 @@ Ogni gruppo prepara una posizione scritta (max 1 pagina) con argomenti tecnici, 
     Apri scheda completa →
   </a>
 </div>
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg/640px-2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg" alt="Energia nucleare" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">energia prodotta da trasformazioni nei nuclei atomici · <a href="https://it.wikipedia.org/wiki/Energia_nucleare" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"
+    src="https://www.youtube-nocookie.com/embed/o9AKgqvEI4E"
+    title="Fusione nucleare: la grande sfida tecnologica" frameborder="0"
+    allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
+    allowfullscreen></iframe>
+</div>
+<p style="font-size:12px;color:#64748b;margin:4px 0 16px">📺 <em>Fusione nucleare: la grande sfida tecnologica</em> · Geopop</p>

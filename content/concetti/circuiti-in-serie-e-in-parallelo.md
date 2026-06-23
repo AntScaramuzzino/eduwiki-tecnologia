@@ -133,3 +133,11 @@ Le sezioni "Strumenti digitali utili", alcune attività del livello avanzato e i
 - [[impianto-elettrico-domestico]] — l'impianto di casa è cablato in parallelo
 - [[effetti-della-corrente-elettrica]] — cosa fa la corrente negli utilizzatori del circuito
 - [[esperimenti-con-i-circuiti-elettrici]] — attività pratica per costruire i due tipi di circuito
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Series_and_parallel_circuits2.svg/langit-330px-Series_and_parallel_circuits2.svg.png" alt="Circuiti in serie e in parallelo" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px"><a href="https://it.wikipedia.org/wiki/Circuiti_in_serie_e_in_parallelo" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

@@ -188,3 +188,11 @@ La sezione Strumenti digitali e alcuni raccordi interdisciplinari sono in parte 
 - [[sicurezza-elettrica]]
 - [[impianto-elettrico-domestico]]
 - [[elettronica-di-base]]
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/OhmsLaw.svg/langit-330px-OhmsLaw.svg.png" alt="Legge di Ohm" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">legge della fisica · <a href="https://it.wikipedia.org/wiki/Legge_di_Ohm" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

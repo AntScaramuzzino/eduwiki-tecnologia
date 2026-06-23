@@ -155,3 +155,11 @@ Le sezioni "Esempio concreto in classe", "Dal concetto all'attività", "Strument
 - [[la-comunicazione-elementi-e-modello]] — Emittente, messaggio, canale, ricevente: la fotografia come atto comunicativo
 - [[social-network-e-cittadinanza-digitale]] — La condivisione di immagini sui social e il diritto all'immagine
 - [[diritto-d-autore-e-licenze]] — Copyright e licenze d'uso delle fotografie digitali
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SF-ggbridge-retouch.gif/640px-SF-ggbridge-retouch.gif" alt="Fotografia digitale" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">procedimento per l'acquisizione di immagini statiche · <a href="https://it.wikipedia.org/wiki/Fotografia_digitale" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

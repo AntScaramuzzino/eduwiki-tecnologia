@@ -146,3 +146,11 @@ Le sezioni didattico-operative (attività, format poster, rubrica, strumenti dig
 - [[generatori-e-pile]] — sorgenti di tensione e rischi associati
 - [[uda-elettricita-impianto-sicuro]] — UDA in cui la sicurezza è obiettivo progettuale
 - [[inclusione-elettricita]] — strategie accessibili per questo modulo
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ISO_7010_W012.svg/langit-330px-ISO_7010_W012.svg.png" alt="Sicurezza elettrica" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px"><a href="https://it.wikipedia.org/wiki/Sicurezza_elettrica" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>

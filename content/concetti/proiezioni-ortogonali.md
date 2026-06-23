@@ -151,3 +151,11 @@ Proiezioni di solidi composti, incastrati, ruotati rispetto a P.V. e P.L., e inf
     Apri scheda completa →
   </a>
 </div>
+
+
+## Risorse multimediali
+
+<figure style="margin:16px 0;text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orthographic_projections_of_L_shape.png/640px-Orthographic_projections_of_L_shape.png" alt="Proiezioni ortogonali" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
+  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">tecnica di rappresentazione grafica · <a href="https://it.wikipedia.org/wiki/Proiezioni_ortogonali" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
+</figure>
