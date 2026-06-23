@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Il pensiero computazionale è il modo di ragionare che usiamo per risolvere un problema in modo che anche una macchina possa eseguirlo: si scompone il problema in parti più semplici, si individua ciò che conta davvero e si descrive la soluzione come una sequenza precisa di istruzioni (un algoritmo). Non riguarda solo i computer: è una competenza logica e di problem solving utile in qualsiasi attività.
 
+![Pensiero computazionale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Computational_Thinking_Process.jpg/330px-The_Computational_Thinking_Process.jpg)
+*📖 Pensiero computazionale · [Wikipedia](https://it.wikipedia.org/wiki/Pensiero_computazionale) · CC BY-SA*
 ## Spiegazione per docenti
 
 Nei libri di testo di tecnologia il pensiero computazionale viene presentato come il "lato scientifico-culturale dell'informatica", cioè una competenza che aiuta a "sviluppare competenze logiche e capacità di risolvere problemi in modo creativo ed efficiente", qualità ritenute importanti per tutti i futuri cittadini (Tecnomondo, Pinotti). Il coding è descritto come il modo più semplice e divertente per svilupparlo, ma l'obiettivo dichiarato non è formare "tanti piccoli informatici", bensì stimolare "l'applicazione della logica per affrontare problemi complessi, trovare e applicare delle soluzioni" (APP Scenari di Tecnologia, Pearson).
@@ -171,10 +173,6 @@ Collegamento: [[inclusione-coding-robotica]].
 
 
 ## Risorse multimediali
-
-
-![Pensiero computazionale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Computational_Thinking_Process.jpg/330px-The_Computational_Thinking_Process.jpg)
-*📖 Pensiero computazionale · [Wikipedia](https://it.wikipedia.org/wiki/Pensiero_computazionale) · CC BY-SA*
 
 [![▶ La robotica educativa e il pensiero computazionale](https://img.youtube.com/vi/pzg1-UpMypA/hqdefault.jpg)](https://www.youtube.com/watch?v=pzg1-UpMypA)
 *📺 La robotica educativa e il pensiero computazionale · YouTube EDU*

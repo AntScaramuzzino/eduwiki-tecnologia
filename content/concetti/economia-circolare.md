@@ -133,6 +133,5 @@ Rubrica per il compito "ridisegna un prodotto" (4 livelli):
 
 ## Risorse multimediali
 
-
 [![▶ L'economia circolare spiegata bene](https://img.youtube.com/vi/ni8-BuHUzUg/hqdefault.jpg)](https://www.youtube.com/watch?v=ni8-BuHUzUg)
 *📺 L'economia circolare spiegata bene · YouTube EDU*

@@ -144,6 +144,5 @@ A gruppi, gli studenti scelgono un obiettivo e ne studiano almeno un **target** 
 
 ## Risorse multimediali
 
-
 [![▶ Il riscaldamento globale: le cause](https://img.youtube.com/vi/JQ5Dq74GhnU/hqdefault.jpg)](https://www.youtube.com/watch?v=JQ5Dq74GhnU)
 *📺 Il riscaldamento globale: le cause · Geopop*

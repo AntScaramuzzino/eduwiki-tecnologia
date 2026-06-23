@@ -20,6 +20,8 @@ Le attività economiche si classificano in **settori produttivi** in base al tip
 
 ---
 
+![Settore economico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Clark%27s_Sector_Model.png/330px-Clark%27s_Sector_Model.png)
+*📖 raggruppamento concettualmente molto largo di imprese · [Wikipedia](https://it.wikipedia.org/wiki/Settore_economico) · CC BY-SA*
 ## Spiegazione per docenti
 
 La suddivisione in settori produttivi è un quadro classificatorio di matrice economica adottato in modo uniforme da tutti i libri di testo di tecnologia per la secondaria di primo grado. La logica ordinale non indica gerarchia di importanza, ma sequenza storica di sviluppo e progressiva immaterialità del prodotto.
@@ -224,10 +226,3 @@ No. Il "terzo settore" è il mondo del no profit (cooperative sociali, associazi
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Settore economico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Clark%27s_Sector_Model.png/330px-Clark%27s_Sector_Model.png)
-*📖 raggruppamento concettualmente molto largo di imprese · [Wikipedia](https://it.wikipedia.org/wiki/Settore_economico) · CC BY-SA*

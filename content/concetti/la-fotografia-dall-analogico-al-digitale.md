@@ -18,6 +18,8 @@ ultima_revisione: 2026-06-22
 
 La fotografia è la tecnica che usa la luce per registrare, su appositi supporti, immagini della realtà. Il termine deriva dal greco *phōs* ("luce") e *graphē* ("scrittura"): significa letteralmente "scrittura con la luce". Il principio di funzionamento di qualsiasi fotocamera — analogica o digitale — è quello della **camera oscura**.
 
+![Fotografia digitale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SF-ggbridge-retouch.gif/330px-SF-ggbridge-retouch.gif)
+*📖 procedimento per l'acquisizione di immagini statiche · [Wikipedia](https://it.wikipedia.org/wiki/Fotografia_digitale) · CC BY-SA*
 ## Spiegazione per docenti
 
 La fotografia nasce dall'applicazione pratica della camera oscura, principio fisico noto già tra il X e l'XI secolo nel mondo arabo e usato in seguito dai pittori del Seicento per riprodurre paesaggi in prospettiva. La camera oscura è una scatola a tenuta di luce con un foro su un lato: i raggi luminosi provenienti dall'esterno entrano dal foro e proiettano sulla parete opposta un'immagine capovolta e rovesciata del soggetto.
@@ -155,10 +157,3 @@ Le sezioni "Esempio concreto in classe", "Dal concetto all'attività", "Strument
 - [[la-comunicazione-elementi-e-modello]] — Emittente, messaggio, canale, ricevente: la fotografia come atto comunicativo
 - [[social-network-e-cittadinanza-digitale]] — La condivisione di immagini sui social e il diritto all'immagine
 - [[diritto-d-autore-e-licenze]] — Copyright e licenze d'uso delle fotografie digitali
-
-
-## Risorse multimediali
-
-
-![Fotografia digitale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SF-ggbridge-retouch.gif/330px-SF-ggbridge-retouch.gif)
-*📖 procedimento per l'acquisizione di immagini statiche · [Wikipedia](https://it.wikipedia.org/wiki/Fotografia_digitale) · CC BY-SA*

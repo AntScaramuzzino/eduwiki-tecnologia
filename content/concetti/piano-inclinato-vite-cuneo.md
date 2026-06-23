@@ -25,6 +25,8 @@ Il piano inclinato, il cuneo e la vite sono tre macchine semplici strettamente l
 
 ---
 
+![Piano inclinato](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piano_inclinato.svg/langit-330px-Piano_inclinato.svg.png)
+*📖 tipo di macchina semplice · [Wikipedia](https://it.wikipedia.org/wiki/Piano_inclinato) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Il piano inclinato
@@ -233,10 +235,3 @@ Obiettivo: applicare il calcolo del piano inclinato a un problema reale di proge
 - [[trasmissione-del-moto]] — la trasmissione del moto: ingranaggi, cinghie e catene
 - [[uda-macchine-motori-meccanismi]] — UDA: dalle macchine semplici ai motori
 - [[inclusione-macchine-motori]] — inclusione: macchine e motori per BES e DSA
-
-
-## Risorse multimediali
-
-
-![Piano inclinato](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piano_inclinato.svg/langit-330px-Piano_inclinato.svg.png)
-*📖 tipo di macchina semplice · [Wikipedia](https://it.wikipedia.org/wiki/Piano_inclinato) · CC BY-SA*

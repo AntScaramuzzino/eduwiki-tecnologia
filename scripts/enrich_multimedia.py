@@ -190,10 +190,12 @@ def get_wiki_info(raw_title, slug=None):
         time.sleep(0.15)
     return None
 
-# ── Markdown builder (compatibile Obsidian + Quartz) ─────────────────────────
-# Usa Markdown puro: niente <iframe> (bloccati in Obsidian),
-# niente HTML inline non necessario. Le immagini YouTube diventano
-# thumbnail cliccabili che aprono il video su YouTube.
+# ── Markdown builder ─────────────────────────────────────────────────────────
+
+# Pattern per rimuovere immagini Wikipedia precedentemente iniettate
+WIKI_IMG_RE = re.compile(
+    r'\n\n!\[[^\]]*\]\(https://upload\.wikimedia\.org/[^\)]+\)\n\*📖[^\n]*\*',
+)
 
 def md_wiki(info):
     desc  = info["caption"] if info["caption"] else info["title"]
@@ -205,14 +207,14 @@ def md_yt(video_id, title, channel):
     url   = f"https://www.youtube.com/watch?v={video_id}"
     return f"[![▶ {title}]({thumb})]({url})\n*📺 {title} · {channel}*"
 
-def build_section(wiki_info, yt_tuple):
-    parts = [f"\n\n{MARKER}\n"]
-    if wiki_info:
-        parts.append(md_wiki(wiki_info))
-    if yt_tuple:
-        vid, title, ch = yt_tuple
-        parts.append(md_yt(vid, title, ch))
-    return "\n\n".join(parts) + "\n"
+def insert_after_definition(text, wiki_block):
+    """Inserisce il blocco immagine subito dopo ## Definizione breve."""
+    # Cattura tutto il contenuto della sezione Definizione breve
+    m = re.search(r'(## Definizione breve\n(?:(?!^##).)*)', text, re.S | re.M)
+    if not m:
+        return text + "\n\n" + wiki_block  # fallback in fondo
+    end = m.end()
+    return text[:end].rstrip('\n') + '\n\n' + wiki_block + '\n' + text[end:]
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
@@ -224,8 +226,10 @@ def process_folder(content_dir: Path, label: str):
         slug = page.stem
         txt  = page.read_text(encoding="utf-8")
 
-        # Rimuovi sezione multimediale precedente (idempotente)
+        # Rimuovi sezione multimedia in fondo (idempotente)
         txt_clean = re.sub(rf"\n\n{re.escape(MARKER)}.*", "", txt, flags=re.S)
+        # Rimuovi immagine Wikipedia eventualmente iniettata dopo la definizione
+        txt_clean = WIKI_IMG_RE.sub("", txt_clean)
 
         h1   = extract_h1(txt_clean)
         wiki = get_wiki_info(h1, slug) if h1 else None
@@ -235,7 +239,16 @@ def process_folder(content_dir: Path, label: str):
             no_media += 1
             continue
 
-        page.write_text(txt_clean + build_section(wiki, yt), encoding="utf-8")
+        result = txt_clean
+        # 1. Immagine Wikipedia → subito dopo ## Definizione breve
+        if wiki:
+            result = insert_after_definition(result, md_wiki(wiki))
+        # 2. Video YouTube → sezione ## Risorse multimediali in fondo
+        if yt:
+            vid, title, ch = yt
+            result += f"\n\n{MARKER}\n\n{md_yt(vid, title, ch)}\n"
+
+        page.write_text(result, encoding="utf-8")
         parts = []
         if wiki: parts.append(f"🖼 {wiki['title'][:35]}")
         if yt:   parts.append(f"📺 {yt[0]}")

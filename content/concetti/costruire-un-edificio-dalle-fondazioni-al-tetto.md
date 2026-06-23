@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Costruire un edificio significa realizzare, secondo un ordine preciso, una struttura resistente capace di sostenere il proprio peso e i carichi esterni: si parte dallo scavo e dalle fondazioni, si innalza lo scheletro portante (pilastri, travi e solai), si chiude con murature e tetto e si completa con impianti e finiture.
 
+![Edilizia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Construction_site_in_Cologne%2C_Germany_%282017%29.jpg/330px-Construction_site_in_Cologne%2C_Germany_%282017%29.jpg)
+*📖 processo di progettazione e realizzazione di una costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Edilizia) · CC BY-SA*
 ## Spiegazione per docenti
 
 La costruzione di un edificio è un processo a fasi che mette insieme conoscenze su forze, materiali e strutture portanti. Prima ancora del cantiere c'è la **progettazione**: il committente incarica un tecnico abilitato (geometra, architetto o ingegnere) di redigere il progetto, che deve rispettare le norme del piano regolatore generale del Comune e le esigenze del committente.
@@ -146,10 +148,3 @@ Le sezioni didattiche operative (attività, alcuni strumenti digitali, parti del
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px"><strong>Compito di realtà:</strong> Costruisci la struttura più alta possibile usando 20 spaghetti e 5 marshmallow che regga il peso di un libro per 10 secondi: documenta il processo, misura l'alt…</div>
   <a href="https://proftecnologia.vercel.app/mc/MC-AMB-2-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#10b981;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">Apri scheda completa →</a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Edilizia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Construction_site_in_Cologne%2C_Germany_%282017%29.jpg/330px-Construction_site_in_Cologne%2C_Germany_%282017%29.jpg)
-*📖 processo di progettazione e realizzazione di una costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Edilizia) · CC BY-SA*

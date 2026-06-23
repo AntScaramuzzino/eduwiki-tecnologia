@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Radio, televisione e cinema sono i tre principali mezzi di comunicazione audiovisiva di massa sviluppati tra la fine dell'Ottocento e il Novecento: il cinema trasmette immagini in movimento attraverso la proiezione di fotogrammi successivi; la radio diffonde segnali sonori tramite onde elettromagnetiche; la televisione combina suono e immagini in movimento trasmessi via etere, cavo o satellite.
 
+![Televisione](https://upload.wikimedia.org/wikipedia/it/thumb/6/6c/Tele.JPG/330px-Tele.JPG)
+*📖 mezzo di comunicazione di massa · [Wikipedia](https://it.wikipedia.org/wiki/Televisione) · CC BY-SA*
 ## Spiegazione per docenti
 
 I tre mezzi rappresentano tappe successive della stessa traiettoria tecnologica: la trasformazione di fenomeni fisici (luce, suono) in segnali trasmissibili e riproducibili a distanza o in serie.
@@ -150,10 +152,3 @@ Tutti e tre usano **onde elettromagnetiche** (come la luce, ma diverse). Oggi tu
 - [[attivita-realizzare-un-podcast]]
 - [[digital-storytelling]]
 - [[uda-comunicazione-e-media]]
-
-
-## Risorse multimediali
-
-
-![Televisione](https://upload.wikimedia.org/wikipedia/it/thumb/6/6c/Tele.JPG/330px-Tele.JPG)
-*📖 mezzo di comunicazione di massa · [Wikipedia](https://it.wikipedia.org/wiki/Televisione) · CC BY-SA*

@@ -20,6 +20,8 @@ Un **generatore elettrico** è un dispositivo che crea e mantiene una differenza
 
 ---
 
+![Pila (elettrotecnica)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Batterkps.svg/langit-330px-Batterkps.svg.png)
+*📖 dispositivo di immagazzinamento di energia elettrica · [Wikipedia](https://it.wikipedia.org/wiki/Pila_(elettrotecnica)) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Il generatore come motore della corrente
@@ -303,10 +305,3 @@ L'energia non scompare: si è convertita in calore (dissipato nell'ambiente) e i
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Pila (elettrotecnica)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Batterkps.svg/langit-330px-Batterkps.svg.png)
-*📖 dispositivo di immagazzinamento di energia elettrica · [Wikipedia](https://it.wikipedia.org/wiki/Pila_(elettrotecnica)) · CC BY-SA*

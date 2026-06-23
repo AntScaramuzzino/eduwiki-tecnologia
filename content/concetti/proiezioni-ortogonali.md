@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Le proiezioni ortogonali sono un metodo di disegno tecnico che permette di rappresentare un oggetto tridimensionale su un foglio bidimensionale per mezzo di più viste (figure) perpendicolari tra loro. Servono a "trasferire su un piano bidimensionale forme che nello spazio hanno tre dimensioni e viceversa". In genere bastano tre viste per descrivere completamente un oggetto: la vista dall'alto, la vista di fronte (da davanti) e la vista di lato.
 
+![Proiezioni ortogonali](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orthographic_projections_of_L_shape.png/330px-Orthographic_projections_of_L_shape.png)
+*📖 tecnica di rappresentazione grafica · [Wikipedia](https://it.wikipedia.org/wiki/Proiezioni_ortogonali) · CC BY-SA*
 ## Spiegazione per docenti
 
 Le proiezioni ortogonali (abbreviate P.O.) sono il tipo di disegno geometrico più usato perché riportano le forme esatte dell'oggetto, anche se in dimensioni ridotte. La tecnica si basa su tre piani di riferimento, perpendicolari tra loro e uniti a formare tre angoli di 90°: il sistema prende il nome di **triedro**.
@@ -151,10 +153,3 @@ Proiezioni di solidi composti, incastrati, ruotati rispetto a P.V. e P.L., e inf
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Proiezioni ortogonali](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orthographic_projections_of_L_shape.png/330px-Orthographic_projections_of_L_shape.png)
-*📖 tecnica di rappresentazione grafica · [Wikipedia](https://it.wikipedia.org/wiki/Proiezioni_ortogonali) · CC BY-SA*

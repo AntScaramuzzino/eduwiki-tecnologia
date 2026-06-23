@@ -20,6 +20,8 @@ Il trasporto via acqua è il sistema di spostamento di persone e merci attravers
 
 ---
 
+![Nave](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lazio_02-06-2006_cagliari_%284%29.jpg/330px-Lazio_02-06-2006_cagliari_%284%29.jpg)
+*📖 mezzo di trasporto su acqua · [Wikipedia](https://it.wikipedia.org/wiki/Nave) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il trasporto navale è uno dei contenuti più ricchi dal punto di vista tecnologico trasversale: fisica (principio di Archimede, idrodinamica), materiali (acciaio dello scafo), sistemi di propulsione (motori Diesel marini, eliche, timone), infrastrutture (porto), logistica (container, intermodalità) e impatto ambientale.
@@ -236,10 +238,3 @@ Le sezioni "Livello avanzato", alcune voci di "Strumenti digitali utili" e parti
 - [[mobilita-sostenibile-e-trasporto-green]]
 - [[uda-trasporti-mobilita-sostenibile]]
 - [[attivita-analisi-rete-trasporti-territorio]]
-
-
-## Risorse multimediali
-
-
-![Nave](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lazio_02-06-2006_cagliari_%284%29.jpg/330px-Lazio_02-06-2006_cagliari_%284%29.jpg)
-*📖 mezzo di trasporto su acqua · [Wikipedia](https://it.wikipedia.org/wiki/Nave) · CC BY-SA*

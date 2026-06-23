@@ -15,6 +15,8 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 La trasformazione dei cereali è l'insieme dei processi industriali che, partendo dal chicco di grano, portano prima alla farina (attraverso la **molitura**) e poi a prodotti alimentari come il pane, la pasta e i prodotti da forno. È uno degli esempi più chiari di come l'industria alimentare trasformi una materia prima agricola in alimenti pronti per il consumo.
 
+![Pane](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Assorted_bread.jpg/330px-Assorted_bread.jpg)
+*📖 alimento a base di farina di cereali e acqua · [Wikipedia](https://it.wikipedia.org/wiki/Pane) · CC BY-SA*
 ## Spiegazione per docenti
 Questo concetto collega l'area agricola (coltivazione dei cereali) con il settore dell'industria alimentare e permette di mostrare una **filiera completa**: dal campo al prodotto confezionato. È un ottimo terreno per far emergere la differenza fra trasformazione fisica e trasformazione chimica.
 
@@ -105,10 +107,3 @@ Le parti marcate **(proposta progettuale)** (esperimento del palloncino, intervi
 - [[produzioni-vegetali-e-colture]]
 - [[uda-alimentazione-dalla-materia-prima-alla-tavola]]
 - [[conservazione-degli-alimenti]]
-
-
-## Risorse multimediali
-
-
-![Pane](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Assorted_bread.jpg/330px-Assorted_bread.jpg)
-*📖 alimento a base di farina di cereali e acqua · [Wikipedia](https://it.wikipedia.org/wiki/Pane) · CC BY-SA*

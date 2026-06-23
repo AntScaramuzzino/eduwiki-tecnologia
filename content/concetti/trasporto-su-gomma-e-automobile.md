@@ -22,6 +22,8 @@ Il trasporto su gomma è il sistema di spostamento di persone e merci che avvien
 
 ---
 
+![Automobile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/De_Dion_stoomdriewieler.GIF/330px-De_Dion_stoomdriewieler.GIF)
+*📖 veicolo · [Wikipedia](https://it.wikipedia.org/wiki/Automobile) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il trasporto su gomma è il modo di spostarsi più capillare e flessibile esistente: le strade raggiungono quasi ogni luogo e i veicoli possono scegliere percorso e orario senza vincoli fissi, a differenza del trasporto ferroviario o aereo. Questa flessibilità ha un costo: il trasporto su gomma è anche il più inquinante tra quelli esistenti, a causa delle emissioni prodotte dai motori a combustione interna.
@@ -220,10 +222,3 @@ Gli studenti confrontano le due tecnologie su una tabella a doppia entrata (font
 - [[mobilita-sostenibile-e-trasporto-green]]
 - [[attivita-mezzo-di-trasporto-sostenibile]]
 - [[uda-trasporti-mobilita-sostenibile]]
-
-
-## Risorse multimediali
-
-
-![Automobile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/De_Dion_stoomdriewieler.GIF/330px-De_Dion_stoomdriewieler.GIF)
-*📖 veicolo · [Wikipedia](https://it.wikipedia.org/wiki/Automobile) · CC BY-SA*

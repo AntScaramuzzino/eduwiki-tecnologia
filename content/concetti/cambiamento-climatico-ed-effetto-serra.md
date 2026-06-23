@@ -135,6 +135,5 @@ Le sezioni di definizione, spiegazione, gas serra, cause e conseguenze sono basa
 
 ## Risorse multimediali
 
-
 [![▶ Il cambiamento climatico e l'effetto serra](https://img.youtube.com/vi/l6P3m74VtIA/hqdefault.jpg)](https://www.youtube.com/watch?v=l6P3m74VtIA)
 *📺 Il cambiamento climatico e l'effetto serra · Geopop*

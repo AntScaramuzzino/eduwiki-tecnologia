@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 La **grafica digitale** è la tecnica con cui si creano o si modificano immagini al computer usando programmi appositi. Si divide in due grandi tipi. La **grafica raster** (o bitmap) costruisce l'immagine con una **griglia di puntini colorati**, i **pixel**: è perfetta per le fotografie, ma se la ingrandisci troppo si "sgrana" e perde definizione. La **grafica vettoriale** descrive l'immagine con **forme geometriche generate da equazioni matematiche** (punti, linee, archi, curve): si può ingrandire quanto si vuole senza perdere qualità ed è ideale per loghi, marchi, pittogrammi e disegno tecnico. (Infinito Tecnologico, p.227; Techno logics, p.237; Futura, p.180)
 
+![Elaborazione digitale delle immagini](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Retoqueacne.jpg/330px-Retoqueacne.jpg)
+*📖 attività che permette di modificare un'immagine digitale · [Wikipedia](https://it.wikipedia.org/wiki/Elaborazione_digitale_delle_immagini) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto chiusura il passaggio dal disegno a mano e dal CAD verso la cultura dell'immagine digitale: capire **come è fatta** un'immagine al computer aiuta gli studenti a scegliere lo strumento giusto e a non commettere errori tipici (stampare una foto presa da web a bassa risoluzione, salvare un logo come JPG sgranato, ecc.).
@@ -117,10 +119,3 @@ Adattamenti come **(proposta progettuale)**, coerenti con i criteri UDL del wiki
 - [[poligoni-regolari-e-curve]]
 - [[struttura-modulare-e-disegno-geometrico]]
 - [[inclusione-disegno-tecnico]]
-
-
-## Risorse multimediali
-
-
-![Elaborazione digitale delle immagini](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Retoqueacne.jpg/330px-Retoqueacne.jpg)
-*📖 attività che permette di modificare un'immagine digitale · [Wikipedia](https://it.wikipedia.org/wiki/Elaborazione_digitale_delle_immagini) · CC BY-SA*

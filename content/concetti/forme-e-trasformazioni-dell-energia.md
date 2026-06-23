@@ -18,6 +18,8 @@ ultima_revisione: 2026-06-22
 
 L'energia è la **capacità di un corpo di compiere un lavoro**. Si manifesta in forme diverse — meccanica (cinetica e potenziale), termica, chimica, elettrica, luminosa, nucleare — che possono trasformarsi l'una nell'altra tramite dispositivi detti **convertitori**. La sua unità di misura nel Sistema Internazionale è il **joule (J)**.
 
+![Energia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg/330px-Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg)
+*📖 capacità di un corpo o di un sistema di compiere lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Energia) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto di energia è tra i più astratti del curricolo di tecnologia: non si vede e non si tocca, si riconosce solo dai suoi effetti. Come precisa *Futura* (p. 262): "L'energia è la capacità di un corpo di compiere un lavoro. L'energia, quindi, può avere diverse forme, ma è sempre la stessa grandezza e si misura in joule (simbolo J)."
@@ -201,10 +203,3 @@ Le sezioni "Livello avanzato", parte degli strumenti digitali, alcune note inclu
 - [[energia-idroelettrica]]
 - [[risparmio-energetico-e-efficienza]]
 - [[uda-energia-sostenibile]]
-
-
-## Risorse multimediali
-
-
-![Energia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg/330px-Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg)
-*📖 capacità di un corpo o di un sistema di compiere lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Energia) · CC BY-SA*

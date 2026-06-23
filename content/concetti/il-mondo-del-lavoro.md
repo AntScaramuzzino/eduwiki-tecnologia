@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Il lavoro è l'attività umana — manuale o intellettuale — svolta in cambio di una retribuzione, finalizzata alla produzione di beni o all'erogazione di servizi; è riconosciuto dalla Costituzione italiana come fondamento della Repubblica (art. 1) e come diritto e dovere di ogni cittadino.
 
+![Mercato del lavoro](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Job_Advertisement_Board_in_Shenzhen_-01.jpg/330px-Job_Advertisement_Board_in_Shenzhen_-01.jpg)
+*📖 insieme della domanda e offerta di lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Mercato_del_lavoro) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto di "mondo del lavoro" nella scuola secondaria di primo grado si articola attorno a quattro nuclei:
@@ -194,10 +196,3 @@ Discussione finale: "Perché il contratto a tempo indeterminato offre maggiore s
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Mercato del lavoro](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Job_Advertisement_Board_in_Shenzhen_-01.jpg/330px-Job_Advertisement_Board_in_Shenzhen_-01.jpg)
-*📖 insieme della domanda e offerta di lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Mercato_del_lavoro) · CC BY-SA*

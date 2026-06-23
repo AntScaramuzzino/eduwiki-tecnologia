@@ -20,6 +20,8 @@ Le infrastrutture di trasporto sono l'insieme delle opere fisse costruite dall'u
 
 ---
 
+![Infrastruttura](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ponte_all%27Indiano_7.JPG/330px-Ponte_all%27Indiano_7.JPG)
+*📖 serie di elementi che compongono o collegano i vari componenti di una struttura · [Wikipedia](https://it.wikipedia.org/wiki/Infrastruttura) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto di infrastruttura di trasporto è trasversale alla tecnologia, alla geografia e all'educazione civica. In senso tecnico, le infrastrutture sono le opere strutturali che consentono lo spostamento dei veicoli — strade, autostrade, ponti, gallerie — e le costruzioni necessarie a ciascun tipo di trasporto, come aree di servizio, stazioni, porti e aeroporti (Lattes, Volume unico, p. 304).
@@ -208,10 +210,3 @@ No. I nodi intermodali riguardano anche i passeggeri: ogni volta che si scende d
 - [[attivita-analisi-rete-trasporti-territorio]]
 - [[uda-trasporti-mobilita-sostenibile]]
 - [[valutazione-trasporti]]
-
-
-## Risorse multimediali
-
-
-![Infrastruttura](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ponte_all%27Indiano_7.JPG/330px-Ponte_all%27Indiano_7.JPG)
-*📖 serie di elementi che compongono o collegano i vari componenti di una struttura · [Wikipedia](https://it.wikipedia.org/wiki/Infrastruttura) · CC BY-SA*

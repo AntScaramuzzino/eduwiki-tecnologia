@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Il **magnetismo** è il fenomeno per cui alcuni corpi — le **calamite** o magneti — attraggono materiali ferrosi (ferro, nichel, cobalto). L'**elettromagnetismo** è la relazione bidirezionale tra corrente elettrica e campo magnetico: una corrente genera un campo magnetico; un campo magnetico variabile genera una corrente. Questo legame è alla base di motori elettrici, generatori, trasformatori e di buona parte degli apparecchi tecnologici moderni.
 
+![Interazione elettromagnetica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CoulombsLaw.svg/langit-330px-CoulombsLaw.svg.png)
+*📖 interazione fondamentale della natura · [Wikipedia](https://it.wikipedia.org/wiki/Interazione_elettromagnetica) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Il magnetismo naturale
@@ -191,10 +193,3 @@ Gli studenti compilano una **scheda di abbinamento** (testo o foglio A4): a sini
 - [[grandezze-elettriche-e-circuito]]
 - [[esperimenti-con-i-circuiti-elettrici]]
 - [[elettronica-di-base]]
-
-
-## Risorse multimediali
-
-
-![Interazione elettromagnetica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CoulombsLaw.svg/langit-330px-CoulombsLaw.svg.png)
-*📖 interazione fondamentale della natura · [Wikipedia](https://it.wikipedia.org/wiki/Interazione_elettromagnetica) · CC BY-SA*

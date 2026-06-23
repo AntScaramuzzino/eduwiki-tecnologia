@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 L'inquinamento è l'immissione nell'ambiente di sostanze o forme di energia che ne alterano l'equilibrio naturale, danneggiando gli ecosistemi e la salute degli esseri viventi. Riguarda i tre principali comparti ambientali: l'aria (atmosfera), l'acqua (fiumi, mari, falde) e il suolo (terreno). Quasi sempre ha origine dalle attività umane: traffico, industria, riscaldamento, agricoltura intensiva, rifiuti.
 
+![Inquinamento](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/330px-Pollution_in_Mankweng.jpg)
+*📖 alterazione o contaminazione di un qualsiasi materiale o ambiente ad opera di agenti inorganici od organici · [Wikipedia](https://it.wikipedia.org/wiki/Inquinamento) · CC BY-SA*
 ## Spiegazione per docenti
 
 L'inquinamento si studia distinguendo tre comparti ambientali, ciascuno con cause, sostanze inquinanti ed effetti propri, ma fortemente collegati tra loro (un inquinante dell'aria, dilavato dalla pioggia, raggiunge suolo e acque).
@@ -134,10 +136,3 @@ Gli studenti conducono una **piccola indagine sul territorio** **(proposta proge
 - [[sviluppo-sostenibile]] — l'inquinamento è la sfida ambientale che la sostenibilità intende affrontare
 - [[agenda-2030]] — gli obiettivi su acqua, aria, città e ambiente puntano a ridurre l'inquinamento
 - [[impronta-ecologica]] — misura la pressione delle attività umane, inquinamento compreso, sull'ambiente
-
-
-## Risorse multimediali
-
-
-![Inquinamento](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/330px-Pollution_in_Mankweng.jpg)
-*📖 alterazione o contaminazione di un qualsiasi materiale o ambiente ad opera di agenti inorganici od organici · [Wikipedia](https://it.wikipedia.org/wiki/Inquinamento) · CC BY-SA*

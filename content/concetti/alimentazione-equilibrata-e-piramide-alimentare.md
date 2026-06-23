@@ -17,6 +17,8 @@ ultima_revisione: 2026-06-22
 
 L'**alimentazione equilibrata** consiste nell'assumere ogni giorno tutti i principi nutritivi nelle giuste quantità, evitando sia gli eccessi sia le carenze. La **piramide alimentare** è un grafico a forma di triangolo che mostra, dalla base verso il vertice, la frequenza con cui conviene consumare le diverse categorie di alimenti: alla base i cibi da mangiare ogni giorno (frutta, verdura, cereali), al vertice quelli da consumare raramente (dolci, carne rossa).
 
+![Dieta mediterranea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/330px-DIETA_MEDITERRANEA_ITALIA.JPG)
+*📖 modello nutrizionale · [Wikipedia](https://it.wikipedia.org/wiki/Dieta_mediterranea) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il tema collega scienze, tecnologia ed educazione alla salute, e nei manuali di Tecnologia compare nella sezione dedicata al settore agroalimentare e all'impronta ecologica.
@@ -139,10 +141,3 @@ Rubrica per l'attività sulla piramide alimentare (collocazione degli alimenti, 
 - [[uda-alimentazione-dalla-materia-prima-alla-tavola]]
 - [[valutazione-alimentazione]]
 - [[inclusione-alimentazione]]
-
-
-## Risorse multimediali
-
-
-![Dieta mediterranea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/330px-DIETA_MEDITERRANEA_ITALIA.JPG)
-*📖 modello nutrizionale · [Wikipedia](https://it.wikipedia.org/wiki/Dieta_mediterranea) · CC BY-SA*

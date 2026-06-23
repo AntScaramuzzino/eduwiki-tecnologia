@@ -23,6 +23,8 @@ L'**efficienza energetica** indica la capacità di un apparecchio o di un edific
 
 ---
 
+![Efficienza energetica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/langit-330px-Efficiency_diagram_by_Zureks.svg.png)
+*📖 Efficienza energetica · [Wikipedia](https://it.wikipedia.org/wiki/Efficienza_energetica) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il tema si articola su tre livelli interconnessi: comportamenti individuali, caratteristiche degli apparecchi elettrici e qualità degli edifici.
@@ -215,10 +217,3 @@ Gli studenti, divisi in gruppi, mappano i consumi energetici di un'ala della scu
 - [[attivita-misura-consumi-domestici]] — Attività: misurare i consumi energetici di casa
 - [[valutazione-energia]] — Valutazione del modulo Energia
 - [[inclusione-energia]] — Energia per tutti: strategie inclusive
-
-
-## Risorse multimediali
-
-
-![Efficienza energetica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/langit-330px-Efficiency_diagram_by_Zureks.svg.png)
-*📖 Efficienza energetica · [Wikipedia](https://it.wikipedia.org/wiki/Efficienza_energetica) · CC BY-SA*

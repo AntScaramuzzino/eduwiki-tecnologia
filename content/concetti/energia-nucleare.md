@@ -20,6 +20,8 @@ L'energia nucleare è l'energia liberata durante le trasformazioni del nucleo di
 
 ---
 
+![Energia nucleare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg/330px-2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg)
+*📖 energia prodotta da trasformazioni nei nuclei atomici · [Wikipedia](https://it.wikipedia.org/wiki/Energia_nucleare) · CC BY-SA*
 ## Spiegazione per docenti
 
 L'energia nucleare è una fonte primaria, non rinnovabile: si ricava dall'uranio, un minerale estratto dal sottosuolo che non si rigenera sui tempi della civiltà umana.
@@ -233,10 +235,6 @@ Ogni gruppo prepara una posizione scritta (max 1 pagina) con argomenti tecnici, 
 
 
 ## Risorse multimediali
-
-
-![Energia nucleare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg/330px-2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg)
-*📖 energia prodotta da trasformazioni nei nuclei atomici · [Wikipedia](https://it.wikipedia.org/wiki/Energia_nucleare) · CC BY-SA*
 
 [![▶ Fusione nucleare: la grande sfida tecnologica](https://img.youtube.com/vi/o9AKgqvEI4E/hqdefault.jpg)](https://www.youtube.com/watch?v=o9AKgqvEI4E)
 *📺 Fusione nucleare: la grande sfida tecnologica · Geopop*

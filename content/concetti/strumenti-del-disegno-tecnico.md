@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Gli strumenti del disegno tecnico sono gli attrezzi che permettono di tracciare con precisione linee, angoli e curve su un foglio. I più importanti sono la **matita** (o il portamine), la **riga**, le due **squadre**, il **compasso** e il **goniometro**, a cui si aggiungono carta da disegno, gomma e temperamatite. Servono a produrre disegni esatti e ripetibili, dove ogni segno ha una misura precisa e non è lasciato al caso come in un disegno a mano libera.
 
+![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/330px-Wright_brothers_patent_plans_1908.jpg)
+*📖 forma di apprendimento visiva tra addetti ai lavori · [Wikipedia](https://it.wikipedia.org/wiki/Disegno_tecnico) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il disegno tecnico è la prima "lingua" rigorosa che gli studenti incontrano in tecnologia: si basa sull'idea che ogni linea sia controllata da uno strumento e abbia un significato preciso. Per questo la padronanza degli strumenti non è un dettaglio manuale, ma la condizione per tutto il percorso successivo (costruzioni geometriche, poligoni, proiezioni, assonometrie).
@@ -156,10 +158,3 @@ Approfondimenti in [[inclusione-disegno-tecnico]].
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/330px-Wright_brothers_patent_plans_1908.jpg)
-*📖 forma di apprendimento visiva tra addetti ai lavori · [Wikipedia](https://it.wikipedia.org/wiki/Disegno_tecnico) · CC BY-SA*

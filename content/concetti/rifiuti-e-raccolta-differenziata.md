@@ -17,6 +17,8 @@ ultima_revisione: 2026-06-22
 
 I **rifiuti** sono tutti i materiali e gli oggetti che, dopo essere stati usati, vengono scartati perché non più utili. La **raccolta differenziata** è il sistema che permette di separare i rifiuti per tipo di materiale (carta, plastica, vetro, metalli, organico) così da poterli **riciclare** e trasformare di nuovo in materie prime, riducendo la quantità di rifiuti da mandare in discarica o all'inceneritore.
 
+![Raccolta differenziata](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg/330px-Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg)
+*📖 raccolta differenziata dei rifiuti, per favorirne il riciclo e lo smaltimento · [Wikipedia](https://it.wikipedia.org/wiki/Raccolta_differenziata) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il tema dei rifiuti è un nodo centrale del curricolo di Tecnologia legato a sostenibilità ed educazione civica. È utile presentarlo a partire da una **classificazione** delle principali tipologie, come fanno i manuali: rifiuti domestici (ciò che le famiglie buttano nella spazzatura, a loro volta suddivisibili in organico, vetro, plastica, tessuti, legno, metalli), rifiuti industriali (scorie e scarti di produzione, oli combusti, liquidi di lavaggio), rifiuti ingombranti (prodotti di grandi dimensioni) e rifiuti ospedalieri (pericolosi perché contengono sostanze chimiche da trattare con processi particolari).
@@ -128,10 +130,3 @@ Alcune parti di carattere didattico-operativo (strumenti digitali, alcune varian
 - [[inquinamento-aria-acqua-suolo]]
 - [[impronta-ecologica]]
 - [[attivita-mappa-rifiuti-scuola]]
-
-
-## Risorse multimediali
-
-
-![Raccolta differenziata](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg/330px-Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg)
-*📖 raccolta differenziata dei rifiuti, per favorirne il riciclo e lo smaltimento · [Wikipedia](https://it.wikipedia.org/wiki/Raccolta_differenziata) · CC BY-SA*

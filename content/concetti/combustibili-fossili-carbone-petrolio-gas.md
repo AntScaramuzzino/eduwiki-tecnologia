@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 I combustibili fossili — carbone, petrolio e gas naturale — sono sostanze ricche di carbonio formatesi in milioni di anni dalla lenta decomposizione di antichi organismi viventi (piante e animali) sepolti nel sottosuolo in assenza di ossigeno, sotto pressione e calore. Bruciandoli si libera energia termica; sono però risorse non rinnovabili e la loro combustione produce anidride carbonica (CO₂), il principale gas responsabile dell'effetto serra.
 
+![Combustibile fossile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Combustibili_fossili.png/330px-Combustibili_fossili.png)
+*📖 combustibili derivanti dalla trasformazione di sostanze organiche avvenuta nel corso di milioni di anni · [Wikipedia](https://it.wikipedia.org/wiki/Combustibile_fossile) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Origine comune e stati fisici diversi
@@ -181,10 +183,3 @@ Rubrica di valutazione del concetto (4 livelli):
 - [[energia-nucleare]] — un'altra fonte non rinnovabile, per confronto
 - [[cambiamento-climatico-ed-effetto-serra]] — le emissioni di CO₂ dai fossili e il riscaldamento globale
 - [[uda-energia-sostenibile]] — il percorso più ampio sulla transizione energetica
-
-
-## Risorse multimediali
-
-
-![Combustibile fossile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Combustibili_fossili.png/330px-Combustibili_fossili.png)
-*📖 combustibili derivanti dalla trasformazione di sostanze organiche avvenuta nel corso di milioni di anni · [Wikipedia](https://it.wikipedia.org/wiki/Combustibile_fossile) · CC BY-SA*

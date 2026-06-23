@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Il terreno e il clima sono i due fattori naturali che condizionano di più la produzione agricola. Il terreno (o suolo agrario) è lo strato superficiale della crosta terrestre capace di ospitare e nutrire le piante; il clima è l'insieme delle condizioni di temperatura, luce, acqua e umidità di un territorio. Insieme determinano dove, come e quali colture si possono coltivare.
 
+![Pedologia](https://upload.wikimedia.org/wikipedia/commons/9/90/Pedologo01.jpg)
+*📖 studio dei suoli nel loro ambiente naturale · [Wikipedia](https://it.wikipedia.org/wiki/Pedologia) · CC BY-SA*
 ## Spiegazione per docenti
 
 Nonostante le tecniche agricole siano sempre più sofisticate, l'agricoltura resta fortemente influenzata dai fattori climatici e ambientali. Conviene presentare il concetto distinguendo due famiglie di fattori naturali, entrambi solo parzialmente controllabili dall'uomo tramite la tecnologia.
@@ -124,10 +126,3 @@ Esperimento di osservazione su più settimane: tre semine identiche in tre terre
 - [[coltivazioni-fuori-suolo-serra-idroponica]]
 - [[agricoltura-di-precisione]]
 - [[attivita-classificazione-terreni]]
-
-
-## Risorse multimediali
-
-
-![Pedologia](https://upload.wikimedia.org/wikipedia/commons/9/90/Pedologo01.jpg)
-*📖 studio dei suoli nel loro ambiente naturale · [Wikipedia](https://it.wikipedia.org/wiki/Pedologia) · CC BY-SA*

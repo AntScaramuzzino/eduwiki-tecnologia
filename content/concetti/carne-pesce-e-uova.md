@@ -16,6 +16,8 @@ ultima_revisione: 2026-06-22
 
 Carne, pesce e uova sono gli alimenti di origine animale più ricchi di proteine "nobili", cioè proteine che contengono tutti gli aminoacidi essenziali per il nostro corpo. Forniscono inoltre sali minerali (come il ferro), vitamine e, nel caso del pesce, grassi "buoni" come gli omega 3. Prima di arrivare sulla nostra tavola questi alimenti vengono lavorati dall'industria alimentare (settore secondario): la carne attraverso la macellazione e la trasformazione in salumi, il pesce attraverso la pesca, la conservazione e l'inscatolamento, le uova attraverso l'allevamento, il controllo e il confezionamento.
 
+![Carne](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FoodMeat.jpg/330px-FoodMeat.jpg)
+*📖 parte commestibile degli animali · [Wikipedia](https://it.wikipedia.org/wiki/Carne) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il nucleo tecnologico di questo concetto è la **filiera degli alimenti di origine animale**: dall'animale vivo al prodotto confezionato. Si tratta di un tipico esempio di settore secondario (trasformazione) che parte da materie prime del settore primario (allevamento, pesca, acquacoltura).
@@ -131,10 +133,3 @@ I contenuti su carne, salumi, pesca, conservazione del pesce e uova sono ripresi
 - [[conservazione-degli-alimenti]] — salagione, essiccazione, affumicatura, inscatolamento
 - [[etichette-e-sicurezza-alimentare]] — il codice delle uova e la tracciabilità
 - [[lettura-etichette-alimentari]] — attività di confronto tra prodotti
-
-
-## Risorse multimediali
-
-
-![Carne](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FoodMeat.jpg/330px-FoodMeat.jpg)
-*📖 parte commestibile degli animali · [Wikipedia](https://it.wikipedia.org/wiki/Carne) · CC BY-SA*

@@ -157,6 +157,5 @@ Le parti marcate **(proposta progettuale)** non derivano dai testi e sono propos
 
 ## Risorse multimediali
 
-
 [![▶ Urbanistica e mobilità sostenibile](https://img.youtube.com/vi/4ENRgYohsMU/hqdefault.jpg)](https://www.youtube.com/watch?v=4ENRgYohsMU)
 *📺 Urbanistica e mobilità sostenibile · YouTube EDU*

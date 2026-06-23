@@ -18,6 +18,8 @@ ultima_revisione: 2026-06-22
 
 L'impronta ecologica è un indicatore che misura quante risorse naturali consumano gli esseri umani per soddisfare i loro bisogni, confrontandole con la capacità della Terra di rigenerarle. In pratica indica quanta superficie terrestre serve per produrre ciò che usiamo e per assorbire i rifiuti che produciamo.
 
+![Impronta ecologica](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/World_map_of_countries_by_ecological_deficit_%282013%29.svg/langit-330px-World_map_of_countries_by_ecological_deficit_%282013%29.svg.png)
+*📖 indicatore per la valutazione del consumo umano di risorse rispetto alla loro rigenerazione · [Wikipedia](https://it.wikipedia.org/wiki/Impronta_ecologica) · CC BY-SA*
 ## Spiegazione per docenti
 
 L'impronta ecologica (in inglese *Ecological Footprint*) è uno dei tre indicatori usati per misurare l'impatto delle attività umane sull'ambiente, insieme all'impronta di carbonio (*Carbon Footprint*) e all'impronta idrica (*Water Footprint*).
@@ -144,10 +146,6 @@ Le sezioni di spiegazione, definizione, fattori dell'indicatore e misconcezioni 
 
 
 ## Risorse multimediali
-
-
-![Impronta ecologica](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/World_map_of_countries_by_ecological_deficit_%282013%29.svg/langit-330px-World_map_of_countries_by_ecological_deficit_%282013%29.svg.png)
-*📖 indicatore per la valutazione del consumo umano di risorse rispetto alla loro rigenerazione · [Wikipedia](https://it.wikipedia.org/wiki/Impronta_ecologica) · CC BY-SA*
 
 [![▶ Il riscaldamento globale: le cause](https://img.youtube.com/vi/JQ5Dq74GhnU/hqdefault.jpg)](https://www.youtube.com/watch?v=JQ5Dq74GhnU)
 *📺 Il riscaldamento globale: le cause · Geopop*

@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 L'elettronica studia il moto degli elettroni all'interno di mezzi solidi o nel vuoto e impara a "guidarlo" e a "leggerlo" per gestire ed elaborare informazioni e controllare macchinari. Un **circuito elettronico** è composto da un supporto — il **PCB** (*Printed Circuit Board*, in italiano circuito stampato) — su cui vengono saldati i vari componenti collegati tra loro mediante piste metalliche. I componenti si dividono in **passivi** (restituiscono al circuito meno energia di quella ricevuta, dissipandone una parte sotto forma di calore: resistore, condensatore, induttore) e **attivi** (in grado di introdurre energia nel circuito, perché richiedono alimentazione esterna; il più diffuso è il **transistor**).
 
+![Elettronica](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arduino_ftdi_chip-1.jpg/330px-Arduino_ftdi_chip-1.jpg)
+*📖 ramo della scienza e della tecnica · [Wikipedia](https://it.wikipedia.org/wiki/Elettronica) · CC BY-SA*
 ## Spiegazione per docenti
 
 L'elettronica è il naturale passo successivo allo studio del circuito elettrico e della legge di Ohm. Il concetto-chiave da far emergere è la distinzione tra **circuito elettrico** (trasporta energia a un carico: lampadina, motore, resistenza scaldante) e **circuito elettronico** (manipola informazioni e segnali).
@@ -145,10 +147,3 @@ Oggetto di valutazione: riconoscere i componenti e la loro funzione, distinguere
 - [[effetti-della-corrente-elettrica]] — cosa fa la corrente (luminoso, termico, magnetico): il LED sfrutta l'effetto luminoso.
 - [[sicurezza-elettrica]] — lavorare in sicurezza con la corrente, indispensabile per le attività di laboratorio.
 - [[esperimenti-con-i-circuiti-elettrici]] — attività di laboratorio collegate.
-
-
-## Risorse multimediali
-
-
-![Elettronica](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arduino_ftdi_chip-1.jpg/330px-Arduino_ftdi_chip-1.jpg)
-*📖 ramo della scienza e della tecnica · [Wikipedia](https://it.wikipedia.org/wiki/Elettronica) · CC BY-SA*

@@ -22,6 +22,8 @@ ultima_revisione: 2026-06-22
 
 La **carrucola** è una macchina semplice formata da un disco scanalato (puleggia) che gira intorno a un perno, nella cui gola scorre una fune: permette di sollevare carichi modificando la direzione o l'intensità della forza applicata. Il **verricello** è una variante con un cilindro orizzontale (tamburo) su cui si avvolge la fune, azionato da una manovella o ruota. Il **paranco** è un sistema composto da più carrucole fisse e mobili che moltiplica il vantaggio meccanico.
 
+![Carrucola](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Carrucola_-_Musei_del_cibo_-_Prosciutto_-_0019.tif/lossy-page1-330px-Carrucola_-_Musei_del_cibo_-_Prosciutto_-_0019.tif.jpg)
+*📖 tipo di macchina semplice · [Wikipedia](https://it.wikipedia.org/wiki/Carrucola) · CC BY-SA*
 ## Spiegazione per docenti
 
 Le carrucole, il verricello e il paranco appartengono alla famiglia delle macchine semplici derivate dalla leva. I testi adottati nelle scuole li trattano quasi tutti insieme, subito dopo la leva e prima del piano inclinato.
@@ -218,10 +220,3 @@ Gli studenti misurano la forza con un dinamometro e confrontano i valori.
 - [[uda-macchine-motori-meccanismi]]
 - [[valutazione-macchine-motori]]
 - [[inclusione-macchine-motori]]
-
-
-## Risorse multimediali
-
-
-![Carrucola](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Carrucola_-_Musei_del_cibo_-_Prosciutto_-_0019.tif/lossy-page1-330px-Carrucola_-_Musei_del_cibo_-_Prosciutto_-_0019.tif.jpg)
-*📖 tipo di macchina semplice · [Wikipedia](https://it.wikipedia.org/wiki/Carrucola) · CC BY-SA*

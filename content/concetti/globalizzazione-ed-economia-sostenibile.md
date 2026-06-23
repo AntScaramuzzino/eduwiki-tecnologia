@@ -21,6 +21,8 @@ La **globalizzazione** è il processo di integrazione economica, sociale e cultu
 
 ---
 
+![Globalizzazione](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/World-airline-routemap-2009.png/330px-World-airline-routemap-2009.png)
+*📖 fenomeno di crescente interdipendenza delle economie e dei mercati internazionali · [Wikipedia](https://it.wikipedia.org/wiki/Globalizzazione) · CC BY-SA*
 ## Spiegazione per docenti
 
 La globalizzazione è un fenomeno economico e culturale che consiste nell'omologazione a livello mondiale dei consumi, dei modi di vivere e di pensare. Dagli anni Ottanta del Novecento in poi, lo sviluppo della terza e quarta rivoluzione industriale — segnate rispettivamente da internet e dall'automazione — ha dato un fortissimo slancio a questo processo. Le distanze geografiche si annullano: merci, capitali, informazioni e persone circolano globalmente con una rapidità senza precedenti.
@@ -234,10 +236,3 @@ Gli studenti analizzano i rifiuti prodotti dalla scuola (carta, plastica, cibo) 
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Globalizzazione](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/World-airline-routemap-2009.png/330px-World-airline-routemap-2009.png)
-*📖 fenomeno di crescente interdipendenza delle economie e dei mercati internazionali · [Wikipedia](https://it.wikipedia.org/wiki/Globalizzazione) · CC BY-SA*

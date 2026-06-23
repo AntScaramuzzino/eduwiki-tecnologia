@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Il **coding** è la scrittura di un programma informatico attraverso uno specifico linguaggio di programmazione, al fine di trasformare la soluzione di un problema in una serie di istruzioni elementari eseguibili da una macchina. Nella scuola secondaria di primo grado si lavora soprattutto con la **programmazione a blocchi**: invece di scrivere righe di codice testuale, si incastrano blocchi grafici colorati (come in Scratch) che rappresentano le istruzioni e si combinano come i pezzi di un puzzle.
 
+![Linguaggio di programmazione visuale](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Add_all_numbers_block.png/330px-Add_all_numbers_block.png)
+*📖 Linguaggio di programmazione visuale · [Wikipedia](https://it.wikipedia.org/wiki/Linguaggio_di_programmazione_visuale) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il coding è la diretta applicazione del pensiero computazionale alla risoluzione di problemi informatici. Una volta che lo studente ha analizzato un problema con le quattro abilità chiave del pensiero computazionale (astrazione, scomposizione, riconoscimento di pattern, pensiero algoritmico), il coding traduce la soluzione algoritmica in istruzioni che la macchina può eseguire.
@@ -144,10 +146,3 @@ Approfondimenti: vedi **[[inclusione-coding-robotica]]**.
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Linguaggio di programmazione visuale](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Add_all_numbers_block.png/330px-Add_all_numbers_block.png)
-*📖 Linguaggio di programmazione visuale · [Wikipedia](https://it.wikipedia.org/wiki/Linguaggio_di_programmazione_visuale) · CC BY-SA*

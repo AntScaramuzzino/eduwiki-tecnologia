@@ -18,6 +18,8 @@ La legge di Ohm descrive la relazione tra le tre grandezze fondamentali di un ci
 
 Da cui si ricavano le formule inverse: **R = V / I** e **V = R × I**.
 
+![Legge di Ohm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/OhmsLaw.svg/langit-330px-OhmsLaw.svg.png)
+*📖 legge della fisica · [Wikipedia](https://it.wikipedia.org/wiki/Legge_di_Ohm) · CC BY-SA*
 ## Spiegazione per docenti
 
 La legge fu enunciata dal fisico tedesco Georg Simon Ohm (1784–1854) agli inizi dell'Ottocento. Come riportato in Techno logics (Raffaello Scuola, p. 281): «In un conduttore l'intensità di corrente elettrica è direttamente proporzionale alla tensione applicata e inversamente proporzionale alla resistenza che oppone il conduttore». Il libro distingue anche una seconda legge di Ohm, che riguarda come la resistenza di un conduttore varia in funzione del materiale, della lunghezza e della sezione.
@@ -188,10 +190,3 @@ La sezione Strumenti digitali e alcuni raccordi interdisciplinari sono in parte 
 - [[sicurezza-elettrica]]
 - [[impianto-elettrico-domestico]]
 - [[elettronica-di-base]]
-
-
-## Risorse multimediali
-
-
-![Legge di Ohm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/OhmsLaw.svg/langit-330px-OhmsLaw.svg.png)
-*📖 legge della fisica · [Wikipedia](https://it.wikipedia.org/wiki/Legge_di_Ohm) · CC BY-SA*

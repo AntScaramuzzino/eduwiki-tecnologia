@@ -17,6 +17,8 @@ ultima_revisione: 2026-06-22
 
 La corrente elettrica è un flusso ordinato di elettroni che scorre in un conduttore. Le grandezze fondamentali che la descrivono sono: l'intensità di corrente (I, in ampere), la tensione o differenza di potenziale (V, in volt) e la resistenza (R, in ohm). Il circuito elettrico è il percorso chiuso in cui scorre la corrente, formato almeno da un generatore, un utilizzatore e i fili conduttori.
 
+![Circuito elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Circuito_elettrico_autodescritto.svg/langit-330px-Circuito_elettrico_autodescritto.svg.png)
+*📖 tipo di rete · [Wikipedia](https://it.wikipedia.org/wiki/Circuito_elettrico) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Atomi, conduttori e isolanti
@@ -200,10 +202,3 @@ Le sezioni marcate **(proposta progettuale)** (strumenti digitali specifici, att
 - [[effetti-della-corrente-elettrica]] — effetto termico, luminoso, magnetico e chimico della corrente
 - [[sicurezza-elettrica]] — perché la corrente può essere pericolosa per il corpo umano
 - [[esperimenti-con-i-circuiti-elettrici]] — attività di laboratorio collegate a questo concetto
-
-
-## Risorse multimediali
-
-
-![Circuito elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Circuito_elettrico_autodescritto.svg/langit-330px-Circuito_elettrico_autodescritto.svg.png)
-*📖 tipo di rete · [Wikipedia](https://it.wikipedia.org/wiki/Circuito_elettrico) · CC BY-SA*

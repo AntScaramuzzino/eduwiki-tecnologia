@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Il legno è un materiale biologico ricavato dal tronco degli alberi, costituito soprattutto da due composti organici: la **cellulosa** (elemento di sostegno dei tessuti vegetali) e la **lignina**. Quando viene usato per costruire o lavorare si chiama **legname**; quando viene usato come combustibile per riscaldamento o cottura si chiama **legna**. Dall'albero al prodotto finito il legno attraversa una filiera precisa: abbattimento, taglio in segheria, stagionatura, lavorazione.
 
+![Legno](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bois.JPG/330px-Bois.JPG)
+*📖 materiale ricavato dai fusti delle piante · [Wikipedia](https://it.wikipedia.org/wiki/Legno) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il legno è un buon punto di partenza per il modulo sui materiali perché permette di collegare struttura biologica, proprietà tecnologiche e processo produttivo in un unico filo.
@@ -133,10 +135,3 @@ Le sezioni operative (livelli di attività, strumenti digitali, rubriche, adatta
 - [[uda-materiali-oggetto-sostenibile]]
 - [[prove-sulle-proprieta-dei-materiali]]
 - [[inclusione-materiali]]
-
-
-## Risorse multimediali
-
-
-![Legno](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bois.JPG/330px-Bois.JPG)
-*📖 materiale ricavato dai fusti delle piante · [Wikipedia](https://it.wikipedia.org/wiki/Legno) · CC BY-SA*

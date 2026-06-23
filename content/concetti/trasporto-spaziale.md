@@ -16,6 +16,8 @@ Il trasporto spaziale è l'insieme delle tecnologie e dei sistemi che permettono
 
 ---
 
+![Esplorazione spaziale](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vostok1_descent_module.jpg/330px-Vostok1_descent_module.jpg)
+*📖 viaggi nello spazio di strumenti tecnologici e dell'uomo · [Wikipedia](https://it.wikipedia.org/wiki/Esplorazione_spaziale) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il trasporto spaziale rappresenta il settore dei trasporti tecnologicamente più complesso: per uscire dall'atmosfera è necessario superare la forza di gravità terrestre, che richiede velocità di fuga superiori agli 11 km/secondo (oltre 40.000 km/h). Questo obiettivo è reso possibile dal **motore a razzo**, che a differenza dei motori aeronautici non ha bisogno di ossigeno atmosferico, perché porta con sé sia il combustibile che l'ossidante (comburente). La miscela brucia nella camera di combustione producendo gas ad altissima velocità che fuoriescono dallo scarico, generando la spinta per il principio di azione e reazione (terza legge di Newton).
@@ -199,10 +201,3 @@ A gruppi, gli studenti progettano una missione spaziale fittizia: scelgono la de
 - [[sistema-dei-trasporti-e-mobilita]]
 - [[attivita-mezzo-di-trasporto-sostenibile]]
 - [[uda-trasporti-mobilita-sostenibile]]
-
-
-## Risorse multimediali
-
-
-![Esplorazione spaziale](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vostok1_descent_module.jpg/330px-Vostok1_descent_module.jpg)
-*📖 viaggi nello spazio di strumenti tecnologici e dell'uomo · [Wikipedia](https://it.wikipedia.org/wiki/Esplorazione_spaziale) · CC BY-SA*

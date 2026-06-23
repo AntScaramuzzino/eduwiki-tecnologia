@@ -154,6 +154,5 @@ Rubrica per l'attività "Capire l'IA" (proposta progettuale, da validare):
 
 ## Risorse multimediali
 
-
 [![▶ L'intelligenza artificiale può pensare?](https://img.youtube.com/vi/wchtRNrzB10/hqdefault.jpg)](https://www.youtube.com/watch?v=wchtRNrzB10)
 *📺 L'intelligenza artificiale può pensare? · Geopop*

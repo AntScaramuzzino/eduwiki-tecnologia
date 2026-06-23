@@ -19,6 +19,8 @@ ultima_revisione: 2026-06-23
 La realtà virtuale (VR) immerge l'utente in un ambiente completamente digitale,
 simulato e interattivo, tramite visori o occhiali dedicati.
 
+![Realtà virtuale](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg/330px-Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg)
+*📖 tipo di realtà · [Wikipedia](https://it.wikipedia.org/wiki/Realt%C3%A0_virtuale) · CC BY-SA*
 ## Differenza con la realtà aumentata
 
 A differenza della [[realta-aumentata]], che sovrappone elementi digitali al mondo
@@ -46,10 +48,3 @@ _— nessuna: contenuti da validare con fonti in `raw/` —_
 
 - [[realta-aumentata]]
 - [[didattica-immersiva]]
-
-
-## Risorse multimediali
-
-
-![Realtà virtuale](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg/330px-Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg)
-*📖 tipo di realtà · [Wikipedia](https://it.wikipedia.org/wiki/Realt%C3%A0_virtuale) · CC BY-SA*

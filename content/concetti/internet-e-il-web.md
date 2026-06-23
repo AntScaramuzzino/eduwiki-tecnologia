@@ -217,6 +217,5 @@ Obiettivo: collegare i concetti tecnici a questioni di equità e cittadinanza di
 
 ## Risorse multimediali
 
-
 [![▶ Come funziona una rete Wi-Fi pubblica](https://img.youtube.com/vi/njPXISDTodo/hqdefault.jpg)](https://www.youtube.com/watch?v=njPXISDTodo)
 *📺 Come funziona una rete Wi-Fi pubblica · Geopop*

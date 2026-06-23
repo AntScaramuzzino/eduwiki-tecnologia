@@ -21,6 +21,8 @@ Un **motore** è una macchina che trasforma una forma di energia (chimica, elett
 
 ---
 
+![Motore](https://upload.wikimedia.org/wikipedia/commons/8/8a/Triple_expansion_engine_animation.gif)
+*📖 macchinario in grado di trasformare una fonte di energia in energia meccanica · [Wikipedia](https://it.wikipedia.org/wiki/Motore) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Il motore a combustione interna (motore a scoppio)
@@ -243,10 +245,3 @@ Nota: le sezioni "## Strumenti digitali utili" (in parte), "## Attività livello
 - [[motore-a-combustione-interna]]
 - [[il-motore-elettrico]]
 - [[attivita-mezzo-di-trasporto-sostenibile]]
-
-
-## Risorse multimediali
-
-
-![Motore](https://upload.wikimedia.org/wikipedia/commons/8/8a/Triple_expansion_engine_animation.gif)
-*📖 macchinario in grado di trasformare una fonte di energia in energia meccanica · [Wikipedia](https://it.wikipedia.org/wiki/Motore) · CC BY-SA*

@@ -23,6 +23,8 @@ La **moneta elettronica** è una forma di denaro smaterializzato che non esiste 
 
 ---
 
+![Denaro elettronico](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mooncard_carte_bancaire.jpg/330px-Mooncard_carte_bancaire.jpg)
+*📖 Denaro elettronico · [Wikipedia](https://it.wikipedia.org/wiki/Denaro_elettronico) · CC BY-SA*
 ## Spiegazione per docenti
 
 Nella moderna economia circolano diverse forme di moneta. Accanto al **contante** (banconote e monete metalliche emesse dalla Banca Centrale Europea) esistono:
@@ -208,10 +210,3 @@ Le sezioni "Esempio concreto in classe", "Livello avanzato" e alcuni adattamenti
 - [[globalizzazione-ed-economia-sostenibile]]
 - [[foglio-di-calcolo-per-i-dati-economici]]
 - [[attivita-simulazione-bilancio-familiare]]
-
-
-## Risorse multimediali
-
-
-![Denaro elettronico](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mooncard_carte_bancaire.jpg/330px-Mooncard_carte_bancaire.jpg)
-*📖 Denaro elettronico · [Wikipedia](https://it.wikipedia.org/wiki/Denaro_elettronico) · CC BY-SA*

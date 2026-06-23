@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 L'**agricoltura sostenibile** è un modo di coltivare che cerca di produrre cibo senza danneggiare l'ambiente, tutelando il suolo, l'acqua e la biodiversità per le generazioni future. L'**agricoltura biologica** è un metodo di coltivazione che rinuncia ai prodotti chimici di sintesi (fertilizzanti e pesticidi) e si affida a tecniche naturali come la rotazione delle colture, la concimazione organica e la lotta biologica.
 
+![Agricoltura biologica](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Organic-vegetable-cultivation.jpeg/330px-Organic-vegetable-cultivation.jpeg)
+*📖 metodi di produzione che consentano una produzione primaria rispettosa dell'ambiente · [Wikipedia](https://it.wikipedia.org/wiki/Agricoltura_biologica) · CC BY-SA*
 ## Spiegazione per docenti
 
 Per secoli l'agricoltura ha portato a uno sfruttamento intensivo del suolo e, dopo la rivoluzione industriale, a un uso massiccio di prodotti chimici. La filosofia della **sostenibilità** si è fatta strada nel settore agricolo come risposta a questo modello, ed è collegata all'Obiettivo 2 dell'Agenda 2030 ("Sconfiggere la fame... promuovere un'agricoltura sostenibile").
@@ -151,10 +153,3 @@ Gli studenti conducono un'indagine "biologico vs convenzionale": raccolgono 4-5 
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Agricoltura biologica](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Organic-vegetable-cultivation.jpeg/330px-Organic-vegetable-cultivation.jpeg)
-*📖 metodi di produzione che consentano una produzione primaria rispettosa dell'ambiente · [Wikipedia](https://it.wikipedia.org/wiki/Agricoltura_biologica) · CC BY-SA*

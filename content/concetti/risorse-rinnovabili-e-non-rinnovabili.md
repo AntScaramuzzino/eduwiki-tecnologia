@@ -13,6 +13,8 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 Le risorse naturali sono tutto ciò che la natura ci mette a disposizione (aria, acqua, foreste, minerali, fonti di energia): si dicono **rinnovabili** quando si rigenerano in tempi brevi o sono disponibili senza esaurirsi, **non rinnovabili (o esauribili)** quando esistono in quantità limitata e, una volta consumate, non tornano più disponibili o si riformano solo in tempi lunghissimi.
 
+![Risorsa rinnovabile](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bio-K_Blister_CG.jpg/330px-Bio-K_Blister_CG.jpg)
+*📖 risorsa naturale che si rigenera nella scala dei tempi umana · [Wikipedia](https://it.wikipedia.org/wiki/Risorsa_rinnovabile) · CC BY-SA*
 ## Spiegazione per docenti
 Il concetto si costruisce in due passaggi collegati, entrambi presenti nei libri di testo.
 
@@ -118,10 +120,3 @@ Le definizioni e gli esempi di base sono tratti dai testi. Le sezioni didattiche
 - [[cambiamento-climatico-ed-effetto-serra]] — i combustibili fossili e le emissioni
 - [[economia-circolare]] — recuperare materia per ridurre il prelievo di risorse
 - [[impronta-ecologica]] — misurare il consumo di risorse naturali
-
-
-## Risorse multimediali
-
-
-![Risorsa rinnovabile](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bio-K_Blister_CG.jpg/330px-Bio-K_Blister_CG.jpg)
-*📖 risorsa naturale che si rigenera nella scala dei tempi umana · [Wikipedia](https://it.wikipedia.org/wiki/Risorsa_rinnovabile) · CC BY-SA*

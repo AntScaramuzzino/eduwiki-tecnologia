@@ -13,6 +13,8 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 I materiali da costruzione sono le sostanze con cui si realizzano gli edifici: pietre naturali, laterizi, leganti (calce, gesso, cemento) e il calcestruzzo. Il cemento armato (o calcestruzzo armato) è il materiale più diffuso nell'edilizia moderna: si ottiene gettando il calcestruzzo attorno a barre di acciaio, in modo da unire la resistenza alla compressione del calcestruzzo con la resistenza alla trazione dell'acciaio.
 
+![Calcestruzzo armato](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RebarCloseup.jpg/330px-RebarCloseup.jpg)
+*📖 materiale composito da costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Calcestruzzo_armato) · CC BY-SA*
 ## Spiegazione per docenti
 Il concetto raccoglie la classificazione dei materiali da costruzione e culmina nel funzionamento del cemento armato, nodo concettuale chiave del modulo su abitazione ed edilizia.
 
@@ -119,10 +121,3 @@ Ricerca a gruppi sul ciclo di vita e la sostenibilità dei materiali da costruzi
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Calcestruzzo armato](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RebarCloseup.jpg/330px-RebarCloseup.jpg)
-*📖 materiale composito da costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Calcestruzzo_armato) · CC BY-SA*

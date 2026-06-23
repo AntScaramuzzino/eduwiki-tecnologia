@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 La centrale termoelettrica è l'impianto in cui, bruciando un combustibile fossile (carbone, petrolio, gas naturale), si trasforma l'energia chimica del combustibile in energia elettrica attraverso una catena di passaggi: energia chimica → energia termica (calore) → energia meccanica (rotazione della turbina) → energia elettrica (alternatore).
 
+![Centrale termoelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg/330px-Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg)
+*📖 impianto che genera elettricità trasformando calore · [Wikipedia](https://it.wikipedia.org/wiki/Centrale_termoelettrica) · CC BY-SA*
 ## Spiegazione per docenti
 
 La centrale termoelettrica è l'esempio didattico più efficace per mostrare una **catena di trasformazioni energetiche**. Il nome lo dice già: "termo" (calore) + "elettrica" (elettricità). Il principio è quello della macchina a vapore ottocentesca: si brucia un combustibile per scaldare acqua, il vapore mette in rotazione una turbina, la turbina trascina un alternatore che produce corrente.
@@ -161,10 +163,3 @@ Le sezioni didattiche (attività per livelli, parte della rubrica, strumenti dig
 - [[energia-nucleare]] — funzionamento simile, ma il calore viene dalla fissione e non dalla combustione
 - [[risparmio-energetico-e-efficienza]] — impatto ambientale e ricerca di maggiore efficienza
 - [[uda-energia-sostenibile]] — inquadramento nel modulo sulla transizione energetica
-
-
-## Risorse multimediali
-
-
-![Centrale termoelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg/330px-Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg)
-*📖 impianto che genera elettricità trasformando calore · [Wikipedia](https://it.wikipedia.org/wiki/Centrale_termoelettrica) · CC BY-SA*

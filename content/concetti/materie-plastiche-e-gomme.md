@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Le materie plastiche sono materiali composti da **polimeri**, cioè molecole molto lunghe (macromolecole) ottenute unendo tante molecole più piccole, i **monomeri**, attraverso un processo chiamato **polimerizzazione**. La maggior parte è di origine sintetica, prodotta a partire dal petrolio. Le **gomme** (o **elastomeri**) appartengono alla stessa famiglia, ma hanno una proprietà particolare: sono molto elastiche, cioè si allungano se stirate e tornano alla forma di partenza quando lo sforzo cessa.
 
+![Materie plastiche](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Plastic_household_items.jpg/330px-Plastic_household_items.jpg)
+*📖 materiale artificiale con struttura macromolecolare · [Wikipedia](https://it.wikipedia.org/wiki/Materie_plastiche) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto chiave da costruire con la classe è la relazione **monomero → polimero → materiale**. Le materie plastiche sono per lo più sostanze organiche (catene di atomi di carbonio) ottenute dalla distillazione del petrolio o dal gas naturale: dalla virgin nafta, tramite *steam cracking*, si ricavano i monomeri (etilene, propilene, butadiene, stirene), che la polimerizzazione unisce in lunghe catene (polimeri). Allo stato grezzo i semilavorati si presentano come polveri, granuli (*chip* o *pellet*), fibre o liquidi.
@@ -136,10 +138,3 @@ La valutazione combina prova scritta (lessico e classificazione), prodotto dell'
 - [[uda-materiali-oggetto-sostenibile]]
 - [[prove-sulle-proprieta-dei-materiali]]
 - [[inclusione-materiali]]
-
-
-## Risorse multimediali
-
-
-![Materie plastiche](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Plastic_household_items.jpg/330px-Plastic_household_items.jpg)
-*📖 materiale artificiale con struttura macromolecolare · [Wikipedia](https://it.wikipedia.org/wiki/Materie_plastiche) · CC BY-SA*

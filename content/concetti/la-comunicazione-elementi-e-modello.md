@@ -19,6 +19,8 @@ ultima_revisione: 2026-06-22
 
 La comunicazione è un processo nel quale almeno due soggetti si scambiano informazioni attraverso un messaggio trasmesso via un canale, codificato secondo regole condivise; l'esito del processo può essere verificato attraverso il feedback.
 
+![Comunicazione](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stephen_Avenue_3.jpg/330px-Stephen_Avenue_3.jpg)
+*📖 insieme dei fenomeni che comportano il trasferimento di informazioni · [Wikipedia](https://it.wikipedia.org/wiki/Comunicazione) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il modello classico della comunicazione, presente in tutti i principali libri di testo di Tecnologia per la scuola secondaria di primo grado, identifica cinque elementi fondamentali:
@@ -204,10 +206,3 @@ Gli studenti scelgono un post virale o una notizia online e analizzano: chi è l
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-
-![Comunicazione](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stephen_Avenue_3.jpg/330px-Stephen_Avenue_3.jpg)
-*📖 insieme dei fenomeni che comportano il trasferimento di informazioni · [Wikipedia](https://it.wikipedia.org/wiki/Comunicazione) · CC BY-SA*
