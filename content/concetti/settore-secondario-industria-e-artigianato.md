@@ -21,6 +21,8 @@ Il **settore secondario** comprende tutte le attività industriali e artigianali
 
 ---
 
+![Industria](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Airacobra_P39_Assembly_LOC_02902u.jpg/330px-Airacobra_P39_Assembly_LOC_02902u.jpg)
+*📖 attività economica di trasformazione di materie prime in beni manifatturieri · [Wikipedia](https://it.wikipedia.org/wiki/Industria) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Definizione e perimetro del settore

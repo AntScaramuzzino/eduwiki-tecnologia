@@ -20,6 +20,8 @@ La **telecomunicazione** è la trasmissione a distanza di informazioni (voce, te
 
 ---
 
+![Telefono cellulare](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nokia_3310_3G_%2820180116%29.jpg/330px-Nokia_3310_3G_%2820180116%29.jpg)
+*📖 dispositivo portatile che permette di effettuare telefonate · [Wikipedia](https://it.wikipedia.org/wiki/Telefono_cellulare) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Il concetto di telecomunicazione

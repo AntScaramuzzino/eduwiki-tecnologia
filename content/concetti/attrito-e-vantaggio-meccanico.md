@@ -22,6 +22,8 @@ L'**attrito** è la forza che si oppone al movimento di due superfici a contatto
 
 ---
 
+![Forza](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Force_examples.svg/langit-330px-Force_examples.svg.png)
+*📖 grandezza fisica vettoriale · [Wikipedia](https://it.wikipedia.org/wiki/Forza) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Attrito

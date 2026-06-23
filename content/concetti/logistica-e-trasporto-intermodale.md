@@ -21,6 +21,8 @@ La **logistica** è la disciplina che si occupa di organizzare il trasporto dell
 
 ---
 
+![Trasporto intermodale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/40ft_container_carried_on_docks.jpg/330px-40ft_container_carried_on_docks.jpg)
+*📖 tipo di trasporto · [Wikipedia](https://it.wikipedia.org/wiki/Trasporto_intermodale) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il trasporto delle merci non avviene mai con un solo mezzo quando le distanze sono lunghe o quando le infrastrutture obbligano a cambiare vettore. I libri di testo distinguono tre sistemi:

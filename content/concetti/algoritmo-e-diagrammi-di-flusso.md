@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Un **algoritmo** è un insieme finito e preciso di istruzioni che, eseguite nell'ordine giusto, risolvono un problema o portano a termine un compito. Il **diagramma di flusso** (in inglese *flowchart*) è la rappresentazione grafica di un algoritmo: uno schema fatto di forme geometriche collegate, dove ogni forma corrisponde a un tipo di comando.
 
+![Diagramma di flusso](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/LampFlowchart-it.svg/langit-330px-LampFlowchart-it.svg.png)
+*📖 diagramma a blocchi usato per rappresentare il flusso di operazioni logiche, di algoritmi o di dati, attraverso l'uso di simboli grafici e forme geometriche interconnesse da linee/segmenti orientati/frecce · [Wikipedia](https://it.wikipedia.org/wiki/Diagramma_di_flusso) · CC BY-SA*
 ## Spiegazione per docenti
 
 L'algoritmo è il ponte tra il pensiero computazionale e il coding: è il risultato della fase in cui la soluzione di un problema viene scritta "passo dopo passo", in una forma che possa essere eseguita da un sistema di calcolo. Nei testi di tecnologia per la secondaria di primo grado il concetto viene introdotto a partire da esempi quotidiani (la ricetta di cucina, le indicazioni stradali, il puzzle) per poi formalizzarsi.

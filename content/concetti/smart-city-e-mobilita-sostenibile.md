@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Una **smart city** ("città intelligente") è una città che usa la tecnologia, la comunicazione e i dati per offrire a chi la abita una migliore qualità della vita, riducendo gli sprechi di energia, l'inquinamento e i costi. La **mobilità sostenibile** è il modo di spostarsi che limita le emissioni inquinanti: a piedi, in bicicletta, con i mezzi pubblici e con i servizi di condivisione (bike sharing, car sharing) e i veicoli elettrici.
 
+![Città intelligente](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clean_mobility_instead_of_dirty_traffic.jpg/330px-Clean_mobility_instead_of_dirty_traffic.jpg)
+*📖 strategie di pianificazione urbanistica · [Wikipedia](https://it.wikipedia.org/wiki/Citt%C3%A0_intelligente) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto di smart city collega tre grandi ambiti già presenti nei libri di testo di tecnologia: l'urbanistica, gli impianti dell'edificio e lo sviluppo sostenibile. Con "città intelligente" si indica un'area urbana in grado di far **interagire tecnologia, comunicazione, energia, infrastrutture, mobilità, sicurezza, ambiente e servizi alle persone**. Gli interventi più frequenti riguardano l'edificazione, la mobilità e la raccolta dei rifiuti.

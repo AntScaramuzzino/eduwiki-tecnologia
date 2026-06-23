@@ -22,6 +22,8 @@ Internet è una rete mondiale di reti di computer che comunicano tra loro tramit
 
 ---
 
+![Internet](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/langit-330px-Applications-internet.svg.png)
+*📖 rete mondiale di reti di computer ad accesso pubblico · [Wikipedia](https://it.wikipedia.org/wiki/Internet) · CC BY-SA*
 ## Spiegazione per docenti
 
 Internet (da *Interconnected Networks*, reti collegate) è una rete distribuita di portata planetaria. La sua struttura fisica si basa su cavi elettrici e a fibra ottica che percorrono fondi oceanici, sottosuoli urbani e abitazioni, integrati da connessioni wireless (Wi-Fi, rete cellulare). Ogni dispositivo connesso è identificato da un **indirizzo IP** (*Internet Protocol*), una sequenza numerica univoca che permette ai pacchetti di dati di raggiungere la destinazione corretta.

@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Le **fonti di energia** sono tutto ciò che in natura permette di ottenere energia. Si dividono in **fonti rinnovabili** — disponibili in quantità praticamente illimitata o capaci di rigenerarsi in tempi brevi (Sole, vento, acqua, geotermia, biomasse) — e **fonti non rinnovabili (o esauribili)** — presenti in quantità definita e destinate ad esaurirsi perché la loro ricostituzione richiede milioni di anni (combustibili fossili: carbone, petrolio, gas naturale; uranio).
 
+![Fonti di energia rinnovabili](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Energiaberriztagarriak.jpg/330px-Energiaberriztagarriak.jpg)
+*📖 fonti energetiche naturalmente reintegrate in una scala temporale umana · [Wikipedia](https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabili) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto si costruisce in due livelli collegati.

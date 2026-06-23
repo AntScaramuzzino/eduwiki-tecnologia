@@ -17,6 +17,8 @@ ultima_revisione: 2026-06-22
 
 La **scala di rappresentazione** (o scala di proporzione) è il rapporto tra la misura disegnata sul foglio e la misura reale dell'oggetto, espresso nella stessa unità di misura. La **quotatura** è l'insieme dei segni grafici (linee e numeri) con cui si indicano sul disegno le dimensioni reali dell'oggetto rappresentato.
 
+![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/330px-Wright_brothers_patent_plans_1908.jpg)
+*📖 forma di apprendimento visiva tra addetti ai lavori · [Wikipedia](https://it.wikipedia.org/wiki/Disegno_tecnico) · CC BY-SA*
 ## Spiegazione per docenti
 
 Un disegno tecnico deve poter rappresentare oggetti di qualsiasi dimensione sullo spazio limitato di un foglio: il progetto di un edificio non può occupare uno spazio enormemente più grande di quello di un orologio. Per questo si usa la scala di rappresentazione, che permette di rimpicciolire o ingrandire graficamente le misure mantenendo inalterate le proporzioni.

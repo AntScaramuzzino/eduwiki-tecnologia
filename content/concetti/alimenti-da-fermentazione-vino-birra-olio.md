@@ -18,6 +18,8 @@ ultima_revisione: 2026-06-22
 
 Vino, birra e olio d'oliva sono alimenti che nascono dalla trasformazione di un prodotto agricolo (uva, orzo, olive) attraverso processi industriali. Vino e birra si ottengono per **fermentazione**, un processo in cui microrganismi chiamati **lieviti** trasformano gli zuccheri in alcol etilico e anidride carbonica. L'olio d'oliva si ottiene invece per **spremitura** (un processo meccanico, senza fermentazione), schiacciando le olive fino a estrarne il grasso.
 
+![Vino](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Glass_of_Red_Wine_with_a_bottle_of_Red_Wine_-_Evan_Swigart.jpg/330px-Glass_of_Red_Wine_with_a_bottle_of_Red_Wine_-_Evan_Swigart.jpg)
+*📖 bevanda alcolica a base di uva · [Wikipedia](https://it.wikipedia.org/wiki/Vino) · CC BY-SA*
 ## Spiegazione per docenti
 
 Questa pagina mette a confronto due famiglie di trasformazione alimentare che i testi di tecnologia affiancano spesso negli stessi capitoli ("Oli, birra e vino", "L'industria olearia", "La produzione del vino e della birra"):

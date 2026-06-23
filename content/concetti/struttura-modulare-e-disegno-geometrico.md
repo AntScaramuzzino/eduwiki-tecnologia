@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Un **modulo** è una figura semplice di forma costante, ripetibile e intercambiabile, presa a modello e ripetuta su una superficie senza lasciare vuoti e senza sovrapporsi. Tanti moduli accostati secondo uno schema regolare formano una **struttura modulare**, che può prendere il nome di **tassellazione** o **pattern** a seconda delle caratteristiche. Il **reticolo** (o griglia modulare) è la rete di linee che guida la distribuzione dei singoli moduli.
 
+![Modulo (architettura)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Prato%2C_fabbrica_architettura_modulare.JPG/330px-Prato%2C_fabbrica_architettura_modulare.JPG)
+*📖 Modulo (architettura) · [Wikipedia](https://it.wikipedia.org/wiki/Modulo_(architettura)) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto di struttura modulare collega geometria piana, disegno tecnico ed educazione all'immagine. Nei manuali di tecnologia per la secondaria di primo grado viene trattato come applicazione del disegno geometrico: si parte dalle figure di base (quadrato, triangolo, esagono, rombo) per generare composizioni che coprono il piano.

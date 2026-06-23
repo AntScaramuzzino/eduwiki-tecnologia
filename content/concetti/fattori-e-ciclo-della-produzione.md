@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 I **fattori della produzione** sono le risorse necessarie per produrre beni e servizi: le **risorse naturali** (terra, materie prime, acque, energia), il **lavoro** (l'apporto fisico e intellettuale umano), il **capitale** (macchine, impianti, denaro investito) e, secondo alcuni testi, **l'organizzazione** o **imprenditorialità** che coordina i primi tre. La combinazione efficace di questi fattori si chiama **impresa**. Il **ciclo della produzione** è il percorso che va dall'estrazione della materia prima fino al prodotto finito; nella sua versione **circolare**, include anche il recupero e il riciclo al termine del ciclo di vita, trasformando gli scarti in nuove risorse.
 
+![Catena del valore](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Catena-del-valore-di-Porter.svg/langit-330px-Catena-del-valore-di-Porter.svg.png)
+*📖 concetto economico · [Wikipedia](https://it.wikipedia.org/wiki/Catena_del_valore) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### I fattori della produzione

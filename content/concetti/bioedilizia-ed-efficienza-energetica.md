@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 La **bioedilizia** (o edilizia ecologica, bioarchitettura, architettura sostenibile) è l'approccio alla progettazione e costruzione di edifici che impiega materiali naturali e privi di additivi pericolosi, utilizza tecniche di risparmio energetico e punta a garantire salute e comfort per chi ci abita, riducendo al minimo l'impatto ambientale. L'**efficienza energetica** è la capacità di un edificio di sfruttare al meglio l'energia disponibile, limitando i consumi per riscaldamento, raffrescamento e illuminazione, misurata tramite l'**Attestato di Prestazione Energetica (APE)** e le **classi energetiche** da A4 (migliore) a G (peggiore).
 
+![Casa passiva](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Passive_house_scheme_1.svg/langit-330px-Passive_house_scheme_1.svg.png)
+*📖 casa che non richiede un approvvigionamento di energia fossile · [Wikipedia](https://it.wikipedia.org/wiki/Casa_passiva) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Bioedilizia: materiali e principi

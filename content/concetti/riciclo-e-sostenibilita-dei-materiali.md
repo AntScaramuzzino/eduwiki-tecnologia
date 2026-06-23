@@ -13,6 +13,8 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 Il riciclo è il processo che recupera i materiali contenuti negli oggetti a fine vita e li reintroduce nel ciclo produttivo come nuove materie prime; la sostenibilità dei materiali è la scelta e l'uso di materiali in modo da soddisfare i bisogni di oggi senza compromettere le risorse delle generazioni future.
 
+![Riciclaggio dei rifiuti](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/langit-330px-Recycling_symbol.svg.png)
+*📖 trattamento dei materiali di scarto per ottenere un nuovo prodotto riutilizzabile · [Wikipedia](https://it.wikipedia.org/wiki/Riciclaggio_dei_rifiuti) · CC BY-SA*
 ## Spiegazione per docenti
 Il tema del riciclo va inquadrato dentro il passaggio dall'economia lineare (estrai, produci, usa, getta) all'economia circolare, modello in cui il valore di prodotti, materie prime e risorse viene mantenuto il più a lungo possibile, riducendo al minimo i rifiuti residui.
 

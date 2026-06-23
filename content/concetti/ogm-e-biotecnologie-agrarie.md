@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Le **biotecnologie agrarie** sono l'insieme delle tecniche che utilizzano organismi viventi (o loro parti) per migliorare le piante coltivate e gli animali allevati. Un **OGM** (Organismo Geneticamente Modificato) è un essere vivente il cui DNA è stato modificato dall'uomo tramite l'**ingegneria genetica**, prelevando uno o più geni da un organismo e inserendoli nel DNA di un altro, per ottenere caratteristiche desiderate (per esempio piante più resistenti alle malattie o meno bisognose d'acqua).
 
+![Biotecnologia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gel_Doc_with_PC.JPG/330px-Gel_Doc_with_PC.JPG)
+*📖 branca della biologia che utilizza organismi viventi o parti di essi per lo sviluppo di processi o prodotti utili · [Wikipedia](https://it.wikipedia.org/wiki/Biotecnologia) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il concetto va inquadrato lungo una linea storica di crescente intervento umano sul materiale genetico, così come lo presentano i manuali:

@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Un ponte è una costruzione che permette di superare un ostacolo — naturale come un fiume o artificiale come un'altra strada — collegando due aree separate. Ogni ponte è formato da una **struttura verticale** (fondazioni e piloni) e da una **struttura orizzontale** detta **impalcato**, su cui transitano persone e veicoli. I tipi di ponte si distinguono per il modo in cui raccolgono i carichi e li trasferiscono a terra, con forze prevalentemente di **trazione** e **compressione** che agiscono sugli elementi strutturali.
 
+![Ponte](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vasco_da_Gama_Bridge_03.JPG/330px-Vasco_da_Gama_Bridge_03.JPG)
+*📖 struttura che si estende e fornisce un passaggio su strada, ferrovia, fiume o qualche altro ostacolo · [Wikipedia](https://it.wikipedia.org/wiki/Ponte) · CC BY-SA*
 ## Spiegazione per docenti
 
 ### Parti comuni a tutti i ponti

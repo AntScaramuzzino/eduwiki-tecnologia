@@ -16,6 +16,8 @@ Il settore terziario comprende tutte le attività economiche che non sono né ag
 
 ---
 
+![Commercio](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wojciech_Gerson_-_Gda%C5%84sk_in_the_XVII_century.jpg/330px-Wojciech_Gerson_-_Gda%C5%84sk_in_the_XVII_century.jpg)
+*📖 scambio in forma di acquisto e/o vendita di beni · [Wikipedia](https://it.wikipedia.org/wiki/Commercio) · CC BY-SA*
 ## Spiegazione per docenti
 
 I settori produttivi si dividono tradizionalmente in primario (agricoltura, pesca, estrazione), secondario (industria, artigianato) e terziario (servizi). Il terziario rappresenta il settore dominante nelle economie avanzate contemporanee — in Italia i servizi occupano oltre il 60% della forza lavoro — ed è il comparto in cui le tecnologie digitali hanno prodotto la trasformazione più visibile nell'ultimo decennio.

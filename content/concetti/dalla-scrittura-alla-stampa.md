@@ -24,6 +24,8 @@ La scrittura è il sistema con cui l'essere umano ha fissato la lingua parlata i
 
 ---
 
+![Stampa](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Drukarnia-zlamywak.jpg/330px-Drukarnia-zlamywak.jpg)
+*📖 processo per la produzione di testi e immagini · [Wikipedia](https://it.wikipedia.org/wiki/Stampa) · CC BY-SA*
 ## Spiegazione per docenti
 
 La storia che conduce dalla scrittura alla stampa è una delle grandi transizioni tecnologiche della civiltà umana, e costituisce il filo conduttore di buona parte del modulo "Comunicazione e media".

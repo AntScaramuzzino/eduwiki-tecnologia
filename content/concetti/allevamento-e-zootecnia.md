@@ -13,6 +13,8 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 La **zootecnia** è il settore dell'agricoltura che si occupa dell'**allevamento degli animali domestici** per ottenere alimenti (carne, latte, uova), materie prime (lana, pelli) e fertilizzanti naturali (letame). I principali animali allevati in Italia sono bovini, suini e avicoli (polli, tacchini).
 
+![Allevamento](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Quincy_Vitiello_Pig.jpg/330px-Quincy_Vitiello_Pig.jpg)
+*📖 attività economica · [Wikipedia](https://it.wikipedia.org/wiki/Allevamento) · CC BY-SA*
 ## Spiegazione per docenti
 La zootecnia rientra nel **settore primario** ed è strettamente collegata all'agricoltura: foraggi e mangimi destinati al bestiame provengono in larga parte dalle coltivazioni. Le finalità dell'allevamento sono il miglioramento della produzione, ottenuto sia con tecniche di **selezione e incrocio** delle razze, sia con l'ottimizzazione delle tecniche di allevamento.
 

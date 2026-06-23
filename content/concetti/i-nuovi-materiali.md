@@ -16,6 +16,8 @@ I nuovi materiali (o materiali innovativi) sono materiali sviluppati dalla ricer
 
 I nuovi materiali sono materiali messi a punto o migliorati dalla ricerca scientifica e tecnologica per ottenere caratteristiche che i materiali tradizionali non hanno o hanno in misura inferiore: per esempio essere più leggeri dell'acciaio ma altrettanto resistenti, cambiare forma con il calore, imitare proprietà degli esseri viventi.
 
+![Nanotecnologia](https://upload.wikimedia.org/wikipedia/commons/b/bc/Buckyball_C60_animation.gif)
+*📖 campo della scienza applicata il cui tema è il controllo della materia su scala atomica e (sopra)molecolare · [Wikipedia](https://it.wikipedia.org/wiki/Nanotecnologia) · CC BY-SA*
 ## Spiegazione per docenti
 
 L'innovazione nel settore dei materiali agisce su due fronti: lo sviluppo di materiali del tutto nuovi e il miglioramento delle proprietà di quelli esistenti (maggiore resistenza all'usura, più leggerezza, migliore conduzione, maggiore durabilità). Conviene presentare i nuovi materiali come grandi famiglie, ciascuna con un principio fisico diverso.

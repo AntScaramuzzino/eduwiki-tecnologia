@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 L'economia è l'insieme dei modi e dei processi attraverso cui una comunità gestisce le risorse disponibili per rispondere ai bisogni collettivi e individuali. Il mercato è il luogo — fisico o virtuale — in cui domanda e offerta si incontrano e si forma il prezzo dei beni e dei servizi.
 
+![Mercato](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Campo_dei_Fiori.jpg/330px-Campo_dei_Fiori.jpg)
+*📖 insieme di scambi economico-commerciali · [Wikipedia](https://it.wikipedia.org/wiki/Mercato) · CC BY-SA*
 ## Spiegazione per docenti
 
 Il sistema economico descrive come una società organizza la produzione, la distribuzione e il consumo di beni e servizi. Al centro del sistema vi è il concetto di **bisogno**: le persone hanno bisogni primari (cibo, riparo, vestiario) che devono essere soddisfatti per sopravvivere, e bisogni secondari che aumentano il livello di benessere. Quando la soddisfazione di un bisogno interessa l'intera comunità, si parla di bisogno collettivo.

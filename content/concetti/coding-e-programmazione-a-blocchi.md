@@ -146,3 +146,9 @@ Approfondimenti: vedi **[[inclusione-coding-robotica]]**.
     Apri scheda completa →
   </a>
 </div>
+
+
+## Risorse multimediali
+
+[![▶ La robotica educativa e il pensiero computazionale](https://img.youtube.com/vi/pzg1-UpMypA/hqdefault.jpg)](https://www.youtube.com/watch?v=pzg1-UpMypA)
+*📺 La robotica educativa e il pensiero computazionale · YouTube EDU*

@@ -30,6 +30,8 @@ I social network sono piattaforme digitali che permettono agli utenti di creare 
 
 ---
 
+![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Instagram_screenshot.png/330px-Instagram_screenshot.png)
+*📖 social network · [Wikipedia](https://it.wikipedia.org/wiki/Instagram) · CC BY-SA*
 ## Spiegazione per docenti
 
 I social network appartengono al cosiddetto **web 2.0**: a differenza del web statico delle origini, qui gli utenti non sono solo fruitori ma produttori attivi di contenuti. Piattaforme come Facebook, Instagram, TikTok e X (ex Twitter) uniscono la condivisione di contenuti digitali con le attività "sociali" tipiche di chat, forum e blog.

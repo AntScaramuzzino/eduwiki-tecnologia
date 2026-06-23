@@ -14,6 +14,8 @@ ultima_revisione: 2026-06-22
 
 Il diritto d'autore è il complesso di norme che tutela chi crea un'opera originale (testo, immagine, musica, video, software): garantisce all'autore il riconoscimento della paternità e il diritto a un compenso per l'uso della propria opera. Una licenza d'uso è il documento che stabilisce a quali condizioni altri possono utilizzare quell'opera.
 
+![Copyright](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/langit-330px-Copyright.svg.png)
+*📖 diritto d'autore nei paesi di common law · [Wikipedia](https://it.wikipedia.org/wiki/Copyright) · CC BY-SA*
 ## Spiegazione per docenti
 
 Quando si riproduce un testo, un'immagine, un suono o un video bisogna rispettare il diritto d'autore. La legge prevede che il creatore di un'opera abbia due diritti fondamentali: **vedersi riconosciuta la paternità dell'opera** (ad esempio, citando sempre l'autore quando si usa una foto) e **vedersi riconosciuto un giusto compenso** per lo sfruttamento della sua opera.
