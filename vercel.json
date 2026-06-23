@@ -1,6 +1,7 @@
 {
   "buildCommand": "npx quartz build",
   "outputDirectory": "public",
-  "installCommand": "npm install",
-  "framework": null
+  "installCommand": "npm install --legacy-peer-deps",
+  "framework": null,
+  "regions": ["fra1"]
 }
