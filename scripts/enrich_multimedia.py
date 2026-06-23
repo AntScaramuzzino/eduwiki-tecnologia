@@ -91,7 +91,7 @@ WIKI_OVERRIDE = {
     "il-mondo-del-lavoro":                 "Mercato del lavoro",
     # Agricoltura / Alimentazione
     "agricoltura-sostenibile-e-biologica": "Agricoltura biologica",
-    "alimentazione-equilibrata-e-piramide-alimentare": "Piramide alimentare",
+    "alimentazione-equilibrata-e-piramide-alimentare": "Dieta mediterranea",
     "alimenti-da-fermentazione-vino-birra-olio": "Fermentazione",
     "allevamento-e-zootecnia":             "Zootecnia",
     "carne-pesce-e-uova":                  "Carne",

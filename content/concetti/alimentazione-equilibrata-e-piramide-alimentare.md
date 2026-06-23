@@ -143,6 +143,5 @@ Rubrica per l'attività sulla piramide alimentare (collocazione degli alimenti, 
 
 ## Risorse multimediali
 
-
-![Catena alimentare](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chesapeake_Waterbird_Food_Web.jpg/640px-Chesapeake_Waterbird_Food_Web.jpg)
-*📖 insieme dei rapporti tra gli organismi di un ecosistema · [Wikipedia](https://it.wikipedia.org/wiki/Catena_alimentare) · CC BY-SA*
+![Dieta mediterranea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/640px-DIETA_MEDITERRANEA_ITALIA.JPG)
+*📖 modello nutrizionale · [Wikipedia](https://it.wikipedia.org/wiki/Dieta_mediterranea) · CC BY-SA*
