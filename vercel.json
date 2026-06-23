@@ -3,5 +3,7 @@
   "outputDirectory": "public",
   "installCommand": "npm install",
   "framework": null,
-  "regions": ["fra1"]
+  "regions": ["fra1"],
+  "cleanUrls": true,
+  "trailingSlash": false
 }
