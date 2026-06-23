@@ -155,5 +155,5 @@ Tutti e tre usano **onde elettromagnetiche** (come la luce, ma diverse). Oggi tu
 ## Risorse multimediali
 
 
-![Televisione](https://upload.wikimedia.org/wikipedia/it/thumb/6/6c/Tele.JPG/640px-Tele.JPG)
+![Televisione](https://upload.wikimedia.org/wikipedia/it/thumb/6/6c/Tele.JPG/330px-Tele.JPG)
 *📖 mezzo di comunicazione di massa · [Wikipedia](https://it.wikipedia.org/wiki/Televisione) · CC BY-SA*

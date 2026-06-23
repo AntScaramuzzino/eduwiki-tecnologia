@@ -143,5 +143,6 @@ Rubrica per l'attività sulla piramide alimentare (collocazione degli alimenti, 
 
 ## Risorse multimediali
 
-![Dieta mediterranea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/640px-DIETA_MEDITERRANEA_ITALIA.JPG)
+
+![Dieta mediterranea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/330px-DIETA_MEDITERRANEA_ITALIA.JPG)
 *📖 modello nutrizionale · [Wikipedia](https://it.wikipedia.org/wiki/Dieta_mediterranea) · CC BY-SA*

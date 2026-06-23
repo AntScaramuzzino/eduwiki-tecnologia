@@ -204,5 +204,5 @@ A gruppi, gli studenti progettano una missione spaziale fittizia: scelgono la de
 ## Risorse multimediali
 
 
-![Esplorazione spaziale](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vostok1_descent_module.jpg/640px-Vostok1_descent_module.jpg)
+![Esplorazione spaziale](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vostok1_descent_module.jpg/330px-Vostok1_descent_module.jpg)
 *📖 viaggi nello spazio di strumenti tecnologici e dell'uomo · [Wikipedia](https://it.wikipedia.org/wiki/Esplorazione_spaziale) · CC BY-SA*

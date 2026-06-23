@@ -161,5 +161,5 @@ Approfondimenti in [[inclusione-disegno-tecnico]].
 ## Risorse multimediali
 
 
-![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/640px-Wright_brothers_patent_plans_1908.jpg)
+![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/330px-Wright_brothers_patent_plans_1908.jpg)
 *📖 forma di apprendimento visiva tra addetti ai lavori · [Wikipedia](https://it.wikipedia.org/wiki/Disegno_tecnico) · CC BY-SA*

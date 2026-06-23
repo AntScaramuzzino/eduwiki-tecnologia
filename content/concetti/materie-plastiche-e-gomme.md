@@ -141,5 +141,5 @@ La valutazione combina prova scritta (lessico e classificazione), prodotto dell'
 ## Risorse multimediali
 
 
-![Materie plastiche](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Plastic_household_items.jpg/640px-Plastic_household_items.jpg)
+![Materie plastiche](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Plastic_household_items.jpg/330px-Plastic_household_items.jpg)
 *📖 materiale artificiale con struttura macromolecolare · [Wikipedia](https://it.wikipedia.org/wiki/Materie_plastiche) · CC BY-SA*

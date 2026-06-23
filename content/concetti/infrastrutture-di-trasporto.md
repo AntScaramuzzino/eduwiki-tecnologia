@@ -213,5 +213,5 @@ No. I nodi intermodali riguardano anche i passeggeri: ogni volta che si scende d
 ## Risorse multimediali
 
 
-![Infrastruttura](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ponte_all%27Indiano_7.JPG/640px-Ponte_all%27Indiano_7.JPG)
+![Infrastruttura](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ponte_all%27Indiano_7.JPG/330px-Ponte_all%27Indiano_7.JPG)
 *📖 serie di elementi che compongono o collegano i vari componenti di una struttura · [Wikipedia](https://it.wikipedia.org/wiki/Infrastruttura) · CC BY-SA*

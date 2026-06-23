@@ -110,5 +110,5 @@ Le parti marcate **(proposta progettuale)** (esperimento del palloncino, intervi
 ## Risorse multimediali
 
 
-![Pane](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Assorted_bread.jpg/640px-Assorted_bread.jpg)
+![Pane](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Assorted_bread.jpg/330px-Assorted_bread.jpg)
 *📖 alimento a base di farina di cereali e acqua · [Wikipedia](https://it.wikipedia.org/wiki/Pane) · CC BY-SA*

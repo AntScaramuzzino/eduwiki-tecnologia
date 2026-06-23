@@ -141,5 +141,5 @@ Le sezioni "Dal concetto all'attività", "Strumenti digitali utili" e le voci ma
 ## Risorse multimediali
 
 
-![Vetro](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Uniformity.jpg/640px-Uniformity.jpg)
+![Vetro](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Uniformity.jpg/330px-Uniformity.jpg)
 *📖 materiali ottenuti tramite la solidificazione di un liquido non accompagnata da cristallizzazione · [Wikipedia](https://it.wikipedia.org/wiki/Vetro) · CC BY-SA*

@@ -149,5 +149,5 @@ Nota: le definizioni e gli esempi delle sezioni "Spiegazione" derivano dai testi
 ## Risorse multimediali
 
 
-![Tecnologia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/640px-Dampfturbine_Montage01.jpg)
+![Tecnologia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/330px-Dampfturbine_Montage01.jpg)
 *📖 studio e utilizzo di tecniche, procedimenti e conoscenze tecnico-scientifiche per la soluzione di problemi pratici · [Wikipedia](https://it.wikipedia.org/wiki/Tecnologia) · CC BY-SA*

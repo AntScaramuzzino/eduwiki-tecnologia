@@ -173,7 +173,7 @@ Collegamento: [[inclusione-coding-robotica]].
 ## Risorse multimediali
 
 
-![Pensiero computazionale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Computational_Thinking_Process.jpg/640px-The_Computational_Thinking_Process.jpg)
+![Pensiero computazionale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Computational_Thinking_Process.jpg/330px-The_Computational_Thinking_Process.jpg)
 *📖 Pensiero computazionale · [Wikipedia](https://it.wikipedia.org/wiki/Pensiero_computazionale) · CC BY-SA*
 
 [![▶ La robotica educativa e il pensiero computazionale](https://img.youtube.com/vi/pzg1-UpMypA/hqdefault.jpg)](https://www.youtube.com/watch?v=pzg1-UpMypA)

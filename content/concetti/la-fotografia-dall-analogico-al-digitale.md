@@ -160,5 +160,5 @@ Le sezioni "Esempio concreto in classe", "Dal concetto all'attività", "Strument
 ## Risorse multimediali
 
 
-![Fotografia digitale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SF-ggbridge-retouch.gif/640px-SF-ggbridge-retouch.gif)
+![Fotografia digitale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SF-ggbridge-retouch.gif/330px-SF-ggbridge-retouch.gif)
 *📖 procedimento per l'acquisizione di immagini statiche · [Wikipedia](https://it.wikipedia.org/wiki/Fotografia_digitale) · CC BY-SA*

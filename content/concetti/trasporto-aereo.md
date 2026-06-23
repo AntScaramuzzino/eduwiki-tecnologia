@@ -223,5 +223,5 @@ In gruppi da 3-4, gli studenti progettano e costruiscono un profilo alare in car
 ## Risorse multimediali
 
 
-![Aviazione](https://upload.wikimedia.org/wikipedia/it/thumb/2/2f/Patchwork_Aviazione.JPG/640px-Patchwork_Aviazione.JPG)
+![Aviazione](https://upload.wikimedia.org/wikipedia/it/thumb/2/2f/Patchwork_Aviazione.JPG/330px-Patchwork_Aviazione.JPG)
 *📖 insieme di attività che coinvolgono qualsiasi tipo di apparecchio adatto al volo · [Wikipedia](https://it.wikipedia.org/wiki/Aviazione) · CC BY-SA*

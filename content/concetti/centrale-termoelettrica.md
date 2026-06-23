@@ -166,5 +166,5 @@ Le sezioni didattiche (attività per livelli, parte della rubrica, strumenti dig
 ## Risorse multimediali
 
 
-![Centrale termoelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg/640px-Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg)
+![Centrale termoelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg/330px-Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg)
 *📖 impianto che genera elettricità trasformando calore · [Wikipedia](https://it.wikipedia.org/wiki/Centrale_termoelettrica) · CC BY-SA*

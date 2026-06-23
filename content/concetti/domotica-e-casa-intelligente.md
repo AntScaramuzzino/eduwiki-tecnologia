@@ -134,5 +134,5 @@ Le parti marcate **(proposta progettuale)** (prototipo con micro:bit/Arduino, di
 ## Risorse multimediali
 
 
-![Domotica](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Exemples_Domotique.jpg/640px-Exemples_Domotique.jpg)
+![Domotica](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Exemples_Domotique.jpg/330px-Exemples_Domotique.jpg)
 *📖 L'applicazione dell'informatica e dell'elettronica alla gestione dell'abitazione. · [Wikipedia](https://it.wikipedia.org/wiki/Domotica) · CC BY-SA*

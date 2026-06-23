@@ -124,5 +124,5 @@ Ricerca a gruppi sul ciclo di vita e la sostenibilità dei materiali da costruzi
 ## Risorse multimediali
 
 
-![Calcestruzzo armato](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RebarCloseup.jpg/640px-RebarCloseup.jpg)
+![Calcestruzzo armato](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RebarCloseup.jpg/330px-RebarCloseup.jpg)
 *📖 materiale composito da costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Calcestruzzo_armato) · CC BY-SA*

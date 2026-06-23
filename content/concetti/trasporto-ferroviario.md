@@ -185,5 +185,5 @@ Le sezioni "Livello avanzato", "Strumenti digitali utili" (voci con proposta pro
 ## Risorse multimediali
 
 
-![Trasporto ferroviario](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Baghdad_Railway_2-6-0T_%2846429334021%29.jpg/640px-Baghdad_Railway_2-6-0T_%2846429334021%29.jpg)
+![Trasporto ferroviario](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Baghdad_Railway_2-6-0T_%2846429334021%29.jpg/330px-Baghdad_Railway_2-6-0T_%2846429334021%29.jpg)
 *📖 spostamento di persone e/o cose da un luogo a un altro, per mezzo di treni · [Wikipedia](https://it.wikipedia.org/wiki/Trasporto_ferroviario) · CC BY-SA*

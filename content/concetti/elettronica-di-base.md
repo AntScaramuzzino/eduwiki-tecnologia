@@ -150,5 +150,5 @@ Oggetto di valutazione: riconoscere i componenti e la loro funzione, distinguere
 ## Risorse multimediali
 
 
-![Elettronica](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arduino_ftdi_chip-1.jpg/640px-Arduino_ftdi_chip-1.jpg)
+![Elettronica](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arduino_ftdi_chip-1.jpg/330px-Arduino_ftdi_chip-1.jpg)
 *📖 ramo della scienza e della tecnica · [Wikipedia](https://it.wikipedia.org/wiki/Elettronica) · CC BY-SA*

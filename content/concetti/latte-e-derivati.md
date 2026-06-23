@@ -161,5 +161,5 @@ I contenuti su lavorazione, trattamenti termici e derivati sono tratti dai testi
 ## Risorse multimediali
 
 
-![Latte](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/640px-Milk_glass.jpg)
+![Latte](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/330px-Milk_glass.jpg)
 *📖 liquido secreto dalla ghiandola mammaria delle femmine dei mammiferi · [Wikipedia](https://it.wikipedia.org/wiki/Latte) · CC BY-SA*

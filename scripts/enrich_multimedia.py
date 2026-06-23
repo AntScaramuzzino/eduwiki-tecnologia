@@ -179,8 +179,6 @@ def get_wiki_info(raw_title, slug=None):
                     thumb = d.get("thumbnail")
                     if thumb:
                         src = thumb["source"]
-                        # Aumenta risoluzione: 320px → 640px
-                        src = re.sub(r'/(\d+)px-', '/640px-', src)
                         return {
                             "src":     src,
                             "caption": d.get("description", ""),

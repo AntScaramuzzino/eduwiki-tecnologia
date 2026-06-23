@@ -186,5 +186,5 @@ Rubrica di valutazione del concetto (4 livelli):
 ## Risorse multimediali
 
 
-![Combustibile fossile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Combustibili_fossili.png/640px-Combustibili_fossili.png)
+![Combustibile fossile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Combustibili_fossili.png/330px-Combustibili_fossili.png)
 *📖 combustibili derivanti dalla trasformazione di sostanze organiche avvenuta nel corso di milioni di anni · [Wikipedia](https://it.wikipedia.org/wiki/Combustibile_fossile) · CC BY-SA*

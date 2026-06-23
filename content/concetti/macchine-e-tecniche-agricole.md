@@ -137,5 +137,5 @@ Contenuto basato sui testi reali. Le parti marcate **(proposta progettuale)** (f
 ## Risorse multimediali
 
 
-![Macchina agricola](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Agricultural_machinery.jpg/640px-Agricultural_machinery.jpg)
+![Macchina agricola](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Agricultural_machinery.jpg/330px-Agricultural_machinery.jpg)
 *📖 macchina o un meccanismo costruiti per svolgere uno o più lavori agricoli · [Wikipedia](https://it.wikipedia.org/wiki/Macchina_agricola) · CC BY-SA*

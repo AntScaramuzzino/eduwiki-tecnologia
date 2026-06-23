@@ -230,5 +230,5 @@ Si discute: chi guadagna di più? Che rischi corre la banca? Cosa succede se l'i
 ## Risorse multimediali
 
 
-![Banca](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg/640px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg)
+![Banca](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg/330px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg)
 *📖 istituto finanziario · [Wikipedia](https://it.wikipedia.org/wiki/Banca) · CC BY-SA*

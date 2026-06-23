@@ -186,5 +186,5 @@ La distinzione segnale analogico/digitale si applica a qualsiasi tipo di informa
 ## Risorse multimediali
 
 
-![Analogico](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg/640px-Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg)
+![Analogico](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg/330px-Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg)
 *📖 sistema di rappresentazione di un segnale · [Wikipedia](https://it.wikipedia.org/wiki/Analogico) · CC BY-SA*

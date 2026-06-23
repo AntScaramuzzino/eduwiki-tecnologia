@@ -76,5 +76,5 @@ _— nessuna: contenuti da validare con fonti in `raw/` —_
 ## Risorse multimediali
 
 
-![Realtà aumentata](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wikitude3.jpg/640px-Wikitude3.jpg)
+![Realtà aumentata](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wikitude3.jpg/330px-Wikitude3.jpg)
 *📖 Realtà aumentata · [Wikipedia](https://it.wikipedia.org/wiki/Realt%C3%A0_aumentata) · CC BY-SA*

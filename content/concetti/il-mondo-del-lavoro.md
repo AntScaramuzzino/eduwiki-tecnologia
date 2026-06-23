@@ -199,5 +199,5 @@ Discussione finale: "Perché il contratto a tempo indeterminato offre maggiore s
 ## Risorse multimediali
 
 
-![Mercato del lavoro](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Job_Advertisement_Board_in_Shenzhen_-01.jpg/640px-Job_Advertisement_Board_in_Shenzhen_-01.jpg)
+![Mercato del lavoro](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Job_Advertisement_Board_in_Shenzhen_-01.jpg/330px-Job_Advertisement_Board_in_Shenzhen_-01.jpg)
 *📖 insieme della domanda e offerta di lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Mercato_del_lavoro) · CC BY-SA*

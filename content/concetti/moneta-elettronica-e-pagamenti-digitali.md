@@ -213,5 +213,5 @@ Le sezioni "Esempio concreto in classe", "Livello avanzato" e alcuni adattamenti
 ## Risorse multimediali
 
 
-![Denaro elettronico](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mooncard_carte_bancaire.jpg/640px-Mooncard_carte_bancaire.jpg)
+![Denaro elettronico](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mooncard_carte_bancaire.jpg/330px-Mooncard_carte_bancaire.jpg)
 *📖 Denaro elettronico · [Wikipedia](https://it.wikipedia.org/wiki/Denaro_elettronico) · CC BY-SA*

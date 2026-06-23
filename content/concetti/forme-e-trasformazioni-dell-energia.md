@@ -206,5 +206,5 @@ Le sezioni "Livello avanzato", parte degli strumenti digitali, alcune note inclu
 ## Risorse multimediali
 
 
-![Energia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg/640px-Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg)
+![Energia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg/330px-Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg)
 *📖 capacità di un corpo o di un sistema di compiere lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Energia) · CC BY-SA*

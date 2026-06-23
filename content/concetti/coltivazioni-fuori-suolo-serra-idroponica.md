@@ -111,5 +111,5 @@ Le sezioni "Dal concetto all'attività" (livello avanzato), parte degli "Strumen
 ## Risorse multimediali
 
 
-![Idroponica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg/640px-Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg)
+![Idroponica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg/330px-Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg)
 *📖 tecnica di coltivazione fuori dal suolo · [Wikipedia](https://it.wikipedia.org/wiki/Idroponica) · CC BY-SA*

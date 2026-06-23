@@ -120,5 +120,5 @@ Gli studenti realizzano un **dossier comparativo** tra ceramica tradizionale e c
 ## Risorse multimediali
 
 
-![Ceramica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chinese_-_Storage_Jar_-_Walters_492392.jpg/640px-Chinese_-_Storage_Jar_-_Walters_492392.jpg)
+![Ceramica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chinese_-_Storage_Jar_-_Walters_492392.jpg/330px-Chinese_-_Storage_Jar_-_Walters_492392.jpg)
 *📖 materiale inorganico non metallico · [Wikipedia](https://it.wikipedia.org/wiki/Ceramica) · CC BY-SA*

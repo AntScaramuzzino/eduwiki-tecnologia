@@ -149,5 +149,5 @@ Approfondimenti: vedi **[[inclusione-coding-robotica]]**.
 ## Risorse multimediali
 
 
-![Linguaggio di programmazione visuale](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Add_all_numbers_block.png/640px-Add_all_numbers_block.png)
+![Linguaggio di programmazione visuale](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Add_all_numbers_block.png/330px-Add_all_numbers_block.png)
 *📖 Linguaggio di programmazione visuale · [Wikipedia](https://it.wikipedia.org/wiki/Linguaggio_di_programmazione_visuale) · CC BY-SA*

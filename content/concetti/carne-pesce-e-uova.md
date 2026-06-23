@@ -136,5 +136,5 @@ I contenuti su carne, salumi, pesca, conservazione del pesce e uova sono ripresi
 ## Risorse multimediali
 
 
-![Carne](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FoodMeat.jpg/640px-FoodMeat.jpg)
+![Carne](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FoodMeat.jpg/330px-FoodMeat.jpg)
 *📖 parte commestibile degli animali · [Wikipedia](https://it.wikipedia.org/wiki/Carne) · CC BY-SA*

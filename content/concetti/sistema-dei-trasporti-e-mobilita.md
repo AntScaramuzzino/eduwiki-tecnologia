@@ -172,5 +172,5 @@ Le parti marcate **(proposta progettuale)** non derivano direttamente dai testi 
 ## Risorse multimediali
 
 
-![Ingegneria dei trasporti](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Baghdad_Railway_2-6-0T_%2846429334021%29.jpg/640px-Baghdad_Railway_2-6-0T_%2846429334021%29.jpg)
+![Ingegneria dei trasporti](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Baghdad_Railway_2-6-0T_%2846429334021%29.jpg/330px-Baghdad_Railway_2-6-0T_%2846429334021%29.jpg)
 *📖 Ingegneria dei trasporti · [Wikipedia](https://it.wikipedia.org/wiki/Ingegneria_dei_trasporti) · CC BY-SA*

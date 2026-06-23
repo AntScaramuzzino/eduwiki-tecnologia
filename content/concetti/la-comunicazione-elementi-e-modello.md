@@ -209,5 +209,5 @@ Gli studenti scelgono un post virale o una notizia online e analizzano: chi è l
 ## Risorse multimediali
 
 
-![Comunicazione](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stephen_Avenue_3.jpg/640px-Stephen_Avenue_3.jpg)
+![Comunicazione](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stephen_Avenue_3.jpg/330px-Stephen_Avenue_3.jpg)
 *📖 insieme dei fenomeni che comportano il trasferimento di informazioni · [Wikipedia](https://it.wikipedia.org/wiki/Comunicazione) · CC BY-SA*

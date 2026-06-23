@@ -198,5 +198,5 @@ Le sezioni segnalate come **(proposta progettuale)** sono integrazioni didattich
 ## Risorse multimediali
 
 
-![Impianto elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fuse_box_with_overlimited_circuit_breakers.JPG/640px-Fuse_box_with_overlimited_circuit_breakers.JPG)
+![Impianto elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fuse_box_with_overlimited_circuit_breakers.JPG/330px-Fuse_box_with_overlimited_circuit_breakers.JPG)
 *📖 impianto elettrico della casa o degli uffici vari · [Wikipedia](https://it.wikipedia.org/wiki/Impianto_elettrico) · CC BY-SA*

@@ -139,5 +139,5 @@ Gli studenti conducono una **piccola indagine sul territorio** **(proposta proge
 ## Risorse multimediali
 
 
-![Inquinamento](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/640px-Pollution_in_Mankweng.jpg)
+![Inquinamento](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/330px-Pollution_in_Mankweng.jpg)
 *📖 alterazione o contaminazione di un qualsiasi materiale o ambiente ad opera di agenti inorganici od organici · [Wikipedia](https://it.wikipedia.org/wiki/Inquinamento) · CC BY-SA*

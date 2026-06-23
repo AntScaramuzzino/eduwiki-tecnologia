@@ -122,5 +122,5 @@ Adattamenti come **(proposta progettuale)**, coerenti con i criteri UDL del wiki
 ## Risorse multimediali
 
 
-![Elaborazione digitale delle immagini](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Retoqueacne.jpg/640px-Retoqueacne.jpg)
+![Elaborazione digitale delle immagini](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Retoqueacne.jpg/330px-Retoqueacne.jpg)
 *📖 attività che permette di modificare un'immagine digitale · [Wikipedia](https://it.wikipedia.org/wiki/Elaborazione_digitale_delle_immagini) · CC BY-SA*

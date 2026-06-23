@@ -142,5 +142,5 @@ Nota: il corpo descrittivo della pagina (definizione, spiegazioni, misconcezioni
 ## Risorse multimediali
 
 
-![Arco (architettura)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palazzo_Te_Mantova_2.jpg/640px-Palazzo_Te_Mantova_2.jpg)
+![Arco (architettura)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palazzo_Te_Mantova_2.jpg/330px-Palazzo_Te_Mantova_2.jpg)
 *📖 elemento strutturale e decorativo curvilineo poggiante su due piedritti · [Wikipedia](https://it.wikipedia.org/wiki/Arco_(architettura)) · CC BY-SA*

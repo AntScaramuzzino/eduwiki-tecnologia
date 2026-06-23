@@ -170,5 +170,5 @@ Le sezioni didattico-operative (attività, strumenti digitali, inclusione) sono 
 ## Risorse multimediali
 
 
-![Energia idroelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/640px-ThreeGorgesDam-China2009.jpg)
+![Energia idroelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/330px-ThreeGorgesDam-China2009.jpg)
 *📖 elettricità generata dall'energia idroelettrica · [Wikipedia](https://it.wikipedia.org/wiki/Energia_idroelettrica) · CC BY-SA*

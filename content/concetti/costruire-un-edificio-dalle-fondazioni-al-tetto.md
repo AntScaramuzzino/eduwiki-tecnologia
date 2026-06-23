@@ -151,5 +151,5 @@ Le sezioni didattiche operative (attività, alcuni strumenti digitali, parti del
 ## Risorse multimediali
 
 
-![Edilizia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Construction_site_in_Cologne%2C_Germany_%282017%29.jpg/640px-Construction_site_in_Cologne%2C_Germany_%282017%29.jpg)
+![Edilizia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Construction_site_in_Cologne%2C_Germany_%282017%29.jpg/330px-Construction_site_in_Cologne%2C_Germany_%282017%29.jpg)
 *📖 processo di progettazione e realizzazione di una costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Edilizia) · CC BY-SA*

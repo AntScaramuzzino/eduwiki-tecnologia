@@ -239,5 +239,5 @@ Gli studenti analizzano i rifiuti prodotti dalla scuola (carta, plastica, cibo) 
 ## Risorse multimediali
 
 
-![Globalizzazione](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/World-airline-routemap-2009.png/640px-World-airline-routemap-2009.png)
+![Globalizzazione](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/World-airline-routemap-2009.png/330px-World-airline-routemap-2009.png)
 *📖 fenomeno di crescente interdipendenza delle economie e dei mercati internazionali · [Wikipedia](https://it.wikipedia.org/wiki/Globalizzazione) · CC BY-SA*

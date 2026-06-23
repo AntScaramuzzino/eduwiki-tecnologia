@@ -153,5 +153,5 @@ Le sezioni didattiche (esempio in classe, attività per livelli, alcune misconce
 ## Risorse multimediali
 
 
-![Urbanistica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Partizanske4.jpg/640px-Partizanske4.jpg)
+![Urbanistica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Partizanske4.jpg/330px-Partizanske4.jpg)
 *📖 disciplina che progetta e pianifica l'utilizzo dello spazio urbano · [Wikipedia](https://it.wikipedia.org/wiki/Urbanistica) · CC BY-SA*

@@ -123,5 +123,5 @@ Le definizioni e gli esempi di base sono tratti dai testi. Le sezioni didattiche
 ## Risorse multimediali
 
 
-![Risorsa rinnovabile](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bio-K_Blister_CG.jpg/640px-Bio-K_Blister_CG.jpg)
+![Risorsa rinnovabile](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bio-K_Blister_CG.jpg/330px-Bio-K_Blister_CG.jpg)
 *📖 risorsa naturale che si rigenera nella scala dei tempi umana · [Wikipedia](https://it.wikipedia.org/wiki/Risorsa_rinnovabile) · CC BY-SA*

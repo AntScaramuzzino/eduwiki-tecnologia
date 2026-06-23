@@ -244,5 +244,5 @@ Nota: le sezioni "## Esempio concreto in classe", "## Dal concetto all'attività
 ## Risorse multimediali
 
 
-![Ingranaggio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gears_large.jpg/640px-Gears_large.jpg)
+![Ingranaggio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gears_large.jpg/330px-Gears_large.jpg)
 *📖 meccanismo per trasmettere movimento · [Wikipedia](https://it.wikipedia.org/wiki/Ingranaggio) · CC BY-SA*

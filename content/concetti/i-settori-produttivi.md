@@ -229,5 +229,5 @@ No. Il "terzo settore" è il mondo del no profit (cooperative sociali, associazi
 ## Risorse multimediali
 
 
-![Settore economico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Clark%27s_Sector_Model.png/640px-Clark%27s_Sector_Model.png)
+![Settore economico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Clark%27s_Sector_Model.png/330px-Clark%27s_Sector_Model.png)
 *📖 raggruppamento concettualmente molto largo di imprese · [Wikipedia](https://it.wikipedia.org/wiki/Settore_economico) · CC BY-SA*

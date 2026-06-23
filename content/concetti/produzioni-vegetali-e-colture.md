@@ -116,5 +116,5 @@ Gli studenti progettano un **piano di rotazione triennale** per un campo immagin
 ## Risorse multimediali
 
 
-![Cereali](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Various_grains.jpg/640px-Various_grains.jpg)
+![Cereali](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Various_grains.jpg/330px-Various_grains.jpg)
 *📖 pianta erbacea con frutti da cui si può trarre farina · [Wikipedia](https://it.wikipedia.org/wiki/Cereali) · CC BY-SA*

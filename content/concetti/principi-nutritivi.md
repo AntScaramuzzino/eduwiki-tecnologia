@@ -132,5 +132,5 @@ Le sezioni didattiche (esempio in classe, attività per livelli, rubrica, inclus
 ## Risorse multimediali
 
 
-![Principi nutritivi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diaetetische_LM_DE.jpg/640px-Diaetetische_LM_DE.jpg)
+![Principi nutritivi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diaetetische_LM_DE.jpg/330px-Diaetetische_LM_DE.jpg)
 *📖 Principi nutritivi · [Wikipedia](https://it.wikipedia.org/wiki/Principi_nutritivi) · CC BY-SA*

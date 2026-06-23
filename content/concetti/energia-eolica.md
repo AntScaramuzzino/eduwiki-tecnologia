@@ -241,7 +241,7 @@ Contro: se non c'è vento, non funziona.
 ## Risorse multimediali
 
 
-![Energia eolica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Centrale_Eolica_Frigento.jpg/640px-Centrale_Eolica_Frigento.jpg)
+![Energia eolica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Centrale_Eolica_Frigento.jpg/330px-Centrale_Eolica_Frigento.jpg)
 *📖 energia proveniente dal vento · [Wikipedia](https://it.wikipedia.org/wiki/Energia_eolica) · CC BY-SA*
 
 [![▶ Cosa sono le turbine eoliche](https://img.youtube.com/vi/y7wD5uajZBI/hqdefault.jpg)](https://www.youtube.com/watch?v=y7wD5uajZBI)

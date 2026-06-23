@@ -225,5 +225,5 @@ Gli studenti confrontano le due tecnologie su una tabella a doppia entrata (font
 ## Risorse multimediali
 
 
-![Automobile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/De_Dion_stoomdriewieler.GIF/640px-De_Dion_stoomdriewieler.GIF)
+![Automobile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/De_Dion_stoomdriewieler.GIF/330px-De_Dion_stoomdriewieler.GIF)
 *📖 veicolo · [Wikipedia](https://it.wikipedia.org/wiki/Automobile) · CC BY-SA*
