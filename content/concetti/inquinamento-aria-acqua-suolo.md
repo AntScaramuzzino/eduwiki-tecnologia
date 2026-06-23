@@ -138,7 +138,6 @@ Gli studenti conducono una **piccola indagine sul territorio** **(proposta proge
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/640px-Pollution_in_Mankweng.jpg" alt="Inquinamento" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">alterazione o contaminazione di un qualsiasi materiale o ambiente ad opera di agenti inorganici od organici · <a href="https://it.wikipedia.org/wiki/Inquinamento" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Inquinamento](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/640px-Pollution_in_Mankweng.jpg)
+*📖 alterazione o contaminazione di un qualsiasi materiale o ambiente ad opera di agenti inorganici od organici · [Wikipedia](https://it.wikipedia.org/wiki/Inquinamento) · CC BY-SA*

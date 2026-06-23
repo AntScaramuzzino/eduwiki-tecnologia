@@ -121,7 +121,6 @@ Adattamenti come **(proposta progettuale)**, coerenti con i criteri UDL del wiki
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Retoqueacne.jpg/640px-Retoqueacne.jpg" alt="Elaborazione digitale delle immagini" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">attività che permette di modificare un'immagine digitale · <a href="https://it.wikipedia.org/wiki/Elaborazione_digitale_delle_immagini" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Elaborazione digitale delle immagini](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Retoqueacne.jpg/640px-Retoqueacne.jpg)
+*📖 attività che permette di modificare un'immagine digitale · [Wikipedia](https://it.wikipedia.org/wiki/Elaborazione_digitale_delle_immagini) · CC BY-SA*

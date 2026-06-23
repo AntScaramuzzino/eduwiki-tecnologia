@@ -237,7 +237,6 @@ Obiettivo: applicare il calcolo del piano inclinato a un problema reale di proge
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piano_inclinato.svg/langit-330px-Piano_inclinato.svg.png" alt="Piano inclinato" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">tipo di macchina semplice · <a href="https://it.wikipedia.org/wiki/Piano_inclinato" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Piano inclinato](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piano_inclinato.svg/langit-330px-Piano_inclinato.svg.png)
+*📖 tipo di macchina semplice · [Wikipedia](https://it.wikipedia.org/wiki/Piano_inclinato) · CC BY-SA*

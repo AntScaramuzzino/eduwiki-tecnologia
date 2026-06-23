@@ -155,7 +155,6 @@ Gli studenti conducono un'indagine "biologico vs convenzionale": raccolgono 4-5 
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Organic-vegetable-cultivation.jpeg/640px-Organic-vegetable-cultivation.jpeg" alt="Agricoltura biologica" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">metodi di produzione che consentano una produzione primaria rispettosa dell'ambiente · <a href="https://it.wikipedia.org/wiki/Agricoltura_biologica" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Agricoltura biologica](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Organic-vegetable-cultivation.jpeg/640px-Organic-vegetable-cultivation.jpeg)
+*📖 metodi di produzione che consentano una produzione primaria rispettosa dell'ambiente · [Wikipedia](https://it.wikipedia.org/wiki/Agricoltura_biologica) · CC BY-SA*

@@ -8,8 +8,9 @@ YouTube: video curati (Geopop e fonti autorevoli italiane).
 import json, re, time, urllib.request, urllib.parse
 from pathlib import Path
 
-CONTENT = Path("/Users/antonioscaramuzzino/Projects/eduwiki-tecnologia/content/concetti")
-MARKER  = "## Risorse multimediali"
+CONTENT_QUARTZ  = Path("/Users/antonioscaramuzzino/Projects/eduwiki-tecnologia/content/concetti")
+CONTENT_OBSIDIAN = Path("/Users/antonioscaramuzzino/Library/CloudStorage/GoogleDrive-antonio.scaramuzzino@coopinrete.it/Il mio Drive/Antonio Scaramuzzino/Brain Tecnologia/eduwiki-llm/wiki/02-concetti")
+MARKER = "## Risorse multimediali"
 
 # ── Wikipedia override: slug → titolo articolo it.wikipedia.org ──────────────
 WIKI_OVERRIDE = {
@@ -191,63 +192,61 @@ def get_wiki_info(raw_title, slug=None):
         time.sleep(0.15)
     return None
 
-# ── HTML builder ──────────────────────────────────────────────────────────────
+# ── Markdown builder (compatibile Obsidian + Quartz) ─────────────────────────
+# Usa Markdown puro: niente <iframe> (bloccati in Obsidian),
+# niente HTML inline non necessario. Le immagini YouTube diventano
+# thumbnail cliccabili che aprono il video su YouTube.
 
-def html_wiki(info):
-    caption_parts = []
-    if info["caption"]:
-        caption_parts.append(info["caption"])
-    if info["wiki"]:
-        caption_parts.append(f'<a href="{info["wiki"]}" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA')
-    caption = " · ".join(caption_parts) if caption_parts else "Wikipedia · CC BY-SA"
-    return f"""<figure style="margin:16px 0;text-align:center">
-  <img src="{info['src']}" alt="{info['title']}" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">{caption}</figcaption>
-</figure>"""
+def md_wiki(info):
+    desc  = info["caption"] if info["caption"] else info["title"]
+    wikil = f"[Wikipedia]({info['wiki']})" if info["wiki"] else "Wikipedia"
+    return f"![{info['title']}]({info['src']})\n*📖 {desc} · {wikil} · CC BY-SA*"
 
-def html_yt(video_id, title, channel):
-    return f"""<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"
-    src="https://www.youtube-nocookie.com/embed/{video_id}"
-    title="{title}" frameborder="0"
-    allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
-    allowfullscreen></iframe>
-</div>
-<p style="font-size:12px;color:#64748b;margin:4px 0 16px">📺 <em>{title}</em> · {channel}</p>"""
+def md_yt(video_id, title, channel):
+    thumb = f"https://img.youtube.com/vi/{video_id}/hqdefault.jpg"
+    url   = f"https://www.youtube.com/watch?v={video_id}"
+    return f"[![▶ {title}]({thumb})]({url})\n*📺 {title} · {channel}*"
 
 def build_section(wiki_info, yt_tuple):
     parts = [f"\n\n{MARKER}\n"]
     if wiki_info:
-        parts.append(html_wiki(wiki_info))
+        parts.append(md_wiki(wiki_info))
     if yt_tuple:
         vid, title, ch = yt_tuple
-        parts.append(html_yt(vid, title, ch))
-    return "\n".join(parts) + "\n"
+        parts.append(md_yt(vid, title, ch))
+    return "\n\n".join(parts) + "\n"
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
-updated = skipped = no_media = 0
+def process_folder(content_dir: Path, label: str):
+    updated = no_media = 0
+    for page in sorted(content_dir.glob("*.md")):
+        if page.name == "README.md":
+            continue
+        slug = page.stem
+        txt  = page.read_text(encoding="utf-8")
 
-for page in sorted(CONTENT.glob("*.md")):
-    slug = page.stem
-    txt  = page.read_text(encoding="utf-8")
+        # Rimuovi sezione multimediale precedente (idempotente)
+        txt_clean = re.sub(rf"\n\n{re.escape(MARKER)}.*", "", txt, flags=re.S)
 
-    # Rimuovi sezione multimediale precedente (idempotente)
-    txt_clean = re.sub(rf"\n\n{re.escape(MARKER)}.*", "", txt, flags=re.S)
+        h1   = extract_h1(txt_clean)
+        wiki = get_wiki_info(h1, slug) if h1 else None
+        yt   = YT_MAP.get(slug)
 
-    h1       = extract_h1(txt_clean)
-    wiki     = get_wiki_info(h1, slug) if h1 else None
-    yt       = YT_MAP.get(slug)
+        if not wiki and not yt:
+            no_media += 1
+            continue
 
-    if not wiki and not yt:
-        no_media += 1
-        continue
+        page.write_text(txt_clean + build_section(wiki, yt), encoding="utf-8")
+        parts = []
+        if wiki: parts.append(f"🖼 {wiki['title'][:35]}")
+        if yt:   parts.append(f"📺 {yt[0]}")
+        print(f"  OK  {slug:55s} {' + '.join(parts)}")
+        updated += 1
 
-    page.write_text(txt_clean + build_section(wiki, yt), encoding="utf-8")
-    parts = []
-    if wiki: parts.append(f"🖼 {wiki['title'][:35]}")
-    if yt:   parts.append(f"📺 {yt[0]}")
-    print(f"  OK  {slug:55s} {' + '.join(parts)}")
-    updated += 1
+    print(f"\n[{label}] ✓ Aggiornate: {updated}  ·  Senza media: {no_media}\n")
 
-print(f"\n✓ Aggiornate: {updated}  ·  Senza media: {no_media}")
+print("=== Quartz (content/concetti) ===")
+process_folder(CONTENT_QUARTZ, "Quartz")
+print("=== Obsidian (wiki/02-concetti) ===")
+process_folder(CONTENT_OBSIDIAN, "Obsidian")

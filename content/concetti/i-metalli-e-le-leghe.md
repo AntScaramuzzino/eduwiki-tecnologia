@@ -131,7 +131,6 @@ Il ciclo di vita dell'acciaio. Dividendo la classe in quattro gruppi (sul modell
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iron-Making.jpg/640px-Iron-Making.jpg" alt="Metallurgia" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">disciplina tecnica che riguarda essenzialmente lo studio dei metalli · <a href="https://it.wikipedia.org/wiki/Metallurgia" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Metallurgia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iron-Making.jpg/640px-Iron-Making.jpg)
+*📖 disciplina tecnica che riguarda essenzialmente lo studio dei metalli · [Wikipedia](https://it.wikipedia.org/wiki/Metallurgia) · CC BY-SA*

@@ -220,11 +220,6 @@ Gran parte delle sezioni "Esempio concreto in classe", "Dal concetto all'attivit
 
 ## Risorse multimediali
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:10px;margin:16px 0;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%"
-    src="https://www.youtube-nocookie.com/embed/WI9kdCnU3i0"
-    title="L'energia rinnovabile è davvero sostenibile?" frameborder="0"
-    allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
-    allowfullscreen></iframe>
-</div>
-<p style="font-size:12px;color:#64748b;margin:4px 0 16px">📺 <em>L'energia rinnovabile è davvero sostenibile?</em> · YouTube EDU</p>
+
+[![▶ L'energia rinnovabile è davvero sostenibile?](https://img.youtube.com/vi/WI9kdCnU3i0/hqdefault.jpg)](https://www.youtube.com/watch?v=WI9kdCnU3i0)
+*📺 L'energia rinnovabile è davvero sostenibile? · YouTube EDU*

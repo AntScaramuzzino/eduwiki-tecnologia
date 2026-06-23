@@ -137,7 +137,6 @@ Le sezioni operative (livelli di attività, strumenti digitali, rubriche, adatta
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bois.JPG/640px-Bois.JPG" alt="Legno" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">materiale ricavato dai fusti delle piante · <a href="https://it.wikipedia.org/wiki/Legno" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Legno](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bois.JPG/640px-Bois.JPG)
+*📖 materiale ricavato dai fusti delle piante · [Wikipedia](https://it.wikipedia.org/wiki/Legno) · CC BY-SA*

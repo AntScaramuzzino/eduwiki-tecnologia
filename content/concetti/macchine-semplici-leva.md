@@ -253,7 +253,6 @@ Il gruppo presenta il progetto con uno schizzo quotato e giustifica la scelta de
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Archimedes_lever_%28Small%29.jpg/640px-Archimedes_lever_%28Small%29.jpg" alt="Leva (fisica)" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">macchina semplice costituita da un'asta e un fulcro · <a href="https://it.wikipedia.org/wiki/Leva_(fisica)" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Leva (fisica)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Archimedes_lever_%28Small%29.jpg/640px-Archimedes_lever_%28Small%29.jpg)
+*📖 macchina semplice costituita da un'asta e un fulcro · [Wikipedia](https://it.wikipedia.org/wiki/Leva_(fisica)) · CC BY-SA*

@@ -141,7 +141,6 @@ Nota: il corpo descrittivo della pagina (definizione, spiegazioni, misconcezioni
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palazzo_Te_Mantova_2.jpg/640px-Palazzo_Te_Mantova_2.jpg" alt="Arco (architettura)" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">elemento strutturale e decorativo curvilineo poggiante su due piedritti · <a href="https://it.wikipedia.org/wiki/Arco_(architettura)" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Arco (architettura)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palazzo_Te_Mantova_2.jpg/640px-Palazzo_Te_Mantova_2.jpg)
+*📖 elemento strutturale e decorativo curvilineo poggiante su due piedritti · [Wikipedia](https://it.wikipedia.org/wiki/Arco_(architettura)) · CC BY-SA*

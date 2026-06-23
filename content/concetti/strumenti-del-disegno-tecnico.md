@@ -160,7 +160,6 @@ Approfondimenti in [[inclusione-disegno-tecnico]].
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/640px-Wright_brothers_patent_plans_1908.jpg" alt="Disegno tecnico" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">forma di apprendimento visiva tra addetti ai lavori · <a href="https://it.wikipedia.org/wiki/Disegno_tecnico" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/640px-Wright_brothers_patent_plans_1908.jpg)
+*📖 forma di apprendimento visiva tra addetti ai lavori · [Wikipedia](https://it.wikipedia.org/wiki/Disegno_tecnico) · CC BY-SA*

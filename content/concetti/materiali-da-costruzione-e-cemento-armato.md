@@ -123,7 +123,6 @@ Ricerca a gruppi sul ciclo di vita e la sostenibilità dei materiali da costruzi
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RebarCloseup.jpg/640px-RebarCloseup.jpg" alt="Calcestruzzo armato" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">materiale composito da costruzione · <a href="https://it.wikipedia.org/wiki/Calcestruzzo_armato" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Calcestruzzo armato](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RebarCloseup.jpg/640px-RebarCloseup.jpg)
+*📖 materiale composito da costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Calcestruzzo_armato) · CC BY-SA*

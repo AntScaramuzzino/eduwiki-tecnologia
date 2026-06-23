@@ -249,7 +249,6 @@ Le sezioni "Esempio concreto in classe" (parte finale), "Livello avanzato" e alc
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/640px-NesjavellirPowerPlant_edit2.jpg" alt="Energia geotermica" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">energia termica ottenibile da fonti geologiche · <a href="https://it.wikipedia.org/wiki/Energia_geotermica" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Energia geotermica](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/640px-NesjavellirPowerPlant_edit2.jpg)
+*📖 energia termica ottenibile da fonti geologiche · [Wikipedia](https://it.wikipedia.org/wiki/Energia_geotermica) · CC BY-SA*

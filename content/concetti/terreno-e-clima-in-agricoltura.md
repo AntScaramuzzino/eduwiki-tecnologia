@@ -128,7 +128,6 @@ Esperimento di osservazione su più settimane: tre semine identiche in tre terre
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Pedologo01.jpg" alt="Pedologia" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">studio dei suoli nel loro ambiente naturale · <a href="https://it.wikipedia.org/wiki/Pedologia" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Pedologia](https://upload.wikimedia.org/wikipedia/commons/9/90/Pedologo01.jpg)
+*📖 studio dei suoli nel loro ambiente naturale · [Wikipedia](https://it.wikipedia.org/wiki/Pedologia) · CC BY-SA*

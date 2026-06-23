@@ -132,7 +132,6 @@ Alcune parti di carattere didattico-operativo (strumenti digitali, alcune varian
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg/640px-Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg" alt="Raccolta differenziata" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">raccolta differenziata dei rifiuti, per favorirne il riciclo e lo smaltimento · <a href="https://it.wikipedia.org/wiki/Raccolta_differenziata" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Raccolta differenziata](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg/640px-Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg)
+*📖 raccolta differenziata dei rifiuti, per favorirne il riciclo e lo smaltimento · [Wikipedia](https://it.wikipedia.org/wiki/Raccolta_differenziata) · CC BY-SA*

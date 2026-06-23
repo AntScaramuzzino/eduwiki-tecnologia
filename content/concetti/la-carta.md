@@ -137,7 +137,6 @@ Le sezioni "Strumenti digitali utili" e la parte di debate in "Dal concetto all'
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Papier_-_various_papers_in_day.jpg/640px-Papier_-_various_papers_in_day.jpg" alt="Carta" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">materiale igroscopico, costituito da materie prime fibrose · <a href="https://it.wikipedia.org/wiki/Carta" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Carta](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Papier_-_various_papers_in_day.jpg/640px-Papier_-_various_papers_in_day.jpg)
+*📖 materiale igroscopico, costituito da materie prime fibrose · [Wikipedia](https://it.wikipedia.org/wiki/Carta) · CC BY-SA*

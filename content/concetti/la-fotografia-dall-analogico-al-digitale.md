@@ -159,7 +159,6 @@ Le sezioni "Esempio concreto in classe", "Dal concetto all'attività", "Strument
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SF-ggbridge-retouch.gif/640px-SF-ggbridge-retouch.gif" alt="Fotografia digitale" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">procedimento per l'acquisizione di immagini statiche · <a href="https://it.wikipedia.org/wiki/Fotografia_digitale" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Fotografia digitale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SF-ggbridge-retouch.gif/640px-SF-ggbridge-retouch.gif)
+*📖 procedimento per l'acquisizione di immagini statiche · [Wikipedia](https://it.wikipedia.org/wiki/Fotografia_digitale) · CC BY-SA*

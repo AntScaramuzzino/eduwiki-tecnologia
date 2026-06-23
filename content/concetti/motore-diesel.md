@@ -199,7 +199,6 @@ Le sezioni "Dal concetto all'attività" (livello intermedio e avanzato), "Strume
 
 ## Risorse multimediali
 
-<figure style="margin:16px 0;text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lumbar_patent_dieselengine.jpg/640px-Lumbar_patent_dieselengine.jpg" alt="Motore Diesel" style="max-width:100%;max-height:320px;border-radius:10px;object-fit:cover;box-shadow:0 2px 8px rgba(0,0,0,.12)">
-  <figcaption style="font-size:11px;color:#64748b;margin-top:6px">tipologia di motore a combustione interna · <a href="https://it.wikipedia.org/wiki/Motore_Diesel" target="_blank" style="color:#2563eb;text-decoration:none">Wikipedia</a> · CC BY-SA</figcaption>
-</figure>
+
+![Motore Diesel](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lumbar_patent_dieselengine.jpg/640px-Lumbar_patent_dieselengine.jpg)
+*📖 tipologia di motore a combustione interna · [Wikipedia](https://it.wikipedia.org/wiki/Motore_Diesel) · CC BY-SA*
