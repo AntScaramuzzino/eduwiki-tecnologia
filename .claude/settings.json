@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /Users/antonioscaramuzzino/Projects/eduwiki-tecnologia && npx --yes markdownlint-cli2 'content/concetti/*.md' 2>&1 | grep -E 'error|warning' | head -20 || true"
+          }
+        ]
+      }
+    ]
+  }
+}

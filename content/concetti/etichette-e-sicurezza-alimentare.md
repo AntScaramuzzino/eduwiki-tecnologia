@@ -66,7 +66,7 @@ L'etichetta è la carta d'identità del cibo: dice cosa contiene, da dove viene 
 
 Porta in aula (o chiedi agli studenti di portare) tre confezioni vuote e pulite: una merendina, un vasetto di yogurt e una bottiglia d'acqua o di succo. Proietta anche l'etichetta di una tavoletta di cioccolato fondente, come quella riportata dal testo *Futura*:
 
-> Ingredienti: Pasta di cacao*, zucchero di canna*, burro di cacao*, emulsionante: lecitina di soia*, estratto di vaniglia*. *Biologico. Può contenere tracce di frutta a guscio, latte e derivati. Senza glutine.
+> Ingredienti: Pasta di cacao*, zucchero di canna*, burro di cacao*, emulsionante: lecitina di soia*, estratto di vaniglia*. \*Biologico. Può contenere tracce di frutta a guscio, latte e derivati. Senza glutine.
 
 Chiedi alla classe di trovare, su ciascuna confezione: il primo ingrediente (quello più presente), gli allergeni, il tipo di scadenza ("entro" o "preferibilmente entro"), eventuali sigle E e i marchi di qualità. Si scopre subito, per esempio, che nel cioccolato il primo ingrediente è la pasta di cacao e che la lecitina di soia è un emulsionante. Il confronto rende visibile un'idea astratta: l'etichetta è uno strumento di scelta, non un dettaglio da ignorare.
 
