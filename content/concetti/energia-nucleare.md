@@ -237,6 +237,6 @@ Ogni gruppo prepara una posizione scritta (max 1 pagina) con argomenti tecnici, 
 ## Risorse multimediali
 
 <figure>
-<iframe src="https://www.youtube-nocookie.com/embed/o9AKgqvEI4E" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Fusione nucleare: la grande sfida tecnologica"></iframe>
-<figcaption>📺 Fusione nucleare: la grande sfida tecnologica · Geopop · <a href="https://www.youtube.com/watch?v=o9AKgqvEI4E" target="_blank">Guarda su YouTube</a></figcaption>
+<iframe src="https://www.youtube-nocookie.com/embed/o9AKgqvEI4E" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Fusione nucleare USA, perché sono tutti così eccitati per la scoperta?"></iframe>
+<figcaption>📺 Fusione nucleare USA, perché sono tutti così eccitati per la scoperta? · Geopop · <a href="https://www.youtube.com/watch?v=o9AKgqvEI4E" target="_blank">Guarda su YouTube</a></figcaption>
 </figure>

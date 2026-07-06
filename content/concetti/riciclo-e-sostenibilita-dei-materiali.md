@@ -154,6 +154,6 @@ Rubrica per l'attività sul ciclo di vita / indagine sulla raccolta differenziat
 ## Risorse multimediali
 
 <figure>
-<iframe src="https://www.youtube-nocookie.com/embed/hn09nndvpEI" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come viene riciclata la plastica"></iframe>
-<figcaption>📺 Come viene riciclata la plastica · YouTube EDU · <a href="https://www.youtube.com/watch?v=hn09nndvpEI" target="_blank">Guarda su YouTube</a></figcaption>
+<iframe src="https://www.youtube-nocookie.com/embed/1EoeGgrAtJ4" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riciclo della plastica"></iframe>
+<figcaption>📺 Il riciclo della plastica · CONAI · <a href="https://www.youtube.com/watch?v=1EoeGgrAtJ4" target="_blank">Guarda su YouTube</a></figcaption>
 </figure>

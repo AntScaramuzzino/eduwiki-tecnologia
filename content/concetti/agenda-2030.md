@@ -147,6 +147,6 @@ A gruppi, gli studenti scelgono un obiettivo e ne studiano almeno un **target** 
 ## Risorse multimediali
 
 <figure>
-<iframe src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riscaldamento globale: le cause"></iframe>
-<figcaption>📺 Il riscaldamento globale: le cause · Geopop · <a href="https://www.youtube.com/watch?v=JQ5Dq74GhnU" target="_blank">Guarda su YouTube</a></figcaption>
+<iframe src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riscaldamento globale e le sue cause spiegate con un cicchetto"></iframe>
+<figcaption>📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop · <a href="https://www.youtube.com/watch?v=JQ5Dq74GhnU" target="_blank">Guarda su YouTube</a></figcaption>
 </figure>

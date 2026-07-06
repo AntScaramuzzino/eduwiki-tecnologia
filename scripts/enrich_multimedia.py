@@ -133,34 +133,33 @@ WIKI_OVERRIDE = {
 }
 
 # ── YouTube mapping ────────────────────────────────────────────────────────────
-# slug → (video_id, titolo, canale)
+# slug → (video_id, titolo, canale) — titolo/canale verificati via YouTube oEmbed API
 YT_MAP = {
     # Energia
-    "energia-nucleare":               ("o9AKgqvEI4E", "Fusione nucleare: la grande sfida tecnologica", "Geopop"),
-    "energia-solare-fotovoltaico-e-termico": ("mj6_WVh2HwU", "Come funziona un pannello solare", "YouTube EDU"),
-    "energia-eolica":                 ("y7wD5uajZBI", "Cosa sono le turbine eoliche", "YouTube EDU"),
-    "fonti-rinnovabili-e-non-rinnovabili": ("WI9kdCnU3i0", "L'energia rinnovabile è davvero sostenibile?", "YouTube EDU"),
+    "energia-nucleare":               ("o9AKgqvEI4E", "Fusione nucleare USA, perché sono tutti così eccitati per la scoperta?", "Geopop"),
+    "energia-solare-fotovoltaico-e-termico": ("mj6_WVh2HwU", "Come funziona un pannello solare dall'interno?", "Geopop"),
+    "energia-eolica":                 ("y7wD5uajZBI", "Cosa sono le turbine eoliche e come producono l'elettricità?", "JAES Company"),
+    "fonti-rinnovabili-e-non-rinnovabili": ("WI9kdCnU3i0", "L'energia rinnovabile è davvero sostenibile?", "Bosco di Ogigia"),
     # Ambiente / Clima
-    "cambiamento-climatico-ed-effetto-serra": ("l6P3m74VtIA", "Il cambiamento climatico e l'effetto serra", "Geopop"),
-    "sviluppo-sostenibile":           ("JQ5Dq74GhnU", "Il riscaldamento globale: le cause", "Geopop"),
-    "agenda-2030":                    ("JQ5Dq74GhnU", "Il riscaldamento globale: le cause", "Geopop"),
-    "impronta-ecologica":             ("JQ5Dq74GhnU", "Il riscaldamento globale: le cause", "Geopop"),
+    "cambiamento-climatico-ed-effetto-serra": ("l6P3m74VtIA", "Il cambiamento climatico e l'effetto serra", "milena locati"),
+    "sviluppo-sostenibile":           ("JQ5Dq74GhnU", "Il riscaldamento globale e le sue cause spiegate con un cicchetto", "Geopop"),
+    "agenda-2030":                    ("JQ5Dq74GhnU", "Il riscaldamento globale e le sue cause spiegate con un cicchetto", "Geopop"),
+    "impronta-ecologica":             ("JQ5Dq74GhnU", "Il riscaldamento globale e le sue cause spiegate con un cicchetto", "Geopop"),
     # Digitale / AI
-    "intelligenza-artificiale-a-scuola": ("wchtRNrzB10", "L'intelligenza artificiale può pensare?", "Geopop"),
-    "internet-e-il-web":              ("njPXISDTodo", "Come funziona una rete Wi-Fi pubblica", "Geopop"),
+    "intelligenza-artificiale-a-scuola": ("wchtRNrzB10", "Ma l'intelligenza artificiale può pensare?", "Grande Giove"),
+    "internet-e-il-web":              ("njPXISDTodo", "Come funziona davvero una rete Wi-Fi pubblica", "Geopop"),
     # Motori / Macchine
-    "motore-a-combustione-interna":   ("9zCOpQ8pEgg", "Come funziona un motore a 4 tempi", "YouTube EDU"),
-    "il-motore-elettrico":            ("MSTcV0ubIk8", "Motore elettrico: spiegazione semplice", "YouTube EDU"),
+    "motore-a-combustione-interna":   ("9zCOpQ8pEgg", "Guardiamo attraverso un motore 4 tempi: come funziona dall'interno", "Geopop"),
+    "il-motore-elettrico":            ("MSTcV0ubIk8", "Motore elettrico: spiegazione semplice", "Roberto Virzi"),
     # Materiali
-    "economia-circolare":             ("ni8-BuHUzUg", "L'economia circolare spiegata bene", "YouTube EDU"),
-    "riciclo-e-sostenibilita-dei-materiali": ("hn09nndvpEI", "Come viene riciclata la plastica", "YouTube EDU"),
+    "economia-circolare":             ("ni8-BuHUzUg", "Economia circolare - L'economia circolare spiegata bene", "Ministero Ambiente e Sicurezza Energetica"),
+    "riciclo-e-sostenibilita-dei-materiali": ("1EoeGgrAtJ4", "Il riciclo della plastica", "CONAI"),
     # Coding / Robotica
-    "pensiero-computazionale":        ("pzg1-UpMypA", "La robotica educativa e il pensiero computazionale", "YouTube EDU"),
-    "robotica-educativa":             ("pzg1-UpMypA", "La robotica educativa e il pensiero computazionale", "YouTube EDU"),
+    "pensiero-computazionale":        ("pzg1-UpMypA", "A scuola con i robot: la robotica educativa e il pensiero computazionale", "OTTO Discorsi Diretti"),
+    "robotica-educativa":             ("pzg1-UpMypA", "A scuola con i robot: la robotica educativa e il pensiero computazionale", "OTTO Discorsi Diretti"),
+    "coding-e-programmazione-a-blocchi": ("pzg1-UpMypA", "A scuola con i robot: la robotica educativa e il pensiero computazionale", "OTTO Discorsi Diretti"),
     # Città / Trasporti
-    "smart-city-e-mobilita-sostenibile": ("4ENRgYohsMU", "Urbanistica e mobilità sostenibile", "YouTube EDU"),
-    # Coding
-    "coding-e-programmazione-a-blocchi": ("pzg1-UpMypA", "La robotica educativa e il pensiero computazionale", "YouTube EDU"),
+    "smart-city-e-mobilita-sostenibile": ("4ENRgYohsMU", "Urbanistica e mobilità sostenibile: la sfida delle città del futuro", "Omar Di Felice"),
 }
 
 # ── Wikipedia ─────────────────────────────────────────────────────────────────

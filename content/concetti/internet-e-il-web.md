@@ -220,6 +220,6 @@ Obiettivo: collegare i concetti tecnici a questioni di equità e cittadinanza di
 ## Risorse multimediali
 
 <figure>
-<iframe src="https://www.youtube-nocookie.com/embed/njPXISDTodo" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come funziona una rete Wi-Fi pubblica"></iframe>
-<figcaption>📺 Come funziona una rete Wi-Fi pubblica · Geopop · <a href="https://www.youtube.com/watch?v=njPXISDTodo" target="_blank">Guarda su YouTube</a></figcaption>
+<iframe src="https://www.youtube-nocookie.com/embed/njPXISDTodo" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come funziona davvero una rete Wi-Fi pubblica"></iframe>
+<figcaption>📺 Come funziona davvero una rete Wi-Fi pubblica · Geopop · <a href="https://www.youtube.com/watch?v=njPXISDTodo" target="_blank">Guarda su YouTube</a></figcaption>
 </figure>

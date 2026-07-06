@@ -301,6 +301,6 @@ Di notte, o quando il cielo è molto coperto, i pannelli fotovoltaici producono 
 ## Risorse multimediali
 
 <figure>
-<iframe src="https://www.youtube-nocookie.com/embed/mj6_WVh2HwU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come funziona un pannello solare"></iframe>
-<figcaption>📺 Come funziona un pannello solare · YouTube EDU · <a href="https://www.youtube.com/watch?v=mj6_WVh2HwU" target="_blank">Guarda su YouTube</a></figcaption>
+<iframe src="https://www.youtube-nocookie.com/embed/mj6_WVh2HwU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come funziona un pannello solare dall'interno?"></iframe>
+<figcaption>📺 Come funziona un pannello solare dall'interno? · Geopop · <a href="https://www.youtube.com/watch?v=mj6_WVh2HwU" target="_blank">Guarda su YouTube</a></figcaption>
 </figure>

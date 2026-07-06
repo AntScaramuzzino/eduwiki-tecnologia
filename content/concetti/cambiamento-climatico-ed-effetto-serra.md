@@ -139,5 +139,5 @@ Le sezioni di definizione, spiegazione, gas serra, cause e conseguenze sono basa
 
 <figure>
 <iframe src="https://www.youtube-nocookie.com/embed/l6P3m74VtIA" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il cambiamento climatico e l'effetto serra"></iframe>
-<figcaption>📺 Il cambiamento climatico e l'effetto serra · Geopop · <a href="https://www.youtube.com/watch?v=l6P3m74VtIA" target="_blank">Guarda su YouTube</a></figcaption>
+<figcaption>📺 Il cambiamento climatico e l'effetto serra · milena locati · <a href="https://www.youtube.com/watch?v=l6P3m74VtIA" target="_blank">Guarda su YouTube</a></figcaption>
 </figure>

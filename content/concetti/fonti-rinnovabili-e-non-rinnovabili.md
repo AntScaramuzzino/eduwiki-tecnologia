@@ -224,5 +224,5 @@ Gran parte delle sezioni "Esempio concreto in classe", "Dal concetto all'attivit
 
 <figure>
 <iframe src="https://www.youtube-nocookie.com/embed/WI9kdCnU3i0" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="L'energia rinnovabile è davvero sostenibile?"></iframe>
-<figcaption>📺 L'energia rinnovabile è davvero sostenibile? · YouTube EDU · <a href="https://www.youtube.com/watch?v=WI9kdCnU3i0" target="_blank">Guarda su YouTube</a></figcaption>
+<figcaption>📺 L'energia rinnovabile è davvero sostenibile? · Bosco di Ogigia · <a href="https://www.youtube.com/watch?v=WI9kdCnU3i0" target="_blank">Guarda su YouTube</a></figcaption>
 </figure>
