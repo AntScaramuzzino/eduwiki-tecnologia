@@ -1,8 +1,9 @@
 """
 build_kumu_map.py — ricrea la struttura del wiki EduWiki LLM come mappa di rete
-Kumu (https://kumu.io). Genera un blueprint JSON (elements + connections) a
-partire da 00-indice/index.md, 11-glossario/glossario.md e dai wikilink [[...]]
-presenti nelle pagine del wiki.
+Kumu (https://kumu.io). Genera un blueprint JSON (elements + connections)
+leggendo titolo e descrizione direttamente da ogni pagina (02-concetti,
+03-metodologie, ..., 09-prompt), le voci di 11-glossario/glossario.md e i
+wikilink [[...]] realmente presenti nelle pagine.
 
 Uso: python3 scripts/build_kumu_map.py
 Output: kumu/wiki-map.json (nel repo, servito via GitHub raw per il "remote JSON
@@ -28,57 +29,57 @@ AREE = {
     "09-prompt":              "Prompt",
 }
 
-INDEX_SECTIONS = {
-    "Concetti":            "Concetto",
-    "Metodologie":         "Metodologia",
-    "Strumenti digitali":  "Strumento digitale",
-    "Attività didattiche": "Attività didattica",
-    "UDA":                 "UDA",
-    "Valutazione":         "Valutazione",
-    "Inclusione":          "Inclusione",
-}
-
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)(?:\|[^\]]+)?\]\]")
+FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.S)
+MD_EMPHASIS_RE = re.compile(r"\*\*([^*]+)\*\*|\*([^*]+)\*")
 
 
-def parse_index(index_path):
-    """Estrae elementi da 00-indice/index.md: sezioni con righe
-    '- [[slug]] — Titolo: descrizione…'"""
-    text = index_path.read_text(encoding="utf-8")
-    elements = {}
-    current_type = None
-    for line in text.splitlines():
-        h2 = re.match(r"^## ([\w àèéìòù]+)", line)
-        if h2:
-            current_type = INDEX_SECTIONS.get(h2.group(1).strip())
-            continue
-        m = re.match(r"^- \[\[([\w-]+)\]\] — ([^:]+):?\s*(.*)$", line)
-        if m and current_type:
-            slug, title, desc = m.groups()
-            elements[slug] = {
-                "id": slug,
-                "label": title.strip(),
-                "type": current_type,
-                "description": desc.strip()[:280],
-            }
-    return elements
+def clean_text(text):
+    """Rimuove wikilink, grassetto/corsivo markdown e spazi ridondanti.
+    Nessun troncamento: la descrizione riporta il testo integrale della
+    sezione sorgente."""
+    # taglia via immagini iniettate (Wikipedia) e relativa didascalia, che
+    # 'enrich_multimedia.py' inserisce subito dopo Definizione breve senza
+    # un heading separato
+    text = text.split("![", 1)[0]
+    text = WIKILINK_RE.sub(lambda m: m.group(1), text)
+    text = MD_EMPHASIS_RE.sub(lambda m: m.group(1) or m.group(2), text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
 
-def parse_prompt_files(dir_path):
+def extract_title_and_description(text):
+    """Titolo = primo H1. Descrizione = testo della prima sezione '## ...'
+    (Definizione breve, Target, ecc.), o il testo subito dopo l'H1 se non
+    ci sono sezioni (es. pagine-stub)."""
+    body = FRONTMATTER_RE.sub("", text, count=1)
+    h1 = re.search(r"^#\s+(.+)$", body, re.M)
+    title = h1.group(1).strip() if h1 else None
+
+    after_h1 = body[h1.end():] if h1 else body
+    first_section = re.search(r"^##\s+.+?\n(.*?)(?=\n##\s|\Z)", after_h1, re.S | re.M)
+    if first_section:
+        desc = clean_text(first_section.group(1))
+    else:
+        # pagina senza sezioni: testo (es. blockquote di stub) subito dopo l'H1
+        desc = clean_text(after_h1)
+    return title, desc
+
+
+def parse_content_files(dir_path, area_type):
     elements = {}
     for f in sorted(dir_path.glob("*.md")):
         if f.name == "README.md":
             continue
         slug = f.stem
-        text = f.read_text(encoding="utf-8")
-        m = re.search(r"^#\s+(.+)$", text, re.M)
-        title = m.group(1).strip() if m else slug
-        title = re.sub(r"^Prompt\s*—\s*", "", title)
+        title, desc = extract_title_and_description(f.read_text(encoding="utf-8"))
+        if area_type == "Prompt":
+            title = re.sub(r"^Prompt\s*—\s*", "", title or slug)
         elements[slug] = {
             "id": slug,
-            "label": title,
-            "type": "Prompt",
-            "description": "",
+            "label": title or slug,
+            "type": area_type,
+            "description": desc,
         }
     return elements
 
@@ -106,7 +107,7 @@ def parse_glossario(glossario_path):
                 "label": term,
                 "type": "Glossario",
                 "tema": current_tema or "",
-                "description": clean_def[:280],
+                "description": clean_def,
             }
             for t in targets:
                 links.append((gid, t))
@@ -125,13 +126,15 @@ def main():
     connections = []
     seen_conn = set()
 
-    # 1. elementi da index.md (concetti, metodologie, strumenti, attività, uda, valutazione, inclusione)
-    elements.update(parse_index(WIKI / "00-indice" / "index.md"))
+    # 1. elementi letti direttamente da ogni pagina di contenuto (titolo H1 +
+    # descrizione dalla prima sezione "## ..."), non da index.md che contiene
+    # solo estratti già troncati.
+    for area_dir, area_type in AREE.items():
+        folder = WIKI / area_dir
+        if folder.exists():
+            elements.update(parse_content_files(folder, area_type))
 
-    # 2. elementi da 09-prompt (non listati in index.md)
-    elements.update(parse_prompt_files(WIKI / "09-prompt"))
-
-    # 3. voci di glossario + collegamenti verso i concetti
+    # 2. voci di glossario + collegamenti verso i concetti
     gloss_elements, gloss_links = parse_glossario(WIKI / "11-glossario" / "glossario.md")
     elements.update(gloss_elements)
 
@@ -146,7 +149,7 @@ def main():
         if target_slug in elements:
             add_conn(gid, target_slug, "definisce")
 
-    # 4. wikilink reali dentro ogni pagina delle aree di contenuto
+    # 3. wikilink reali dentro ogni pagina delle aree di contenuto
     missing_added = set()
     for area_dir, area_type in AREE.items():
         folder = WIKI / area_dir
