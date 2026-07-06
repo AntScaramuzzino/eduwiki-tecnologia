@@ -16,6 +16,7 @@ from pathlib import Path
 
 WIKI = Path("/Users/antonioscaramuzzino/Library/CloudStorage/GoogleDrive-antonio.scaramuzzino@coopinrete.it/Il mio Drive/Antonio Scaramuzzino/Brain Tecnologia/eduwiki-llm/wiki")
 OUT = Path("/Users/antonioscaramuzzino/Projects/eduwiki-tecnologia/kumu/wiki-map.json")
+ENRICH_SCRIPT = Path(__file__).parent / "enrich_multimedia.py"
 
 # area folder → (etichetta tipo Kumu, sezione in index.md)
 AREE = {
@@ -40,8 +41,9 @@ def clean_text(text):
     sezione sorgente."""
     # taglia via immagini iniettate (Wikipedia) e relativa didascalia, che
     # 'enrich_multimedia.py' inserisce subito dopo Definizione breve senza
-    # un heading separato
+    # un heading separato (spesso precedute da un separatore "---")
     text = text.split("![", 1)[0]
+    text = re.sub(r"\n---\s*$", "", text.rstrip())
     text = WIKILINK_RE.sub(lambda m: m.group(1), text)
     text = MD_EMPHASIS_RE.sub(lambda m: m.group(1) or m.group(2), text)
     text = re.sub(r"\s+", " ", text).strip()
@@ -66,7 +68,20 @@ def extract_title_and_description(text):
     return title, desc
 
 
-def parse_content_files(dir_path, area_type):
+def parse_yt_map():
+    """Rilegge YT_MAP da enrich_multimedia.py (slug concetto → video YouTube),
+    senza importare il modulo (che ha effetti collaterali: chiamate di rete
+    e scritture su disco al top-level)."""
+    src = ENRICH_SCRIPT.read_text(encoding="utf-8")
+    m = re.search(r"YT_MAP = \{(.*?)\n\}", src, re.S)
+    entries = re.findall(
+        r'"([\w-]+)":\s*\("([\w-]+)",\s*"([^"]+)",\s*"([^"]+)"\)', m.group(1)
+    )
+    return {slug: {"video_id": vid, "title": title, "channel": ch}
+            for slug, vid, title, ch in entries}
+
+
+def parse_content_files(dir_path, area_type, yt_map=None):
     elements = {}
     for f in sorted(dir_path.glob("*.md")):
         if f.name == "README.md":
@@ -75,12 +90,22 @@ def parse_content_files(dir_path, area_type):
         title, desc = extract_title_and_description(f.read_text(encoding="utf-8"))
         if area_type == "Prompt":
             title = re.sub(r"^Prompt\s*—\s*", "", title or slug)
-        elements[slug] = {
+        el = {
             "id": slug,
             "label": title or slug,
             "type": area_type,
             "description": desc,
         }
+        video = yt_map.get(slug) if yt_map else None
+        if video:
+            # sintassi widget di Kumu per l'embed YouTube nel pannello elemento:
+            # [[youtube/VIDEO_ID]] dentro il campo description
+            el["description"] += (
+                f"\n\n📺 {video['title']} · {video['channel']}\n"
+                f"[[youtube/{video['video_id']}]]"
+            )
+            el["video"] = True
+        elements[slug] = el
     return elements
 
 
@@ -129,10 +154,12 @@ def main():
     # 1. elementi letti direttamente da ogni pagina di contenuto (titolo H1 +
     # descrizione dalla prima sezione "## ..."), non da index.md che contiene
     # solo estratti già troncati.
+    yt_map = parse_yt_map()
     for area_dir, area_type in AREE.items():
         folder = WIKI / area_dir
         if folder.exists():
-            elements.update(parse_content_files(folder, area_type))
+            map_for_area = yt_map if area_dir == "02-concetti" else None
+            elements.update(parse_content_files(folder, area_type, map_for_area))
 
     # 2. voci di glossario + collegamenti verso i concetti
     gloss_elements, gloss_links = parse_glossario(WIKI / "11-glossario" / "glossario.md")
@@ -190,8 +217,10 @@ def main():
     print("Elementi per tipo:")
     for t, n in sorted(by_type.items(), key=lambda x: -x[1]):
         print(f"  {t:25s} {n}")
+    with_video = sum(1 for e in elements.values() if e.get("video"))
     print(f"\nTotale elementi:    {len(elements)}")
     print(f"Totale connessioni: {len(connections)}")
+    print(f"Elementi con video embeddato: {with_video}")
     print(f"Scritto in: {OUT}")
 
 

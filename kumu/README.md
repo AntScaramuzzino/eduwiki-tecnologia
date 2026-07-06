@@ -28,9 +28,10 @@ git push
 
 ## Cosa contiene
 
-- **Elementi**: una voce per ogni pagina di `00-indice/index.md` (concetti,
-  metodologie, strumenti digitali, attività, UDA, valutazione, inclusione),
-  le pagine di `09-prompt/`, e ogni voce di `11-glossario/glossario.md`.
+- **Elementi**: una voce per ogni pagina di contenuto (concetti, metodologie,
+  strumenti digitali, attività, UDA, valutazione, inclusione, prompt), letta
+  direttamente dal file (titolo H1 + testo integrale della prima sezione,
+  senza troncamenti), e ogni voce di `11-glossario/glossario.md`.
 - **Connessioni**: i wikilink `[[...]]` realmente presenti nelle pagine
   (sezioni "Pagine collegate", "Collegamenti interdisciplinari", "Strumenti
   digitali utili", ecc.) più i collegamenti glossario → concetto.
@@ -38,6 +39,10 @@ git push
   ancora, viene creato un nodo segnaposto — visualizza così anche i "buchi" del
   wiki, coerente con la regola del progetto ("un link a una pagina non ancora
   esistente segnala lavoro da fare").
+- **Video YouTube embeddati**: i 18 concetti collegati a un video (stessa
+  mappa usata da `scripts/enrich_multimedia.py` per il sito Quartz) hanno
+  nella descrizione il widget `[[youtube/VIDEO_ID]]` — Kumu lo renderizza
+  come player video incorporato quando apri il pannello dell'elemento.
 
 La rete è densa (~250 elementi, ~1500 connessioni): usa i filtri di Kumu per
 tipo o le funzioni di ricerca/focus per esplorarla senza restare disorientati

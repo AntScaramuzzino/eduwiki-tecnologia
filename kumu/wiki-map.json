@@ -4,7 +4,8 @@
       "id": "agenda-2030",
       "label": "L'Agenda 2030 e gli obiettivi di sviluppo sostenibile",
       "type": "Concetto",
-      "description": "L'Agenda 2030 è un programma d'azione mondiale per lo sviluppo sostenibile, sottoscritto nel 2015 dai 193 Paesi membri dell'ONU. Si compone di 17 obiettivi di sviluppo sostenibile (in inglese Sustainable Development Goals o SDG) e 169 traguardi (target) da raggiungere entro il 2030, per costruire un futuro migliore \"per le persone, il pianeta e la prosperità\"."
+      "description": "L'Agenda 2030 è un programma d'azione mondiale per lo sviluppo sostenibile, sottoscritto nel 2015 dai 193 Paesi membri dell'ONU. Si compone di 17 obiettivi di sviluppo sostenibile (in inglese Sustainable Development Goals o SDG) e 169 traguardi (target) da raggiungere entro il 2030, per costruire un futuro migliore \"per le persone, il pianeta e la prosperità\".\n\n📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop\n[[youtube/JQ5Dq74GhnU]]",
+      "video": true
     },
     {
       "id": "agricoltura-sostenibile-e-biologica",
@@ -58,7 +59,7 @@
       "id": "attrito-e-vantaggio-meccanico",
       "label": "Attrito, rendimento e vantaggio meccanico",
       "type": "Concetto",
-      "description": "L'attrito è la forza che si oppone al movimento di due superfici a contatto. Il rendimento di una macchina è il rapporto tra l'energia ottenuta in uscita e quella fornita in entrata. Il vantaggio meccanico indica quanto una macchina semplice (come una leva) amplifica la forza applicata rispetto alla forza resistente da vincere. ---"
+      "description": "L'attrito è la forza che si oppone al movimento di due superfici a contatto. Il rendimento di una macchina è il rapporto tra l'energia ottenuta in uscita e quella fornita in entrata. Il vantaggio meccanico indica quanto una macchina semplice (come una leva) amplifica la forza applicata rispetto alla forza resistente da vincere."
     },
     {
       "id": "bioedilizia-ed-efficienza-energetica",
@@ -76,7 +77,8 @@
       "id": "cambiamento-climatico-ed-effetto-serra",
       "label": "Cambiamento climatico ed effetto serra",
       "type": "Concetto",
-      "description": "L'effetto serra è un fenomeno naturale per cui alcuni gas presenti nell'atmosfera (i \"gas serra\", come l'anidride carbonica CO₂) trattengono parte del calore del Sole vicino alla superficie terrestre, mantenendo una temperatura adatta alla vita. Le attività umane, soprattutto l'uso di combustibili fossili, hanno aumentato la quantità di questi gas, intensificando l'effetto serra e provocando il riscaldamento globale: l'aumento della temperatura media del pianeta che è alla base del cambiamento climatico."
+      "description": "L'effetto serra è un fenomeno naturale per cui alcuni gas presenti nell'atmosfera (i \"gas serra\", come l'anidride carbonica CO₂) trattengono parte del calore del Sole vicino alla superficie terrestre, mantenendo una temperatura adatta alla vita. Le attività umane, soprattutto l'uso di combustibili fossili, hanno aumentato la quantità di questi gas, intensificando l'effetto serra e provocando il riscaldamento globale: l'aumento della temperatura media del pianeta che è alla base del cambiamento climatico.\n\n📺 Il cambiamento climatico e l'effetto serra · milena locati\n[[youtube/l6P3m74VtIA]]",
+      "video": true
     },
     {
       "id": "carne-pesce-e-uova",
@@ -112,7 +114,8 @@
       "id": "coding-e-programmazione-a-blocchi",
       "label": "Coding e programmazione a blocchi",
       "type": "Concetto",
-      "description": "Il coding è la scrittura di un programma informatico attraverso uno specifico linguaggio di programmazione, al fine di trasformare la soluzione di un problema in una serie di istruzioni elementari eseguibili da una macchina. Nella scuola secondaria di primo grado si lavora soprattutto con la programmazione a blocchi: invece di scrivere righe di codice testuale, si incastrano blocchi grafici colorati (come in Scratch) che rappresentano le istruzioni e si combinano come i pezzi di un puzzle."
+      "description": "Il coding è la scrittura di un programma informatico attraverso uno specifico linguaggio di programmazione, al fine di trasformare la soluzione di un problema in una serie di istruzioni elementari eseguibili da una macchina. Nella scuola secondaria di primo grado si lavora soprattutto con la programmazione a blocchi: invece di scrivere righe di codice testuale, si incastrano blocchi grafici colorati (come in Scratch) che rappresentano le istruzioni e si combinano come i pezzi di un puzzle.\n\n📺 A scuola con i robot: la robotica educativa e il pensiero computazionale · OTTO Discorsi Diretti\n[[youtube/pzg1-UpMypA]]",
+      "video": true
     },
     {
       "id": "coltivazioni-fuori-suolo-serra-idroponica",
@@ -148,7 +151,7 @@
       "id": "dalla-scrittura-alla-stampa",
       "label": "Dalla scrittura alla stampa",
       "type": "Concetto",
-      "description": "La scrittura è il sistema con cui l'essere umano ha fissato la lingua parlata in simboli grafici permanenti; la stampa a caratteri mobili, inventata da Johann Gutenberg attorno al 1450, ha reso possibile riprodurre testi in molte copie a basso costo, trasformando la comunicazione da atto individuale a fenomeno di massa. ---"
+      "description": "La scrittura è il sistema con cui l'essere umano ha fissato la lingua parlata in simboli grafici permanenti; la stampa a caratteri mobili, inventata da Johann Gutenberg attorno al 1450, ha reso possibile riprodurre testi in molte copie a basso costo, trasformando la comunicazione da atto individuale a fenomeno di massa."
     },
     {
       "id": "diritto-d-autore-e-licenze",
@@ -166,13 +169,14 @@
       "id": "economia-circolare",
       "label": "L'economia circolare",
       "type": "Concetto",
-      "description": "L'economia circolare è un modello di produzione e consumo in cui i materiali, alla fine della vita di un prodotto, non diventano rifiuti da gettare ma rientrano nel ciclo produttivo per dare vita a nuovi oggetti. Si contrappone all'economia lineare del \"prendi, produci, usa e getta\"."
+      "description": "L'economia circolare è un modello di produzione e consumo in cui i materiali, alla fine della vita di un prodotto, non diventano rifiuti da gettare ma rientrano nel ciclo produttivo per dare vita a nuovi oggetti. Si contrappone all'economia lineare del \"prendi, produci, usa e getta\".\n\n📺 Economia circolare - L'economia circolare spiegata bene · Ministero Ambiente e Sicurezza Energetica\n[[youtube/ni8-BuHUzUg]]",
+      "video": true
     },
     {
       "id": "effetti-della-corrente-elettrica",
       "label": "Gli effetti della corrente elettrica",
       "type": "Concetto",
-      "description": "Quando una corrente elettrica attraversa un corpo conduttore produce degli effetti, cioè trasformazioni dell'energia elettrica in altre forme di energia. I principali sono quattro: effetto termico (o effetto Joule), effetto luminoso, effetto magnetico (o elettromagnetico) ed effetto chimico. Questi effetti sono sfruttati per far funzionare gli apparecchi elettrici di uso quotidiano, ma possono anche essere pericolosi per la salute. ---"
+      "description": "Quando una corrente elettrica attraversa un corpo conduttore produce degli effetti, cioè trasformazioni dell'energia elettrica in altre forme di energia. I principali sono quattro: effetto termico (o effetto Joule), effetto luminoso, effetto magnetico (o elettromagnetico) ed effetto chimico. Questi effetti sono sfruttati per far funzionare gli apparecchi elettrici di uso quotidiano, ma possono anche essere pericolosi per la salute."
     },
     {
       "id": "elettronica-di-base",
@@ -184,7 +188,8 @@
       "id": "energia-eolica",
       "label": "L'energia eolica",
       "type": "Concetto",
-      "description": "L'energia eolica è l'energia ricavata dal vento mediante la conversione dell'energia cinetica delle masse d'aria in movimento in energia elettrica, attraverso dispositivi chiamati aerogeneratori o turbine eoliche. ---"
+      "description": "L'energia eolica è l'energia ricavata dal vento mediante la conversione dell'energia cinetica delle masse d'aria in movimento in energia elettrica, attraverso dispositivi chiamati aerogeneratori o turbine eoliche.\n\n📺 Cosa sono le turbine eoliche e come producono l'elettricità? · JAES Company\n[[youtube/y7wD5uajZBI]]",
+      "video": true
     },
     {
       "id": "energia-idroelettrica",
@@ -196,13 +201,15 @@
       "id": "energia-nucleare",
       "label": "L'energia nucleare",
       "type": "Concetto",
-      "description": "L'energia nucleare è l'energia liberata durante le trasformazioni del nucleo di alcuni atomi. Si può ottenere attraverso due processi distinti: la fissione (spaccatura di nuclei pesanti come l'uranio) e la fusione (unione di nuclei leggeri come gli isotopi dell'idrogeno). Attualmente, l'unica applicazione su scala industriale è la fissione. ---"
+      "description": "L'energia nucleare è l'energia liberata durante le trasformazioni del nucleo di alcuni atomi. Si può ottenere attraverso due processi distinti: la fissione (spaccatura di nuclei pesanti come l'uranio) e la fusione (unione di nuclei leggeri come gli isotopi dell'idrogeno). Attualmente, l'unica applicazione su scala industriale è la fissione.\n\n📺 Fusione nucleare USA, perché sono tutti così eccitati per la scoperta? · Geopop\n[[youtube/o9AKgqvEI4E]]",
+      "video": true
     },
     {
       "id": "energia-solare-fotovoltaico-e-termico",
       "label": "L'energia solare: fotovoltaico e solare termico",
       "type": "Concetto",
-      "description": "L'energia solare è l'energia proveniente dal Sole sotto forma di radiazioni elettromagnetiche. Viene sfruttata in due modi principali: solare termico (i collettori catturano il calore per produrre acqua calda) e fotovoltaico (le celle convertono direttamente la luce in energia elettrica tramite l'effetto fotovoltaico nei materiali semiconduttori come il silicio). ---"
+      "description": "L'energia solare è l'energia proveniente dal Sole sotto forma di radiazioni elettromagnetiche. Viene sfruttata in due modi principali: solare termico (i collettori catturano il calore per produrre acqua calda) e fotovoltaico (le celle convertono direttamente la luce in energia elettrica tramite l'effetto fotovoltaico nei materiali semiconduttori come il silicio).\n\n📺 Come funziona un pannello solare dall'interno? · Geopop\n[[youtube/mj6_WVh2HwU]]",
+      "video": true
     },
     {
       "id": "etichette-e-sicurezza-alimentare",
@@ -226,7 +233,8 @@
       "id": "fonti-rinnovabili-e-non-rinnovabili",
       "label": "Fonti rinnovabili e non rinnovabili",
       "type": "Concetto",
-      "description": "Le fonti di energia sono tutto ciò che in natura permette di ottenere energia. Si dividono in fonti rinnovabili — disponibili in quantità praticamente illimitata o capaci di rigenerarsi in tempi brevi (Sole, vento, acqua, geotermia, biomasse) — e fonti non rinnovabili (o esauribili) — presenti in quantità definita e destinate ad esaurirsi perché la loro ricostituzione richiede milioni di anni (combustibili fossili: carbone, petrolio, gas naturale; uranio)."
+      "description": "Le fonti di energia sono tutto ciò che in natura permette di ottenere energia. Si dividono in fonti rinnovabili — disponibili in quantità praticamente illimitata o capaci di rigenerarsi in tempi brevi (Sole, vento, acqua, geotermia, biomasse) — e fonti non rinnovabili (o esauribili) — presenti in quantità definita e destinate ad esaurirsi perché la loro ricostituzione richiede milioni di anni (combustibili fossili: carbone, petrolio, gas naturale; uranio).\n\n📺 L'energia rinnovabile è davvero sostenibile? · Bosco di Ogigia\n[[youtube/WI9kdCnU3i0]]",
+      "video": true
     },
     {
       "id": "forme-e-trasformazioni-dell-energia",
@@ -238,19 +246,19 @@
       "id": "generatori-e-pile",
       "label": "Generatori elettrici e pile",
       "type": "Concetto",
-      "description": "Un generatore elettrico è un dispositivo che crea e mantiene una differenza di potenziale (tensione) tra due poli, costringendo gli elettroni a muoversi in modo ordinato e producendo così una corrente elettrica. Le pile sono generatori chimici: trasformano energia chimica in energia elettrica tramite una reazione tra sostanze a contatto; gli accumulatori (batterie ricaricabili) fanno la stessa cosa ma possono essere ricaricati invertendo il processo. I generatori meccanici (dinamo, alternatori) trasformano invece energia meccanica di rotazione in energia elettrica per induzione elettromagnetica. ---"
+      "description": "Un generatore elettrico è un dispositivo che crea e mantiene una differenza di potenziale (tensione) tra due poli, costringendo gli elettroni a muoversi in modo ordinato e producendo così una corrente elettrica. Le pile sono generatori chimici: trasformano energia chimica in energia elettrica tramite una reazione tra sostanze a contatto; gli accumulatori (batterie ricaricabili) fanno la stessa cosa ma possono essere ricaricati invertendo il processo. I generatori meccanici (dinamo, alternatori) trasformano invece energia meccanica di rotazione in energia elettrica per induzione elettromagnetica."
     },
     {
       "id": "geotermia-e-biomasse",
       "label": "Geotermia e biomasse",
       "type": "Concetto",
-      "description": "La geotermia è lo sfruttamento del calore naturale proveniente dall'interno della Terra per produrre energia elettrica o per riscaldare edifici. Le biomasse sono materiali di origine organica — vegetale, animale o microbica — che possono essere bruciati direttamente o trasformati in biogas e biocombustibili liquidi per ricavarne energia. Entrambe sono fonti di energia rinnovabile. ---"
+      "description": "La geotermia è lo sfruttamento del calore naturale proveniente dall'interno della Terra per produrre energia elettrica o per riscaldare edifici. Le biomasse sono materiali di origine organica — vegetale, animale o microbica — che possono essere bruciati direttamente o trasformati in biogas e biocombustibili liquidi per ricavarne energia. Entrambe sono fonti di energia rinnovabile."
     },
     {
       "id": "globalizzazione-ed-economia-sostenibile",
       "label": "Globalizzazione ed economia sostenibile",
       "type": "Concetto",
-      "description": "La globalizzazione è il processo di integrazione economica, sociale e culturale tra Paesi di tutto il mondo, accelerato dallo sviluppo di internet e dei trasporti. L'economia sostenibile è un modello di produzione e consumo che integra la crescita economica con la tutela dell'ambiente e i diritti sociali, per non compromettere le possibilità delle generazioni future. ---"
+      "description": "La globalizzazione è il processo di integrazione economica, sociale e culturale tra Paesi di tutto il mondo, accelerato dallo sviluppo di internet e dei trasporti. L'economia sostenibile è un modello di produzione e consumo che integra la crescita economica con la tutela dell'ambiente e i diritti sociali, per non compromettere le possibilità delle generazioni future."
     },
     {
       "id": "grafica-raster-e-vettoriale",
@@ -286,7 +294,7 @@
       "id": "i-settori-produttivi",
       "label": "I settori produttivi: primario, secondario, terziario",
       "type": "Concetto",
-      "description": "Le attività economiche si classificano in settori produttivi in base al tipo di operazione compiuta: il settore primario sfrutta direttamente le risorse naturali, il secondario trasforma le materie prime in prodotti finiti, il terziario eroga servizi. Alcuni testi aggiungono un settore quaternario (conoscenza, ICT, alta formazione) e un quinario (organizzazioni no profit e alte professioni). ---"
+      "description": "Le attività economiche si classificano in settori produttivi in base al tipo di operazione compiuta: il settore primario sfrutta direttamente le risorse naturali, il secondario trasforma le materie prime in prodotti finiti, il terziario eroga servizi. Alcuni testi aggiungono un settore quaternario (conoscenza, ICT, alta formazione) e un quinario (organizzazioni no profit e alte professioni)."
     },
     {
       "id": "il-legno",
@@ -304,7 +312,8 @@
       "id": "il-motore-elettrico",
       "label": "Il motore elettrico: come funziona",
       "type": "Concetto",
-      "description": "Il motore elettrico è una macchina che trasforma energia elettrica in energia meccanica, producendo un movimento rotatorio. È composto da una parte fissa (statore) e da una parte mobile (rotore); l'interazione tra i campi magnetici dei due componenti fa girare il rotore e, con esso, l'albero motore collegato al dispositivo da azionare."
+      "description": "Il motore elettrico è una macchina che trasforma energia elettrica in energia meccanica, producendo un movimento rotatorio. È composto da una parte fissa (statore) e da una parte mobile (rotore); l'interazione tra i campi magnetici dei due componenti fa girare il rotore e, con esso, l'albero motore collegato al dispositivo da azionare.\n\n📺 Motore elettrico: spiegazione semplice · Roberto Virzi\n[[youtube/MSTcV0ubIk8]]",
+      "video": true
     },
     {
       "id": "il-vetro",
@@ -328,13 +337,14 @@
       "id": "impronta-ecologica",
       "label": "L'impronta ecologica",
       "type": "Concetto",
-      "description": "L'impronta ecologica è un indicatore che misura quante risorse naturali consumano gli esseri umani per soddisfare i loro bisogni, confrontandole con la capacità della Terra di rigenerarle. In pratica indica quanta superficie terrestre serve per produrre ciò che usiamo e per assorbire i rifiuti che produciamo."
+      "description": "L'impronta ecologica è un indicatore che misura quante risorse naturali consumano gli esseri umani per soddisfare i loro bisogni, confrontandole con la capacità della Terra di rigenerarle. In pratica indica quanta superficie terrestre serve per produrre ciò che usiamo e per assorbire i rifiuti che produciamo.\n\n📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop\n[[youtube/JQ5Dq74GhnU]]",
+      "video": true
     },
     {
       "id": "infrastrutture-di-trasporto",
       "label": "Le infrastrutture di trasporto",
       "type": "Concetto",
-      "description": "Le infrastrutture di trasporto sono l'insieme delle opere fisse costruite dall'uomo che rendono possibile lo spostamento di persone e merci: strade, autostrade, ferrovie, ponti, gallerie, porti, aeroporti. Costituiscono la rete fisica su cui si appoggiano tutti i sistemi di trasporto. ---"
+      "description": "Le infrastrutture di trasporto sono l'insieme delle opere fisse costruite dall'uomo che rendono possibile lo spostamento di persone e merci: strade, autostrade, ferrovie, ponti, gallerie, porti, aeroporti. Costituiscono la rete fisica su cui si appoggiano tutti i sistemi di trasporto."
     },
     {
       "id": "inquinamento-aria-acqua-suolo",
@@ -346,13 +356,15 @@
       "id": "intelligenza-artificiale-a-scuola",
       "label": "L'intelligenza artificiale a scuola",
       "type": "Concetto",
-      "description": "L'intelligenza artificiale (IA) è una macchina o un sistema capace di gestire in modo autonomo stimoli esterni, simulando alcune funzioni della mente umana. Funziona grazie a sequenze logiche chiamate algoritmi e, nelle sue forme più recenti, grazie all'apprendimento automatico (in inglese machine learning): la capacità di un computer di migliorare le proprie prestazioni da solo, \"imparando\" da grandi quantità di dati senza un intervento umano diretto."
+      "description": "L'intelligenza artificiale (IA) è una macchina o un sistema capace di gestire in modo autonomo stimoli esterni, simulando alcune funzioni della mente umana. Funziona grazie a sequenze logiche chiamate algoritmi e, nelle sue forme più recenti, grazie all'apprendimento automatico (in inglese machine learning): la capacità di un computer di migliorare le proprie prestazioni da solo, \"imparando\" da grandi quantità di dati senza un intervento umano diretto.\n\n📺 Ma l'intelligenza artificiale può pensare? · Grande Giove\n[[youtube/wchtRNrzB10]]",
+      "video": true
     },
     {
       "id": "internet-e-il-web",
       "label": "Internet e il web",
       "type": "Concetto",
-      "description": "Internet è una rete mondiale di reti di computer che comunicano tra loro tramite un insieme di protocolli comuni (TCP/IP); il World Wide Web (WWW) è il principale servizio di Internet, formato da pagine multimediali collegate tra loro attraverso link ipertestuali. ---"
+      "description": "Internet è una rete mondiale di reti di computer che comunicano tra loro tramite un insieme di protocolli comuni (TCP/IP); il World Wide Web (WWW) è il principale servizio di Internet, formato da pagine multimediali collegate tra loro attraverso link ipertestuali.\n\n📺 Come funziona davvero una rete Wi-Fi pubblica · Geopop\n[[youtube/njPXISDTodo]]",
+      "video": true
     },
     {
       "id": "la-carta",
@@ -394,7 +406,7 @@
       "id": "logistica-e-trasporto-intermodale",
       "label": "Logistica e trasporto intermodale delle merci",
       "type": "Concetto",
-      "description": "La logistica è la disciplina che si occupa di organizzare il trasporto delle merci in modo efficiente, scegliendo i mezzi, i percorsi e i tempi migliori. Il trasporto intermodale è un sistema che combina più mezzi di trasporto (camion, treno, nave, aereo) mantenendo le merci all'interno dello stesso contenitore standardizzato — il container — per tutto il viaggio. ---"
+      "description": "La logistica è la disciplina che si occupa di organizzare il trasporto delle merci in modo efficiente, scegliendo i mezzi, i percorsi e i tempi migliori. Il trasporto intermodale è un sistema che combina più mezzi di trasporto (camion, treno, nave, aereo) mantenendo le merci all'interno dello stesso contenitore standardizzato — il container — per tutto il viaggio."
     },
     {
       "id": "macchine-e-tecniche-agricole",
@@ -406,7 +418,7 @@
       "id": "macchine-semplici-leva",
       "label": "Le macchine semplici: la leva e i suoi generi",
       "type": "Concetto",
-      "description": "La leva è una macchina semplice costituita da un'asta rigida che ruota intorno a un punto fisso chiamato fulcro. In base alla posizione reciproca di fulcro, forza applicata (potenza) e carico da vincere (resistenza), si distinguono tre generi di leva con comportamenti diversi. ---"
+      "description": "La leva è una macchina semplice costituita da un'asta rigida che ruota intorno a un punto fisso chiamato fulcro. In base alla posizione reciproca di fulcro, forza applicata (potenza) e carico da vincere (resistenza), si distinguono tre generi di leva con comportamenti diversi."
     },
     {
       "id": "magnetismo-ed-elettromagnetismo",
@@ -430,25 +442,26 @@
       "id": "mobilita-sostenibile-e-trasporto-green",
       "label": "Mobilità sostenibile e trasporto green",
       "type": "Concetto",
-      "description": "La mobilità sostenibile è l'insieme di scelte e tecnologie che permettono di spostarsi riducendo al minimo l'impatto ambientale: emissioni di gas serra, inquinamento dell'aria e consumo di risorse non rinnovabili. Il trasporto \"green\" comprende veicoli elettrici, ibridi, biciclette, trasporto pubblico e servizi di condivisione (sharing). ---"
+      "description": "La mobilità sostenibile è l'insieme di scelte e tecnologie che permettono di spostarsi riducendo al minimo l'impatto ambientale: emissioni di gas serra, inquinamento dell'aria e consumo di risorse non rinnovabili. Il trasporto \"green\" comprende veicoli elettrici, ibridi, biciclette, trasporto pubblico e servizi di condivisione (sharing)."
     },
     {
       "id": "moneta-banche-e-finanza",
       "label": "Moneta, banche e finanza",
       "type": "Concetto",
-      "description": "La moneta è tutto ciò che viene generalmente accettato come mezzo di pagamento in cambio di beni o servizi. Le banche sono aziende che raccolgono il risparmio delle famiglie e lo concedono in prestito a chi vuole investire o acquistare beni, svolgendo così una funzione fondamentale nel sistema economico. La finanza è l'insieme delle attività legate alla gestione del denaro, del credito e degli investimenti. ---"
+      "description": "La moneta è tutto ciò che viene generalmente accettato come mezzo di pagamento in cambio di beni o servizi. Le banche sono aziende che raccolgono il risparmio delle famiglie e lo concedono in prestito a chi vuole investire o acquistare beni, svolgendo così una funzione fondamentale nel sistema economico. La finanza è l'insieme delle attività legate alla gestione del denaro, del credito e degli investimenti."
     },
     {
       "id": "moneta-elettronica-e-pagamenti-digitali",
       "label": "Moneta elettronica e pagamenti digitali",
       "type": "Concetto",
-      "description": "La moneta elettronica è una forma di denaro smaterializzato che non esiste in forma fisica ma viene conservata e scambiata per via digitale, attraverso carte di pagamento (bancomat, carte di credito, carte prepagate), conti online e applicazioni per smartphone. I pagamenti digitali (o cashless) sono tutte le transazioni economiche che avvengono senza l'uso di denaro contante. ---"
+      "description": "La moneta elettronica è una forma di denaro smaterializzato che non esiste in forma fisica ma viene conservata e scambiata per via digitale, attraverso carte di pagamento (bancomat, carte di credito, carte prepagate), conti online e applicazioni per smartphone. I pagamenti digitali (o cashless) sono tutte le transazioni economiche che avvengono senza l'uso di denaro contante."
     },
     {
       "id": "motore-a-combustione-interna",
       "label": "Il motore a combustione interna: il ciclo a quattro tempi",
       "type": "Concetto",
-      "description": "Il motore a combustione interna (detto anche motore a scoppio) è una macchina motrice che trasforma in energia meccanica l'energia chimica di un combustibile liquido o gassoso (benzina, gasolio, GPL, metano), sfruttando una serie di piccole esplosioni controllate all'interno di una cavità chiamata cilindro."
+      "description": "Il motore a combustione interna (detto anche motore a scoppio) è una macchina motrice che trasforma in energia meccanica l'energia chimica di un combustibile liquido o gassoso (benzina, gasolio, GPL, metano), sfruttando una serie di piccole esplosioni controllate all'interno di una cavità chiamata cilindro.\n\n📺 Guardiamo attraverso un motore 4 tempi: come funziona dall'interno · Geopop\n[[youtube/9zCOpQ8pEgg]]",
+      "video": true
     },
     {
       "id": "motore-diesel",
@@ -460,7 +473,7 @@
       "id": "motori-e-propulsione",
       "label": "Motori e sistemi di propulsione",
       "type": "Concetto",
-      "description": "Un motore è una macchina che trasforma una forma di energia (chimica, elettrica, termica) in energia meccanica utile a muovere un veicolo o un dispositivo. La propulsione è il complesso di forze che mettono in moto un mezzo di trasporto. I principali sistemi di propulsione usati nei trasporti sono: il motore a combustione interna (o \"a scoppio\"), il motore elettrico, il motore a reazione (turboreattore) e il motore a razzo. ---"
+      "description": "Un motore è una macchina che trasforma una forma di energia (chimica, elettrica, termica) in energia meccanica utile a muovere un veicolo o un dispositivo. La propulsione è il complesso di forze che mettono in moto un mezzo di trasporto. I principali sistemi di propulsione usati nei trasporti sono: il motore a combustione interna (o \"a scoppio\"), il motore elettrico, il motore a reazione (turboreattore) e il motore a razzo."
     },
     {
       "id": "ogm-e-biotecnologie-agrarie",
@@ -472,7 +485,8 @@
       "id": "pensiero-computazionale",
       "label": "Il pensiero computazionale",
       "type": "Concetto",
-      "description": "Il pensiero computazionale è il modo di ragionare che usiamo per risolvere un problema in modo che anche una macchina possa eseguirlo: si scompone il problema in parti più semplici, si individua ciò che conta davvero e si descrive la soluzione come una sequenza precisa di istruzioni (un algoritmo). Non riguarda solo i computer: è una competenza logica e di problem solving utile in qualsiasi attività."
+      "description": "Il pensiero computazionale è il modo di ragionare che usiamo per risolvere un problema in modo che anche una macchina possa eseguirlo: si scompone il problema in parti più semplici, si individua ciò che conta davvero e si descrive la soluzione come una sequenza precisa di istruzioni (un algoritmo). Non riguarda solo i computer: è una competenza logica e di problem solving utile in qualsiasi attività.\n\n📺 A scuola con i robot: la robotica educativa e il pensiero computazionale · OTTO Discorsi Diretti\n[[youtube/pzg1-UpMypA]]",
+      "video": true
     },
     {
       "id": "pesca-e-acquacoltura",
@@ -484,7 +498,7 @@
       "id": "piano-inclinato-vite-cuneo",
       "label": "Piano inclinato, vite e cuneo",
       "type": "Concetto",
-      "description": "Il piano inclinato, il cuneo e la vite sono tre macchine semplici strettamente legate: il cuneo e la vite derivano dal piano inclinato. Tutte e tre permettono di vincere una forza resistente applicando una forza motrice più piccola, sfruttando la geometria della superficie inclinata. ---"
+      "description": "Il piano inclinato, il cuneo e la vite sono tre macchine semplici strettamente legate: il cuneo e la vite derivano dal piano inclinato. Tutte e tre permettono di vincere una forza resistente applicando una forza motrice più piccola, sfruttando la geometria della superficie inclinata."
     },
     {
       "id": "poligoni-regolari-e-curve",
@@ -550,7 +564,8 @@
       "id": "riciclo-e-sostenibilita-dei-materiali",
       "label": "Riciclo e sostenibilità dei materiali",
       "type": "Concetto",
-      "description": "Il riciclo è il processo che recupera i materiali contenuti negli oggetti a fine vita e li reintroduce nel ciclo produttivo come nuove materie prime; la sostenibilità dei materiali è la scelta e l'uso di materiali in modo da soddisfare i bisogni di oggi senza compromettere le risorse delle generazioni future."
+      "description": "Il riciclo è il processo che recupera i materiali contenuti negli oggetti a fine vita e li reintroduce nel ciclo produttivo come nuove materie prime; la sostenibilità dei materiali è la scelta e l'uso di materiali in modo da soddisfare i bisogni di oggi senza compromettere le risorse delle generazioni future.\n\n📺 Il riciclo della plastica · CONAI\n[[youtube/1EoeGgrAtJ4]]",
+      "video": true
     },
     {
       "id": "rifiuti-e-raccolta-differenziata",
@@ -568,13 +583,14 @@
       "id": "risparmio-energetico-e-efficienza",
       "label": "Risparmio energetico ed efficienza",
       "type": "Concetto",
-      "description": "Il risparmio energetico è l'insieme dei comportamenti e degli interventi finalizzati a ridurre i consumi di energia nelle attività quotidiane e nella produzione industriale, impiegando l'energia in modo più razionale ed evitando gli sprechi. L'efficienza energetica indica la capacità di un apparecchio o di un edificio di svolgere la propria funzione consumando la minore quantità di energia possibile. ---"
+      "description": "Il risparmio energetico è l'insieme dei comportamenti e degli interventi finalizzati a ridurre i consumi di energia nelle attività quotidiane e nella produzione industriale, impiegando l'energia in modo più razionale ed evitando gli sprechi. L'efficienza energetica indica la capacità di un apparecchio o di un edificio di svolgere la propria funzione consumando la minore quantità di energia possibile."
     },
     {
       "id": "robotica-educativa",
       "label": "La robotica educativa",
       "type": "Concetto",
-      "description": "La robotica educativa è l'uso di robot programmabili (come mBot o piccoli robot costruiti con micro:bit) come strumento per imparare. Più che costruire macchine, serve a sviluppare il pensiero computazionale: si scrive un programma, lo si carica nel robot, si osserva cosa fa e lo si corregge. Un robot è una macchina capace di \"sentire\" l'ambiente con i sensori, \"decidere\" tramite un programma e \"agire\" sul mondo con gli attuatori (motori, LED, cicalino)."
+      "description": "La robotica educativa è l'uso di robot programmabili (come mBot o piccoli robot costruiti con micro:bit) come strumento per imparare. Più che costruire macchine, serve a sviluppare il pensiero computazionale: si scrive un programma, lo si carica nel robot, si osserva cosa fa e lo si corregge. Un robot è una macchina capace di \"sentire\" l'ambiente con i sensori, \"decidere\" tramite un programma e \"agire\" sul mondo con gli attuatori (motori, LED, cicalino).\n\n📺 A scuola con i robot: la robotica educativa e il pensiero computazionale · OTTO Discorsi Diretti\n[[youtube/pzg1-UpMypA]]",
+      "video": true
     },
     {
       "id": "scale-di-riduzione-e-quotatura",
@@ -592,19 +608,19 @@
       "id": "settore-primario-agricoltura-allevamento-pesca",
       "label": "Il settore primario: agricoltura, allevamento e pesca",
       "type": "Concetto",
-      "description": "Il settore primario comprende tutte le attività che ricavano direttamente risorse dall'ambiente naturale: l'agricoltura (coltivazione della terra), l'allevamento (zootecnia), la pesca (e l'acquacoltura) e la silvicoltura. È il settore che fornisce le materie prime e gli alimenti di base a tutta l'economia. ---"
+      "description": "Il settore primario comprende tutte le attività che ricavano direttamente risorse dall'ambiente naturale: l'agricoltura (coltivazione della terra), l'allevamento (zootecnia), la pesca (e l'acquacoltura) e la silvicoltura. È il settore che fornisce le materie prime e gli alimenti di base a tutta l'economia."
     },
     {
       "id": "settore-secondario-industria-e-artigianato",
       "label": "Il settore secondario: industria e artigianato",
       "type": "Concetto",
-      "description": "Il settore secondario comprende tutte le attività industriali e artigianali che trasformano le materie prime in semilavorati e prodotti finiti. Include fabbriche, industrie manifatturiere, imprese edili, laboratori artigianali e industrie dell'energia. È il settore della trasformazione: prende ciò che viene dal primario (risorse naturali) e lo converte in beni tangibili destinati al mercato. ---"
+      "description": "Il settore secondario comprende tutte le attività industriali e artigianali che trasformano le materie prime in semilavorati e prodotti finiti. Include fabbriche, industrie manifatturiere, imprese edili, laboratori artigianali e industrie dell'energia. È il settore della trasformazione: prende ciò che viene dal primario (risorse naturali) e lo converte in beni tangibili destinati al mercato."
     },
     {
       "id": "settore-terziario-commercio-trasporti-servizi",
       "label": "Il settore terziario: commercio, trasporti e servizi",
       "type": "Concetto",
-      "description": "Il settore terziario comprende tutte le attività economiche che non sono né agricole né industriali: non produce beni materiali, bensì servizi (beni immateriali) utili alle imprese dei settori primario e secondario e alle persone. Vi rientrano commercio, trasporti, comunicazioni, turismo, istruzione, sanità, servizi bancari e finanziari. ---"
+      "description": "Il settore terziario comprende tutte le attività economiche che non sono né agricole né industriali: non produce beni materiali, bensì servizi (beni immateriali) utili alle imprese dei settori primario e secondario e alle persone. Vi rientrano commercio, trasporti, comunicazioni, turismo, istruzione, sanità, servizi bancari e finanziari."
     },
     {
       "id": "sicurezza-elettrica",
@@ -628,13 +644,14 @@
       "id": "smart-city-e-mobilita-sostenibile",
       "label": "La smart city e la mobilità sostenibile",
       "type": "Concetto",
-      "description": "Una smart city (\"città intelligente\") è una città che usa la tecnologia, la comunicazione e i dati per offrire a chi la abita una migliore qualità della vita, riducendo gli sprechi di energia, l'inquinamento e i costi. La mobilità sostenibile è il modo di spostarsi che limita le emissioni inquinanti: a piedi, in bicicletta, con i mezzi pubblici e con i servizi di condivisione (bike sharing, car sharing) e i veicoli elettrici."
+      "description": "Una smart city (\"città intelligente\") è una città che usa la tecnologia, la comunicazione e i dati per offrire a chi la abita una migliore qualità della vita, riducendo gli sprechi di energia, l'inquinamento e i costi. La mobilità sostenibile è il modo di spostarsi che limita le emissioni inquinanti: a piedi, in bicicletta, con i mezzi pubblici e con i servizi di condivisione (bike sharing, car sharing) e i veicoli elettrici.\n\n📺 Urbanistica e mobilità sostenibile: la sfida delle città del futuro · Omar Di Felice\n[[youtube/4ENRgYohsMU]]",
+      "video": true
     },
     {
       "id": "social-network-e-cittadinanza-digitale",
       "label": "Social network e cittadinanza digitale",
       "type": "Concetto",
-      "description": "I social network sono piattaforme digitali che permettono agli utenti di creare un profilo personale, costruire una rete di contatti e condividere contenuti (testi, immagini, video). La cittadinanza digitale è l'insieme di competenze, diritti e responsabilità che consentono di partecipare in modo consapevole, etico e sicuro alla vita in rete. ---"
+      "description": "I social network sono piattaforme digitali che permettono agli utenti di creare un profilo personale, costruire una rete di contatti e condividere contenuti (testi, immagini, video). La cittadinanza digitale è l'insieme di competenze, diritti e responsabilità che consentono di partecipare in modo consapevole, etico e sicuro alla vita in rete."
     },
     {
       "id": "strumenti-del-disegno-tecnico",
@@ -658,7 +675,8 @@
       "id": "sviluppo-sostenibile",
       "label": "Lo sviluppo sostenibile",
       "type": "Concetto",
-      "description": "Lo sviluppo sostenibile è un modello di sviluppo che soddisfa i bisogni delle generazioni presenti senza compromettere la possibilità che le generazioni future riescano a soddisfare i propri. Si fonda sull'equilibrio tra tre dimensioni: ambiente, economia e società."
+      "description": "Lo sviluppo sostenibile è un modello di sviluppo che soddisfa i bisogni delle generazioni presenti senza compromettere la possibilità che le generazioni future riescano a soddisfare i propri. Si fonda sull'equilibrio tra tre dimensioni: ambiente, economia e società.\n\n📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop\n[[youtube/JQ5Dq74GhnU]]",
+      "video": true
     },
     {
       "id": "tecnologia-e-tecnica",
@@ -670,7 +688,7 @@
       "id": "telefonia-e-telecomunicazioni",
       "label": "Telefonia e telecomunicazioni",
       "type": "Concetto",
-      "description": "La telecomunicazione è la trasmissione a distanza di informazioni (voce, testi, immagini, dati) tra un trasmettitore e un ricevitore, attraverso cavi o onde elettromagnetiche. Il telefono è il mezzo di telecomunicazione interpersonale più importante del Novecento; lo smartphone ne è l'evoluzione digitale contemporanea. ---"
+      "description": "La telecomunicazione è la trasmissione a distanza di informazioni (voce, testi, immagini, dati) tra un trasmettitore e un ricevitore, attraverso cavi o onde elettromagnetiche. Il telefono è il mezzo di telecomunicazione interpersonale più importante del Novecento; lo smartphone ne è l'evoluzione digitale contemporanea."
     },
     {
       "id": "terreno-e-clima-in-agricoltura",
@@ -688,43 +706,43 @@
       "id": "trasformazione-del-moto",
       "label": "La trasformazione del moto: biella-manovella e camme",
       "type": "Concetto",
-      "description": "La trasformazione del moto è l'insieme dei meccanismi che convertono un tipo di moto in un altro: il sistema biella-manovella trasforma il moto rettilineo alternativo in moto rotatorio continuo (e viceversa); la camma trasforma il moto rotatorio in moto rettilineo alternativo in modo non reversibile. ---"
+      "description": "La trasformazione del moto è l'insieme dei meccanismi che convertono un tipo di moto in un altro: il sistema biella-manovella trasforma il moto rettilineo alternativo in moto rotatorio continuo (e viceversa); la camma trasforma il moto rotatorio in moto rettilineo alternativo in modo non reversibile."
     },
     {
       "id": "trasmissione-del-moto",
       "label": "La trasmissione del moto: ingranaggi, cinghie e catene",
       "type": "Concetto",
-      "description": "La trasmissione del moto è il trasferimento del moto rotatorio da un organo meccanico a un altro tramite sistemi rigidi (ruote dentate) o flessibili (cinghie e catene). Il rapporto tra le dimensioni degli organi coinvolti determina se la velocità aumenta o diminuisce. ---"
+      "description": "La trasmissione del moto è il trasferimento del moto rotatorio da un organo meccanico a un altro tramite sistemi rigidi (ruote dentate) o flessibili (cinghie e catene). Il rapporto tra le dimensioni degli organi coinvolti determina se la velocità aumenta o diminuisce."
     },
     {
       "id": "trasporto-aereo",
       "label": "Il trasporto aereo",
       "type": "Concetto",
-      "description": "Il trasporto aereo è il sistema di spostamento di persone e merci mediante aeromobili (aerei, elicotteri) che volano lungo corridoi aerei controllati e atterrano in apposite infrastrutture chiamate aeroporti. ---"
+      "description": "Il trasporto aereo è il sistema di spostamento di persone e merci mediante aeromobili (aerei, elicotteri) che volano lungo corridoi aerei controllati e atterrano in apposite infrastrutture chiamate aeroporti."
     },
     {
       "id": "trasporto-ferroviario",
       "label": "Il trasporto ferroviario",
       "type": "Concetto",
-      "description": "Il trasporto ferroviario è il sistema di spostamento di persone e merci mediante treni che circolano su una rete di rotaie d'acciaio (binari), alimentati prevalentemente da motori elettrici. ---"
+      "description": "Il trasporto ferroviario è il sistema di spostamento di persone e merci mediante treni che circolano su una rete di rotaie d'acciaio (binari), alimentati prevalentemente da motori elettrici."
     },
     {
       "id": "trasporto-spaziale",
       "label": "Il trasporto spaziale",
       "type": "Concetto",
-      "description": "Il trasporto spaziale è l'insieme delle tecnologie e dei sistemi che permettono di lanciare oggetti o persone oltre l'atmosfera terrestre, mettere in orbita satelliti artificiali e stazioni spaziali, e far rientrare veicoli sulla Terra. ---"
+      "description": "Il trasporto spaziale è l'insieme delle tecnologie e dei sistemi che permettono di lanciare oggetti o persone oltre l'atmosfera terrestre, mettere in orbita satelliti artificiali e stazioni spaziali, e far rientrare veicoli sulla Terra."
     },
     {
       "id": "trasporto-su-acqua-e-navi",
       "label": "Il trasporto su acqua e le navi",
       "type": "Concetto",
-      "description": "Il trasporto via acqua è il sistema di spostamento di persone e merci attraverso mari, fiumi, laghi e canali mediante imbarcazioni; è la modalità più economica per spostare grandi quantità di merci su lunghe distanze e si conclude nei porti. ---"
+      "description": "Il trasporto via acqua è il sistema di spostamento di persone e merci attraverso mari, fiumi, laghi e canali mediante imbarcazioni; è la modalità più economica per spostare grandi quantità di merci su lunghe distanze e si conclude nei porti."
     },
     {
       "id": "trasporto-su-gomma-e-automobile",
       "label": "Il trasporto su gomma e l'automobile",
       "type": "Concetto",
-      "description": "Il trasporto su gomma è il sistema di spostamento di persone e merci che avviene su strade e autostrade mediante veicoli dotati di pneumatici: automobili, autobus, autocarri, motocicli e biciclette. L'automobile è il veicolo a motore privato più diffuso al mondo ed è costituita da telaio/carrozzeria, motore (a combustione interna o elettrico), organi di trasmissione e sistemi di sicurezza. ---"
+      "description": "Il trasporto su gomma è il sistema di spostamento di persone e merci che avviene su strade e autostrade mediante veicoli dotati di pneumatici: automobili, autobus, autocarri, motocicli e biciclette. L'automobile è il veicolo a motore privato più diffuso al mondo ed è costituita da telaio/carrozzeria, motore (a combustione interna o elettrico), organi di trasmissione e sistemi di sicurezza."
     },
     {
       "id": "apprendimento-esperienziale",
@@ -988,7 +1006,7 @@
       "id": "esperimenti-con-i-circuiti-elettrici",
       "label": "Esperimenti con i circuiti elettrici",
       "type": "Attività didattica",
-      "description": "Alunne e alunni della scuola secondaria di primo grado, preferibilmente classe seconda o terza, nell'ambito dell'unità sull'energia elettrica e i circuiti. Presuppone che la classe abbia già incontrato la teoria di base sulla corrente elettrica. ---"
+      "description": "Alunne e alunni della scuola secondaria di primo grado, preferibilmente classe seconda o terza, nell'ambito dell'unità sull'energia elettrica e i circuiti. Presuppone che la classe abbia già incontrato la teoria di base sulla corrente elettrica."
     },
     {
       "id": "lettura-etichette-alimentari",
@@ -1156,7 +1174,7 @@
       "id": "valutazione-sostenibilita",
       "label": "Valutare le competenze su tecnologia e sostenibilità",
       "type": "Valutazione",
-      "description": "Il prodotto finale può essere, ad esempio, una presentazione sui vantaggi della raccolta differenziata, una campagna per la scuola sostenibile, un'indagine sui rifiuti della classe, il calcolo dell'impronta ecologica del gruppo o una proposta legata a un obiettivo dell'Agenda 2030. Si valuta su cinque criteri, da condividere con gli studenti prima di iniziare, come prevede la \"consegna agli studenti\": cosa si chiede di fare, in che modo, quali prodotti, che senso ha, tempi, risorse, criteri di valutazione e peso del compito. 1. Correttezza dei contenuti — i concetti su risorse, rifiuti, riciclo, impatto ambientale, sviluppo sostenibile e Agenda 2030 sono usati in modo corretto; i dati riportati (es. tempi di degradazione, percentuali di differenziata) sono coerenti con le fonti consultate. 2. Argomentazione del problema — lo studente spiega perché un comportamento è (in)sostenibile e quali vantaggi porta la soluzione proposta (es. i vantaggi della differenziata: meno rifiuti in discarica, recupero di materia, risparmio di risorse). 3. Uso del linguaggio tecnico — impiega i termini specifici (risorsa rinnovabile/non rinnovabile, impronta ecologica, economia circolare, effetto serra, raccolta differenziata) in modo appropriato. 4. Qualità della realizzazione e del prodotto digitale — il prodotto è completo, ordinato e leggibile; rispetta la consegna (tempi, formato, parti richieste); se è una presentazione, testo e immagini sono efficaci e ben organizzati. 5. Autonomia e collaborazione — lo studente lavora in autonomia nelle fasi individuali e contribuisce in modo costruttivo al lavoro di gruppo; sa presentare e discutere il proprio lavoro. > (proposta progettuale) I cinque criteri e la loro articolazione sono una proposta dell'autore, costruita combinando i contenuti del compito di realtà I vantaggi della raccolta differenziata (prodotto PowerPoint, fasi di ricerca e progettazione) con la struttura della \"consegna agli studenti\" Pearson. Vanno adattati al prodotto effettivamente assegnato. ---"
+      "description": "Il prodotto finale può essere, ad esempio, una presentazione sui vantaggi della raccolta differenziata, una campagna per la scuola sostenibile, un'indagine sui rifiuti della classe, il calcolo dell'impronta ecologica del gruppo o una proposta legata a un obiettivo dell'Agenda 2030. Si valuta su cinque criteri, da condividere con gli studenti prima di iniziare, come prevede la \"consegna agli studenti\": cosa si chiede di fare, in che modo, quali prodotti, che senso ha, tempi, risorse, criteri di valutazione e peso del compito. 1. Correttezza dei contenuti — i concetti su risorse, rifiuti, riciclo, impatto ambientale, sviluppo sostenibile e Agenda 2030 sono usati in modo corretto; i dati riportati (es. tempi di degradazione, percentuali di differenziata) sono coerenti con le fonti consultate. 2. Argomentazione del problema — lo studente spiega perché un comportamento è (in)sostenibile e quali vantaggi porta la soluzione proposta (es. i vantaggi della differenziata: meno rifiuti in discarica, recupero di materia, risparmio di risorse). 3. Uso del linguaggio tecnico — impiega i termini specifici (risorsa rinnovabile/non rinnovabile, impronta ecologica, economia circolare, effetto serra, raccolta differenziata) in modo appropriato. 4. Qualità della realizzazione e del prodotto digitale — il prodotto è completo, ordinato e leggibile; rispetta la consegna (tempi, formato, parti richieste); se è una presentazione, testo e immagini sono efficaci e ben organizzati. 5. Autonomia e collaborazione — lo studente lavora in autonomia nelle fasi individuali e contribuisce in modo costruttivo al lavoro di gruppo; sa presentare e discutere il proprio lavoro. > (proposta progettuale) I cinque criteri e la loro articolazione sono una proposta dell'autore, costruita combinando i contenuti del compito di realtà I vantaggi della raccolta differenziata (prodotto PowerPoint, fasi di ricerca e progettazione) con la struttura della \"consegna agli studenti\" Pearson. Vanno adattati al prodotto effettivamente assegnato."
     },
     {
       "id": "valutazione-trasporti",
