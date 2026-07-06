@@ -129,5 +129,5 @@ La classe progetta una semplice "indagine di sostenibilità" della scuola: defin
 
 ## Risorse multimediali
 
-[![▶ Il riscaldamento globale: le cause](https://img.youtube.com/vi/JQ5Dq74GhnU/hqdefault.jpg)](https://www.youtube.com/watch?v=JQ5Dq74GhnU)
+<iframe src="https://www.youtube.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allowfullscreen loading="lazy" title="Il riscaldamento globale: le cause"></iframe>
 *📺 Il riscaldamento globale: le cause · Geopop*

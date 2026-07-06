@@ -236,5 +236,5 @@ Ogni gruppo prepara una posizione scritta (max 1 pagina) con argomenti tecnici, 
 
 ## Risorse multimediali
 
-[![▶ Fusione nucleare: la grande sfida tecnologica](https://img.youtube.com/vi/o9AKgqvEI4E/hqdefault.jpg)](https://www.youtube.com/watch?v=o9AKgqvEI4E)
+<iframe src="https://www.youtube.com/embed/o9AKgqvEI4E" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allowfullscreen loading="lazy" title="Fusione nucleare: la grande sfida tecnologica"></iframe>
 *📺 Fusione nucleare: la grande sfida tecnologica · Geopop*

@@ -266,5 +266,5 @@ Vedi anche: [[simulazioni-macchine-e-motori]]
 
 ## Risorse multimediali
 
-[![▶ Motore elettrico: spiegazione semplice](https://img.youtube.com/vi/MSTcV0ubIk8/hqdefault.jpg)](https://www.youtube.com/watch?v=MSTcV0ubIk8)
+<iframe src="https://www.youtube.com/embed/MSTcV0ubIk8" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allowfullscreen loading="lazy" title="Motore elettrico: spiegazione semplice"></iframe>
 *📺 Motore elettrico: spiegazione semplice · YouTube EDU*

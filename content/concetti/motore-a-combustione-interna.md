@@ -240,5 +240,5 @@ Gli studenti costruiscono una mappa concettuale che confronta i due tipi di moto
 
 ## Risorse multimediali
 
-[![▶ Come funziona un motore a 4 tempi](https://img.youtube.com/vi/9zCOpQ8pEgg/hqdefault.jpg)](https://www.youtube.com/watch?v=9zCOpQ8pEgg)
+<iframe src="https://www.youtube.com/embed/9zCOpQ8pEgg" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allowfullscreen loading="lazy" title="Come funziona un motore a 4 tempi"></iframe>
 *📺 Come funziona un motore a 4 tempi · YouTube EDU*

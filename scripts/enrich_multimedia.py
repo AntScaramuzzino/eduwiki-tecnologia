@@ -224,9 +224,17 @@ def md_wiki(info):
     wikil = f"[Wikipedia]({info['wiki']})" if info["wiki"] else "Wikipedia"
     return f"![{info['title']}]({info['src']})\n*📖 {desc} · {wikil} · CC BY-SA*"
 
-def md_yt(video_id, title, channel):
+def md_yt(video_id, title, channel, embed=False):
+    """embed=True → iframe per Quartz; embed=False → thumbnail cliccabile per Obsidian."""
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    if embed:
+        return (
+            f'<iframe src="https://www.youtube.com/embed/{video_id}" '
+            f'width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" '
+            f'allowfullscreen loading="lazy" title="{title}"></iframe>\n'
+            f'*📺 {title} · {channel}*'
+        )
     thumb = f"https://img.youtube.com/vi/{video_id}/hqdefault.jpg"
-    url   = f"https://www.youtube.com/watch?v={video_id}"
     return f"[![▶ {title}]({thumb})]({url})\n*📺 {title} · {channel}*"
 
 def insert_after_definition(text, wiki_block):
@@ -240,7 +248,7 @@ def insert_after_definition(text, wiki_block):
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
-def process_folder(content_dir: Path, label: str):
+def process_folder(content_dir: Path, label: str, embed_yt: bool = False):
     updated = no_media = 0
     for page in sorted(content_dir.glob("*.md")):
         if page.name == "README.md":
@@ -268,7 +276,7 @@ def process_folder(content_dir: Path, label: str):
         # 2. Video YouTube → sezione ## Risorse multimediali in fondo
         if yt:
             vid, title, ch = yt
-            result += f"\n\n{MARKER}\n\n{md_yt(vid, title, ch)}\n"
+            result += f"\n\n{MARKER}\n\n{md_yt(vid, title, ch, embed=embed_yt)}\n"
 
         page.write_text(result, encoding="utf-8")
         parts = []
@@ -279,7 +287,7 @@ def process_folder(content_dir: Path, label: str):
 
     print(f"\n[{label}] ✓ Aggiornate: {updated}  ·  Senza media: {no_media}\n")
 
-print("=== Quartz (content/concetti) ===")
-process_folder(CONTENT_QUARTZ, "Quartz")
-print("=== Obsidian (wiki/02-concetti) ===")
-process_folder(CONTENT_OBSIDIAN, "Obsidian")
+print("=== Quartz (content/concetti) — iframe YouTube ===")
+process_folder(CONTENT_QUARTZ, "Quartz", embed_yt=True)
+print("=== Obsidian (wiki/02-concetti) — thumbnail cliccabile ===")
+process_folder(CONTENT_OBSIDIAN, "Obsidian", embed_yt=False)

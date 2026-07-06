@@ -153,5 +153,5 @@ Rubrica per l'attività sul ciclo di vita / indagine sulla raccolta differenziat
 
 ## Risorse multimediali
 
-[![▶ Come viene riciclata la plastica](https://img.youtube.com/vi/hn09nndvpEI/hqdefault.jpg)](https://www.youtube.com/watch?v=hn09nndvpEI)
+<iframe src="https://www.youtube.com/embed/hn09nndvpEI" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allowfullscreen loading="lazy" title="Come viene riciclata la plastica"></iframe>
 *📺 Come viene riciclata la plastica · YouTube EDU*

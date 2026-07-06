@@ -242,5 +242,5 @@ Contro: se non c'è vento, non funziona.
 
 ## Risorse multimediali
 
-[![▶ Cosa sono le turbine eoliche](https://img.youtube.com/vi/y7wD5uajZBI/hqdefault.jpg)](https://www.youtube.com/watch?v=y7wD5uajZBI)
+<iframe src="https://www.youtube.com/embed/y7wD5uajZBI" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allowfullscreen loading="lazy" title="Cosa sono le turbine eoliche"></iframe>
 *📺 Cosa sono le turbine eoliche · YouTube EDU*
