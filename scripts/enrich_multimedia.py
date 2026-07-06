@@ -224,25 +224,22 @@ def md_wiki(info):
     wikil = f"[Wikipedia]({info['wiki']})" if info["wiki"] else "Wikipedia"
     return f"![{info['title']}]({info['src']})\n*📖 {desc} · {wikil} · CC BY-SA*"
 
-def md_yt(video_id, title, channel, embed=False):
-    """embed=True → iframe per Quartz; embed=False → thumbnail cliccabile per Obsidian."""
+def md_yt(video_id, title, channel):
+    """iframe reale: supportato nativamente sia da Quartz che da Obsidian Reading View.
+    figure/figcaption in un unico blocco HTML: evita che la riga successiva
+    (senza riga vuota) venga inglobata come HTML raw invece che come markdown."""
     url = f"https://www.youtube.com/watch?v={video_id}"
-    if embed:
-        # figure/figcaption in un unico blocco HTML: evita che la riga successiva
-        # (senza riga vuota) venga inglobata come HTML raw invece che come markdown.
-        return (
-            f'<figure>\n'
-            f'<iframe src="https://www.youtube-nocookie.com/embed/{video_id}" '
-            f'width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" '
-            f'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '
-            f'referrerpolicy="strict-origin-when-cross-origin" '
-            f'allowfullscreen loading="lazy" title="{title}"></iframe>\n'
-            f'<figcaption>📺 {title} · {channel} · '
-            f'<a href="{url}" target="_blank">Guarda su YouTube</a></figcaption>\n'
-            f'</figure>'
-        )
-    thumb = f"https://img.youtube.com/vi/{video_id}/hqdefault.jpg"
-    return f"[![▶ {title}]({thumb})]({url})\n*📺 {title} · {channel}*"
+    return (
+        f'<figure>\n'
+        f'<iframe src="https://www.youtube-nocookie.com/embed/{video_id}" '
+        f'width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" '
+        f'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '
+        f'referrerpolicy="strict-origin-when-cross-origin" '
+        f'allowfullscreen loading="lazy" title="{title}"></iframe>\n'
+        f'<figcaption>📺 {title} · {channel} · '
+        f'<a href="{url}" target="_blank">Guarda su YouTube</a></figcaption>\n'
+        f'</figure>'
+    )
 
 def insert_after_definition(text, wiki_block):
     """Inserisce il blocco immagine subito dopo ## Definizione breve."""
@@ -255,7 +252,7 @@ def insert_after_definition(text, wiki_block):
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
-def process_folder(content_dir: Path, label: str, embed_yt: bool = False):
+def process_folder(content_dir: Path, label: str):
     updated = no_media = 0
     for page in sorted(content_dir.glob("*.md")):
         if page.name == "README.md":
@@ -283,7 +280,7 @@ def process_folder(content_dir: Path, label: str, embed_yt: bool = False):
         # 2. Video YouTube → sezione ## Risorse multimediali in fondo
         if yt:
             vid, title, ch = yt
-            result += f"\n\n{MARKER}\n\n{md_yt(vid, title, ch, embed=embed_yt)}\n"
+            result += f"\n\n{MARKER}\n\n{md_yt(vid, title, ch)}\n"
 
         page.write_text(result, encoding="utf-8")
         parts = []
@@ -295,6 +292,6 @@ def process_folder(content_dir: Path, label: str, embed_yt: bool = False):
     print(f"\n[{label}] ✓ Aggiornate: {updated}  ·  Senza media: {no_media}\n")
 
 print("=== Quartz (content/concetti) — iframe YouTube ===")
-process_folder(CONTENT_QUARTZ, "Quartz", embed_yt=True)
-print("=== Obsidian (wiki/02-concetti) — thumbnail cliccabile ===")
-process_folder(CONTENT_OBSIDIAN, "Obsidian", embed_yt=False)
+process_folder(CONTENT_QUARTZ, "Quartz")
+print("=== Obsidian (wiki/02-concetti) — iframe YouTube ===")
+process_folder(CONTENT_OBSIDIAN, "Obsidian")
