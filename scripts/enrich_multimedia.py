@@ -228,11 +228,18 @@ def md_yt(video_id, title, channel, embed=False):
     """embed=True → iframe per Quartz; embed=False → thumbnail cliccabile per Obsidian."""
     url = f"https://www.youtube.com/watch?v={video_id}"
     if embed:
+        # figure/figcaption in un unico blocco HTML: evita che la riga successiva
+        # (senza riga vuota) venga inglobata come HTML raw invece che come markdown.
         return (
-            f'<iframe src="https://www.youtube.com/embed/{video_id}" '
+            f'<figure>\n'
+            f'<iframe src="https://www.youtube-nocookie.com/embed/{video_id}" '
             f'width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" '
+            f'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '
+            f'referrerpolicy="strict-origin-when-cross-origin" '
             f'allowfullscreen loading="lazy" title="{title}"></iframe>\n'
-            f'*📺 {title} · {channel}*'
+            f'<figcaption>📺 {title} · {channel} · '
+            f'<a href="{url}" target="_blank">Guarda su YouTube</a></figcaption>\n'
+            f'</figure>'
         )
     thumb = f"https://img.youtube.com/vi/{video_id}/hqdefault.jpg"
     return f"[![▶ {title}]({thumb})]({url})\n*📺 {title} · {channel}*"

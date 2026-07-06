@@ -149,5 +149,7 @@ Valutare il processo (come si arriva alla soluzione) più del risultato finale. 
 
 ## Risorse multimediali
 
-<iframe src="https://www.youtube.com/embed/pzg1-UpMypA" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allowfullscreen loading="lazy" title="La robotica educativa e il pensiero computazionale"></iframe>
-*📺 La robotica educativa e il pensiero computazionale · YouTube EDU*
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/pzg1-UpMypA" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="La robotica educativa e il pensiero computazionale"></iframe>
+<figcaption>📺 La robotica educativa e il pensiero computazionale · YouTube EDU · <a href="https://www.youtube.com/watch?v=pzg1-UpMypA" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
