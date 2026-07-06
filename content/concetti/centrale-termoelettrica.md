@@ -16,6 +16,7 @@ La centrale termoelettrica è l'impianto in cui, bruciando un combustibile fossi
 
 ![Centrale termoelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg/330px-Termoelektrarna_Trbovlje_in_Sava_IMG_2581.jpg)
 *📖 impianto che genera elettricità trasformando calore · [Wikipedia](https://it.wikipedia.org/wiki/Centrale_termoelettrica) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 La centrale termoelettrica è l'esempio didattico più efficace per mostrare una **catena di trasformazioni energetiche**. Il nome lo dice già: "termo" (calore) + "elettrica" (elettricità). Il principio è quello della macchina a vapore ottocentesca: si brucia un combustibile per scaldare acqua, il vapore mette in rotazione una turbina, la turbina trascina un alternatore che produce corrente.

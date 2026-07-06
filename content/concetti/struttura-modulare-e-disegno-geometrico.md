@@ -16,6 +16,7 @@ Un **modulo** è una figura semplice di forma costante, ripetibile e intercambia
 
 ![Modulo (architettura)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Prato%2C_fabbrica_architettura_modulare.JPG/330px-Prato%2C_fabbrica_architettura_modulare.JPG)
 *📖 Modulo (architettura) · [Wikipedia](https://it.wikipedia.org/wiki/Modulo_(architettura)) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il concetto di struttura modulare collega geometria piana, disegno tecnico ed educazione all'immagine. Nei manuali di tecnologia per la secondaria di primo grado viene trattato come applicazione del disegno geometrico: si parte dalle figure di base (quadrato, triangolo, esagono, rombo) per generare composizioni che coprono il piano.

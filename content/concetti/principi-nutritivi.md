@@ -16,6 +16,7 @@ I principi nutritivi (o nutrienti) sono le sostanze contenute negli alimenti, in
 
 ![Principi nutritivi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diaetetische_LM_DE.jpg/330px-Diaetetische_LM_DE.jpg)
 *📖 Principi nutritivi · [Wikipedia](https://it.wikipedia.org/wiki/Principi_nutritivi) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Nel curricolo di Tecnologia della secondaria di primo grado, i principi nutritivi rientrano nel settore produttivo dell'agroalimentare e nell'educazione alimentare. L'obiettivo non è una trattazione biochimica, ma far comprendere agli studenti **da quali sostanze sono composti gli alimenti** e **a cosa servono nel corpo**, come base per leggere le etichette nutrizionali e per ragionare su un'alimentazione equilibrata.

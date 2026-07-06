@@ -19,6 +19,7 @@ I **rifiuti** sono tutti i materiali e gli oggetti che, dopo essere stati usati,
 
 ![Raccolta differenziata](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg/330px-Sorted_waste_containers_in_Trieste%2C_Friuli_Venezia-Giulia%2C_Italy%2C_EU.jpg)
 *📖 raccolta differenziata dei rifiuti, per favorirne il riciclo e lo smaltimento · [Wikipedia](https://it.wikipedia.org/wiki/Raccolta_differenziata) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il tema dei rifiuti è un nodo centrale del curricolo di Tecnologia legato a sostenibilità ed educazione civica. È utile presentarlo a partire da una **classificazione** delle principali tipologie, come fanno i manuali: rifiuti domestici (ciò che le famiglie buttano nella spazzatura, a loro volta suddivisibili in organico, vetro, plastica, tessuti, legno, metalli), rifiuti industriali (scorie e scarti di produzione, oli combusti, liquidi di lavaggio), rifiuti ingombranti (prodotti di grandi dimensioni) e rifiuti ospedalieri (pericolosi perché contengono sostanze chimiche da trattare con processi particolari).

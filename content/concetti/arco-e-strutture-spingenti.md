@@ -18,6 +18,7 @@ L'arco è una struttura curva che poggia su due **piedritti** (gli elementi vert
 
 ![Arco (architettura)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palazzo_Te_Mantova_2.jpg/330px-Palazzo_Te_Mantova_2.jpg)
 *📖 elemento strutturale e decorativo curvilineo poggiante su due piedritti · [Wikipedia](https://it.wikipedia.org/wiki/Arco_(architettura)) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 L'arco è uno dei nodi concettuali più produttivi del curricolo di Tecnologia: collega in un solo oggetto i concetti di forza, sollecitazione (compressione), equilibrio e funzione strutturale, e si presta a un laboratorio immediato.

@@ -16,6 +16,7 @@ La **grafica digitale** è la tecnica con cui si creano o si modificano immagini
 
 ![Elaborazione digitale delle immagini](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Retoqueacne.jpg/330px-Retoqueacne.jpg)
 *📖 attività che permette di modificare un'immagine digitale · [Wikipedia](https://it.wikipedia.org/wiki/Elaborazione_digitale_delle_immagini) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il concetto chiusura il passaggio dal disegno a mano e dal CAD verso la cultura dell'immagine digitale: capire **come è fatta** un'immagine al computer aiuta gli studenti a scegliere lo strumento giusto e a non commettere errori tipici (stampare una foto presa da web a bassa risoluzione, salvare un logo come JPG sgranato, ecc.).

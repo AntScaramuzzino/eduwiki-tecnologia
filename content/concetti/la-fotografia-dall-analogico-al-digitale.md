@@ -20,6 +20,7 @@ La fotografia è la tecnica che usa la luce per registrare, su appositi supporti
 
 ![Fotografia digitale](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SF-ggbridge-retouch.gif/330px-SF-ggbridge-retouch.gif)
 *📖 procedimento per l'acquisizione di immagini statiche · [Wikipedia](https://it.wikipedia.org/wiki/Fotografia_digitale) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 La fotografia nasce dall'applicazione pratica della camera oscura, principio fisico noto già tra il X e l'XI secolo nel mondo arabo e usato in seguito dai pittori del Seicento per riprodurre paesaggi in prospettiva. La camera oscura è una scatola a tenuta di luce con un foro su un lato: i raggi luminosi provenienti dall'esterno entrano dal foro e proiettano sulla parete opposta un'immagine capovolta e rovesciata del soggetto.

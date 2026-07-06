@@ -16,6 +16,7 @@ Il **motore diesel** è un motore a combustione interna a quattro tempi che usa 
 
 ![Motore Diesel](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lumbar_patent_dieselengine.jpg/330px-Lumbar_patent_dieselengine.jpg)
 *📖 tipologia di motore a combustione interna · [Wikipedia](https://it.wikipedia.org/wiki/Motore_Diesel) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 ### Il ciclo del motore diesel a quattro tempi

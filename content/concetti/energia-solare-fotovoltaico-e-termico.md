@@ -24,6 +24,12 @@ L'energia solare è l'energia proveniente dal Sole sotto forma di radiazioni ele
 
 ![Pannello fotovoltaico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Solar_panels_in_Brussels_-_P060781-269644.jpg/330px-Solar_panels_in_Brussels_-_P060781-269644.jpg)
 *📖 set di moduli fotovoltaici collegati · [Wikipedia](https://it.wikipedia.org/wiki/Pannello_fotovoltaico) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/mj6_WVh2HwU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come funziona un pannello solare dall'interno?"></iframe>
+<figcaption>📺 Come funziona un pannello solare dall'interno? · Geopop · <a href="https://www.youtube.com/watch?v=mj6_WVh2HwU" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 ### Caratteristiche generali
@@ -296,11 +302,3 @@ Di notte, o quando il cielo è molto coperto, i pannelli fotovoltaici producono 
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/mj6_WVh2HwU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come funziona un pannello solare dall'interno?"></iframe>
-<figcaption>📺 Come funziona un pannello solare dall'interno? · Geopop · <a href="https://www.youtube.com/watch?v=mj6_WVh2HwU" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

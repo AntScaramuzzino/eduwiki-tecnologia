@@ -16,6 +16,7 @@ Il legno è un materiale biologico ricavato dal tronco degli alberi, costituito 
 
 ![Legno](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bois.JPG/330px-Bois.JPG)
 *📖 materiale ricavato dai fusti delle piante · [Wikipedia](https://it.wikipedia.org/wiki/Legno) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il legno è un buon punto di partenza per il modulo sui materiali perché permette di collegare struttura biologica, proprietà tecnologiche e processo produttivo in un unico filo.

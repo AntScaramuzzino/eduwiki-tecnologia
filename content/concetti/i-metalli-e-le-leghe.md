@@ -16,6 +16,7 @@ I metalli sono elementi chimici, in genere lucenti e buoni conduttori di calore 
 
 ![Metallurgia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iron-Making.jpg/330px-Iron-Making.jpg)
 *📖 disciplina tecnica che riguarda essenzialmente lo studio dei metalli · [Wikipedia](https://it.wikipedia.org/wiki/Metallurgia) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 I metalli occupano la parte centrale della tavola periodica e rappresentano circa il 75% di tutti gli elementi presenti in natura. Solo pochi (oro, platino, argento, rame) si trovano allo stato puro: la maggior parte è presente nelle rocce sotto forma di composti chimici minerali, mescolata a ossigeno, zolfo, carbonio e silicio.

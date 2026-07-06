@@ -16,6 +16,7 @@ Gli impianti dell'abitazione sono i sistemi tecnologici che rendono la casa abit
 
 ![Termosifone](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Convection_from_different_heatings..jpg/330px-Convection_from_different_heatings..jpg)
 *📖 metodo di scambio termico in cui la convezione aziona la circolazione senza pompa · [Wikipedia](https://it.wikipedia.org/wiki/Termosifone) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il tema chiude in genere il percorso sull'edilizia: dopo aver studiato strutture, materiali e fasi di costruzione di un edificio, si guarda a ciò che lo rende vivibile. L'obiettivo non è formare piccoli impiantisti, ma far capire agli studenti la logica comune a tutti gli impianti: una **rete di distribuzione** che porta una risorsa (acqua, corrente, calore, gas) dai punti di allacciamento alla rete pubblica fino ai punti di utilizzo nelle stanze, e nel caso dell'acqua anche una **rete di scarico** che la allontana verso la fognatura.

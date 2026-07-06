@@ -16,6 +16,7 @@ I metodi di conservazione degli alimenti sono tecniche che rallentano o bloccano
 
 ![Frigorifero](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Open_refrigerator_with_food_at_night.jpg/330px-Open_refrigerator_with_food_at_night.jpg)
 *📖 elettrodomestico atto a refrigerare alimenti o altri prodotti deperibili · [Wikipedia](https://it.wikipedia.org/wiki/Frigorifero) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Gli alimenti si deteriorano perché fattori come ossigeno, acqua, luce e calore favoriscono lo sviluppo di microrganismi (muffe, lieviti, batteri) e l'azione di enzimi che degradano il cibo. Queste alterazioni modificano le proprietà organolettiche (aspetto, odore, sapore) e nutrizionali, fino a rendere i cibi dannosi. Conservare significa creare un ambiente in cui questi processi sono rallentati o bloccati.

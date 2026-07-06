@@ -17,6 +17,7 @@ La trasformazione dei cereali è l'insieme dei processi industriali che, partend
 
 ![Pane](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Assorted_bread.jpg/330px-Assorted_bread.jpg)
 *📖 alimento a base di farina di cereali e acqua · [Wikipedia](https://it.wikipedia.org/wiki/Pane) · CC BY-SA*
+
 ## Spiegazione per docenti
 Questo concetto collega l'area agricola (coltivazione dei cereali) con il settore dell'industria alimentare e permette di mostrare una **filiera completa**: dal campo al prodotto confezionato. È un ottimo terreno per far emergere la differenza fra trasformazione fisica e trasformazione chimica.
 

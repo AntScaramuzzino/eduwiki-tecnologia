@@ -21,6 +21,7 @@ simulato e interattivo, tramite visori o occhiali dedicati.
 
 ![Realtà virtuale](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg/330px-Head-mounted_display_and_wired_gloves%2C_Ames_Research_Center.jpg)
 *📖 tipo di realtà · [Wikipedia](https://it.wikipedia.org/wiki/Realt%C3%A0_virtuale) · CC BY-SA*
+
 ## Differenza con la realtà aumentata
 
 A differenza della [[realta-aumentata]], che sovrappone elementi digitali al mondo

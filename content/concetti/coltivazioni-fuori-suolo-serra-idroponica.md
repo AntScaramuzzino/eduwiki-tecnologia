@@ -15,6 +15,7 @@ Le coltivazioni protette sono tecniche con cui l'agricoltura controlla i fattori
 
 ![Idroponica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg/330px-Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg)
 *📖 tecnica di coltivazione fuori dal suolo · [Wikipedia](https://it.wikipedia.org/wiki/Idroponica) · CC BY-SA*
+
 ## Spiegazione per docenti
 L'agricoltura tradizionale dipende strettamente dai cicli stagionali e dagli eventi climatici: precipitazioni eccessive, gelate, grandine, siccità e cambiamento climatico mettono a rischio i raccolti. La tecnologia permette di controllare, almeno in parte, i tre fattori fondamentali della produzione vegetale.
 

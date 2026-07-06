@@ -15,6 +15,12 @@ Il riciclo è il processo che recupera i materiali contenuti negli oggetti a fin
 
 ![Riciclaggio dei rifiuti](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Recycling_symbol.svg/langit-330px-Recycling_symbol.svg.png)
 *📖 trattamento dei materiali di scarto per ottenere un nuovo prodotto riutilizzabile · [Wikipedia](https://it.wikipedia.org/wiki/Riciclaggio_dei_rifiuti) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/1EoeGgrAtJ4" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riciclo della plastica"></iframe>
+<figcaption>📺 Il riciclo della plastica · CONAI · <a href="https://www.youtube.com/watch?v=1EoeGgrAtJ4" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 Il tema del riciclo va inquadrato dentro il passaggio dall'economia lineare (estrai, produci, usa, getta) all'economia circolare, modello in cui il valore di prodotti, materie prime e risorse viene mantenuto il più a lungo possibile, riducendo al minimo i rifiuti residui.
 
@@ -149,11 +155,3 @@ Rubrica per l'attività sul ciclo di vita / indagine sulla raccolta differenziat
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/1EoeGgrAtJ4" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riciclo della plastica"></iframe>
-<figcaption>📺 Il riciclo della plastica · CONAI · <a href="https://www.youtube.com/watch?v=1EoeGgrAtJ4" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

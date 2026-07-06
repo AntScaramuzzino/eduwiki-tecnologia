@@ -16,6 +16,7 @@ Il latte è un alimento completo, prodotto dalla mungitura di animali come mucca
 
 ![Latte](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/330px-Milk_glass.jpg)
 *📖 liquido secreto dalla ghiandola mammaria delle femmine dei mammiferi · [Wikipedia](https://it.wikipedia.org/wiki/Latte) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il latte e i suoi derivati rappresentano un caso esemplare del settore secondario delle tecnologie alimentari: una materia prima di origine animale che, attraverso una catena di trattamenti fisici e biologici, diventa una famiglia di prodotti finiti. È un argomento utile per far comprendere il concetto di filiera (dalla stalla allo scaffale) e di trasformazione controllata.

@@ -22,6 +22,7 @@ Quando una corrente elettrica attraversa un corpo conduttore produce degli **eff
 
 ![Corrente elettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Direzione_convenzionale_della_corrente_elettrica.svg/langit-330px-Direzione_convenzionale_della_corrente_elettrica.svg.png)
 *📖 flusso coerente ed ordinato di elettroni che attraversano un circuito elettrico · [Wikipedia](https://it.wikipedia.org/wiki/Corrente_elettrica) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il concetto degli effetti della corrente è il punto in cui l'elettricità "astratta" (cariche, tensione, intensità) diventa tecnologia visibile e quotidiana. Conviene trattarlo dopo aver introdotto le grandezze elettriche e il circuito, perché ogni effetto si spiega a partire dal movimento ordinato degli elettroni nel conduttore.

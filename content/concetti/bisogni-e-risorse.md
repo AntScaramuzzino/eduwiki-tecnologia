@@ -15,6 +15,7 @@ Il **bisogno** è la necessità di qualcosa che manca (mangiare, ripararsi, comu
 
 ![Piramide di Maslow](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Piramide_maslow.png/330px-Piramide_maslow.png)
 *📖 teoria psicologica proposta da Abraham Maslow · [Wikipedia](https://it.wikipedia.org/wiki/Piramide_di_Maslow) · CC BY-SA*
+
 ## Spiegazione per docenti
 Il binomio "bisogni e risorse" è il punto di partenza di tutta la tecnologia e introduce in modo naturale il tema della sostenibilità.
 

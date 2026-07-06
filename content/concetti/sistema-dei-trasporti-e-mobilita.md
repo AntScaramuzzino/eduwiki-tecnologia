@@ -16,6 +16,7 @@ Il **sistema dei trasporti** è l'insieme organizzato di mezzi, infrastrutture e
 
 ![Ingegneria dei trasporti](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Baghdad_Railway_2-6-0T_%2846429334021%29.jpg/330px-Baghdad_Railway_2-6-0T_%2846429334021%29.jpg)
 *📖 Ingegneria dei trasporti · [Wikipedia](https://it.wikipedia.org/wiki/Ingegneria_dei_trasporti) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il sistema dei trasporti è uno dei temi portanti dell'Area "Settori produttivi" nei libri di testo di tecnologia per la secondaria di primo grado. I testi adottati ne trattano sia la dimensione tecnica (tipi di mezzi, infrastrutture, modalità di trasporto) sia quella economica e ambientale.

@@ -23,6 +23,12 @@ Il motore a combustione interna (detto anche motore a scoppio) è una macchina m
 
 ![Motore a combustione interna](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Osservatorio_ximeniano%2C_modello_del_motore_a_scoppio_barsanti-matteucci_03.JPG/330px-Osservatorio_ximeniano%2C_modello_del_motore_a_scoppio_barsanti-matteucci_03.JPG)
 *📖 macchina motrice termica che permette di convertire l'energia chimica · [Wikipedia](https://it.wikipedia.org/wiki/Motore_a_combustione_interna) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/9zCOpQ8pEgg" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Guardiamo attraverso un motore 4 tempi: come funziona dall'interno"></iframe>
+<figcaption>📺 Guardiamo attraverso un motore 4 tempi: come funziona dall'interno · Geopop · <a href="https://www.youtube.com/watch?v=9zCOpQ8pEgg" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Il motore a combustione interna — comunemente chiamato motore a scoppio — è definito tale perché la combustione avviene all'interno del motore stesso e non in una caldaia esterna come nel precedente motore a vapore. Questa caratteristica lo distingue nettamente dai motori a combustione esterna.
@@ -236,11 +242,3 @@ Gli studenti costruiscono una mappa concettuale che confronta i due tipi di moto
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/9zCOpQ8pEgg" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Guardiamo attraverso un motore 4 tempi: come funziona dall'interno"></iframe>
-<figcaption>📺 Guardiamo attraverso un motore 4 tempi: come funziona dall'interno · Geopop · <a href="https://www.youtube.com/watch?v=9zCOpQ8pEgg" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

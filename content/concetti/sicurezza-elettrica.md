@@ -16,6 +16,7 @@ La sicurezza elettrica è l'insieme dei dispositivi, delle norme e dei comportam
 
 ![Sicurezza elettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ISO_7010_W012.svg/langit-330px-ISO_7010_W012.svg.png)
 *📖 Sicurezza elettrica · [Wikipedia](https://it.wikipedia.org/wiki/Sicurezza_elettrica) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il corpo umano è conduttore: il passaggio della corrente elettrica attraverso di esso può avere conseguenze assai gravi, che dipendono dall'intensità, dalla durata e dal tipo di corrente. La corrente alternata è più pericolosa della corrente continua perché può agire sul meccanismo di regolazione del battito cardiaco, provocandone la **fibrillazione** (interruzione del regolare battito del cuore, sostituito da contrazioni casuali e inefficienti dei muscoli cardiaci). Se il passaggio di corrente alternata dura più di qualche secondo, anche una corrente di circa 10 milliampere può essere pericolosa. La resistenza del corpo è minima quando la pelle è umida o bagnata, massima quando nel circuito sono presenti elementi scarsamente conduttori come scarpe di gomma o pavimenti di legno asciutto.

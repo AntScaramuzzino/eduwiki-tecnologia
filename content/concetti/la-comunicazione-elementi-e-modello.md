@@ -21,6 +21,7 @@ La comunicazione è un processo nel quale almeno due soggetti si scambiano infor
 
 ![Comunicazione](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Stephen_Avenue_3.jpg/330px-Stephen_Avenue_3.jpg)
 *📖 insieme dei fenomeni che comportano il trasferimento di informazioni · [Wikipedia](https://it.wikipedia.org/wiki/Comunicazione) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il modello classico della comunicazione, presente in tutti i principali libri di testo di Tecnologia per la scuola secondaria di primo grado, identifica cinque elementi fondamentali:

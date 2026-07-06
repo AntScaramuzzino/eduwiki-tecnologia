@@ -26,6 +26,7 @@ L'energia eolica è l'energia ricavata dal vento mediante la conversione dell'en
 
 ![Energia eolica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Centrale_Eolica_Frigento.jpg/330px-Centrale_Eolica_Frigento.jpg)
 *📖 energia proveniente dal vento · [Wikipedia](https://it.wikipedia.org/wiki/Energia_eolica) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il vento è generato dal riscaldamento irregolare della superficie terrestre da parte del Sole, che produce differenze di pressione atmosferica: le masse d'aria calda salgono e quelle fredde si spostano orizzontalmente per colmare il vuoto. Il vento si manifesta in modo abbastanza regolare solo in alcune zone e a una certa altezza da terra.
@@ -238,11 +239,3 @@ Contro: se non c'è vento, non funziona.
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/y7wD5uajZBI" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Cosa sono le turbine eoliche e come producono l'elettricità?"></iframe>
-<figcaption>📺 Cosa sono le turbine eoliche e come producono l'elettricità? · JAES Company · <a href="https://www.youtube.com/watch?v=y7wD5uajZBI" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

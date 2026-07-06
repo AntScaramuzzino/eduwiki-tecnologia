@@ -16,6 +16,7 @@ Un ponte è una costruzione che permette di superare un ostacolo — naturale co
 
 ![Ponte](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vasco_da_Gama_Bridge_03.JPG/330px-Vasco_da_Gama_Bridge_03.JPG)
 *📖 struttura che si estende e fornisce un passaggio su strada, ferrovia, fiume o qualche altro ostacolo · [Wikipedia](https://it.wikipedia.org/wiki/Ponte) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 ### Parti comuni a tutti i ponti

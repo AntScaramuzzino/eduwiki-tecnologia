@@ -23,6 +23,7 @@ La trasmissione del moto è il trasferimento del moto rotatorio da un organo mec
 
 ![Ingranaggio](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gears_large.jpg/330px-Gears_large.jpg)
 *📖 meccanismo per trasmettere movimento · [Wikipedia](https://it.wikipedia.org/wiki/Ingranaggio) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 La trasmissione del moto riguarda tutti i meccanismi che trasportano un movimento rotatorio da un punto di generazione (la macchina motrice) a un punto di utilizzo (la macchina operatrice). I testi adottati nelle scuole secondarie di primo grado distinguono due grandi categorie:

@@ -16,6 +16,7 @@ La **pesca** è l'attività di cattura di pesci, molluschi e crostacei nei mari,
 
 ![Acquacoltura](https://upload.wikimedia.org/wikipedia/commons/9/9a/Aquaculturechile.jpg)
 *📖 allevamento di organismi acquatici da parte dell'uomo · [Wikipedia](https://it.wikipedia.org/wiki/Acquacoltura) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 La pesca e l'acquacoltura rientrano nel settore primario (insieme ad agricoltura e allevamento) e sono affrontate nei manuali di tecnologia all'interno dell'unità dedicata all'alimentazione e ai settori produttivi.

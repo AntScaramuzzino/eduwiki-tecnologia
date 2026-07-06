@@ -20,6 +20,12 @@ L'impronta ecologica è un indicatore che misura quante risorse naturali consuma
 
 ![Impronta ecologica](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/World_map_of_countries_by_ecological_deficit_%282013%29.svg/langit-330px-World_map_of_countries_by_ecological_deficit_%282013%29.svg.png)
 *📖 indicatore per la valutazione del consumo umano di risorse rispetto alla loro rigenerazione · [Wikipedia](https://it.wikipedia.org/wiki/Impronta_ecologica) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riscaldamento globale e le sue cause spiegate con un cicchetto"></iframe>
+<figcaption>📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop · <a href="https://www.youtube.com/watch?v=JQ5Dq74GhnU" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 L'impronta ecologica (in inglese *Ecological Footprint*) è uno dei tre indicatori usati per misurare l'impatto delle attività umane sull'ambiente, insieme all'impronta di carbonio (*Carbon Footprint*) e all'impronta idrica (*Water Footprint*).
@@ -143,11 +149,3 @@ Le sezioni di spiegazione, definizione, fattori dell'indicatore e misconcezioni 
 - [[agenda-2030]]
 - [[economia-circolare]]
 - [[attivita-impronta-ecologica-personale]]
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riscaldamento globale e le sue cause spiegate con un cicchetto"></iframe>
-<figcaption>📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop · <a href="https://www.youtube.com/watch?v=JQ5Dq74GhnU" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

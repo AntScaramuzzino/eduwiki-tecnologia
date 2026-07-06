@@ -16,6 +16,7 @@ Il diritto d'autore è il complesso di norme che tutela chi crea un'opera origin
 
 ![Copyright](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/langit-330px-Copyright.svg.png)
 *📖 diritto d'autore nei paesi di common law · [Wikipedia](https://it.wikipedia.org/wiki/Copyright) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Quando si riproduce un testo, un'immagine, un suono o un video bisogna rispettare il diritto d'autore. La legge prevede che il creatore di un'opera abbia due diritti fondamentali: **vedersi riconosciuta la paternità dell'opera** (ad esempio, citando sempre l'autore quando si usa una foto) e **vedersi riconosciuto un giusto compenso** per lo sfruttamento della sua opera.

@@ -15,6 +15,7 @@ Le produzioni vegetali sono i prodotti che l'uomo ottiene coltivando le piante. 
 
 ![Cereali](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Various_grains.jpg/330px-Various_grains.jpg)
 *📖 pianta erbacea con frutti da cui si può trarre farina · [Wikipedia](https://it.wikipedia.org/wiki/Cereali) · CC BY-SA*
+
 ## Spiegazione per docenti
 La pagina inquadra le principali colture vegetali come parte del **settore primario**, in continuità con i fattori naturali (terreno, clima, acqua) e con le tecniche di coltivazione. La classificazione dei prodotti agricoli è quella più diffusa nei manuali di tecnologia: cereali, frutta, ortaggi, piante aromatiche/tessili/medicinali e industriali.
 

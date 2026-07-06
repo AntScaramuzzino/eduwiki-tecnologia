@@ -24,6 +24,7 @@ La **geotermia** è lo sfruttamento del calore naturale proveniente dall'interno
 
 ![Energia geotermica](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/330px-NesjavellirPowerPlant_edit2.jpg)
 *📖 energia termica ottenibile da fonti geologiche · [Wikipedia](https://it.wikipedia.org/wiki/Energia_geotermica) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 ### Energia geotermica

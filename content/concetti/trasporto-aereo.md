@@ -22,6 +22,7 @@ Il trasporto aereo è il sistema di spostamento di persone e merci mediante aero
 
 ![Aviazione](https://upload.wikimedia.org/wikipedia/it/thumb/2/2f/Patchwork_Aviazione.JPG/330px-Patchwork_Aviazione.JPG)
 *📖 insieme di attività che coinvolgono qualsiasi tipo di apparecchio adatto al volo · [Wikipedia](https://it.wikipedia.org/wiki/Aviazione) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il trasporto aereo è uno dei nodi concettuali più ricchi del tema "trasporti" per la scuola secondaria di primo grado: tocca la fisica (portanza, principio di Bernoulli), i materiali (leghe leggere, materiali compositi), i motori (turboreattore, turbofan), le infrastrutture (aeroporti, aerovie) e l'impatto ambientale (il trasporto aereo rappresenta circa il 12 % delle emissioni globali di CO₂ dei trasporti, secondo Pianeta tecnologia).

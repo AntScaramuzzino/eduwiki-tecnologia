@@ -16,6 +16,7 @@ Costruire un edificio significa realizzare, secondo un ordine preciso, una strut
 
 ![Edilizia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Construction_site_in_Cologne%2C_Germany_%282017%29.jpg/330px-Construction_site_in_Cologne%2C_Germany_%282017%29.jpg)
 *📖 processo di progettazione e realizzazione di una costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Edilizia) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 La costruzione di un edificio è un processo a fasi che mette insieme conoscenze su forze, materiali e strutture portanti. Prima ancora del cantiere c'è la **progettazione**: il committente incarica un tecnico abilitato (geometra, architetto o ingegnere) di redigere il progetto, che deve rispettare le norme del piano regolatore generale del Comune e le esigenze del committente.

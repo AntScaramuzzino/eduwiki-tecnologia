@@ -16,6 +16,7 @@ Gli strumenti del disegno tecnico sono gli attrezzi che permettono di tracciare 
 
 ![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/330px-Wright_brothers_patent_plans_1908.jpg)
 *📖 forma di apprendimento visiva tra addetti ai lavori · [Wikipedia](https://it.wikipedia.org/wiki/Disegno_tecnico) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il disegno tecnico è la prima "lingua" rigorosa che gli studenti incontrano in tecnologia: si basa sull'idea che ogni linea sia controllata da uno strumento e abbia un significato preciso. Per questo la padronanza degli strumenti non è un dettaglio manuale, ma la condizione per tutto il percorso successivo (costruzioni geometriche, poligoni, proiezioni, assonometrie).

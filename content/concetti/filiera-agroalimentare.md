@@ -15,6 +15,7 @@ La filiera agroalimentare è l'insieme di tutte le attività che permettono a un
 
 ![Industria alimentare](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fredmeyer_edit_1.jpg/330px-Fredmeyer_edit_1.jpg)
 *📖 settore economico · [Wikipedia](https://it.wikipedia.org/wiki/Industria_alimentare) · CC BY-SA*
+
 ## Spiegazione per docenti
 Il concetto di filiera agroalimentare è un nodo che collega il settore primario (agricoltura, allevamento, silvicoltura, pesca) al settore secondario (industria di trasformazione e confezionamento) e al terziario (distribuzione, vendita, consumo). È utile per far comprendere agli studenti come il cibo che mangiano sia il risultato di un processo industriale complesso e non solo di un'attività agricola.
 

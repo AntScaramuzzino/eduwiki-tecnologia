@@ -16,6 +16,7 @@ I **fattori della produzione** sono le risorse necessarie per produrre beni e se
 
 ![Catena del valore](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Catena-del-valore-di-Porter.svg/langit-330px-Catena-del-valore-di-Porter.svg.png)
 *📖 concetto economico · [Wikipedia](https://it.wikipedia.org/wiki/Catena_del_valore) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 ### I fattori della produzione

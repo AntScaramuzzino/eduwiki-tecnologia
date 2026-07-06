@@ -26,6 +26,7 @@ La **trasformazione del moto** è l'insieme dei meccanismi che convertono un tip
 
 ![Meccanismo biella-manovella](https://upload.wikimedia.org/wikipedia/commons/a/a6/4-Stroke-Engine.gif)
 *📖 sistema per la trasformazione di moto rettilineo alternato in circolare e viceversa · [Wikipedia](https://it.wikipedia.org/wiki/Meccanismo_biella-manovella) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Le macchine complesse hanno spesso bisogno di cambiare la natura del moto, non solo di trasmetterlo. I meccanismi di trasformazione del moto agiscono proprio su questo livello, modificando la direzione o il tipo di movimento.

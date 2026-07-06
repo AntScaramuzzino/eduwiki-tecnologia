@@ -16,6 +16,7 @@ La carta è un materiale formato da minutissime fibre di cellulosa (ricavate dal
 
 ![Carta](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Papier_-_various_papers_in_day.jpg/330px-Papier_-_various_papers_in_day.jpg)
 *📖 materiale igroscopico, costituito da materie prime fibrose · [Wikipedia](https://it.wikipedia.org/wiki/Carta) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 La carta appartiene ai materiali derivati dal legno e si colloca nel modulo "Tecnologia dei materiali" come naturale prosecuzione dello studio del legno. Il nucleo concettuale è il passaggio **fibra di cellulosa → pasta → foglio**.

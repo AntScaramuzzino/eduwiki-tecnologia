@@ -18,6 +18,7 @@ Carne, pesce e uova sono gli alimenti di origine animale più ricchi di proteine
 
 ![Carne](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FoodMeat.jpg/330px-FoodMeat.jpg)
 *📖 parte commestibile degli animali · [Wikipedia](https://it.wikipedia.org/wiki/Carne) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il nucleo tecnologico di questo concetto è la **filiera degli alimenti di origine animale**: dall'animale vivo al prodotto confezionato. Si tratta di un tipico esempio di settore secondario (trasformazione) che parte da materie prime del settore primario (allevamento, pesca, acquacoltura).

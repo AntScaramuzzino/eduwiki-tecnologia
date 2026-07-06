@@ -15,6 +15,7 @@ I materiali ceramici sono prodotti che si ottengono dalla **cottura ad alta temp
 
 ![Ceramica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chinese_-_Storage_Jar_-_Walters_492392.jpg/330px-Chinese_-_Storage_Jar_-_Walters_492392.jpg)
 *📖 materiale inorganico non metallico · [Wikipedia](https://it.wikipedia.org/wiki/Ceramica) · CC BY-SA*
+
 ## Spiegazione per docenti
 I materiali ceramici provengono, insieme al vetro, dalla cosiddetta **industria ceramica tradizionale**, che trasforma materiali rocciosi di consistenza sabbiosa. La materia prima della ceramica è l'**argilla**: un materiale terroso a grana finissima, fatto di granuli non compattati. Le argille sono tipicamente rosse perché contengono ossido di ferro; alcune, dette **caolini**, sono bianche e si usano per le ceramiche di pasta bianca come le **porcellane** (stoviglie e sanitari) (fonte: Futura, p.88).
 

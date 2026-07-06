@@ -21,6 +21,7 @@ La **tecnica** è il modo concreto di operare per fare qualcosa: l'insieme delle
 
 ![Tecnologia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/330px-Dampfturbine_Montage01.jpg)
 *📖 studio e utilizzo di tecniche, procedimenti e conoscenze tecnico-scientifiche per la soluzione di problemi pratici · [Wikipedia](https://it.wikipedia.org/wiki/Tecnologia) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 La distinzione tra tecnica e tecnologia è uno snodo concettuale spesso dato per scontato ma raramente posseduto dagli studenti, che tendono a usare "tecnologia" come sinonimo di "dispositivi elettronici" (computer, smartphone, tablet). È utile chiarire subito che quegli oggetti sono *prodotti* resi possibili dallo sviluppo della tecnologia, non la tecnologia stessa.

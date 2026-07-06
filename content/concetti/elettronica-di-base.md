@@ -16,6 +16,7 @@ L'elettronica studia il moto degli elettroni all'interno di mezzi solidi o nel v
 
 ![Elettronica](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arduino_ftdi_chip-1.jpg/330px-Arduino_ftdi_chip-1.jpg)
 *📖 ramo della scienza e della tecnica · [Wikipedia](https://it.wikipedia.org/wiki/Elettronica) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 L'elettronica è il naturale passo successivo allo studio del circuito elettrico e della legge di Ohm. Il concetto-chiave da far emergere è la distinzione tra **circuito elettrico** (trasporta energia a un carico: lampadina, motore, resistenza scaldante) e **circuito elettronico** (manipola informazioni e segnali).

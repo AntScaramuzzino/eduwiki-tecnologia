@@ -16,6 +16,7 @@ Il lavoro è l'attività umana — manuale o intellettuale — svolta in cambio 
 
 ![Mercato del lavoro](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Job_Advertisement_Board_in_Shenzhen_-01.jpg/330px-Job_Advertisement_Board_in_Shenzhen_-01.jpg)
 *📖 insieme della domanda e offerta di lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Mercato_del_lavoro) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il concetto di "mondo del lavoro" nella scuola secondaria di primo grado si articola attorno a quattro nuclei:

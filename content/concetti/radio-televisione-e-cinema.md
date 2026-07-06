@@ -16,6 +16,7 @@ Radio, televisione e cinema sono i tre principali mezzi di comunicazione audiovi
 
 ![Televisione](https://upload.wikimedia.org/wikipedia/it/thumb/6/6c/Tele.JPG/330px-Tele.JPG)
 *📖 mezzo di comunicazione di massa · [Wikipedia](https://it.wikipedia.org/wiki/Televisione) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 I tre mezzi rappresentano tappe successive della stessa traiettoria tecnologica: la trasformazione di fenomeni fisici (luce, suono) in segnali trasmissibili e riproducibili a distanza o in serie.

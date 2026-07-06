@@ -20,6 +20,7 @@ Vino, birra e olio d'oliva sono alimenti che nascono dalla trasformazione di un 
 
 ![Vino](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Glass_of_Red_Wine_with_a_bottle_of_Red_Wine_-_Evan_Swigart.jpg/330px-Glass_of_Red_Wine_with_a_bottle_of_Red_Wine_-_Evan_Swigart.jpg)
 *📖 bevanda alcolica a base di uva · [Wikipedia](https://it.wikipedia.org/wiki/Vino) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Questa pagina mette a confronto due famiglie di trasformazione alimentare che i testi di tecnologia affiancano spesso negli stessi capitoli ("Oli, birra e vino", "L'industria olearia", "La produzione del vino e della birra"):

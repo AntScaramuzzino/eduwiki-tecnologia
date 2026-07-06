@@ -16,6 +16,7 @@ Il **coding** è la scrittura di un programma informatico attraverso uno specifi
 
 ![Linguaggio di programmazione visuale](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Add_all_numbers_block.png/330px-Add_all_numbers_block.png)
 *📖 Linguaggio di programmazione visuale · [Wikipedia](https://it.wikipedia.org/wiki/Linguaggio_di_programmazione_visuale) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il coding è la diretta applicazione del pensiero computazionale alla risoluzione di problemi informatici. Una volta che lo studente ha analizzato un problema con le quattro abilità chiave del pensiero computazionale (astrazione, scomposizione, riconoscimento di pattern, pensiero algoritmico), il coding traduce la soluzione algoritmica in istruzioni che la macchina può eseguire.
@@ -146,11 +147,3 @@ Approfondimenti: vedi **[[inclusione-coding-robotica]]**.
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/pzg1-UpMypA" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="A scuola con i robot: la robotica educativa e il pensiero computazionale"></iframe>
-<figcaption>📺 A scuola con i robot: la robotica educativa e il pensiero computazionale · OTTO Discorsi Diretti · <a href="https://www.youtube.com/watch?v=pzg1-UpMypA" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

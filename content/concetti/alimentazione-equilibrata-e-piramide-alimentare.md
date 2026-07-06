@@ -19,6 +19,7 @@ L'**alimentazione equilibrata** consiste nell'assumere ogni giorno tutti i princ
 
 ![Dieta mediterranea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/330px-DIETA_MEDITERRANEA_ITALIA.JPG)
 *📖 modello nutrizionale · [Wikipedia](https://it.wikipedia.org/wiki/Dieta_mediterranea) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il tema collega scienze, tecnologia ed educazione alla salute, e nei manuali di Tecnologia compare nella sezione dedicata al settore agroalimentare e all'impronta ecologica.

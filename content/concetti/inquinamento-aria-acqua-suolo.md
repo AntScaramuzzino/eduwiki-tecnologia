@@ -16,6 +16,7 @@ L'inquinamento è l'immissione nell'ambiente di sostanze o forme di energia che 
 
 ![Inquinamento](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/330px-Pollution_in_Mankweng.jpg)
 *📖 alterazione o contaminazione di un qualsiasi materiale o ambiente ad opera di agenti inorganici od organici · [Wikipedia](https://it.wikipedia.org/wiki/Inquinamento) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 L'inquinamento si studia distinguendo tre comparti ambientali, ciascuno con cause, sostanze inquinanti ed effetti propri, ma fortemente collegati tra loro (un inquinante dell'aria, dilavato dalla pioggia, raggiunge suolo e acque).

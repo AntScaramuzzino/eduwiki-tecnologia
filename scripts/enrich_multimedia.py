@@ -134,32 +134,24 @@ WIKI_OVERRIDE = {
 
 # ── YouTube mapping ────────────────────────────────────────────────────────────
 # slug → (video_id, titolo, canale) — titolo/canale verificati via YouTube oEmbed API
+# Solo fonti autorevoli: Geopop (divulgazione scientifica) e canali istituzionali.
+# Video da canali minori/non verificabili rimossi (2026-07-06): in attesa di
+# sostituzione con fonti Geopop, istituzionali o canali di editori scolastici.
 YT_MAP = {
     # Energia
     "energia-nucleare":               ("o9AKgqvEI4E", "Fusione nucleare USA, perché sono tutti così eccitati per la scoperta?", "Geopop"),
     "energia-solare-fotovoltaico-e-termico": ("mj6_WVh2HwU", "Come funziona un pannello solare dall'interno?", "Geopop"),
-    "energia-eolica":                 ("y7wD5uajZBI", "Cosa sono le turbine eoliche e come producono l'elettricità?", "JAES Company"),
-    "fonti-rinnovabili-e-non-rinnovabili": ("WI9kdCnU3i0", "L'energia rinnovabile è davvero sostenibile?", "Bosco di Ogigia"),
     # Ambiente / Clima
-    "cambiamento-climatico-ed-effetto-serra": ("l6P3m74VtIA", "Il cambiamento climatico e l'effetto serra", "milena locati"),
     "sviluppo-sostenibile":           ("JQ5Dq74GhnU", "Il riscaldamento globale e le sue cause spiegate con un cicchetto", "Geopop"),
     "agenda-2030":                    ("JQ5Dq74GhnU", "Il riscaldamento globale e le sue cause spiegate con un cicchetto", "Geopop"),
     "impronta-ecologica":             ("JQ5Dq74GhnU", "Il riscaldamento globale e le sue cause spiegate con un cicchetto", "Geopop"),
-    # Digitale / AI
-    "intelligenza-artificiale-a-scuola": ("wchtRNrzB10", "Ma l'intelligenza artificiale può pensare?", "Grande Giove"),
+    # Digitale
     "internet-e-il-web":              ("njPXISDTodo", "Come funziona davvero una rete Wi-Fi pubblica", "Geopop"),
     # Motori / Macchine
     "motore-a-combustione-interna":   ("9zCOpQ8pEgg", "Guardiamo attraverso un motore 4 tempi: come funziona dall'interno", "Geopop"),
-    "il-motore-elettrico":            ("MSTcV0ubIk8", "Motore elettrico: spiegazione semplice", "Roberto Virzi"),
-    # Materiali
+    # Materiali / Economia circolare
     "economia-circolare":             ("ni8-BuHUzUg", "Economia circolare - L'economia circolare spiegata bene", "Ministero Ambiente e Sicurezza Energetica"),
     "riciclo-e-sostenibilita-dei-materiali": ("1EoeGgrAtJ4", "Il riciclo della plastica", "CONAI"),
-    # Coding / Robotica
-    "pensiero-computazionale":        ("pzg1-UpMypA", "A scuola con i robot: la robotica educativa e il pensiero computazionale", "OTTO Discorsi Diretti"),
-    "robotica-educativa":             ("pzg1-UpMypA", "A scuola con i robot: la robotica educativa e il pensiero computazionale", "OTTO Discorsi Diretti"),
-    "coding-e-programmazione-a-blocchi": ("pzg1-UpMypA", "A scuola con i robot: la robotica educativa e il pensiero computazionale", "OTTO Discorsi Diretti"),
-    # Città / Trasporti
-    "smart-city-e-mobilita-sostenibile": ("4ENRgYohsMU", "Urbanistica e mobilità sostenibile: la sfida delle città del futuro", "Omar Di Felice"),
 }
 
 # ── Wikipedia ─────────────────────────────────────────────────────────────────
@@ -218,6 +210,12 @@ WIKI_IMG_RE = re.compile(
     r'\n\n!\[[^\]]*\]\(https://upload\.wikimedia\.org/[^\)]+\)\n\*📖[^\n]*\*',
 )
 
+# Pattern per rimuovere il blocco video precedentemente iniettato (in qualsiasi posizione)
+VIDEO_FIGURE_RE = re.compile(
+    r'\n*<figure>\n<iframe src="https://www\.youtube-nocookie\.com/embed/.*?</figure>\n*',
+    re.S,
+)
+
 def md_wiki(info):
     desc  = info["caption"] if info["caption"] else info["title"]
     wikil = f"[Wikipedia]({info['wiki']})" if info["wiki"] else "Wikipedia"
@@ -240,14 +238,15 @@ def md_yt(video_id, title, channel):
         f'</figure>'
     )
 
-def insert_after_definition(text, wiki_block):
-    """Inserisce il blocco immagine subito dopo ## Definizione breve."""
-    # Cattura tutto il contenuto della sezione Definizione breve
+def insert_after_definition(text, block):
+    """Inserisce un blocco (immagine e/o video) subito dopo ## Definizione breve,
+    quindi prima di ## Spiegazione per docenti. Riga vuota dopo il blocco
+    obbligatoria: senza, l'heading successivo viene inglobato nell'HTML raw."""
     m = re.search(r'(## Definizione breve\n(?:(?!^##).)*)', text, re.S | re.M)
     if not m:
-        return text + "\n\n" + wiki_block  # fallback in fondo
+        return text + "\n\n" + block + "\n"  # fallback in fondo
     end = m.end()
-    return text[:end].rstrip('\n') + '\n\n' + wiki_block + '\n' + text[end:]
+    return text[:end].rstrip('\n') + '\n\n' + block + '\n\n' + text[end:].lstrip('\n')
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
@@ -259,10 +258,11 @@ def process_folder(content_dir: Path, label: str):
         slug = page.stem
         txt  = page.read_text(encoding="utf-8")
 
-        # Rimuovi sezione multimedia in fondo (idempotente)
+        # Rimuovi eventuale vecchia sezione "Risorse multimediali" in fondo (idempotente)
         txt_clean = re.sub(rf"\n\n{re.escape(MARKER)}.*", "", txt, flags=re.S)
-        # Rimuovi immagine Wikipedia eventualmente iniettata dopo la definizione
+        # Rimuovi immagine Wikipedia e video YouTube eventualmente già iniettati
         txt_clean = WIKI_IMG_RE.sub("", txt_clean)
+        txt_clean = VIDEO_FIGURE_RE.sub("\n\n", txt_clean)
 
         h1   = extract_h1(txt_clean)
         wiki = get_wiki_info(h1, slug) if h1 else None
@@ -272,14 +272,14 @@ def process_folder(content_dir: Path, label: str):
             no_media += 1
             continue
 
-        result = txt_clean
-        # 1. Immagine Wikipedia → subito dopo ## Definizione breve
+        # Immagine Wikipedia e video YouTube, entrambi subito dopo ## Definizione breve
+        blocks = []
         if wiki:
-            result = insert_after_definition(result, md_wiki(wiki))
-        # 2. Video YouTube → sezione ## Risorse multimediali in fondo
+            blocks.append(md_wiki(wiki))
         if yt:
             vid, title, ch = yt
-            result += f"\n\n{MARKER}\n\n{md_yt(vid, title, ch)}\n"
+            blocks.append(md_yt(vid, title, ch))
+        result = insert_after_definition(txt_clean, "\n\n".join(blocks))
 
         page.write_text(result, encoding="utf-8")
         parts = []

@@ -16,6 +16,7 @@ L'**agricoltura sostenibile** è un modo di coltivare che cerca di produrre cibo
 
 ![Agricoltura biologica](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Organic-vegetable-cultivation.jpeg/330px-Organic-vegetable-cultivation.jpeg)
 *📖 metodi di produzione che consentano una produzione primaria rispettosa dell'ambiente · [Wikipedia](https://it.wikipedia.org/wiki/Agricoltura_biologica) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Per secoli l'agricoltura ha portato a uno sfruttamento intensivo del suolo e, dopo la rivoluzione industriale, a un uso massiccio di prodotti chimici. La filosofia della **sostenibilità** si è fatta strada nel settore agricolo come risposta a questo modello, ed è collegata all'Obiettivo 2 dell'Agenda 2030 ("Sconfiggere la fame... promuovere un'agricoltura sostenibile").

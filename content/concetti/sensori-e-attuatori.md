@@ -16,6 +16,7 @@ I **sensori** sono i dispositivi che fanno "percepire" l'ambiente a una macchina
 
 ![Termometro](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clinical_thermometer_38.7.JPG/330px-Clinical_thermometer_38.7.JPG)
 *📖 strumento per misurare la temperatura · [Wikipedia](https://it.wikipedia.org/wiki/Termometro) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il modello da tenere a mente è la catena **input → elaborazione → output**, che è la stessa logica del computer (periferiche di input e di output) applicata però agli oggetti fisici. Come sintetizza il testo *Coding e robotica*: "Arduino riceve gli input da dispositivi detti sensori, li elabora e invia i comandi di output a dispositivi detti attuatori" (p.117).

@@ -16,6 +16,7 @@ L'economia è l'insieme dei modi e dei processi attraverso cui una comunità ges
 
 ![Mercato](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Campo_dei_Fiori.jpg/330px-Campo_dei_Fiori.jpg)
 *📖 insieme di scambi economico-commerciali · [Wikipedia](https://it.wikipedia.org/wiki/Mercato) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il sistema economico descrive come una società organizza la produzione, la distribuzione e il consumo di beni e servizi. Al centro del sistema vi è il concetto di **bisogno**: le persone hanno bisogni primari (cibo, riparo, vestiario) che devono essere soddisfatti per sopravvivere, e bisogni secondari che aumentano il livello di benessere. Quando la soddisfazione di un bisogno interessa l'intera comunità, si parla di bisogno collettivo.

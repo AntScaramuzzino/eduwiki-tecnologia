@@ -19,6 +19,7 @@ La corrente elettrica è un flusso ordinato di elettroni che scorre in un condut
 
 ![Circuito elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Circuito_elettrico_autodescritto.svg/langit-330px-Circuito_elettrico_autodescritto.svg.png)
 *📖 tipo di rete · [Wikipedia](https://it.wikipedia.org/wiki/Circuito_elettrico) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 ### Atomi, conduttori e isolanti

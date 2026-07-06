@@ -24,6 +24,7 @@ La **carrucola** è una macchina semplice formata da un disco scanalato (puleggi
 
 ![Carrucola](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Carrucola_-_Musei_del_cibo_-_Prosciutto_-_0019.tif/lossy-page1-330px-Carrucola_-_Musei_del_cibo_-_Prosciutto_-_0019.tif.jpg)
 *📖 tipo di macchina semplice · [Wikipedia](https://it.wikipedia.org/wiki/Carrucola) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Le carrucole, il verricello e il paranco appartengono alla famiglia delle macchine semplici derivate dalla leva. I testi adottati nelle scuole li trattano quasi tutti insieme, subito dopo la leva e prima del piano inclinato.

@@ -18,6 +18,11 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 Lo sviluppo sostenibile è un modello di sviluppo che soddisfa i bisogni delle generazioni presenti senza compromettere la possibilità che le generazioni future riescano a soddisfare i propri. Si fonda sull'equilibrio tra tre dimensioni: ambiente, economia e società.
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riscaldamento globale e le sue cause spiegate con un cicchetto"></iframe>
+<figcaption>📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop · <a href="https://www.youtube.com/watch?v=JQ5Dq74GhnU" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 Il concetto di sviluppo sostenibile compare per la prima volta nel 1987 nel rapporto *Our common future* (Il futuro di tutti noi), redatto dalla Commissione mondiale sull'ambiente e lo sviluppo, istituita dall'ONU nel 1983. Il documento è più noto come "rapporto Brundtland", dal nome della presidente della Commissione. La sua definizione storica è: «Lo sviluppo sostenibile è uno sviluppo che garantisce i bisogni delle generazioni attuali senza compromettere la possibilità che le generazioni future riescano a soddisfare i propri».
 
@@ -125,11 +130,3 @@ La classe progetta una semplice "indagine di sostenibilità" della scuola: defin
 - [[economia-circolare]] — modello produttivo sostenibile alternativo a quello lineare
 - [[cambiamento-climatico-ed-effetto-serra]] — una delle grandi sfide della sostenibilità
 - [[bisogni-e-risorse]] — il rapporto tra bisogni umani e risorse del pianeta
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riscaldamento globale e le sue cause spiegate con un cicchetto"></iframe>
-<figcaption>📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop · <a href="https://www.youtube.com/watch?v=JQ5Dq74GhnU" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

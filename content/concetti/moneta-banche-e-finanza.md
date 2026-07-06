@@ -22,6 +22,7 @@ La **moneta** è tutto ciò che viene generalmente accettato come mezzo di pagam
 
 ![Banca](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg/330px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg)
 *📖 istituto finanziario · [Wikipedia](https://it.wikipedia.org/wiki/Banca) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il tema di moneta, banche e finanza rientra nell'area "Economia e lavoro" del curricolo di Tecnologia e si collega direttamente alla competenza dell'educazione finanziaria, oggi trasversale anche all'educazione civica.

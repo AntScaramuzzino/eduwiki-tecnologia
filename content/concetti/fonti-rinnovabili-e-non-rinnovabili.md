@@ -16,6 +16,7 @@ Le **fonti di energia** sono tutto ciò che in natura permette di ottenere energ
 
 ![Fonti di energia rinnovabili](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Energiaberriztagarriak.jpg/330px-Energiaberriztagarriak.jpg)
 *📖 fonti energetiche naturalmente reintegrate in una scala temporale umana · [Wikipedia](https://it.wikipedia.org/wiki/Fonti_di_energia_rinnovabili) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Il concetto si costruisce in due livelli collegati.
@@ -218,11 +219,3 @@ Gran parte delle sezioni "Esempio concreto in classe", "Dal concetto all'attivit
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/WI9kdCnU3i0" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="L'energia rinnovabile è davvero sostenibile?"></iframe>
-<figcaption>📺 L'energia rinnovabile è davvero sostenibile? · Bosco di Ogigia · <a href="https://www.youtube.com/watch?v=WI9kdCnU3i0" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

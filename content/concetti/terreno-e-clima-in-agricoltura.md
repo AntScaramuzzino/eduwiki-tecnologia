@@ -16,6 +16,7 @@ Il terreno e il clima sono i due fattori naturali che condizionano di più la pr
 
 ![Pedologia](https://upload.wikimedia.org/wikipedia/commons/9/90/Pedologo01.jpg)
 *📖 studio dei suoli nel loro ambiente naturale · [Wikipedia](https://it.wikipedia.org/wiki/Pedologia) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Nonostante le tecniche agricole siano sempre più sofisticate, l'agricoltura resta fortemente influenzata dai fattori climatici e ambientali. Conviene presentare il concetto distinguendo due famiglie di fattori naturali, entrambi solo parzialmente controllabili dall'uomo tramite la tecnologia.

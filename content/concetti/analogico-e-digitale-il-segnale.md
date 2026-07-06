@@ -21,6 +21,7 @@ Un **segnale analogico** varia in modo continuo nel tempo e può assumere qualsi
 
 ![Analogico](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg/330px-Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg)
 *📖 sistema di rappresentazione di un segnale · [Wikipedia](https://it.wikipedia.org/wiki/Analogico) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 I segnali sono il modo in cui l'informazione viene trasportata da un punto a un altro. La distinzione fondamentale è tra segnali analogici e segnali digitali.

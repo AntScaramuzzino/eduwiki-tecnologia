@@ -22,6 +22,12 @@ L'energia nucleare è l'energia liberata durante le trasformazioni del nucleo di
 
 ![Energia nucleare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg/330px-2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg)
 *📖 energia prodotta da trasformazioni nei nuclei atomici · [Wikipedia](https://it.wikipedia.org/wiki/Energia_nucleare) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/o9AKgqvEI4E" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Fusione nucleare USA, perché sono tutti così eccitati per la scoperta?"></iframe>
+<figcaption>📺 Fusione nucleare USA, perché sono tutti così eccitati per la scoperta? · Geopop · <a href="https://www.youtube.com/watch?v=o9AKgqvEI4E" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 L'energia nucleare è una fonte primaria, non rinnovabile: si ricava dall'uranio, un minerale estratto dal sottosuolo che non si rigenera sui tempi della civiltà umana.
@@ -232,11 +238,3 @@ Ogni gruppo prepara una posizione scritta (max 1 pagina) con argomenti tecnici, 
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/o9AKgqvEI4E" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Fusione nucleare USA, perché sono tutti così eccitati per la scoperta?"></iframe>
-<figcaption>📺 Fusione nucleare USA, perché sono tutti così eccitati per la scoperta? · Geopop · <a href="https://www.youtube.com/watch?v=o9AKgqvEI4E" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

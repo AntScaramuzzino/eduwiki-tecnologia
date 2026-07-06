@@ -13,6 +13,11 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 L'economia circolare è un modello di produzione e consumo in cui i materiali, alla fine della vita di un prodotto, non diventano rifiuti da gettare ma rientrano nel ciclo produttivo per dare vita a nuovi oggetti. Si contrappone all'economia lineare del "prendi, produci, usa e getta".
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/ni8-BuHUzUg" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Economia circolare - L'economia circolare spiegata bene"></iframe>
+<figcaption>📺 Economia circolare - L'economia circolare spiegata bene · Ministero Ambiente e Sicurezza Energetica · <a href="https://www.youtube.com/watch?v=ni8-BuHUzUg" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 Il punto di partenza è il confronto tra due modelli economici. Nel modello **lineare** le materie prime vengono prelevate dalla natura, trasformate in prodotti, usate e infine gettate: il flusso è una linea retta che termina nel rifiuto. Nel modello **circolare**, invece, il flusso si chiude ad anello e il valore dei materiali viene mantenuto il più a lungo possibile.
 
@@ -129,11 +134,3 @@ Rubrica per il compito "ridisegna un prodotto" (4 livelli):
     Apri scheda completa →
   </a>
 </div>
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/ni8-BuHUzUg" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Economia circolare - L'economia circolare spiegata bene"></iframe>
-<figcaption>📺 Economia circolare - L'economia circolare spiegata bene · Ministero Ambiente e Sicurezza Energetica · <a href="https://www.youtube.com/watch?v=ni8-BuHUzUg" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

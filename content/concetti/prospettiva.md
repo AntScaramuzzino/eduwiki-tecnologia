@@ -16,6 +16,7 @@ La prospettiva è il metodo di rappresentazione grafica che permette di riprodur
 
 ![Prospettiva](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graverat_titelblad_-_Skoklosters_slott_-_93500.tif/lossy-page1-330px-Graverat_titelblad_-_Skoklosters_slott_-_93500.tif.jpg)
 *📖 tecnica geometrica per realizzare una rappresentazione grafica bidimensionale degli oggetti come visti dall'occhio umano · [Wikipedia](https://it.wikipedia.org/wiki/Prospettiva) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 La prospettiva è l'ultimo metodo di rappresentazione che si affronta nel disegno tecnico della secondaria di primo grado, dopo proiezioni ortogonali e assonometrie. La sua particolarità è il rapporto con la percezione visiva: mentre le proiezioni ortogonali conservano le misure reali e servono per produrre un oggetto, la prospettiva restituisce ciò che l'occhio vede, ma ci allontana dai dati certi della geometria. Per questo è il metodo più realistico (simile a una fotografia) ma il meno adatto a ricavare misure: viene impiegato per immagini realistiche di edifici e oggetti, non come riferimento esecutivo.

@@ -16,6 +16,12 @@ L'Agenda 2030 è un programma d'azione mondiale per lo sviluppo sostenibile, sot
 
 ![Obiettivi di sviluppo sostenibile](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Obiettivi_di_sviluppo_sostenibile.svg/langit-330px-Obiettivi_di_sviluppo_sostenibile.svg.png)
 *📖 insieme di obiettivi di sviluppo globale definiti dalle Nazioni Unite · [Wikipedia](https://it.wikipedia.org/wiki/Obiettivi_di_sviluppo_sostenibile) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riscaldamento globale e le sue cause spiegate con un cicchetto"></iframe>
+<figcaption>📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop · <a href="https://www.youtube.com/watch?v=JQ5Dq74GhnU" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 L'Agenda 2030 nasce da un percorso lungo. Già nel 1992 la **Dichiarazione di Rio** introduce per la prima volta il concetto di **sviluppo sostenibile**: un modello di crescita che presti maggiore attenzione alle risorse, basato sull'equilibrio tra **crescita economica, inclusione sociale e tutela dell'ambiente**. Il principio cardine è che ogni persona deve poter soddisfare i propri bisogni senza compromettere quelli delle generazioni future.
@@ -142,11 +148,3 @@ A gruppi, gli studenti scelgono un obiettivo e ne studiano almeno un **target** 
 - [[impronta-ecologica]]
 - [[uda-sostenibilita-agenda-2030]]
 - [[valutazione-sostenibilita]]
-
-
-## Risorse multimediali
-
-<figure>
-<iframe src="https://www.youtube-nocookie.com/embed/JQ5Dq74GhnU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riscaldamento globale e le sue cause spiegate con un cicchetto"></iframe>
-<figcaption>📺 Il riscaldamento globale e le sue cause spiegate con un cicchetto · Geopop · <a href="https://www.youtube.com/watch?v=JQ5Dq74GhnU" target="_blank">Guarda su YouTube</a></figcaption>
-</figure>

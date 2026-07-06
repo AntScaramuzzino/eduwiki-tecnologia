@@ -16,6 +16,7 @@ L'etichetta alimentare è la "carta d'identità" di un prodotto: un insieme di i
 
 ![Additivo alimentare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lecithin-Formulierungen.jpg/330px-Lecithin-Formulierungen.jpg)
 *📖 sostanza impiegata nell'industria alimentare durante la preparazione, lo stoccaggio e la commercializzazione di prodotti destinati all'alimentazione · [Wikipedia](https://it.wikipedia.org/wiki/Additivo_alimentare) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 L'etichetta alimentare è regolata da normative europee (in Italia è obbligatoria e non è possibile vendere un prodotto alimentare confezionato senza etichetta). Dal dicembre 2016 è in vigore un'etichetta standard uguale per tutti i Paesi europei: le informazioni devono essere precise, ben visibili, comprensibili, non fuorvianti e indelebili.

@@ -16,6 +16,7 @@ Le proiezioni ortogonali sono un metodo di disegno tecnico che permette di rappr
 
 ![Proiezioni ortogonali](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orthographic_projections_of_L_shape.png/330px-Orthographic_projections_of_L_shape.png)
 *📖 tecnica di rappresentazione grafica · [Wikipedia](https://it.wikipedia.org/wiki/Proiezioni_ortogonali) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Le proiezioni ortogonali (abbreviate P.O.) sono il tipo di disegno geometrico più usato perché riportano le forme esatte dell'oggetto, anche se in dimensioni ridotte. La tecnica si basa su tre piani di riferimento, perpendicolari tra loro e uniti a formare tre angoli di 90°: il sistema prende il nome di **triedro**.

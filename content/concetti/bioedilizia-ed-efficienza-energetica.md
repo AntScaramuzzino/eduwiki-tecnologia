@@ -16,6 +16,7 @@ La **bioedilizia** (o edilizia ecologica, bioarchitettura, architettura sostenib
 
 ![Casa passiva](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Passive_house_scheme_1.svg/langit-330px-Passive_house_scheme_1.svg.png)
 *📖 casa che non richiede un approvvigionamento di energia fossile · [Wikipedia](https://it.wikipedia.org/wiki/Casa_passiva) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 ### Bioedilizia: materiali e principi

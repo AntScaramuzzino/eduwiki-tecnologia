@@ -16,6 +16,7 @@ In un circuito elettrico più utilizzatori (per esempio lampadine) possono esser
 
 ![Circuiti in serie e in parallelo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Series_and_parallel_circuits2.svg/langit-330px-Series_and_parallel_circuits2.svg.png)
 *📖 Circuiti in serie e in parallelo · [Wikipedia](https://it.wikipedia.org/wiki/Circuiti_in_serie_e_in_parallelo) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Fino a questo punto del percorso gli studenti hanno incontrato circuiti con un solo utilizzatore (generatore, filo conduttore, interruttore, utilizzatore). Nella realtà i circuiti contengono quasi sempre più utilizzatori, e il modo in cui vengono connessi cambia radicalmente il comportamento del circuito.

@@ -16,6 +16,7 @@ I **poligoni regolari** sono figure piane che hanno tutti i lati e tutti gli ang
 
 ![Poligono regolare](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PoliReg_02.svg/langit-330px-PoliReg_02.svg.png)
 *📖 poligono convesso, equilatero ed equiangolo · [Wikipedia](https://it.wikipedia.org/wiki/Poligono_regolare) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 Questa pagina riprende il percorso "Il disegno geometrico" e in particolare la sezione *Costruzioni di figure piane*. Il presupposto didattico è esplicitato nei testi: quasi tutti gli oggetti che ci circondano si possono ricondurre a figure geometriche piane o solide; per imparare a rappresentarli occorre saper "costruire" le figure di base e conoscerne le proprietà.

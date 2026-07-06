@@ -16,6 +16,7 @@ Il **magnetismo** è il fenomeno per cui alcuni corpi — le **calamite** o magn
 
 ![Interazione elettromagnetica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CoulombsLaw.svg/langit-330px-CoulombsLaw.svg.png)
 *📖 interazione fondamentale della natura · [Wikipedia](https://it.wikipedia.org/wiki/Interazione_elettromagnetica) · CC BY-SA*
+
 ## Spiegazione per docenti
 
 ### Il magnetismo naturale
