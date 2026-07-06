@@ -33,6 +33,14 @@ AREE = {
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)(?:\|[^\]]+)?\]\]")
 FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.S)
 MD_EMPHASIS_RE = re.compile(r"\*\*([^*]+)\*\*|\*([^*]+)\*")
+WIKI_IMG_RE = re.compile(r"!\[[^\]]*\]\((https://upload\.wikimedia\.org/[^\)]+)\)")
+
+
+def extract_wiki_image(text):
+    """Estrae l'URL dell'immagine Wikipedia già iniettata da enrich_multimedia.py
+    (prima immagine upload.wikimedia.org trovata nella pagina)."""
+    m = WIKI_IMG_RE.search(text)
+    return m.group(1) if m else None
 
 
 def clean_text(text):
@@ -87,7 +95,8 @@ def parse_content_files(dir_path, area_type, yt_map=None):
         if f.name == "README.md":
             continue
         slug = f.stem
-        title, desc = extract_title_and_description(f.read_text(encoding="utf-8"))
+        raw = f.read_text(encoding="utf-8")
+        title, desc = extract_title_and_description(raw)
         if area_type == "Prompt":
             title = re.sub(r"^Prompt\s*—\s*", "", title or slug)
         el = {
@@ -96,6 +105,10 @@ def parse_content_files(dir_path, area_type, yt_map=None):
             "type": area_type,
             "description": desc,
         }
+        if area_type == "Concetto":
+            img = extract_wiki_image(raw)
+            if img:
+                el["Image"] = img
         video = yt_map.get(slug) if yt_map else None
         if video:
             # sintassi widget di Kumu per l'embed YouTube nel pannello elemento:
@@ -218,9 +231,11 @@ def main():
     for t, n in sorted(by_type.items(), key=lambda x: -x[1]):
         print(f"  {t:25s} {n}")
     with_video = sum(1 for e in elements.values() if e.get("video"))
+    with_image = sum(1 for e in elements.values() if e.get("Image"))
     print(f"\nTotale elementi:    {len(elements)}")
     print(f"Totale connessioni: {len(connections)}")
     print(f"Elementi con video embeddato: {with_video}")
+    print(f"Elementi con immagine (Image): {with_image}")
     print(f"Scritto in: {OUT}")
 
 

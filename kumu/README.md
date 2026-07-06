@@ -39,10 +39,26 @@ git push
   ancora, viene creato un nodo segnaposto — visualizza così anche i "buchi" del
   wiki, coerente con la regola del progetto ("un link a una pagina non ancora
   esistente segnala lavoro da fare").
-- **Video YouTube embeddati**: i 18 concetti collegati a un video (stessa
-  mappa usata da `scripts/enrich_multimedia.py` per il sito Quartz) hanno
-  nella descrizione il widget `[[youtube/VIDEO_ID]]` — Kumu lo renderizza
-  come player video incorporato quando apri il pannello dell'elemento.
+- **Video YouTube embeddati**: i concetti collegati a un video (stessa mappa
+  usata da `scripts/enrich_multimedia.py` per il sito Quartz) hanno nella
+  descrizione il widget `[[youtube/VIDEO_ID]]` — Kumu lo renderizza come
+  player video incorporato quando apri il pannello dell'elemento.
+- **Immagini**: 119 concetti su 121 hanno il campo `"Image"` valorizzato con
+  l'URL della loro immagine Wikipedia (la stessa già iniettata nella pagina
+  da `enrich_multimedia.py`).
+
+## Attivare le immagini sui nodi
+
+Il campo `Image` da solo non basta: Kumu mostra le immagini sui nodi solo se
+c'è una regola di decorazione attiva (impostazione della mappa, non del
+blueprint JSON — va fatta una volta sola nell'interfaccia):
+
+1. Nella mappa, apri **Settings → Decorate → Elements**.
+2. Crea (o modifica) una regola per il tipo **Concetto**.
+3. Nel pannello della regola, spunta **"Add image"** e seleziona il campo
+   **Image** come sorgente.
+4. Salva: tutti i nodi Concetto con un'immagine Wikipedia la mostreranno
+   direttamente sul grafo.
 
 La rete è densa (~250 elementi, ~1500 connessioni): usa i filtri di Kumu per
 tipo o le funzioni di ricerca/focus per esplorarla senza restare disorientati
