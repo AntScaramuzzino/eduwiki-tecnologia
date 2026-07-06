@@ -17,6 +17,11 @@ Il motore elettrico è una macchina che trasforma energia elettrica in energia m
 ![Motore elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Electric_motor.gif/330px-Electric_motor.gif)
 *📖 macchina che trasforma l'energia elettrica in energia meccanica · [Wikipedia](https://it.wikipedia.org/wiki/Motore_elettrico) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/2LIO7TEKook" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Laboratorio: motorino elettrico"></iframe>
+<figcaption>📺 Laboratorio: motorino elettrico · Tecnologia Duepuntozero · <a href="https://www.youtube.com/watch?v=2LIO7TEKook" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 ### Principio fisico di base

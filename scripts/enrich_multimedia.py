@@ -152,6 +152,26 @@ YT_MAP = {
     # Materiali / Economia circolare
     "economia-circolare":             ("ni8-BuHUzUg", "Economia circolare - L'economia circolare spiegata bene", "Ministero Ambiente e Sicurezza Energetica"),
     "riciclo-e-sostenibilita-dei-materiali": ("1EoeGgrAtJ4", "Il riciclo della plastica", "CONAI"),
+    # Fonti rinnovabili — S. Lattes & C. Editori
+    "fonti-rinnovabili-e-non-rinnovabili": ("Z6KbUUakaYE", "Le energie rinnovabili", "S. Lattes & C. Editori"),
+    # Cambiamento climatico — Mondadori Education
+    "cambiamento-climatico-ed-effetto-serra": ("J-joQ3l_xGk", "Webinar - Evidenze scientifiche del cambiamento climatico", "Mondadori Education"),
+    # Intelligenza artificiale — Zanichelli (serie "Dentro l'IA")
+    "intelligenza-artificiale-a-scuola": ("MJlrabo6ARk", "Dentro l'IA - 1. Come imparano le reti neurali?", "Zanichelli editore"),
+    # Pensiero computazionale — Mondadori Education
+    "pensiero-computazionale":         ("JBofYa87CRU", "Webinar - Il pensiero computazionale", "Mondadori Education"),
+    # Coding a blocchi — Mondadori Education
+    "coding-e-programmazione-a-blocchi": ("zxF5aybKJMY", "Coding a blocchi con Scratch", "Mondadori Education"),
+    # Robotica educativa — Mondadori Education
+    "robotica-educativa":             ("nEq-BUaR3GQ", "Webinar - Tinkering e robotica educativa: la robotica educativa per il curriculum scientifico", "Mondadori Education"),
+    # Smart city e mobilità sostenibile — Zanichelli editore
+    "smart-city-e-mobilita-sostenibile": ("JuyPkww6s-U", "La città ideale e le città sostenibili (tratto da Artelogia)", "Zanichelli editore"),
+    # Energia eolica — Geopop
+    "energia-eolica":                  ("GmZCO7TZd9U", "Haliade X: la pala eolica più grande del mondo", "Geopop"),
+    # Motore elettrico — Tecnologia Duepuntozero
+    "il-motore-elettrico":             ("2LIO7TEKook", "Laboratorio: motorino elettrico", "Tecnologia Duepuntozero"),
+    # Domotica — S. Lattes & C. Editori
+    "domotica-e-casa-intelligente":    ("dAIkxQUDRI0", "Alcuni esempi di domotica", "S. Lattes & C. Editori"),
 }
 
 # ── Wikipedia ─────────────────────────────────────────────────────────────────

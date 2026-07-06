@@ -17,6 +17,11 @@ Una **smart city** ("città intelligente") è una città che usa la tecnologia, 
 ![Città intelligente](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clean_mobility_instead_of_dirty_traffic.jpg/330px-Clean_mobility_instead_of_dirty_traffic.jpg)
 *📖 strategie di pianificazione urbanistica · [Wikipedia](https://it.wikipedia.org/wiki/Citt%C3%A0_intelligente) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/JuyPkww6s-U" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="La città ideale e le città sostenibili (tratto da Artelogia)"></iframe>
+<figcaption>📺 La città ideale e le città sostenibili (tratto da Artelogia) · Zanichelli editore · <a href="https://www.youtube.com/watch?v=JuyPkww6s-U" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Il concetto di smart city collega tre grandi ambiti già presenti nei libri di testo di tecnologia: l'urbanistica, gli impianti dell'edificio e lo sviluppo sostenibile. Con "città intelligente" si indica un'area urbana in grado di far **interagire tecnologia, comunicazione, energia, infrastrutture, mobilità, sicurezza, ambiente e servizi alle persone**. Gli interventi più frequenti riguardano l'edificazione, la mobilità e la raccolta dei rifiuti.

@@ -17,6 +17,11 @@ L'**effetto serra** è un fenomeno naturale per cui alcuni gas presenti nell'atm
 ![Riscaldamento globale](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Change_in_Average_Temperature.svg/langit-330px-Change_in_Average_Temperature.svg.png)
 *📖 mutamento del clima terrestre · [Wikipedia](https://it.wikipedia.org/wiki/Riscaldamento_globale) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/J-joQ3l_xGk" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Webinar - Evidenze scientifiche del cambiamento climatico"></iframe>
+<figcaption>📺 Webinar - Evidenze scientifiche del cambiamento climatico · Mondadori Education · <a href="https://www.youtube.com/watch?v=J-joQ3l_xGk" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 L'effetto serra è il meccanismo per cui l'atmosfera funziona come i vetri di una serra: lascia passare la radiazione solare che riscalda la superficie terrestre, ma trattiene parte del calore che la Terra riemette sotto forma di radiazioni infrarosse. È un fenomeno **naturale e indispensabile**: senza di esso la Terra sarebbe troppo fredda e inospitale.

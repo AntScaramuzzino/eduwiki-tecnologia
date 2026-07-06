@@ -27,6 +27,11 @@ L'energia eolica è l'energia ricavata dal vento mediante la conversione dell'en
 ![Energia eolica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Centrale_Eolica_Frigento.jpg/330px-Centrale_Eolica_Frigento.jpg)
 *📖 energia proveniente dal vento · [Wikipedia](https://it.wikipedia.org/wiki/Energia_eolica) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/GmZCO7TZd9U" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Haliade X: la pala eolica più grande del mondo"></iframe>
+<figcaption>📺 Haliade X: la pala eolica più grande del mondo · Geopop · <a href="https://www.youtube.com/watch?v=GmZCO7TZd9U" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Il vento è generato dal riscaldamento irregolare della superficie terrestre da parte del Sole, che produce differenze di pressione atmosferica: le masse d'aria calda salgono e quelle fredde si spostano orizzontalmente per colmare il vuoto. Il vento si manifesta in modo abbastanza regolare solo in alcune zone e a una certa altezza da terra.

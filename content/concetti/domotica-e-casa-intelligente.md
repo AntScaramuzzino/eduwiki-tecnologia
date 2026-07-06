@@ -16,6 +16,11 @@ La **domotica** è la scienza che applica all'abitazione le tecnologie dell'**in
 ![Domotica](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Exemples_Domotique.jpg/330px-Exemples_Domotique.jpg)
 *📖 L'applicazione dell'informatica e dell'elettronica alla gestione dell'abitazione. · [Wikipedia](https://it.wikipedia.org/wiki/Domotica) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/dAIkxQUDRI0" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Alcuni esempi di domotica"></iframe>
+<figcaption>📺 Alcuni esempi di domotica · S. Lattes & C. Editori · <a href="https://www.youtube.com/watch?v=dAIkxQUDRI0" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 La domotica è il punto di arrivo "tecnologico" del modulo sull'abitazione: dopo aver studiato gli impianti tradizionali (idrico, termico, elettrico, gas), si mostra come l'informatica li renda **integrati, programmabili e gestibili da remoto**. Conviene presentarla come applicazione concreta del binomio sensori–attuatori, che gli studenti incontrano anche in robotica e coding.
 

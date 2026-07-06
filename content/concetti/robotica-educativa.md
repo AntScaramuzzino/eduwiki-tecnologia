@@ -17,6 +17,11 @@ La robotica educativa è l'uso di robot programmabili (come mBot o piccoli robot
 ![Robotica](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Toyota_Robot_at_Toyota_Kaikan.jpg/330px-Toyota_Robot_at_Toyota_Kaikan.jpg)
 *📖 progettazione, costruzione, sviluppo di operazioni e compiti dei robot · [Wikipedia](https://it.wikipedia.org/wiki/Robotica) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/nEq-BUaR3GQ" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Webinar - Tinkering e robotica educativa: la robotica educativa per il curriculum scientifico"></iframe>
+<figcaption>📺 Webinar - Tinkering e robotica educativa: la robotica educativa per il curriculum scientifico · Mondadori Education · <a href="https://www.youtube.com/watch?v=nEq-BUaR3GQ" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 La robotica educativa porta il coding fuori dallo schermo: il programma non muove più solo uno sprite, ma un oggetto fisico che si muove nello spazio reale. Questo passaggio rende immediatamente visibili gli errori (il robot va contro il muro) e trasforma il **debugging** in un'esperienza concreta e motivante.

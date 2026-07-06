@@ -17,6 +17,11 @@ L'intelligenza artificiale (IA) è una macchina o un sistema capace di gestire i
 ![Intelligenza artificiale](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png/330px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png)
 *📖 abilità di un computer a svolgere funzioni e ragionamenti tipici della mente umana · [Wikipedia](https://it.wikipedia.org/wiki/Intelligenza_artificiale) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/MJlrabo6ARk" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Dentro l'IA - 1. Come imparano le reti neurali?"></iframe>
+<figcaption>📺 Dentro l'IA - 1. Come imparano le reti neurali? · Zanichelli editore · <a href="https://www.youtube.com/watch?v=MJlrabo6ARk" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 I libri di testo di tecnologia per la secondaria di primo grado introducono l'IA come naturale prolungamento di due concetti già noti: l'**algoritmo** (un procedimento che risolve un problema, rappresentabile con un diagramma di flusso) e il trattamento dei **dati**. Il testo *Techno logics* definisce l'IA come un sistema che "pensa e agisce razionalmente come fa la mente umana", precisando subito un limite importante: a una macchina non si potranno mai far acquisire emozioni e sentimenti umani.

@@ -17,6 +17,11 @@ Il pensiero computazionale è il modo di ragionare che usiamo per risolvere un p
 ![Pensiero computazionale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Computational_Thinking_Process.jpg/330px-The_Computational_Thinking_Process.jpg)
 *📖 Pensiero computazionale · [Wikipedia](https://it.wikipedia.org/wiki/Pensiero_computazionale) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/JBofYa87CRU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Webinar - Il pensiero computazionale"></iframe>
+<figcaption>📺 Webinar - Il pensiero computazionale · Mondadori Education · <a href="https://www.youtube.com/watch?v=JBofYa87CRU" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Nei libri di testo di tecnologia il pensiero computazionale viene presentato come il "lato scientifico-culturale dell'informatica", cioè una competenza che aiuta a "sviluppare competenze logiche e capacità di risolvere problemi in modo creativo ed efficiente", qualità ritenute importanti per tutti i futuri cittadini (Tecnomondo, Pinotti). Il coding è descritto come il modo più semplice e divertente per svilupparlo, ma l'obiettivo dichiarato non è formare "tanti piccoli informatici", bensì stimolare "l'applicazione della logica per affrontare problemi complessi, trovare e applicare delle soluzioni" (APP Scenari di Tecnologia, Pearson).
