@@ -24,7 +24,7 @@ La scrittura è il sistema con cui l'essere umano ha fissato la lingua parlata i
 
 ---
 
-![Stampa](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Drukarnia-zlamywak.jpg/330px-Drukarnia-zlamywak.jpg)
+![Stampa](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Drukarnia-zlamywak.jpg/330px-Drukarnia-zlamywak.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 processo per la produzione di testi e immagini · [Wikipedia](https://it.wikipedia.org/wiki/Stampa) · CC BY-SA*
 
 ## Spiegazione per docenti

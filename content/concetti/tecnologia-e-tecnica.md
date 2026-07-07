@@ -19,7 +19,7 @@ ultima_revisione: 2026-06-22
 
 La **tecnica** è il modo concreto di operare per fare qualcosa: l'insieme delle procedure, delle abilità e dei gesti pratici con cui si realizza un oggetto o si risolve un problema. La **tecnologia** è la disciplina che, conoscendo le tecniche esistenti, ne studia e ne progetta di nuove per risolvere problemi pratici e migliorare le condizioni di vita delle persone. In breve: la tecnica è il "saper fare", la tecnologia è lo studio sistematico e l'innovazione di quel saper fare.
 
-![Tecnologia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/330px-Dampfturbine_Montage01.jpg)
+![Tecnologia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dampfturbine_Montage01.jpg/330px-Dampfturbine_Montage01.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 studio e utilizzo di tecniche, procedimenti e conoscenze tecnico-scientifiche per la soluzione di problemi pratici · [Wikipedia](https://it.wikipedia.org/wiki/Tecnologia) · CC BY-SA*
 
 ## Spiegazione per docenti

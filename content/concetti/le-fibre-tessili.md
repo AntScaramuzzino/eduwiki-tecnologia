@@ -16,6 +16,11 @@ Una **fibra tessile** è un materiale formato da filamenti che, opportunamente l
 ![Seta](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/56-aspetti_di_vita_quotidiana%2Cabbigliamento_in_seta%2CTaccuino.jpg/330px-56-aspetti_di_vita_quotidiana%2Cabbigliamento_in_seta%2CTaccuino.jpg)
 *📖 fibra proteica di un animale con la quale si possono ottenere tessuti tendenzialmente pregiati · [Wikipedia](https://it.wikipedia.org/wiki/Seta) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/CaEeM5hZR_c" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Le fibre tessili"></iframe>
+<figcaption>📺 Le fibre tessili · HUB Scuola · <a href="https://www.youtube.com/watch?v=CaEeM5hZR_c" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 La fibra tessile è l'elemento di partenza dell'intera filiera dell'abbigliamento e dei tessili per la casa. Dal punto di vista tecnologico, una fibra è utile solo se i suoi filamenti possono essere uniti tra loro in un **filo continuo** (il filato): è questa la funzione della **filatura**. Il filato viene poi intrecciato nella **tessitura** per ottenere il tessuto, che subisce infine il **finissaggio** (trattamenti che ne migliorano aspetto e proprietà).
 

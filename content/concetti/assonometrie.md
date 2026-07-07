@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 L'assonometria è un metodo di rappresentazione grafica che permette di disegnare su un foglio (a due dimensioni) un oggetto solido mostrandone le **tre dimensioni** in un'unica figura. Il nome viene dal greco *àxon* ("asse") e *metrìa* ("misura"): significa quindi "misurazione lungo gli assi", perché il disegno si costruisce riportando le misure lungo tre assi di riferimento (x, y, z). Rispetto alle proiezioni ortogonali, l'assonometria dà una buona resa spaziale dell'oggetto con una costruzione grafica più semplice.
 
-![Assonometria](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Axonometric_projection.svg/langit-330px-Axonometric_projection.svg.png)
+![Assonometria](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Axonometric_projection.svg/langit-330px-Axonometric_projection.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 metodo di rappresentazione grafica per oggetti tridimensionali · [Wikipedia](https://it.wikipedia.org/wiki/Assonometria) · CC BY-SA*
 
 ## Spiegazione per docenti

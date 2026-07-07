@@ -16,6 +16,11 @@ La struttura portante è l'ossatura resistente che permette a una costruzione di
 ![Struttura resistente](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hochregallager_01.jpg/330px-Hochregallager_01.jpg)
 *📖 sub-sistema di una costruzione destinato ad assorbire il carico strutturale · [Wikipedia](https://it.wikipedia.org/wiki/Struttura_resistente) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/jDKkAAYdFCU" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Strutture edilizie"></iframe>
+<figcaption>📺 Strutture edilizie · HUB Scuola · <a href="https://www.youtube.com/watch?v=jDKkAAYdFCU" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 Qualsiasi costruzione, naturale o artificiale, destinata a sopportare sforzi e sollecitazioni di carattere statico e dinamico può stare in piedi solo grazie alla sua struttura portante, che ne costituisce l'ossatura resistente. Nell'edilizia residenziale la norma UNI 8290 distingue la struttura portante in tre componenti: struttura di fondazione, struttura di elevazione (pilastri e travi) e struttura di contenimento (muri).
 

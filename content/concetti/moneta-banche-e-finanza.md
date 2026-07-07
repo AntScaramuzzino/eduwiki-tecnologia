@@ -20,7 +20,7 @@ La **moneta** è tutto ciò che viene generalmente accettato come mezzo di pagam
 
 ---
 
-![Banca](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg/330px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg)
+![Banca](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg/330px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6336964.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 istituto finanziario · [Wikipedia](https://it.wikipedia.org/wiki/Banca) · CC BY-SA*
 
 ## Spiegazione per docenti

@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 I metodi di conservazione degli alimenti sono tecniche che rallentano o bloccano il naturale processo di alterazione dei cibi, creando condizioni sfavorevoli allo sviluppo dei microrganismi dannosi. Servono a mantenere più a lungo la freschezza, il valore nutritivo e la sicurezza degli alimenti.
 
-![Frigorifero](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Open_refrigerator_with_food_at_night.jpg/330px-Open_refrigerator_with_food_at_night.jpg)
+![Frigorifero](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Open_refrigerator_with_food_at_night.jpg/330px-Open_refrigerator_with_food_at_night.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 elettrodomestico atto a refrigerare alimenti o altri prodotti deperibili · [Wikipedia](https://it.wikipedia.org/wiki/Frigorifero) · CC BY-SA*
 
 ## Spiegazione per docenti

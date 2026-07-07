@@ -20,7 +20,7 @@ Il trasporto via acqua è il sistema di spostamento di persone e merci attravers
 
 ---
 
-![Nave](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lazio_02-06-2006_cagliari_%284%29.jpg/330px-Lazio_02-06-2006_cagliari_%284%29.jpg)
+![Nave](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lazio_02-06-2006_cagliari_%284%29.jpg/330px-Lazio_02-06-2006_cagliari_%284%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 mezzo di trasporto su acqua · [Wikipedia](https://it.wikipedia.org/wiki/Nave) · CC BY-SA*
 
 ## Spiegazione per docenti

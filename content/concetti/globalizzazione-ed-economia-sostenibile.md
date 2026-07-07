@@ -21,7 +21,7 @@ La **globalizzazione** è il processo di integrazione economica, sociale e cultu
 
 ---
 
-![Globalizzazione](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/World-airline-routemap-2009.png/330px-World-airline-routemap-2009.png)
+![Globalizzazione](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/World-airline-routemap-2009.png/330px-World-airline-routemap-2009.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 fenomeno di crescente interdipendenza delle economie e dei mercati internazionali · [Wikipedia](https://it.wikipedia.org/wiki/Globalizzazione) · CC BY-SA*
 
 ## Spiegazione per docenti

@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 I **sensori** sono i dispositivi che fanno "percepire" l'ambiente a una macchina: rilevano una grandezza fisica (luce, temperatura, pressione, distanza, movimento...) e la trasformano in un segnale elettrico, cioè in un **input** che la scheda può elaborare. Gli **attuatori** sono i dispositivi che fanno "agire" la macchina sul mondo: ricevono un comando dalla scheda, cioè un **output**, e lo trasformano in un effetto fisico (luce, suono, movimento). In mezzo c'è la scheda di controllo (Arduino, micro:bit, mCore di mBot), che riceve gli input dai sensori, li elabora secondo il programma e invia i comandi di output agli attuatori.
 
-![Termometro](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clinical_thermometer_38.7.JPG/330px-Clinical_thermometer_38.7.JPG)
+![Termometro](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clinical_thermometer_38.7.JPG/330px-Clinical_thermometer_38.7.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 strumento per misurare la temperatura · [Wikipedia](https://it.wikipedia.org/wiki/Termometro) · CC BY-SA*
 
 ## Spiegazione per docenti

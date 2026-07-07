@@ -14,8 +14,13 @@ ultima_revisione: 2026-06-22
 
 Costruire un edificio significa realizzare, secondo un ordine preciso, una struttura resistente capace di sostenere il proprio peso e i carichi esterni: si parte dallo scavo e dalle fondazioni, si innalza lo scheletro portante (pilastri, travi e solai), si chiude con murature e tetto e si completa con impianti e finiture.
 
-![Edilizia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Construction_site_in_Cologne%2C_Germany_%282017%29.jpg/330px-Construction_site_in_Cologne%2C_Germany_%282017%29.jpg)
+![Edilizia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Construction_site_in_Cologne%2C_Germany_%282017%29.jpg/330px-Construction_site_in_Cologne%2C_Germany_%282017%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 processo di progettazione e realizzazione di una costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Edilizia) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/FqVsKq9HV0c" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Costruire"></iframe>
+<figcaption>📺 Costruire · HUB Scuola · <a href="https://www.youtube.com/watch?v=FqVsKq9HV0c" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

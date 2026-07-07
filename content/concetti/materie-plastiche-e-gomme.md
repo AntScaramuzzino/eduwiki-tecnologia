@@ -17,6 +17,11 @@ Le materie plastiche sono materiali composti da **polimeri**, cioè molecole mol
 ![Materie plastiche](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Plastic_household_items.jpg/330px-Plastic_household_items.jpg)
 *📖 materiale artificiale con struttura macromolecolare · [Wikipedia](https://it.wikipedia.org/wiki/Materie_plastiche) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/Mapg2wNp2Co" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Le materie plastiche"></iframe>
+<figcaption>📺 Le materie plastiche · HUB Scuola · <a href="https://www.youtube.com/watch?v=Mapg2wNp2Co" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Il concetto chiave da costruire con la classe è la relazione **monomero → polimero → materiale**. Le materie plastiche sono per lo più sostanze organiche (catene di atomi di carbonio) ottenute dalla distillazione del petrolio o dal gas naturale: dalla virgin nafta, tramite *steam cracking*, si ricavano i monomeri (etilene, propilene, butadiene, stirene), che la polimerizzazione unisce in lunghe catene (polimeri). Allo stato grezzo i semilavorati si presentano come polveri, granuli (*chip* o *pellet*), fibre o liquidi.

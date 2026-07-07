@@ -19,6 +19,11 @@ I materiali sono le sostanze con cui produciamo oggetti. Ogni materiale possiede
 ![Scienza dei materiali](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Calcite2.png/330px-Calcite2.png)
 *📖 disciplina scientifica · [Wikipedia](https://it.wikipedia.org/wiki/Scienza_dei_materiali) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/EvHPNz_D9S0" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="I materiali"></iframe>
+<figcaption>📺 I materiali · HUB Scuola · <a href="https://www.youtube.com/watch?v=EvHPNz_D9S0" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Questo concetto è la porta d'ingresso all'intero modulo sui materiali: prima di studiare legno, carta, metalli, plastiche, vetro o ceramica conviene fissare due idee-chiave.

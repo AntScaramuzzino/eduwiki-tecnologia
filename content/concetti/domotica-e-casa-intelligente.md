@@ -13,7 +13,7 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 La **domotica** è la scienza che applica all'abitazione le tecnologie dell'**informatica** e dell'**elettronica**. Il nome nasce dall'unione della parola latina *domus* (casa) con *informatica*. Il suo scopo è migliorare la qualità della vita domestica realizzando una **casa intelligente** (*smart house*): un'abitazione dotata di impianti e apparecchiature in grado di funzionare in modo automatico, programmato e controllabile anche a distanza tramite smartphone, tablet o PC.
 
-![Domotica](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Exemples_Domotique.jpg/330px-Exemples_Domotique.jpg)
+![Domotica](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Exemples_Domotique.jpg/330px-Exemples_Domotique.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 L'applicazione dell'informatica e dell'elettronica alla gestione dell'abitazione. · [Wikipedia](https://it.wikipedia.org/wiki/Domotica) · CC BY-SA*
 
 <figure>

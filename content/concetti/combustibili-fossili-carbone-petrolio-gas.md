@@ -17,6 +17,11 @@ I combustibili fossili — carbone, petrolio e gas naturale — sono sostanze ri
 ![Combustibile fossile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Combustibili_fossili.png/330px-Combustibili_fossili.png)
 *📖 combustibili derivanti dalla trasformazione di sostanze organiche avvenuta nel corso di milioni di anni · [Wikipedia](https://it.wikipedia.org/wiki/Combustibile_fossile) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/fnxzcLju5Dc" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Estrazione e lavorazione del petrolio"></iframe>
+<figcaption>📺 Estrazione e lavorazione del petrolio · HUB Scuola · <a href="https://www.youtube.com/watch?v=fnxzcLju5Dc" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 ### Origine comune e stati fisici diversi

@@ -18,8 +18,13 @@ ultima_revisione: 2026-06-22
 
 L'energia è la **capacità di un corpo di compiere un lavoro**. Si manifesta in forme diverse — meccanica (cinetica e potenziale), termica, chimica, elettrica, luminosa, nucleare — che possono trasformarsi l'una nell'altra tramite dispositivi detti **convertitori**. La sua unità di misura nel Sistema Internazionale è il **joule (J)**.
 
-![Energia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg/330px-Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg)
+![Energia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg/330px-Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 capacità di un corpo o di un sistema di compiere lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Energia) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/uIkh0KMdhAo" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="L'energia e le sue forme"></iframe>
+<figcaption>📺 L'energia e le sue forme · HUB Scuola · <a href="https://www.youtube.com/watch?v=uIkh0KMdhAo" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

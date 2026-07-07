@@ -14,8 +14,13 @@ ultima_revisione: 2026-06-22
 
 La **pesca** è l'attività di cattura di pesci, molluschi e crostacei nei mari, nei laghi e nei fiumi. L'**acquacoltura** è invece l'allevamento controllato di queste stesse specie acquatiche in spazi confinati (vasche, gabbie, vivai, valli) o in ambienti naturali gestiti dall'uomo. Insieme costituiscono il settore che fornisce i prodotti ittici per l'alimentazione.
 
-![Acquacoltura](https://upload.wikimedia.org/wikipedia/commons/9/9a/Aquaculturechile.jpg)
+![Acquacoltura](https://upload.wikimedia.org/wikipedia/commons/9/9a/Aquaculturechile.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
 *📖 allevamento di organismi acquatici da parte dell'uomo · [Wikipedia](https://it.wikipedia.org/wiki/Acquacoltura) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/irD0yGD1Cf4" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="La pesca"></iframe>
+<figcaption>📺 La pesca · HUB Scuola · <a href="https://www.youtube.com/watch?v=irD0yGD1Cf4" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

@@ -13,7 +13,7 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 Le coltivazioni protette sono tecniche con cui l'agricoltura controlla i fattori naturali (clima, acqua, suolo) per coltivare anche fuori stagione o senza terreno. La **serra** crea un microclima artificiale; le **colture senza suolo** (idroponica, aeroponica, acquaponica) fanno crescere le piante senza terra, nutrendole con soluzioni nutritive.
 
-![Idroponica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg/330px-Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg)
+![Idroponica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg/330px-Expo_2015_-_Coltura_idroponica_al_padiglione_del_Belgio.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 tecnica di coltivazione fuori dal suolo · [Wikipedia](https://it.wikipedia.org/wiki/Idroponica) · CC BY-SA*
 
 ## Spiegazione per docenti

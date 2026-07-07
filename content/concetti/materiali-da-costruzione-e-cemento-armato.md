@@ -16,6 +16,11 @@ I materiali da costruzione sono le sostanze con cui si realizzano gli edifici: p
 ![Calcestruzzo armato](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RebarCloseup.jpg/330px-RebarCloseup.jpg)
 *📖 materiale composito da costruzione · [Wikipedia](https://it.wikipedia.org/wiki/Calcestruzzo_armato) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/bsSnjCIwPVQ" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="I leganti e il cemento armato"></iframe>
+<figcaption>📺 I leganti e il cemento armato · HUB Scuola · <a href="https://www.youtube.com/watch?v=bsSnjCIwPVQ" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 Il concetto raccoglie la classificazione dei materiali da costruzione e culmina nel funzionamento del cemento armato, nodo concettuale chiave del modulo su abitazione ed edilizia.
 

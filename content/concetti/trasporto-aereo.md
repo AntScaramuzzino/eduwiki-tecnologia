@@ -20,7 +20,7 @@ Il trasporto aereo è il sistema di spostamento di persone e merci mediante aero
 
 ---
 
-![Aviazione](https://upload.wikimedia.org/wikipedia/it/thumb/2/2f/Patchwork_Aviazione.JPG/330px-Patchwork_Aviazione.JPG)
+![Aviazione](https://upload.wikimedia.org/wikipedia/it/thumb/2/2f/Patchwork_Aviazione.JPG/330px-Patchwork_Aviazione.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 insieme di attività che coinvolgono qualsiasi tipo di apparecchio adatto al volo · [Wikipedia](https://it.wikipedia.org/wiki/Aviazione) · CC BY-SA*
 
 ## Spiegazione per docenti

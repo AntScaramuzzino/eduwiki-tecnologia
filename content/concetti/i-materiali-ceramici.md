@@ -13,8 +13,13 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 I materiali ceramici sono prodotti che si ottengono dalla **cottura ad alta temperatura** di un impasto a base di **argilla** e acqua. Sono duri, resistenti, isolanti termici ed elettrici, ma anche **fragili**; con essi si realizzano stoviglie, piastrelle, sanitari, mattoni e tegole.
 
-![Ceramica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chinese_-_Storage_Jar_-_Walters_492392.jpg/330px-Chinese_-_Storage_Jar_-_Walters_492392.jpg)
+![Ceramica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chinese_-_Storage_Jar_-_Walters_492392.jpg/330px-Chinese_-_Storage_Jar_-_Walters_492392.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 materiale inorganico non metallico · [Wikipedia](https://it.wikipedia.org/wiki/Ceramica) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/PqbrZEdoQtw" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="La ceramica"></iframe>
+<figcaption>📺 La ceramica · HUB Scuola · <a href="https://www.youtube.com/watch?v=PqbrZEdoQtw" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 I materiali ceramici provengono, insieme al vetro, dalla cosiddetta **industria ceramica tradizionale**, che trasforma materiali rocciosi di consistenza sabbiosa. La materia prima della ceramica è l'**argilla**: un materiale terroso a grana finissima, fatto di granuli non compattati. Le argille sono tipicamente rosse perché contengono ossido di ferro; alcune, dette **caolini**, sono bianche e si usano per le ceramiche di pasta bianca come le **porcellane** (stoviglie e sanitari) (fonte: Futura, p.88).

@@ -20,6 +20,11 @@ La corrente elettrica è un flusso ordinato di elettroni che scorre in un condut
 ![Circuito elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Circuito_elettrico_autodescritto.svg/langit-330px-Circuito_elettrico_autodescritto.svg.png)
 *📖 tipo di rete · [Wikipedia](https://it.wikipedia.org/wiki/Circuito_elettrico) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/0pTlU6diT6g" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Costruiamo un circuito elettrico"></iframe>
+<figcaption>📺 Costruiamo un circuito elettrico · HUB Scuola · <a href="https://www.youtube.com/watch?v=0pTlU6diT6g" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 ### Atomi, conduttori e isolanti

@@ -17,6 +17,11 @@ Le macchine e le tecniche agricole sono l'insieme degli strumenti, dei mezzi mec
 ![Macchina agricola](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Agricultural_machinery.jpg/330px-Agricultural_machinery.jpg)
 *📖 macchina o un meccanismo costruiti per svolgere uno o più lavori agricoli · [Wikipedia](https://it.wikipedia.org/wiki/Macchina_agricola) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/IQwS0bn9T_E" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="La meccanizzazione agricola"></iframe>
+<figcaption>📺 La meccanizzazione agricola · HUB Scuola · <a href="https://www.youtube.com/watch?v=IQwS0bn9T_E" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Il ciclo delle lavorazioni agricole si organizza in fasi successive e in parte stagionali. Sui terreni mai coltivati o abbandonati si eseguono prima le operazioni di **messa a coltura** (disboscamento, spietramento, livellamento e aratura profonda); ogni anno, dopo il raccolto, si ripetono invece i **lavori di preparazione** del terreno per la nuova semina.

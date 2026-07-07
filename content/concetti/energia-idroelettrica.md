@@ -17,6 +17,11 @@ L'energia idroelettrica è l'energia elettrica prodotta sfruttando la forza dell
 ![Energia idroelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/330px-ThreeGorgesDam-China2009.jpg)
 *📖 elettricità generata dall'energia idroelettrica · [Wikipedia](https://it.wikipedia.org/wiki/Energia_idroelettrica) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/Sf_08Bach6Y" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="L'energia idroelettrica"></iframe>
+<figcaption>📺 L'energia idroelettrica · HUB Scuola · <a href="https://www.youtube.com/watch?v=Sf_08Bach6Y" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 L'energia idroelettrica è la più consolidata tra le fonti rinnovabili: già nei mulini ad acqua dell'antichità la forza di un corso d'acqua azionava ruote per macinare cereali, lavorare metalli e azionare mantici. Dalla fine dell'Ottocento quella stessa forza viene incanalata in turbine collegata ad alternatori per produrre corrente elettrica.

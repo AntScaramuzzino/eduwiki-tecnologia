@@ -20,7 +20,7 @@ Le infrastrutture di trasporto sono l'insieme delle opere fisse costruite dall'u
 
 ---
 
-![Infrastruttura](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ponte_all%27Indiano_7.JPG/330px-Ponte_all%27Indiano_7.JPG)
+![Infrastruttura](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ponte_all%27Indiano_7.JPG/330px-Ponte_all%27Indiano_7.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 serie di elementi che compongono o collegano i vari componenti di una struttura · [Wikipedia](https://it.wikipedia.org/wiki/Infrastruttura) · CC BY-SA*
 
 ## Spiegazione per docenti

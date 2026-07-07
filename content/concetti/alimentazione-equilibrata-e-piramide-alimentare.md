@@ -20,6 +20,11 @@ L'**alimentazione equilibrata** consiste nell'assumere ogni giorno tutti i princ
 ![Dieta mediterranea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/330px-DIETA_MEDITERRANEA_ITALIA.JPG)
 *📖 modello nutrizionale · [Wikipedia](https://it.wikipedia.org/wiki/Dieta_mediterranea) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/a3qQCdjNuWI" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="La buona alimentazione"></iframe>
+<figcaption>📺 La buona alimentazione · HUB Scuola · <a href="https://www.youtube.com/watch?v=a3qQCdjNuWI" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Il tema collega scienze, tecnologia ed educazione alla salute, e nei manuali di Tecnologia compare nella sezione dedicata al settore agroalimentare e all'impronta ecologica.

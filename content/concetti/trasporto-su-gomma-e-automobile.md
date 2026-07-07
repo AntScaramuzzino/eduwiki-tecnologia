@@ -22,7 +22,7 @@ Il trasporto su gomma è il sistema di spostamento di persone e merci che avvien
 
 ---
 
-![Automobile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/De_Dion_stoomdriewieler.GIF/330px-De_Dion_stoomdriewieler.GIF)
+![Automobile](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/De_Dion_stoomdriewieler.GIF/330px-De_Dion_stoomdriewieler.GIF?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 veicolo · [Wikipedia](https://it.wikipedia.org/wiki/Automobile) · CC BY-SA*
 
 ## Spiegazione per docenti

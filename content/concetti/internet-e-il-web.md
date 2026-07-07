@@ -22,7 +22,7 @@ Internet è una rete mondiale di reti di computer che comunicano tra loro tramit
 
 ---
 
-![Internet](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/langit-330px-Applications-internet.svg.png)
+![Internet](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Applications-internet.svg/langit-330px-Applications-internet.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 rete mondiale di reti di computer ad accesso pubblico · [Wikipedia](https://it.wikipedia.org/wiki/Internet) · CC BY-SA*
 
 <figure>

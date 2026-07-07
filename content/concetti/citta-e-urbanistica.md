@@ -14,8 +14,13 @@ ultima_revisione: 2026-06-22
 
 L'urbanistica è la disciplina che studia e organizza gli spazi del territorio in cui si insediano le attività umane. Si occupa di pianificare e regolare lo sviluppo delle città, decidendo come usare il suolo (dove costruire case, servizi, strade, aree verdi) secondo regole stabilite da appositi piani.
 
-![Urbanistica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Partizanske4.jpg/330px-Partizanske4.jpg)
+![Urbanistica](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Partizanske4.jpg/330px-Partizanske4.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 disciplina che progetta e pianifica l'utilizzo dello spazio urbano · [Wikipedia](https://it.wikipedia.org/wiki/Urbanistica) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/0Xxl3KO6dGM" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Abitare il territorio"></iframe>
+<figcaption>📺 Abitare il territorio · HUB Scuola · <a href="https://www.youtube.com/watch?v=0Xxl3KO6dGM" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

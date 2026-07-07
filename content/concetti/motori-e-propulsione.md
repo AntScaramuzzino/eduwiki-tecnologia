@@ -21,8 +21,13 @@ Un **motore** è una macchina che trasforma una forma di energia (chimica, elett
 
 ---
 
-![Motore](https://upload.wikimedia.org/wikipedia/commons/8/8a/Triple_expansion_engine_animation.gif)
+![Motore](https://upload.wikimedia.org/wikipedia/commons/8/8a/Triple_expansion_engine_animation.gif?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
 *📖 macchinario in grado di trasformare una fonte di energia in energia meccanica · [Wikipedia](https://it.wikipedia.org/wiki/Motore) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/CgmxtEs18DI" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Motori e automazioni"></iframe>
+<figcaption>📺 Motori e automazioni · HUB Scuola · <a href="https://www.youtube.com/watch?v=CgmxtEs18DI" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

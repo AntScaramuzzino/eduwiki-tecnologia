@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 L'inquinamento è l'immissione nell'ambiente di sostanze o forme di energia che ne alterano l'equilibrio naturale, danneggiando gli ecosistemi e la salute degli esseri viventi. Riguarda i tre principali comparti ambientali: l'aria (atmosfera), l'acqua (fiumi, mari, falde) e il suolo (terreno). Quasi sempre ha origine dalle attività umane: traffico, industria, riscaldamento, agricoltura intensiva, rifiuti.
 
-![Inquinamento](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/330px-Pollution_in_Mankweng.jpg)
+![Inquinamento](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pollution_in_Mankweng.jpg/330px-Pollution_in_Mankweng.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 alterazione o contaminazione di un qualsiasi materiale o ambiente ad opera di agenti inorganici od organici · [Wikipedia](https://it.wikipedia.org/wiki/Inquinamento) · CC BY-SA*
 
 ## Spiegazione per docenti

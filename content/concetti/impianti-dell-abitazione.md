@@ -14,8 +14,13 @@ ultima_revisione: 2026-06-22
 
 Gli impianti dell'abitazione sono i sistemi tecnologici che rendono la casa abitabile e confortevole: portano l'acqua, l'energia elettrica, il calore e il gas, e allontanano le acque di scarico. I cinque impianti principali sono l'impianto idrico-sanitario, l'impianto termico, l'impianto elettrico, l'impianto del gas e gli impianti "accessori" (videocitofono, telefono, TV, antifurto).
 
-![Termosifone](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Convection_from_different_heatings..jpg/330px-Convection_from_different_heatings..jpg)
+![Termosifone](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Convection_from_different_heatings..jpg/330px-Convection_from_different_heatings..jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 metodo di scambio termico in cui la convezione aziona la circolazione senza pompa · [Wikipedia](https://it.wikipedia.org/wiki/Termosifone) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/W_2PiL3xnDM" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="L'abitazione"></iframe>
+<figcaption>📺 L'abitazione · HUB Scuola · <a href="https://www.youtube.com/watch?v=W_2PiL3xnDM" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

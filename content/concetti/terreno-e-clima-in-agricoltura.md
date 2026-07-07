@@ -14,8 +14,13 @@ ultima_revisione: 2026-06-22
 
 Il terreno e il clima sono i due fattori naturali che condizionano di più la produzione agricola. Il terreno (o suolo agrario) è lo strato superficiale della crosta terrestre capace di ospitare e nutrire le piante; il clima è l'insieme delle condizioni di temperatura, luce, acqua e umidità di un territorio. Insieme determinano dove, come e quali colture si possono coltivare.
 
-![Pedologia](https://upload.wikimedia.org/wikipedia/commons/9/90/Pedologo01.jpg)
+![Pedologia](https://upload.wikimedia.org/wikipedia/commons/9/90/Pedologo01.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
 *📖 studio dei suoli nel loro ambiente naturale · [Wikipedia](https://it.wikipedia.org/wiki/Pedologia) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/erUQdaqtD88" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="L'agricoltura"></iframe>
+<figcaption>📺 L'agricoltura · HUB Scuola · <a href="https://www.youtube.com/watch?v=erUQdaqtD88" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

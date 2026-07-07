@@ -26,6 +26,11 @@ L'**efficienza energetica** indica la capacità di un apparecchio o di un edific
 ![Efficienza energetica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/langit-330px-Efficiency_diagram_by_Zureks.svg.png)
 *📖 Efficienza energetica · [Wikipedia](https://it.wikipedia.org/wiki/Efficienza_energetica) · CC BY-SA*
 
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/2H7cGB8GVQM" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il risparmio energetico"></iframe>
+<figcaption>📺 Il risparmio energetico · HUB Scuola · <a href="https://www.youtube.com/watch?v=2H7cGB8GVQM" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Spiegazione per docenti
 
 Il tema si articola su tre livelli interconnessi: comportamenti individuali, caratteristiche degli apparecchi elettrici e qualità degli edifici.

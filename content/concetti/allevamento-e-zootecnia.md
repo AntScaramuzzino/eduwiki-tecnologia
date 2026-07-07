@@ -13,8 +13,13 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 La **zootecnia** è il settore dell'agricoltura che si occupa dell'**allevamento degli animali domestici** per ottenere alimenti (carne, latte, uova), materie prime (lana, pelli) e fertilizzanti naturali (letame). I principali animali allevati in Italia sono bovini, suini e avicoli (polli, tacchini).
 
-![Allevamento](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Quincy_Vitiello_Pig.jpg/330px-Quincy_Vitiello_Pig.jpg)
+![Allevamento](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Quincy_Vitiello_Pig.jpg/330px-Quincy_Vitiello_Pig.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 attività economica · [Wikipedia](https://it.wikipedia.org/wiki/Allevamento) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/8l2IHVBTcRg" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Allevamento e pesca"></iframe>
+<figcaption>📺 Allevamento e pesca · HUB Scuola · <a href="https://www.youtube.com/watch?v=8l2IHVBTcRg" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 La zootecnia rientra nel **settore primario** ed è strettamente collegata all'agricoltura: foraggi e mangimi destinati al bestiame provengono in larga parte dalle coltivazioni. Le finalità dell'allevamento sono il miglioramento della produzione, ottenuto sia con tecniche di **selezione e incrocio** delle razze, sia con l'ottimizzazione delle tecniche di allevamento.
