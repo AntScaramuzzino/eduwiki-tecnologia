@@ -166,6 +166,8 @@ YT_MAP = {
     "robotica-educativa":             ("nEq-BUaR3GQ", "Webinar - Tinkering e robotica educativa: la robotica educativa per il curriculum scientifico", "Mondadori Education"),
     # Smart city e mobilità sostenibile — Zanichelli editore
     "smart-city-e-mobilita-sostenibile": ("JuyPkww6s-U", "La città ideale e le città sostenibili (tratto da Artelogia)", "Zanichelli editore"),
+    # Cittadinanza digitale — Mondadori Education
+    "social-network-e-cittadinanza-digitale": ("-kr34d7b1IQ", "Cittadinanza digitale | con Daniele Aristarco", "Mondadori Education"),
     # Energia eolica — Geopop
     "energia-eolica":                  ("GmZCO7TZd9U", "Haliade X: la pala eolica più grande del mondo", "Geopop"),
     # Motore elettrico — Tecnologia Duepuntozero

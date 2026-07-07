@@ -27,6 +27,13 @@ Un team di ricerca cinese, in uno studio pubblicato su Angewandte Chemie Interna
 
 [[riciclo-e-sostenibilita-dei-materiali]]
 
+## Video di supporto
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/1EoeGgrAtJ4" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Il riciclo della plastica"></iframe>
+<figcaption>📺 Il riciclo della plastica · CONAI · <a href="https://www.youtube.com/watch?v=1EoeGgrAtJ4" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Criticità
 
 Il metodo descritto è una ricerca di laboratorio, non ancora una tecnologia di riciclo su scala industriale: va presentato come innovazione promettente, non come soluzione già in uso.

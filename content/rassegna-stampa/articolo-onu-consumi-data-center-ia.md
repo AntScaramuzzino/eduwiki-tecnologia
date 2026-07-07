@@ -27,6 +27,13 @@ Il segretario generale dell'ONU Antonio Guterres ha chiesto alle grandi aziende 
 
 [[intelligenza-artificiale-a-scuola]]
 
+## Video di supporto
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/MJlrabo6ARk" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Dentro l'IA - 1. Come imparano le reti neurali?"></iframe>
+<figcaption>📺 Dentro l'IA - 1. Come imparano le reti neurali? · Zanichelli editore · <a href="https://www.youtube.com/watch?v=MJlrabo6ARk" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Criticità
 
 L'articolo riporta un discorso/appello politico, non uno studio tecnico con dati di consumo verificabili: utile come stimolo alla discussione, non come fonte di dati quantitativi precisi.

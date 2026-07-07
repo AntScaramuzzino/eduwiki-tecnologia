@@ -27,6 +27,13 @@ La Tangenziale di Napoli è la prima strada italiana certificata ufficialmente "
 
 [[smart-city-e-mobilita-sostenibile]]
 
+## Video di supporto
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/JuyPkww6s-U" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="La città ideale e le città sostenibili (tratto da Artelogia)"></iframe>
+<figcaption>📺 La città ideale e le città sostenibili (tratto da Artelogia) · Zanichelli editore · <a href="https://www.youtube.com/watch?v=JuyPkww6s-U" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Criticità
 
 Focus.it è una testata di divulgazione scientifica generalista, affidabile per notizie di attualità ma non una fonte tecnica primaria. Essendo una notizia di attualità, andrà verificato nel tempo se il progetto viene esteso ad altre strade italiane.

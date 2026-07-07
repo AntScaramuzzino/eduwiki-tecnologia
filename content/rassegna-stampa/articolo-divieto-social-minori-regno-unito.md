@@ -27,6 +27,13 @@ Il Regno Unito introdurrà, dal 2027, un divieto di accesso ai social media per 
 
 [[social-network-e-cittadinanza-digitale]]
 
+## Video di supporto
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/-kr34d7b1IQ" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Cittadinanza digitale | con Daniele Aristarco"></iframe>
+<figcaption>📺 Cittadinanza digitale | con Daniele Aristarco · Mondadori Education · <a href="https://www.youtube.com/watch?v=-kr34d7b1IQ" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Criticità
 
 Il provvedimento è annunciato ma non ancora in vigore al momento della pubblicazione dell'articolo (entrata in vigore prevista nel 2027): va presentato come proposta normativa, non come legge già attiva. Riguarda il Regno Unito, non l'Italia.

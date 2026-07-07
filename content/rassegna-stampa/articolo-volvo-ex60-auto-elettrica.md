@@ -27,6 +27,13 @@ Il reportage documenta la partenza della produzione della Volvo EX60 a Göteborg
 
 [[il-motore-elettrico]]
 
+## Video di supporto
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/2LIO7TEKook" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Laboratorio: motorino elettrico"></iframe>
+<figcaption>📺 Laboratorio: motorino elettrico · Tecnologia Duepuntozero · <a href="https://www.youtube.com/watch?v=2LIO7TEKook" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Criticità
 
 È un articolo giornalistico/reportage aziendale, con un taglio narrativo più che tecnico: non spiega il funzionamento fisico del motore elettrico (per quello si rimanda alla pagina concetto e ai video collegati), ma offre un caso applicativo reale e attuale.

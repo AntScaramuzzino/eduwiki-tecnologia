@@ -27,6 +27,13 @@ L'articolo racconta il lavoro di NextGeo, azienda napoletana di geoscienze marin
 
 [[energia-eolica]]
 
+## Video di supporto
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/GmZCO7TZd9U" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Haliade X: la pala eolica più grande del mondo"></iframe>
+<figcaption>📺 Haliade X: la pala eolica più grande del mondo · Geopop · <a href="https://www.youtube.com/watch?v=GmZCO7TZd9U" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Criticità
 
 L'articolo si concentra sull'attività dell'azienda NextGeo più che su una spiegazione tecnica del funzionamento delle turbine eoliche offshore: va integrato con contenuti più specifici sull'eolico per una trattazione completa del concetto.

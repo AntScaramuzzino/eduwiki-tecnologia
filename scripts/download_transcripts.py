@@ -47,6 +47,8 @@ VIDEOS = {
     "GmZCO7TZd9U": ("video-haliade-x-pala-eolica", "Haliade X: la pala eolica più grande del mondo", "Geopop", ["energia-eolica"]),
     # Motore elettrico — Tecnologia Duepuntozero (unico trovato tra i canali autorizzati)
     "2LIO7TEKook": ("video-laboratorio-motorino-elettrico", "Laboratorio: motorino elettrico", "Tecnologia Duepuntozero", ["il-motore-elettrico"]),
+    # Cittadinanza digitale — Mondadori Education
+    "-kr34d7b1IQ": ("video-cittadinanza-digitale-aristarco", "Cittadinanza digitale | con Daniele Aristarco", "Mondadori Education", ["social-network-e-cittadinanza-digitale"]),
 }
 
 

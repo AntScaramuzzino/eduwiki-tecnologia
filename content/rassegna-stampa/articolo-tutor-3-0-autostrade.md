@@ -27,6 +27,13 @@ Autostrade per l'Italia e la Polizia di Stato hanno introdotto il sistema Tutor 
 
 [[smart-city-e-mobilita-sostenibile]]
 
+## Video di supporto
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/2qRlgfDaE-k" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come fa Google Maps a rilevare il traffico in tempo reale e a calcolare l'itinerario migliore?"></iframe>
+<figcaption>📺 Come fa Google Maps a rilevare il traffico in tempo reale e a calcolare l'itinerario migliore? · Geopop · <a href="https://www.youtube.com/watch?v=2qRlgfDaE-k" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Criticità
 
 I dati sugli incidenti citati risalgono al 2023 (ultimo dato disponibile alla pubblicazione dell'articolo), da aggiornare se riutilizzati in materiali più recenti.

@@ -27,6 +27,13 @@ I fisici Giorgio Parisi (premio Nobel per la Fisica) e Francesco Zamponi hanno u
 
 [[intelligenza-artificiale-a-scuola]]
 
+## Video di supporto
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/BkRKu3mn-o4" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Dentro l'IA - 3. Come funzionano i grandi modelli linguistici (LLM)?"></iframe>
+<figcaption>📺 Dentro l'IA - 3. Come funzionano i grandi modelli linguistici (LLM)? · Zanichelli editore · <a href="https://www.youtube.com/watch?v=BkRKu3mn-o4" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
+
 ## Criticità
 
 Il risultato scientifico specifico è molto tecnico (fisica statistica avanzata) e non comprensibile nel dettaglio da non esperti: nella didattica va usato per il messaggio generale, non per il contenuto scientifico specifico.
