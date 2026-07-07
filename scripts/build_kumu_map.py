@@ -43,6 +43,16 @@ def extract_wiki_image(text):
     return m.group(1) if m else None
 
 
+def extract_stato(text):
+    """Legge il campo 'stato:' dal frontmatter YAML (bozza | da_validare |
+    validato) senza un parser YAML completo: una riga sola, valore semplice."""
+    fm = FRONTMATTER_RE.match(text)
+    if not fm:
+        return None
+    m = re.search(r"^stato:\s*(\S+)\s*$", fm.group(0), re.M)
+    return m.group(1) if m else None
+
+
 def clean_text(text):
     """Rimuove wikilink, grassetto/corsivo markdown e spazi ridondanti.
     Nessun troncamento: la descrizione riporta il testo integrale della
@@ -109,6 +119,9 @@ def parse_content_files(dir_path, area_type, yt_map=None):
             img = extract_wiki_image(raw)
             if img:
                 el["Image"] = img
+        stato = extract_stato(raw)
+        if stato:
+            el["stato"] = stato
         video = yt_map.get(slug) if yt_map else None
         if video:
             # sintassi widget di Kumu per l'embed YouTube nel pannello elemento:
@@ -216,6 +229,15 @@ def main():
                     missing_added.add(t)
                 add_conn(slug, t, "collegamento")
 
+    # 4. conteggio connessioni per elemento (centralità/grado), per dimensionare
+    # i nodi via `element-size: scale("connessioni", min, max)` in Kumu
+    degree = {}
+    for c in connections:
+        degree[c["from"]] = degree.get(c["from"], 0) + 1
+        degree[c["to"]] = degree.get(c["to"], 0) + 1
+    for el in elements.values():
+        el["connessioni"] = degree.get(el["id"], 0)
+
     blueprint = {
         "elements": list(elements.values()),
         "connections": connections,
@@ -232,10 +254,16 @@ def main():
         print(f"  {t:25s} {n}")
     with_video = sum(1 for e in elements.values() if e.get("video"))
     with_image = sum(1 for e in elements.values() if e.get("Image"))
+    with_stato = sum(1 for e in elements.values() if e.get("stato"))
+    top_hubs = sorted(elements.values(), key=lambda e: -e["connessioni"])[:5]
     print(f"\nTotale elementi:    {len(elements)}")
     print(f"Totale connessioni: {len(connections)}")
     print(f"Elementi con video embeddato: {with_video}")
     print(f"Elementi con immagine (Image): {with_image}")
+    print(f"Elementi con campo stato: {with_stato}")
+    print("Concetti più connessi (hub):")
+    for e in top_hubs:
+        print(f"  {e['connessioni']:3d}  {e['id']}")
     print(f"Scritto in: {OUT}")
 
 

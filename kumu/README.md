@@ -46,6 +46,64 @@ git push
 - **Immagini**: 119 concetti su 121 hanno il campo `"Image"` valorizzato con
   l'URL della loro immagine Wikipedia (la stessa già iniettata nella pagina
   da `enrich_multimedia.py`).
+- **`stato`**: bozza / da_validare / validato, letto dal frontmatter di ogni
+  pagina — utile per una vista di avanzamento editoriale.
+- **`connessioni`**: numero di collegamenti (in+out) di ogni elemento,
+  precalcolato in Python — utile per dimensionare i nodi per centralità senza
+  dover usare lo strumento "Metrics" di Kumu (che non sopravvive al refresh
+  di un remote JSON).
+
+## View consigliate (Advanced Editor)
+
+Filtri per tipo o colore piatto dicono poco su un grafo di 250+ nodi. Views
+più utili, pensate per le dinamiche reali del wiki (centralità, avanzamento,
+priorità delle lacune) piuttosto che categorie:
+
+**Concetti chiave (centralità)** — i concetti più connessi sono le "cerniere"
+del curricolo (via via che li tocchi, colleghi più cose):
+```
+@settings {
+  include: concetto;
+  element-size: scale("connessioni", 20, 200);
+  element-color: categorize("Element Type", Set2);
+}
+```
+
+**Avanzamento editoriale** — semaforo bozza/da_validare/validato su tutte le
+pagine di contenuto, per vedere a colpo d'occhio cosa manca ancora di rivedere:
+```
+@settings {
+  include: concetto, attività-didattica, uda, valutazione, inclusione, metodologia, strumento-digitale;
+  element-color: categorize("stato", #ef4444 "bozza", #f59e0b "da_validare", #22c55e "validato");
+}
+```
+
+**Lacune prioritarie** — pagine mancanti dimensionate per quante pagine le
+referenziano: le più grandi sono le lacune più urgenti da scrivere:
+```
+@settings {
+  focus: pagina-mancante out 1;
+  element-size: scale("connessioni", 20, 200);
+}
+```
+
+**Percorso didattico** — dal concetto a UDA, attività, valutazione, inclusione:
+```
+@settings {
+  include: concetto, uda, attività-didattica, valutazione, inclusione, collegamento-connection;
+  cluster: "Element Type";
+  element-color: categorize("Element Type", Set2);
+}
+```
+
+**Glossario** — voci e concetti a cui rimandano:
+```
+@settings {
+  focus: glossario out 1;
+}
+```
+
+Nota: i nomi delle palette sono case-sensitive (`Set1`, `Set2`, non `set1`/`set2`).
 
 ## Attivare le immagini sui nodi
 
