@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 I principi nutritivi (o nutrienti) sono le sostanze contenute negli alimenti, indispensabili alla vita, che introduciamo nel corpo quando mangiamo o beviamo. Si dividono in **macronutrienti** (proteine, lipidi/grassi, carboidrati/glucidi) e **micronutrienti** (vitamine e sali minerali); a questi si aggiunge l'**acqua**. Svolgono tre funzioni: energetica, plastica (di costruzione) e regolatrice/protettiva.
 
-![Principi nutritivi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diaetetische_LM_DE.jpg/330px-Diaetetische_LM_DE.jpg)
+![Principi nutritivi](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Diaetetische_LM_DE.jpg/330px-Diaetetische_LM_DE.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 Principi nutritivi · [Wikipedia](https://it.wikipedia.org/wiki/Principi_nutritivi) · CC BY-SA*
 
 ## Spiegazione per docenti

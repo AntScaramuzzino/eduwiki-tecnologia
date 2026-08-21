@@ -17,7 +17,7 @@ ultima_revisione: 2026-06-22
 
 La **scala di rappresentazione** (o scala di proporzione) è il rapporto tra la misura disegnata sul foglio e la misura reale dell'oggetto, espresso nella stessa unità di misura. La **quotatura** è l'insieme dei segni grafici (linee e numeri) con cui si indicano sul disegno le dimensioni reali dell'oggetto rappresentato.
 
-![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/330px-Wright_brothers_patent_plans_1908.jpg)
+![Disegno tecnico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wright_brothers_patent_plans_1908.jpg/330px-Wright_brothers_patent_plans_1908.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 forma di apprendimento visiva tra addetti ai lavori · [Wikipedia](https://it.wikipedia.org/wiki/Disegno_tecnico) · CC BY-SA*
 
 ## Spiegazione per docenti

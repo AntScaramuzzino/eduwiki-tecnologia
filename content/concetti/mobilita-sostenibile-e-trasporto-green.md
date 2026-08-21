@@ -21,8 +21,8 @@ La mobilità sostenibile è l'insieme di scelte e tecnologie che permettono di s
 
 ---
 
-![Mobilità sostenibile](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clean_mobility_instead_of_dirty_traffic.jpg/330px-Clean_mobility_instead_of_dirty_traffic.jpg)
-*📖 modalità di spostamento dall'impatto ambientale ridotto rispetto alle autovetture private · [Wikipedia](https://it.wikipedia.org/wiki/Mobilit%C3%A0_sostenibile) · CC BY-SA*
+![Mobilità sostenibile](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clean_mobility_instead_of_dirty_traffic.jpg/330px-Clean_mobility_instead_of_dirty_traffic.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+*📖 modalità di spostamento ambientalmente sostenibile · [Wikipedia](https://it.wikipedia.org/wiki/Mobilit%C3%A0_sostenibile) · CC BY-SA*
 
 ## Spiegazione per docenti
 

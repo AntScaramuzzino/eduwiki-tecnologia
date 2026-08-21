@@ -16,7 +16,7 @@ L'arco è una struttura portante di forma curva, composta da blocchi a cuneo (i 
 
 L'arco è una struttura curva che poggia su due **piedritti** (gli elementi verticali, pilastri o colonne) ed è formata da una serie di blocchi di pietra o mattone a forma di cuneo, chiamati **conci**, disposti a raggio. Il concio centrale che chiude l'arco è la **chiave di volta**: bloccandosi tra gli altri conci, li tiene insieme. A differenza del sistema trilitico (due piedritti più un architrave orizzontale), l'arco lavora **solo a compressione** e per questo può coprire luci molto più ampie. Si chiamano "spingenti" le strutture ad arco, volta e cupola perché, oltre a scaricare il peso verso il basso, trasmettono ai sostegni anche una **spinta orizzontale** che tende ad aprire i piedritti verso l'esterno.
 
-![Arco (architettura)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palazzo_Te_Mantova_2.jpg/330px-Palazzo_Te_Mantova_2.jpg)
+![Arco (architettura)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palazzo_Te_Mantova_2.jpg/330px-Palazzo_Te_Mantova_2.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 elemento strutturale e decorativo curvilineo poggiante su due piedritti · [Wikipedia](https://it.wikipedia.org/wiki/Arco_(architettura)) · CC BY-SA*
 
 ## Spiegazione per docenti

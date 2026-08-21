@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 L'**effetto serra** è un fenomeno naturale per cui alcuni gas presenti nell'atmosfera (i "gas serra", come l'anidride carbonica CO₂) trattengono parte del calore del Sole vicino alla superficie terrestre, mantenendo una temperatura adatta alla vita. Le attività umane, soprattutto l'uso di combustibili fossili, hanno aumentato la quantità di questi gas, intensificando l'effetto serra e provocando il **riscaldamento globale**: l'aumento della temperatura media del pianeta che è alla base del **cambiamento climatico**.
 
-![Riscaldamento globale](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Change_in_Average_Temperature.svg/langit-330px-Change_in_Average_Temperature.svg.png)
+![Riscaldamento globale](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Change_in_Average_Temperature.svg/langit-330px-Change_in_Average_Temperature.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 mutamento del clima terrestre · [Wikipedia](https://it.wikipedia.org/wiki/Riscaldamento_globale) · CC BY-SA*
 
 <figure>

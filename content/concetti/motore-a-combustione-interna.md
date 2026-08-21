@@ -21,7 +21,7 @@ ultima_revisione: 2026-06-22
 
 Il motore a combustione interna (detto anche motore a scoppio) è una macchina motrice che trasforma in energia meccanica l'energia chimica di un combustibile liquido o gassoso (benzina, gasolio, GPL, metano), sfruttando una serie di piccole esplosioni controllate all'interno di una cavità chiamata cilindro.
 
-![Motore a combustione interna](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Osservatorio_ximeniano%2C_modello_del_motore_a_scoppio_barsanti-matteucci_03.JPG/330px-Osservatorio_ximeniano%2C_modello_del_motore_a_scoppio_barsanti-matteucci_03.JPG)
+![Motore a combustione interna](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Osservatorio_ximeniano%2C_modello_del_motore_a_scoppio_barsanti-matteucci_03.JPG/330px-Osservatorio_ximeniano%2C_modello_del_motore_a_scoppio_barsanti-matteucci_03.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 macchina motrice termica che permette di convertire l'energia chimica · [Wikipedia](https://it.wikipedia.org/wiki/Motore_a_combustione_interna) · CC BY-SA*
 
 <figure>

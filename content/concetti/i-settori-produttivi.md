@@ -20,7 +20,7 @@ Le attività economiche si classificano in **settori produttivi** in base al tip
 
 ---
 
-![Settore economico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Clark%27s_Sector_Model.png/330px-Clark%27s_Sector_Model.png)
+![Settore economico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Clark%27s_Sector_Model.png/330px-Clark%27s_Sector_Model.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 raggruppamento concettualmente molto largo di imprese · [Wikipedia](https://it.wikipedia.org/wiki/Settore_economico) · CC BY-SA*
 
 ## Spiegazione per docenti

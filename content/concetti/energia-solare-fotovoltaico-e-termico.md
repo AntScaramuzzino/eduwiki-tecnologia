@@ -22,7 +22,7 @@ L'energia solare è l'energia proveniente dal Sole sotto forma di radiazioni ele
 
 ---
 
-![Pannello fotovoltaico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Solar_panels_in_Brussels_-_P060781-269644.jpg/330px-Solar_panels_in_Brussels_-_P060781-269644.jpg)
+![Pannello fotovoltaico](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Solar_panels_in_Brussels_-_P060781-269644.jpg/330px-Solar_panels_in_Brussels_-_P060781-269644.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 set di moduli fotovoltaici collegati · [Wikipedia](https://it.wikipedia.org/wiki/Pannello_fotovoltaico) · CC BY-SA*
 
 <figure>

@@ -18,7 +18,7 @@ ultima_revisione: 2026-06-22
 
 L'impronta ecologica è un indicatore che misura quante risorse naturali consumano gli esseri umani per soddisfare i loro bisogni, confrontandole con la capacità della Terra di rigenerarle. In pratica indica quanta superficie terrestre serve per produrre ciò che usiamo e per assorbire i rifiuti che produciamo.
 
-![Impronta ecologica](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/World_map_of_countries_by_ecological_deficit_%282013%29.svg/langit-330px-World_map_of_countries_by_ecological_deficit_%282013%29.svg.png)
+![Impronta ecologica](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/World_map_of_countries_by_ecological_deficit_%282013%29.svg/langit-330px-World_map_of_countries_by_ecological_deficit_%282013%29.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 indicatore per la valutazione del consumo umano di risorse rispetto alla loro rigenerazione · [Wikipedia](https://it.wikipedia.org/wiki/Impronta_ecologica) · CC BY-SA*
 
 <figure>

@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 L'impianto elettrico domestico è l'insieme dei cavi, dei dispositivi di sicurezza e dei punti di utilizzo (prese, interruttori, punti luce) che porta la corrente elettrica dalla rete di distribuzione fino agli apparecchi di casa. I suoi componenti principali sono il contatore, l'interruttore differenziale (salvavita), l'impianto di messa a terra, le scatole di derivazione e i cavi.
 
-![Impianto elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fuse_box_with_overlimited_circuit_breakers.JPG/330px-Fuse_box_with_overlimited_circuit_breakers.JPG)
+![Impianto elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fuse_box_with_overlimited_circuit_breakers.JPG/330px-Fuse_box_with_overlimited_circuit_breakers.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 impianto elettrico della casa o degli uffici vari · [Wikipedia](https://it.wikipedia.org/wiki/Impianto_elettrico) · CC BY-SA*
 
 ## Spiegazione per docenti

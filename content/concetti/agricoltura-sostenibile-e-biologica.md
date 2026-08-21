@@ -14,8 +14,8 @@ ultima_revisione: 2026-06-22
 
 L'**agricoltura sostenibile** è un modo di coltivare che cerca di produrre cibo senza danneggiare l'ambiente, tutelando il suolo, l'acqua e la biodiversità per le generazioni future. L'**agricoltura biologica** è un metodo di coltivazione che rinuncia ai prodotti chimici di sintesi (fertilizzanti e pesticidi) e si affida a tecniche naturali come la rotazione delle colture, la concimazione organica e la lotta biologica.
 
-![Agricoltura biologica](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Organic-vegetable-cultivation.jpeg/330px-Organic-vegetable-cultivation.jpeg)
-*📖 metodi di produzione che consentano una produzione primaria rispettosa dell'ambiente · [Wikipedia](https://it.wikipedia.org/wiki/Agricoltura_biologica) · CC BY-SA*
+![Agricoltura biologica](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Organic-vegetable-cultivation.jpeg/330px-Organic-vegetable-cultivation.jpeg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+*📖 agricoltura basata su prodotti naturali e non sintetici · [Wikipedia](https://it.wikipedia.org/wiki/Agricoltura_biologica) · CC BY-SA*
 
 <figure>
 <iframe src="https://www.youtube-nocookie.com/embed/c-Zym4nw_EA" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="I prodotti chimici e l'agricoltura biologica"></iframe>

@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 La carta è un materiale formato da minutissime fibre di cellulosa (ricavate dal legno, dalla carta da macero e dagli stracci) tenute insieme con acqua, colla e altre sostanze. È leggera, pieghevole, assorbente e facilmente stampabile: per questo è alla base di quaderni, libri, imballaggi e prodotti per l'igiene.
 
-![Carta](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Papier_-_various_papers_in_day.jpg/330px-Papier_-_various_papers_in_day.jpg)
+![Carta](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Papier_-_various_papers_in_day.jpg/330px-Papier_-_various_papers_in_day.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 materiale igroscopico, costituito da materie prime fibrose · [Wikipedia](https://it.wikipedia.org/wiki/Carta) · CC BY-SA*
 
 <figure>

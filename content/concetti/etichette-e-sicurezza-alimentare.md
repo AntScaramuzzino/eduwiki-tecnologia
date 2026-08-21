@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 L'etichetta alimentare è la "carta d'identità" di un prodotto: un insieme di informazioni obbligatorie per legge, stampate sulla confezione, che permettono al consumatore di sapere che cosa sta comprando e di compiere una scelta consapevole. Insieme alla data di scadenza, alle indicazioni di conservazione e ai marchi di qualità, l'etichetta è uno degli strumenti principali della sicurezza alimentare, cioè dell'insieme di pratiche che garantiscono che il cibo arrivi sano e commestibile sulla nostra tavola.
 
-![Additivo alimentare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lecithin-Formulierungen.jpg/330px-Lecithin-Formulierungen.jpg)
+![Additivo alimentare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lecithin-Formulierungen.jpg/330px-Lecithin-Formulierungen.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 sostanza impiegata nell'industria alimentare durante la preparazione, lo stoccaggio e la commercializzazione di prodotti destinati all'alimentazione · [Wikipedia](https://it.wikipedia.org/wiki/Additivo_alimentare) · CC BY-SA*
 
 ## Spiegazione per docenti

@@ -13,7 +13,7 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 La filiera agroalimentare è l'insieme di tutte le attività che permettono a un prodotto di passare dalla materia prima al prodotto finito pronto per il consumo. Comprende quattro fasi principali: **produzione, trasformazione, distribuzione e consumo**. È anche il percorso tracciabile di un alimento, cioè la registrazione di tutti i momenti della produzione e di tutte le aziende coinvolte.
 
-![Industria alimentare](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fredmeyer_edit_1.jpg/330px-Fredmeyer_edit_1.jpg)
+![Industria alimentare](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fredmeyer_edit_1.jpg/330px-Fredmeyer_edit_1.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 settore economico · [Wikipedia](https://it.wikipedia.org/wiki/Industria_alimentare) · CC BY-SA*
 
 <figure>

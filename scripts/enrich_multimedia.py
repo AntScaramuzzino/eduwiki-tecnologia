@@ -168,6 +168,10 @@ YT_MAP = {
     "smart-city-e-mobilita-sostenibile": ("JuyPkww6s-U", "La città ideale e le città sostenibili (tratto da Artelogia)", "Zanichelli editore"),
     # Cittadinanza digitale — Mondadori Education
     "social-network-e-cittadinanza-digitale": ("-kr34d7b1IQ", "Cittadinanza digitale | con Daniele Aristarco", "Mondadori Education"),
+    # Comunicazione digitale — Mondadori Education
+    "la-comunicazione-elementi-e-modello": ("gddVT6LdRHI", "LA COMUNICAZIONE DIGITALE (Daniele Aristarco)", "Mondadori Education"),
+    # Sensori e attuatori — Geopop
+    "sensori-e-attuatori":             ("fJsKkMR4EIM", "TERREMOTO A MILANO rilevato da Google: ecco come funziona il sistema", "Geopop"),
     # Energia eolica — Geopop
     "energia-eolica":                  ("GmZCO7TZd9U", "Haliade X: la pala eolica più grande del mondo", "Geopop"),
     # Motore elettrico — Tecnologia Duepuntozero

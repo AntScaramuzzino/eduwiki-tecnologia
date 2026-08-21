@@ -23,7 +23,7 @@ L'**efficienza energetica** indica la capacità di un apparecchio o di un edific
 
 ---
 
-![Efficienza energetica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/langit-330px-Efficiency_diagram_by_Zureks.svg.png)
+![Efficienza energetica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Efficiency_diagram_by_Zureks.svg/langit-330px-Efficiency_diagram_by_Zureks.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 Efficienza energetica · [Wikipedia](https://it.wikipedia.org/wiki/Efficienza_energetica) · CC BY-SA*
 
 <figure>

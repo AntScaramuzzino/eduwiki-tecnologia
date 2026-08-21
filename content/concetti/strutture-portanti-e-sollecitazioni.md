@@ -13,7 +13,7 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 La struttura portante è l'ossatura resistente che permette a una costruzione di stare in piedi sopportando il proprio peso e le forze esterne; le sollecitazioni sono le forze che agiscono sui suoi elementi (trave, pilastro, muro) tendendo a deformarli o romperli.
 
-![Struttura resistente](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hochregallager_01.jpg/330px-Hochregallager_01.jpg)
+![Struttura resistente](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hochregallager_01.jpg/330px-Hochregallager_01.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 sub-sistema di una costruzione destinato ad assorbire il carico strutturale · [Wikipedia](https://it.wikipedia.org/wiki/Struttura_resistente) · CC BY-SA*
 
 <figure>

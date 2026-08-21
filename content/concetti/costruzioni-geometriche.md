@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 Le costruzioni geometriche sono i procedimenti grafici che permettono di tracciare con precisione figure ed elementi geometrici (perpendicolari, parallele, bisettrici, assi, angoli) usando solo gli strumenti del disegno tecnico: riga, squadre e compasso. Si basano sugli **enti geometrici fondamentali** — il punto, la retta, il segmento, l'angolo — e su procedimenti ripetibili che danno sempre lo stesso risultato corretto.
 
-![Geometria euclidea](https://upload.wikimedia.org/wikipedia/commons/7/73/Dodecahedron.gif)
+![Geometria euclidea](https://upload.wikimedia.org/wikipedia/commons/7/73/Dodecahedron.gif?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled)
 *📖 sistema matematico · [Wikipedia](https://it.wikipedia.org/wiki/Geometria_euclidea) · CC BY-SA*
 
 ## Spiegazione per docenti

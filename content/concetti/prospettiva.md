@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 La prospettiva è il metodo di rappresentazione grafica che permette di riprodurre su un piano bidimensionale l'immagine tridimensionale di un oggetto così come la percepisce il nostro occhio: gli oggetti appaiono più grandi se vicini e più piccoli se lontani. È una proiezione conica (i raggi visuali partono da un solo punto, l'occhio dell'osservatore), a differenza delle assonometrie, che sono proiezioni parallele.
 
-![Prospettiva](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graverat_titelblad_-_Skoklosters_slott_-_93500.tif/lossy-page1-330px-Graverat_titelblad_-_Skoklosters_slott_-_93500.tif.jpg)
+![Prospettiva](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graverat_titelblad_-_Skoklosters_slott_-_93500.tif/lossy-page1-330px-Graverat_titelblad_-_Skoklosters_slott_-_93500.tif.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 tecnica geometrica per realizzare una rappresentazione grafica bidimensionale degli oggetti come visti dall'occhio umano · [Wikipedia](https://it.wikipedia.org/wiki/Prospettiva) · CC BY-SA*
 
 ## Spiegazione per docenti

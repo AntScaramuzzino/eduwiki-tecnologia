@@ -16,7 +16,7 @@ Il vetro è un materiale trasparente, duro ma fragile, ottenuto dalla fusione ad
 
 Il vetro è un materiale composto principalmente da silice, fuso ad altissima temperatura (circa 1500 °C) insieme ad altre sostanze (fondenti e coloranti) per formare una pasta vetrosa che, lavorata e raffreddata, dà origine a oggetti trasparenti, impermeabili e inalterabili.
 
-![Vetro](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Uniformity.jpg/330px-Uniformity.jpg)
+![Vetro](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Uniformity.jpg/330px-Uniformity.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 materiali ottenuti tramite la solidificazione di un liquido non accompagnata da cristallizzazione · [Wikipedia](https://it.wikipedia.org/wiki/Vetro) · CC BY-SA*
 
 <figure>

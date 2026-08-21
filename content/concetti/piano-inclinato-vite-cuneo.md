@@ -25,7 +25,7 @@ Il piano inclinato, il cuneo e la vite sono tre macchine semplici strettamente l
 
 ---
 
-![Piano inclinato](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piano_inclinato.svg/langit-330px-Piano_inclinato.svg.png)
+![Piano inclinato](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piano_inclinato.svg/langit-330px-Piano_inclinato.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 tipo di macchina semplice · [Wikipedia](https://it.wikipedia.org/wiki/Piano_inclinato) · CC BY-SA*
 
 ## Spiegazione per docenti

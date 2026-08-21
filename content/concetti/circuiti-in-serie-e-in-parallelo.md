@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 In un circuito elettrico più utilizzatori (per esempio lampadine) possono essere collegati in due modi: **in serie**, uno di seguito all'altro sulla stessa linea in modo da essere attraversati dalla stessa corrente, oppure **in parallelo**, ciascuno su una linea indipendente collegata direttamente al generatore. Nei circuiti in serie tutti gli utilizzatori dipendono l'uno dall'altro; in quelli in parallelo ogni utilizzatore funziona indipendentemente dagli altri.
 
-![Circuiti in serie e in parallelo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Series_and_parallel_circuits2.svg/langit-330px-Series_and_parallel_circuits2.svg.png)
+![Circuiti in serie e in parallelo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Series_and_parallel_circuits2.svg/langit-330px-Series_and_parallel_circuits2.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 Circuiti in serie e in parallelo · [Wikipedia](https://it.wikipedia.org/wiki/Circuiti_in_serie_e_in_parallelo) · CC BY-SA*
 
 ## Spiegazione per docenti

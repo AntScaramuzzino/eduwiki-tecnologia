@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 Il motore elettrico è una macchina che trasforma energia elettrica in energia meccanica, producendo un movimento rotatorio. È composto da una parte fissa (**statore**) e da una parte mobile (**rotore**); l'interazione tra i campi magnetici dei due componenti fa girare il rotore e, con esso, l'albero motore collegato al dispositivo da azionare.
 
-![Motore elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Electric_motor.gif/330px-Electric_motor.gif)
+![Motore elettrico](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Electric_motor.gif/330px-Electric_motor.gif?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 macchina che trasforma l'energia elettrica in energia meccanica · [Wikipedia](https://it.wikipedia.org/wiki/Motore_elettrico) · CC BY-SA*
 
 <figure>

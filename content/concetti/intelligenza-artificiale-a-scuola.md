@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 L'intelligenza artificiale (IA) è una macchina o un sistema capace di gestire in modo autonomo stimoli esterni, simulando alcune funzioni della mente umana. Funziona grazie a sequenze logiche chiamate **algoritmi** e, nelle sue forme più recenti, grazie all'**apprendimento automatico** (in inglese *machine learning*): la capacità di un computer di migliorare le proprie prestazioni da solo, "imparando" da grandi quantità di dati senza un intervento umano diretto.
 
-![Intelligenza artificiale](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png/330px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png)
+![Intelligenza artificiale](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png/330px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 abilità di un computer a svolgere funzioni e ragionamenti tipici della mente umana · [Wikipedia](https://it.wikipedia.org/wiki/Intelligenza_artificiale) · CC BY-SA*
 
 <figure>

@@ -20,7 +20,7 @@ L'energia nucleare è l'energia liberata durante le trasformazioni del nucleo di
 
 ---
 
-![Energia nucleare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg/330px-2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg)
+![Energia nucleare](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg/330px-2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 energia prodotta da trasformazioni nei nuclei atomici · [Wikipedia](https://it.wikipedia.org/wiki/Energia_nucleare) · CC BY-SA*
 
 <figure>

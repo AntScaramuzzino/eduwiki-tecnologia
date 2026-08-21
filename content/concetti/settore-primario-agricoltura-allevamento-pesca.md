@@ -21,7 +21,7 @@ Il settore primario comprende tutte le attività che ricavano direttamente risor
 
 ---
 
-![Settore primario](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tractors_in_Potato_Field.jpg/330px-Tractors_in_Potato_Field.jpg)
+![Settore primario](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tractors_in_Potato_Field.jpg/330px-Tractors_in_Potato_Field.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 settore economico che raggruppa tutte le attività legate allo sfruttamento delle risorse naturali basilari per la vita · [Wikipedia](https://it.wikipedia.org/wiki/Settore_primario) · CC BY-SA*
 
 ## Spiegazione per docenti

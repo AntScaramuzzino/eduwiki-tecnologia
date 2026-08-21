@@ -20,7 +20,7 @@ ultima_revisione: 2026-06-22
 La realtà aumentata (AR) sovrappone elementi digitali al mondo reale tramite
 dispositivi come tablet, smartphone o visori.
 
-![Realtà aumentata](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wikitude3.jpg/330px-Wikitude3.jpg)
+![Realtà aumentata](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wikitude3.jpg/330px-Wikitude3.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 Realtà aumentata · [Wikipedia](https://it.wikipedia.org/wiki/Realt%C3%A0_aumentata) · CC BY-SA*
 
 ## Spiegazione per docenti

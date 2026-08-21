@@ -20,7 +20,7 @@ Quando una corrente elettrica attraversa un corpo conduttore produce degli **eff
 
 ---
 
-![Corrente elettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Direzione_convenzionale_della_corrente_elettrica.svg/langit-330px-Direzione_convenzionale_della_corrente_elettrica.svg.png)
+![Corrente elettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Direzione_convenzionale_della_corrente_elettrica.svg/langit-330px-Direzione_convenzionale_della_corrente_elettrica.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 flusso coerente ed ordinato di elettroni che attraversano un circuito elettrico · [Wikipedia](https://it.wikipedia.org/wiki/Corrente_elettrica) · CC BY-SA*
 
 ## Spiegazione per docenti

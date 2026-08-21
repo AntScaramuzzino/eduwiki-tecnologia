@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 L'energia idroelettrica è l'energia elettrica prodotta sfruttando la forza dell'acqua in movimento. Nelle centrali idroelettriche, l'acqua raccolta in quota in un bacino possiede **energia potenziale**: quando scende lungo una condotta forzata si trasforma in **energia cinetica** e mette in rotazione una **turbina** collegata a un **alternatore**, che genera corrente elettrica. È una fonte rinnovabile, non produce emissioni inquinanti e ha un rendimento molto elevato.
 
-![Energia idroelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/330px-ThreeGorgesDam-China2009.jpg)
+![Energia idroelettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/330px-ThreeGorgesDam-China2009.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 elettricità generata dall'energia idroelettrica · [Wikipedia](https://it.wikipedia.org/wiki/Energia_idroelettrica) · CC BY-SA*
 
 <figure>

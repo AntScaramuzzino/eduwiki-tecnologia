@@ -13,7 +13,7 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 Le produzioni vegetali sono i prodotti che l'uomo ottiene coltivando le piante. Si raggruppano in grandi categorie: cereali, ortaggi, frutta (compresa l'uva della vite) e piante industriali/officinali. Da queste colture ricaviamo cibo, ma anche fibre, oli, energia e materie prime per l'industria.
 
-![Cereali](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Various_grains.jpg/330px-Various_grains.jpg)
+![Cereali](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Various_grains.jpg/330px-Various_grains.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 pianta erbacea con frutti da cui si può trarre farina · [Wikipedia](https://it.wikipedia.org/wiki/Cereali) · CC BY-SA*
 
 ## Spiegazione per docenti

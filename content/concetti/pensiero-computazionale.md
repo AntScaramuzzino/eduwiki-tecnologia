@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 Il pensiero computazionale è il modo di ragionare che usiamo per risolvere un problema in modo che anche una macchina possa eseguirlo: si scompone il problema in parti più semplici, si individua ciò che conta davvero e si descrive la soluzione come una sequenza precisa di istruzioni (un algoritmo). Non riguarda solo i computer: è una competenza logica e di problem solving utile in qualsiasi attività.
 
-![Pensiero computazionale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Computational_Thinking_Process.jpg/330px-The_Computational_Thinking_Process.jpg)
+![Pensiero computazionale](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_Computational_Thinking_Process.jpg/330px-The_Computational_Thinking_Process.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 Pensiero computazionale · [Wikipedia](https://it.wikipedia.org/wiki/Pensiero_computazionale) · CC BY-SA*
 
 <figure>

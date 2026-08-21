@@ -19,7 +19,7 @@ ultima_revisione: 2026-06-22
 
 Un **segnale analogico** varia in modo continuo nel tempo e può assumere qualsiasi valore all'interno di un intervallo; un **segnale digitale** può assumere solo un numero finito di valori prefissati, di solito soltanto 0 e 1. La **digitalizzazione** è il processo che trasforma un segnale analogico in una sequenza di valori numerici in codice binario.
 
-![Analogico](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg/330px-Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg)
+![Analogico](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg/330px-Gaeta%2C_Museo_diocesano_-_Quadrante_dell%27orologio_del_campanile_della_cattedrale_di_Gaeta_con_lancette_e_numeri.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 sistema di rappresentazione di un segnale · [Wikipedia](https://it.wikipedia.org/wiki/Analogico) · CC BY-SA*
 
 ## Spiegazione per docenti

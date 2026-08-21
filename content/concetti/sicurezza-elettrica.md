@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 La sicurezza elettrica è l'insieme dei dispositivi, delle norme e dei comportamenti che proteggono le persone dalla folgorazione (la "scossa") e gli impianti da cortocircuiti, sovraccarichi e incendi. I tre presìdi fondamentali sono l'interruttore magnetotermico, l'interruttore differenziale (detto anche salvavita) e l'impianto di messa a terra.
 
-![Sicurezza elettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ISO_7010_W012.svg/langit-330px-ISO_7010_W012.svg.png)
+![Sicurezza elettrica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ISO_7010_W012.svg/langit-330px-ISO_7010_W012.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 Sicurezza elettrica · [Wikipedia](https://it.wikipedia.org/wiki/Sicurezza_elettrica) · CC BY-SA*
 
 <figure>

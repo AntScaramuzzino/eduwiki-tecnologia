@@ -13,9 +13,6 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 Una **fibra tessile** è un materiale formato da filamenti che, opportunamente lavorati, possono essere uniti in un filo continuo chiamato **filato**, base dell'industria tessile. Le fibre si classificano in base alla loro origine in **naturali** (animali o vegetali), **sintetiche** e **artificiali**.
 
-![Seta](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/56-aspetti_di_vita_quotidiana%2Cabbigliamento_in_seta%2CTaccuino.jpg/330px-56-aspetti_di_vita_quotidiana%2Cabbigliamento_in_seta%2CTaccuino.jpg)
-*📖 fibra proteica di un animale con la quale si possono ottenere tessuti tendenzialmente pregiati · [Wikipedia](https://it.wikipedia.org/wiki/Seta) · CC BY-SA*
-
 <figure>
 <iframe src="https://www.youtube-nocookie.com/embed/CaEeM5hZR_c" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Le fibre tessili"></iframe>
 <figcaption>📺 Le fibre tessili · HUB Scuola · <a href="https://www.youtube.com/watch?v=CaEeM5hZR_c" target="_blank">Guarda su YouTube</a></figcaption>

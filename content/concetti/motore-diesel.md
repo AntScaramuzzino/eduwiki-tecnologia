@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 Il **motore diesel** è un motore a combustione interna a quattro tempi che usa il **gasolio** come combustibile e sfrutta il **calore prodotto dalla compressione dell'aria** per innescare la combustione, senza bisogno di candele. A differenza del motore a benzina — che accende la miscela aria-carburante tramite una scintilla elettrica — nel diesel l'accensione è **spontanea**: l'aria compressa si scalda fino a circa 700-800 °C e il gasolio nebulizzato, iniettato nella camera di scoppio da un iniettore, si incendia immediatamente.
 
-![Motore Diesel](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lumbar_patent_dieselengine.jpg/330px-Lumbar_patent_dieselengine.jpg)
+![Motore Diesel](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lumbar_patent_dieselengine.jpg/330px-Lumbar_patent_dieselengine.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 tipologia di motore a combustione interna · [Wikipedia](https://it.wikipedia.org/wiki/Motore_Diesel) · CC BY-SA*
 
 ## Spiegazione per docenti

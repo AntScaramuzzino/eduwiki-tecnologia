@@ -29,7 +29,7 @@ Autore: [Antonio Scaramuzzino](https://proftecnologia.vercel.app) · Licenza: CC
 | [[inclusione/inclusione-coding-robotica\|Inclusione]] | 14 | Adattamenti BES/DSA/UDL |
 | [[prompt/analisi-fonte\|Prompt library]] | 8 | Prompt operativi per docenti |
 | [[glossario/glossario\|Glossario]] | 1 | Voci di glossario |
-| [[tecnonews/articolo-napoli-smart-road\|TecnoNews]] | 10 | Articoli di attualità (Focus.it) collegati ai concetti |
+| [[tecnonews/articolo-napoli-smart-road\|TecnoNews]] | 16 | Articoli di attualità (Focus.it) collegati ai concetti |
 
 ---
 
@@ -51,4 +51,4 @@ Autore: [Antonio Scaramuzzino](https://proftecnologia.vercel.app) · Licenza: CC
 
 ---
 
-*229 pagine · `da_validare` · CC BY-SA 4.0*
+*235 pagine · `da_validare` · CC BY-SA 4.0*

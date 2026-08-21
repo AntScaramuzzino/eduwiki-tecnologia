@@ -24,7 +24,7 @@ L'energia eolica è l'energia ricavata dal vento mediante la conversione dell'en
 
 ---
 
-![Energia eolica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Centrale_Eolica_Frigento.jpg/330px-Centrale_Eolica_Frigento.jpg)
+![Energia eolica](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Centrale_Eolica_Frigento.jpg/330px-Centrale_Eolica_Frigento.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 energia proveniente dal vento · [Wikipedia](https://it.wikipedia.org/wiki/Energia_eolica) · CC BY-SA*
 
 <figure>

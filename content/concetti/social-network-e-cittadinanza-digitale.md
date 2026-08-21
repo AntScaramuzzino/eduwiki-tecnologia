@@ -30,7 +30,7 @@ I social network sono piattaforme digitali che permettono agli utenti di creare 
 
 ---
 
-![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Instagram_screenshot.png/330px-Instagram_screenshot.png)
+![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Instagram_screenshot.png/330px-Instagram_screenshot.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 social network · [Wikipedia](https://it.wikipedia.org/wiki/Instagram) · CC BY-SA*
 
 <figure>

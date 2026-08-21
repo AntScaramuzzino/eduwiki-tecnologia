@@ -20,7 +20,7 @@ Un **generatore elettrico** è un dispositivo che crea e mantiene una differenza
 
 ---
 
-![Pila (elettrotecnica)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Batterkps.svg/langit-330px-Batterkps.svg.png)
+![Pila (elettrotecnica)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Batterkps.svg/langit-330px-Batterkps.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 dispositivo di immagazzinamento di energia elettrica · [Wikipedia](https://it.wikipedia.org/wiki/Pila_(elettrotecnica)) · CC BY-SA*
 
 ## Spiegazione per docenti

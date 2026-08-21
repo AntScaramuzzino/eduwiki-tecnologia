@@ -18,7 +18,7 @@ La legge di Ohm descrive la relazione tra le tre grandezze fondamentali di un ci
 
 Da cui si ricavano le formule inverse: **R = V / I** e **V = R × I**.
 
-![Legge di Ohm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/OhmsLaw.svg/langit-330px-OhmsLaw.svg.png)
+![Legge di Ohm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/OhmsLaw.svg/langit-330px-OhmsLaw.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 legge della fisica · [Wikipedia](https://it.wikipedia.org/wiki/Legge_di_Ohm) · CC BY-SA*
 
 ## Spiegazione per docenti

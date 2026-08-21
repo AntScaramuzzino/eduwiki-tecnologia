@@ -16,7 +16,7 @@ La leva è una macchina semplice costituita da un'asta rigida che ruota intorno 
 
 ---
 
-![Leva (fisica)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Archimedes_lever_%28Small%29.jpg/330px-Archimedes_lever_%28Small%29.jpg)
+![Leva (fisica)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Archimedes_lever_%28Small%29.jpg/330px-Archimedes_lever_%28Small%29.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 macchina semplice costituita da un'asta e un fulcro · [Wikipedia](https://it.wikipedia.org/wiki/Leva_(fisica)) · CC BY-SA*
 
 <figure>

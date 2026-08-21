@@ -14,7 +14,7 @@ ultima_revisione: 2026-06-22
 
 Le macchine e le tecniche agricole sono l'insieme degli strumenti, dei mezzi meccanici e delle operazioni con cui l'agricoltore prepara il terreno, semina, coltiva, irriga e raccoglie i prodotti della terra. Il loro sviluppo, chiamato meccanizzazione, ha trasformato il lavoro agricolo permettendo di coltivare superfici più ampie con minore fatica.
 
-![Macchina agricola](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Agricultural_machinery.jpg/330px-Agricultural_machinery.jpg)
+![Macchina agricola](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Agricultural_machinery.jpg/330px-Agricultural_machinery.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 macchina o un meccanismo costruiti per svolgere uno o più lavori agricoli · [Wikipedia](https://it.wikipedia.org/wiki/Macchina_agricola) · CC BY-SA*
 
 <figure>
