@@ -1,0 +1,2956 @@
+{
+ "generato_da": "scripts/export_sfera.py (EduWiki Tecnologia)",
+ "fonte": "https://eduwiki-tecnologia.vercel.app",
+ "licenza": "CC BY-SA 4.0",
+ "totale_concetti": 121,
+ "totale_fondamentali": 70,
+ "temi": [
+  "Abitazione, edilizia e città",
+  "Agricoltura, allevamento e pesca",
+  "Alimentazione e industria alimentare",
+  "Coding, robotica e pensiero computazionale",
+  "Comunicazione e media",
+  "Disegno tecnico e grafica",
+  "Economia, lavoro e settori produttivi",
+  "Elettricità ed elettronica",
+  "Energia e fonti energetiche",
+  "I trasporti",
+  "Macchine, motori e meccanismi",
+  "Tecnologia dei materiali",
+  "Tecnologia, ambiente e sostenibilità"
+ ],
+ "nodi": [
+  {
+   "id": "agenda-2030",
+   "titolo": "L'Agenda 2030 e gli obiettivi di sviluppo sostenibile",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/agenda-2030",
+   "definizione": "L'Agenda 2030 è un programma d'azione mondiale per lo sviluppo sostenibile, sottoscritto nel 2015 dai 193 Paesi membri dell'ONU. Si compone di 17 obiettivi di sviluppo sostenibile (in inglese *Sustainable Development Goals* o SDG) e 169 traguardi (target) da raggiungere entro il 2030, per costruire un futuro migliore \"per le persone, il pianeta e la prosperità\".",
+   "relazioni": [
+    "sviluppo-sostenibile",
+    "cambiamento-climatico-ed-effetto-serra",
+    "economia-circolare",
+    "impronta-ecologica"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-sostenibilita-agenda-2030"
+    ],
+    "valutazione": [
+     "valutazione-sostenibilita"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "agricoltura-sostenibile-e-biologica",
+   "titolo": "Agricoltura sostenibile e biologica",
+   "tema": "Agricoltura, allevamento e pesca",
+   "url": "/concetti/agricoltura-sostenibile-e-biologica",
+   "definizione": "L'agricoltura sostenibile è un modo di coltivare che cerca di produrre cibo senza danneggiare l'ambiente, tutelando il suolo, l'acqua e la biodiversità per le generazioni future. L'agricoltura biologica è un metodo di coltivazione che rinuncia ai prodotti chimici di sintesi (fertilizzanti e pesticidi) e si affida a tecniche naturali come la rotazione delle colture, la concimazione organica e la lotta biologica.",
+   "relazioni": [
+    "terreno-e-clima-in-agricoltura",
+    "macchine-e-tecniche-agricole",
+    "ogm-e-biotecnologie-agrarie",
+    "filiera-agroalimentare"
+   ],
+   "risorse": {
+    "strumenti": [
+     "agricoltura-di-precisione"
+    ],
+    "uda": [
+     "uda-agricoltura-allevamento-pesca-orto-scolastico"
+    ]
+   },
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "algoritmo-e-diagrammi-di-flusso",
+   "titolo": "Algoritmi e diagrammi di flusso",
+   "tema": "Coding, robotica e pensiero computazionale",
+   "url": "/concetti/algoritmo-e-diagrammi-di-flusso",
+   "definizione": "Un algoritmo è un insieme finito e preciso di istruzioni che, eseguite nell'ordine giusto, risolvono un problema o portano a termine un compito. Il diagramma di flusso (in inglese *flowchart*) è la rappresentazione grafica di un algoritmo: uno schema fatto di forme geometriche collegate, dove ogni forma corrisponde a un tipo di comando.",
+   "relazioni": [
+    "pensiero-computazionale",
+    "coding-e-programmazione-a-blocchi"
+   ],
+   "risorse": {
+    "metodologie": [
+     "coding-unplugged",
+     "debugging-come-strategia"
+    ],
+    "strumenti": [
+     "scratch"
+    ],
+    "attivita": [
+     "attivita-labirinto-scratch"
+    ]
+   },
+   "grado": 3,
+   "fondamentale": false
+  },
+  {
+   "id": "alimentazione-equilibrata-e-piramide-alimentare",
+   "titolo": "Alimentazione equilibrata e piramide alimentare",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/alimentazione-equilibrata-e-piramide-alimentare",
+   "definizione": "L'alimentazione equilibrata consiste nell'assumere ogni giorno tutti i principi nutritivi nelle giuste quantità, evitando sia gli eccessi sia le carenze. La piramide alimentare è un grafico a forma di triangolo che mostra, dalla base verso il vertice, la frequenza con cui conviene consumare le diverse categorie di alimenti: alla base i cibi da mangiare ogni giorno (frutta, verdura, cereali), al vertice quelli da consumare raramente (dolci, carne rossa).",
+   "relazioni": [
+    "principi-nutritivi",
+    "etichette-e-sicurezza-alimentare"
+   ],
+   "risorse": {
+    "attivita": [
+     "diario-alimentare-e-piramide"
+    ],
+    "uda": [
+     "uda-alimentazione-dalla-materia-prima-alla-tavola"
+    ],
+    "valutazione": [
+     "valutazione-alimentazione"
+    ],
+    "inclusione": [
+     "inclusione-alimentazione"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "alimenti-da-fermentazione-vino-birra-olio",
+   "titolo": "Vino, birra e olio: fermentazione e spremitura",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/alimenti-da-fermentazione-vino-birra-olio",
+   "definizione": "Vino, birra e olio d'oliva sono alimenti che nascono dalla trasformazione di un prodotto agricolo (uva, orzo, olive) attraverso processi industriali. Vino e birra si ottengono per fermentazione, un processo in cui microrganismi chiamati lieviti trasformano gli zuccheri in alcol etilico e anidride carbonica. L'olio d'oliva si ottiene invece per spremitura (un processo meccanico, senza fermentazione), schiacciando le olive fino a estrarne il grasso.",
+   "relazioni": [
+    "principi-nutritivi",
+    "trasformazione-dei-cereali-pane-e-pasta",
+    "latte-e-derivati",
+    "etichette-e-sicurezza-alimentare",
+    "conservazione-degli-alimenti"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-alimentazione-dalla-materia-prima-alla-tavola"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "allevamento-e-zootecnia",
+   "titolo": "Allevamento e zootecnia: bovini, suini e avicoli",
+   "tema": "Agricoltura, allevamento e pesca",
+   "url": "/concetti/allevamento-e-zootecnia",
+   "definizione": "La zootecnia è il settore dell'agricoltura che si occupa dell'allevamento degli animali domestici per ottenere alimenti (carne, latte, uova), materie prime (lana, pelli) e fertilizzanti naturali (letame). I principali animali allevati in Italia sono bovini, suini e avicoli (polli, tacchini).",
+   "relazioni": [
+    "produzioni-vegetali-e-colture",
+    "agricoltura-sostenibile-e-biologica",
+    "pesca-e-acquacoltura",
+    "filiera-agroalimentare",
+    "macchine-e-tecniche-agricole"
+   ],
+   "risorse": {
+    "strumenti": [
+     "agricoltura-di-precisione"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "analogico-e-digitale-il-segnale",
+   "titolo": "Analogico e digitale: il segnale",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/analogico-e-digitale-il-segnale",
+   "definizione": "Un segnale analogico varia in modo continuo nel tempo e può assumere qualsiasi valore all'interno di un intervallo; un segnale digitale può assumere solo un numero finito di valori prefissati, di solito soltanto 0 e 1. La digitalizzazione è il processo che trasforma un segnale analogico in una sequenza di valori numerici in codice binario.",
+   "relazioni": [
+    "la-comunicazione-elementi-e-modello",
+    "telefonia-e-telecomunicazioni",
+    "la-fotografia-dall-analogico-al-digitale",
+    "radio-televisione-e-cinema",
+    "internet-e-il-web"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-realizzare-un-podcast"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "arco-e-strutture-spingenti",
+   "titolo": "L'arco e le strutture spingenti",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/arco-e-strutture-spingenti",
+   "definizione": "L'arco è una struttura curva che poggia su due piedritti (gli elementi verticali, pilastri o colonne) ed è formata da una serie di blocchi di pietra o mattone a forma di cuneo, chiamati conci, disposti a raggio. Il concio centrale che chiude l'arco è la chiave di volta: bloccandosi tra gli altri conci, li tiene insieme. A differenza del sistema trilitico (due piedritti più un architrave orizzontale), l'arco lavora solo a compressione e per questo può coprire luci molto più ampie. Si chiamano \"spingenti\" le strutture ad arco, volta e cupola perché, oltre a scaricare il peso verso il basso, trasmettono ai sostegni anche una spinta orizzontale che tende ad aprire i piedritti verso l'esterno.",
+   "relazioni": [
+    "strutture-portanti-e-sollecitazioni",
+    "ponti-tipologie-e-forze",
+    "materiali-da-costruzione-e-cemento-armato",
+    "costruire-un-edificio-dalle-fondazioni-al-tetto",
+    "citta-e-urbanistica"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-modello-di-ponte-di-carta"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "assonometrie",
+   "titolo": "Le assonometrie",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/assonometrie",
+   "definizione": "L'assonometria è un metodo di rappresentazione grafica che permette di disegnare su un foglio (a due dimensioni) un oggetto solido mostrandone le tre dimensioni in un'unica figura. Il nome viene dal greco *àxon* (\"asse\") e *metrìa* (\"misura\"): significa quindi \"misurazione lungo gli assi\", perché il disegno si costruisce riportando le misure lungo tre assi di riferimento (x, y, z). Rispetto alle proiezioni ortogonali, l'assonometria dà una buona resa spaziale dell'oggetto con una costruzione grafica più semplice.",
+   "relazioni": [
+    "prospettiva",
+    "proiezioni-ortogonali",
+    "strumenti-del-disegno-tecnico"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-assonometria-del-cubo"
+    ],
+    "strumenti": [
+     "cad-disegno-assistito-dal-computer",
+     "sketchup-modellazione-3d"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": true
+  },
+  {
+   "id": "attrito-e-vantaggio-meccanico",
+   "titolo": "Attrito, rendimento e vantaggio meccanico",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/attrito-e-vantaggio-meccanico",
+   "definizione": "L'attrito è la forza che si oppone al movimento di due superfici a contatto. Il rendimento di una macchina è il rapporto tra l'energia ottenuta in uscita e quella fornita in entrata. Il vantaggio meccanico indica quanto una macchina semplice (come una leva) amplifica la forza applicata rispetto alla forza resistente da vincere.",
+   "relazioni": [
+    "macchine-semplici-leva",
+    "piano-inclinato-vite-cuneo",
+    "carrucola-verricello-paranco",
+    "trasmissione-del-moto"
+   ],
+   "risorse": {
+    "strumenti": [
+     "simulazioni-macchine-e-motori"
+    ],
+    "inclusione": [
+     "inclusione-macchine-motori"
+    ],
+    "attivita": [
+     "attivita-leva-bilanciamento"
+    ],
+    "uda": [
+     "uda-macchine-motori-meccanismi"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "bioedilizia-ed-efficienza-energetica",
+   "titolo": "Bioedilizia ed efficienza energetica della casa",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/bioedilizia-ed-efficienza-energetica",
+   "definizione": "La bioedilizia (o edilizia ecologica, bioarchitettura, architettura sostenibile) è l'approccio alla progettazione e costruzione di edifici che impiega materiali naturali e privi di additivi pericolosi, utilizza tecniche di risparmio energetico e punta a garantire salute e comfort per chi ci abita, riducendo al minimo l'impatto ambientale. L'efficienza energetica è la capacità di un edificio di sfruttare al meglio l'energia disponibile, limitando i consumi per riscaldamento, raffrescamento e illuminazione, misurata tramite l'Attestato di Prestazione Energetica (APE) e le classi energetiche da A4 (migliore) a G (peggiore).",
+   "relazioni": [
+    "materiali-da-costruzione-e-cemento-armato",
+    "costruire-un-edificio-dalle-fondazioni-al-tetto",
+    "impianti-dell-abitazione",
+    "domotica-e-casa-intelligente",
+    "smart-city-e-mobilita-sostenibile",
+    "citta-e-urbanistica"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-edilizia-citta-sostenibile"
+    ],
+    "valutazione": [
+     "valutazione-edilizia-citta"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "bisogni-e-risorse",
+   "titolo": "Bisogni e risorse",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/bisogni-e-risorse",
+   "definizione": "Il bisogno è la necessità di qualcosa che manca (mangiare, ripararsi, comunicare, muoversi); le risorse sono tutto ciò che la natura mette a disposizione e che, trasformato in beni e servizi, permette di soddisfare quei bisogni. La tecnologia nasce proprio per trasformare le risorse in beni e servizi utili.",
+   "relazioni": [
+    "risorse-rinnovabili-e-non-rinnovabili",
+    "tecnologia-e-tecnica",
+    "sviluppo-sostenibile",
+    "economia-circolare",
+    "impronta-ecologica",
+    "agenda-2030"
+   ],
+   "risorse": {},
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "cambiamento-climatico-ed-effetto-serra",
+   "titolo": "Cambiamento climatico ed effetto serra",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/cambiamento-climatico-ed-effetto-serra",
+   "definizione": "L'effetto serra è un fenomeno naturale per cui alcuni gas presenti nell'atmosfera (i \"gas serra\", come l'anidride carbonica CO₂) trattengono parte del calore del Sole vicino alla superficie terrestre, mantenendo una temperatura adatta alla vita. Le attività umane, soprattutto l'uso di combustibili fossili, hanno aumentato la quantità di questi gas, intensificando l'effetto serra e provocando il riscaldamento globale: l'aumento della temperatura media del pianeta che è alla base del cambiamento climatico.",
+   "relazioni": [
+    "risorse-rinnovabili-e-non-rinnovabili",
+    "inquinamento-aria-acqua-suolo",
+    "sviluppo-sostenibile",
+    "agenda-2030",
+    "impronta-ecologica"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-impronta-ecologica-personale"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "carne-pesce-e-uova",
+   "titolo": "Carne, pesce e uova",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/carne-pesce-e-uova",
+   "definizione": "Carne, pesce e uova sono gli alimenti di origine animale più ricchi di proteine \"nobili\", cioè proteine che contengono tutti gli aminoacidi essenziali per il nostro corpo. Forniscono inoltre sali minerali (come il ferro), vitamine e, nel caso del pesce, grassi \"buoni\" come gli omega 3. Prima di arrivare sulla nostra tavola questi alimenti vengono lavorati dall'industria alimentare (settore secondario): la carne attraverso la macellazione e la trasformazione in salumi, il pesce attraverso la pesca, la conservazione e l'inscatolamento, le uova attraverso l'allevamento, il controllo e il confezionamento.",
+   "relazioni": [
+    "principi-nutritivi",
+    "alimentazione-equilibrata-e-piramide-alimentare",
+    "latte-e-derivati",
+    "conservazione-degli-alimenti",
+    "etichette-e-sicurezza-alimentare"
+   ],
+   "risorse": {
+    "attivita": [
+     "lettura-etichette-alimentari"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "carrucola-verricello-paranco",
+   "titolo": "Carrucola, verricello e paranco",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/carrucola-verricello-paranco",
+   "definizione": "La carrucola è una macchina semplice formata da un disco scanalato (puleggia) che gira intorno a un perno, nella cui gola scorre una fune: permette di sollevare carichi modificando la direzione o l'intensità della forza applicata. Il verricello è una variante con un cilindro orizzontale (tamburo) su cui si avvolge la fune, azionato da una manovella o ruota. Il paranco è un sistema composto da più carrucole fisse e mobili che moltiplica il vantaggio meccanico.",
+   "relazioni": [
+    "attrito-e-vantaggio-meccanico",
+    "trasmissione-del-moto",
+    "macchine-semplici-leva",
+    "piano-inclinato-vite-cuneo"
+   ],
+   "risorse": {
+    "strumenti": [
+     "simulazioni-macchine-e-motori"
+    ],
+    "metodologie": [
+     "apprendimento-laboratoriale-meccanismi"
+    ],
+    "attivita": [
+     "attivita-leva-bilanciamento"
+    ],
+    "uda": [
+     "uda-macchine-motori-meccanismi"
+    ],
+    "valutazione": [
+     "valutazione-macchine-motori"
+    ],
+    "inclusione": [
+     "inclusione-macchine-motori"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "centrale-termoelettrica",
+   "titolo": "La centrale termoelettrica",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/centrale-termoelettrica",
+   "definizione": "La centrale termoelettrica è l'impianto in cui, bruciando un combustibile fossile (carbone, petrolio, gas naturale), si trasforma l'energia chimica del combustibile in energia elettrica attraverso una catena di passaggi: energia chimica → energia termica (calore) → energia meccanica (rotazione della turbina) → energia elettrica (alternatore).",
+   "relazioni": [
+    "forme-e-trasformazioni-dell-energia",
+    "combustibili-fossili-carbone-petrolio-gas",
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "energia-nucleare",
+    "risparmio-energetico-e-efficienza"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "circuiti-in-serie-e-in-parallelo",
+   "titolo": "Circuiti in serie e in parallelo",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/circuiti-in-serie-e-in-parallelo",
+   "definizione": "In un circuito elettrico più utilizzatori (per esempio lampadine) possono essere collegati in due modi: in serie, uno di seguito all'altro sulla stessa linea in modo da essere attraversati dalla stessa corrente, oppure in parallelo, ciascuno su una linea indipendente collegata direttamente al generatore. Nei circuiti in serie tutti gli utilizzatori dipendono l'uno dall'altro; in quelli in parallelo ogni utilizzatore funziona indipendentemente dagli altri.",
+   "relazioni": [
+    "grandezze-elettriche-e-circuito",
+    "legge-di-ohm",
+    "generatori-e-pile",
+    "impianto-elettrico-domestico",
+    "effetti-della-corrente-elettrica"
+   ],
+   "risorse": {
+    "attivita": [
+     "esperimenti-con-i-circuiti-elettrici"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "citta-e-urbanistica",
+   "titolo": "La città e l'urbanistica",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/citta-e-urbanistica",
+   "definizione": "L'urbanistica è la disciplina che studia e organizza gli spazi del territorio in cui si insediano le attività umane. Si occupa di pianificare e regolare lo sviluppo delle città, decidendo come usare il suolo (dove costruire case, servizi, strade, aree verdi) secondo regole stabilite da appositi piani.",
+   "relazioni": [
+    "costruire-un-edificio-dalle-fondazioni-al-tetto",
+    "smart-city-e-mobilita-sostenibile",
+    "bioedilizia-ed-efficienza-energetica"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-edilizia-citta-sostenibile"
+    ],
+    "inclusione": [
+     "inclusione-edilizia-citta"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "coding-e-programmazione-a-blocchi",
+   "titolo": "Coding e programmazione a blocchi",
+   "tema": "Coding, robotica e pensiero computazionale",
+   "url": "/concetti/coding-e-programmazione-a-blocchi",
+   "definizione": "Il coding è la scrittura di un programma informatico attraverso uno specifico linguaggio di programmazione, al fine di trasformare la soluzione di un problema in una serie di istruzioni elementari eseguibili da una macchina. Nella scuola secondaria di primo grado si lavora soprattutto con la programmazione a blocchi: invece di scrivere righe di codice testuale, si incastrano blocchi grafici colorati (come in Scratch) che rappresentano le istruzioni e si combinano come i pezzi di un puzzle.",
+   "relazioni": [
+    "pensiero-computazionale",
+    "algoritmo-e-diagrammi-di-flusso"
+   ],
+   "risorse": {
+    "strumenti": [
+     "scratch",
+     "code-org-e-app-lab",
+     "micro-bit",
+     "arduino",
+     "tinkercad"
+    ],
+    "valutazione": [
+     "valutazione-coding-robotica"
+    ],
+    "inclusione": [
+     "inclusione-coding-robotica"
+    ],
+    "metodologie": [
+     "coding-unplugged",
+     "debugging-come-strategia"
+    ],
+    "attivita": [
+     "attivita-labirinto-scratch"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": true
+  },
+  {
+   "id": "coltivazioni-fuori-suolo-serra-idroponica",
+   "titolo": "Coltivazioni protette: serra e idroponica",
+   "tema": "Agricoltura, allevamento e pesca",
+   "url": "/concetti/coltivazioni-fuori-suolo-serra-idroponica",
+   "definizione": "Le coltivazioni protette sono tecniche con cui l'agricoltura controlla i fattori naturali (clima, acqua, suolo) per coltivare anche fuori stagione o senza terreno. La serra crea un microclima artificiale; le colture senza suolo (idroponica, aeroponica, acquaponica) fanno crescere le piante senza terra, nutrendole con soluzioni nutritive.",
+   "relazioni": [
+    "terreno-e-clima-in-agricoltura",
+    "macchine-e-tecniche-agricole",
+    "produzioni-vegetali-e-colture",
+    "agricoltura-sostenibile-e-biologica"
+   ],
+   "risorse": {
+    "strumenti": [
+     "agricoltura-di-precisione"
+    ],
+    "uda": [
+     "uda-agricoltura-allevamento-pesca-orto-scolastico"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "combustibili-fossili-carbone-petrolio-gas",
+   "titolo": "Combustibili fossili: carbone, petrolio e gas naturale",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/combustibili-fossili-carbone-petrolio-gas",
+   "definizione": "I combustibili fossili — carbone, petrolio e gas naturale — sono sostanze ricche di carbonio formatesi in milioni di anni dalla lenta decomposizione di antichi organismi viventi (piante e animali) sepolti nel sottosuolo in assenza di ossigeno, sotto pressione e calore. Bruciandoli si libera energia termica; sono però risorse non rinnovabili e la loro combustione produce anidride carbonica (CO₂), il principale gas responsabile dell'effetto serra.",
+   "relazioni": [
+    "forme-e-trasformazioni-dell-energia",
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "centrale-termoelettrica",
+    "energia-nucleare",
+    "cambiamento-climatico-ed-effetto-serra"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "conservazione-degli-alimenti",
+   "titolo": "I metodi di conservazione degli alimenti",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/conservazione-degli-alimenti",
+   "definizione": "I metodi di conservazione degli alimenti sono tecniche che rallentano o bloccano il naturale processo di alterazione dei cibi, creando condizioni sfavorevoli allo sviluppo dei microrganismi dannosi. Servono a mantenere più a lungo la freschezza, il valore nutritivo e la sicurezza degli alimenti.",
+   "relazioni": [
+    "principi-nutritivi",
+    "latte-e-derivati",
+    "carne-pesce-e-uova",
+    "alimenti-da-fermentazione-vino-birra-olio",
+    "etichette-e-sicurezza-alimentare"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-alimentazione-dalla-materia-prima-alla-tavola"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "costruire-un-edificio-dalle-fondazioni-al-tetto",
+   "titolo": "Costruire un edificio: dalle fondazioni al tetto",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/costruire-un-edificio-dalle-fondazioni-al-tetto",
+   "definizione": "Costruire un edificio significa realizzare, secondo un ordine preciso, una struttura resistente capace di sostenere il proprio peso e i carichi esterni: si parte dallo scavo e dalle fondazioni, si innalza lo scheletro portante (pilastri, travi e solai), si chiude con murature e tetto e si completa con impianti e finiture.",
+   "relazioni": [
+    "strutture-portanti-e-sollecitazioni",
+    "arco-e-strutture-spingenti",
+    "materiali-da-costruzione-e-cemento-armato",
+    "impianti-dell-abitazione",
+    "bioedilizia-ed-efficienza-energetica",
+    "citta-e-urbanistica"
+   ],
+   "risorse": {},
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "costruzioni-geometriche",
+   "titolo": "Le costruzioni geometriche di base",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/costruzioni-geometriche",
+   "definizione": "Le costruzioni geometriche sono i procedimenti grafici che permettono di tracciare con precisione figure ed elementi geometrici (perpendicolari, parallele, bisettrici, assi, angoli) usando solo gli strumenti del disegno tecnico: riga, squadre e compasso. Si basano sugli enti geometrici fondamentali — il punto, la retta, il segmento, l'angolo — e su procedimenti ripetibili che danno sempre lo stesso risultato corretto.",
+   "relazioni": [
+    "strumenti-del-disegno-tecnico",
+    "poligoni-regolari-e-curve",
+    "struttura-modulare-e-disegno-geometrico"
+   ],
+   "risorse": {
+    "strumenti": [
+     "cad-disegno-assistito-dal-computer"
+    ],
+    "valutazione": [
+     "valutazione-disegno-tecnico"
+    ],
+    "inclusione": [
+     "inclusione-disegno-tecnico"
+    ]
+   },
+   "grado": 3,
+   "fondamentale": false
+  },
+  {
+   "id": "dalla-scrittura-alla-stampa",
+   "titolo": "Dalla scrittura alla stampa",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/dalla-scrittura-alla-stampa",
+   "definizione": "La scrittura è il sistema con cui l'essere umano ha fissato la lingua parlata in simboli grafici permanenti; la stampa a caratteri mobili, inventata da Johann Gutenberg attorno al 1450, ha reso possibile riprodurre testi in molte copie a basso costo, trasformando la comunicazione da atto individuale a fenomeno di massa.",
+   "relazioni": [
+    "la-comunicazione-elementi-e-modello",
+    "radio-televisione-e-cinema",
+    "analogico-e-digitale-il-segnale",
+    "internet-e-il-web",
+    "social-network-e-cittadinanza-digitale",
+    "diritto-d-autore-e-licenze"
+   ],
+   "risorse": {
+    "metodologie": [
+     "digital-storytelling"
+    ],
+    "uda": [
+     "uda-comunicazione-e-media"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "diritto-d-autore-e-licenze",
+   "titolo": "Diritto d'autore e licenze d'uso",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/diritto-d-autore-e-licenze",
+   "definizione": "Il diritto d'autore è il complesso di norme che tutela chi crea un'opera originale (testo, immagine, musica, video, software): garantisce all'autore il riconoscimento della paternità e il diritto a un compenso per l'uso della propria opera. Una licenza d'uso è il documento che stabilisce a quali condizioni altri possono utilizzare quell'opera.",
+   "relazioni": [
+    "social-network-e-cittadinanza-digitale",
+    "internet-e-il-web",
+    "analogico-e-digitale-il-segnale"
+   ],
+   "risorse": {
+    "metodologie": [
+     "digital-storytelling"
+    ],
+    "attivita": [
+     "attivita-realizzare-un-podcast"
+    ],
+    "uda": [
+     "uda-comunicazione-e-media"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "domotica-e-casa-intelligente",
+   "titolo": "La domotica e la casa intelligente",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/domotica-e-casa-intelligente",
+   "definizione": "La domotica è la scienza che applica all'abitazione le tecnologie dell'informatica e dell'elettronica. Il nome nasce dall'unione della parola latina *domus* (casa) con *informatica*. Il suo scopo è migliorare la qualità della vita domestica realizzando una casa intelligente (*smart house*): un'abitazione dotata di impianti e apparecchiature in grado di funzionare in modo automatico, programmato e controllabile anche a distanza tramite smartphone, tablet o PC.",
+   "relazioni": [
+    "robotica-educativa",
+    "coding-e-programmazione-a-blocchi",
+    "impianti-dell-abitazione",
+    "sensori-e-attuatori",
+    "smart-city-e-mobilita-sostenibile",
+    "bioedilizia-ed-efficienza-energetica"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-progetto-stanza-domotica"
+    ],
+    "inclusione": [
+     "inclusione-edilizia-citta"
+    ],
+    "uda": [
+     "uda-edilizia-citta-sostenibile"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "economia-circolare",
+   "titolo": "L'economia circolare",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/economia-circolare",
+   "definizione": "L'economia circolare è un modello di produzione e consumo in cui i materiali, alla fine della vita di un prodotto, non diventano rifiuti da gettare ma rientrano nel ciclo produttivo per dare vita a nuovi oggetti. Si contrappone all'economia lineare del \"prendi, produci, usa e getta\".",
+   "relazioni": [
+    "rifiuti-e-raccolta-differenziata",
+    "intelligenza-artificiale-a-scuola",
+    "sviluppo-sostenibile",
+    "agenda-2030",
+    "risorse-rinnovabili-e-non-rinnovabili",
+    "impronta-ecologica"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-sostenibilita-agenda-2030"
+    ],
+    "inclusione": [
+     "inclusione-sostenibilita"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "effetti-della-corrente-elettrica",
+   "titolo": "Gli effetti della corrente elettrica",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/effetti-della-corrente-elettrica",
+   "definizione": "Quando una corrente elettrica attraversa un corpo conduttore produce degli effetti, cioè trasformazioni dell'energia elettrica in altre forme di energia. I principali sono quattro: effetto termico (o effetto Joule), effetto luminoso, effetto magnetico (o elettromagnetico) ed effetto chimico. Questi effetti sono sfruttati per far funzionare gli apparecchi elettrici di uso quotidiano, ma possono anche essere pericolosi per la salute.",
+   "relazioni": [
+    "grandezze-elettriche-e-circuito",
+    "legge-di-ohm",
+    "circuiti-in-serie-e-in-parallelo",
+    "magnetismo-ed-elettromagnetismo",
+    "il-motore-elettrico",
+    "sicurezza-elettrica",
+    "impianto-elettrico-domestico"
+   ],
+   "risorse": {
+    "attivita": [
+     "esperimenti-con-i-circuiti-elettrici"
+    ]
+   },
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "elettronica-di-base",
+   "titolo": "Elettronica di base: componenti e segnali",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/elettronica-di-base",
+   "definizione": "L'elettronica studia il moto degli elettroni all'interno di mezzi solidi o nel vuoto e impara a \"guidarlo\" e a \"leggerlo\" per gestire ed elaborare informazioni e controllare macchinari. Un circuito elettronico è composto da un supporto — il PCB (*Printed Circuit Board*, in italiano circuito stampato) — su cui vengono saldati i vari componenti collegati tra loro mediante piste metalliche. I componenti si dividono in passivi (restituiscono al circuito meno energia di quella ricevuta, dissipandone una parte sotto forma di calore: resistore, condensatore, induttore) e attivi (in grado di introdurre energia nel circuito, perché richiedono alimentazione esterna; il più diffuso è il transistor).",
+   "relazioni": [
+    "sensori-e-attuatori",
+    "robotica-educativa",
+    "sicurezza-elettrica",
+    "grandezze-elettriche-e-circuito",
+    "legge-di-ohm",
+    "circuiti-in-serie-e-in-parallelo",
+    "effetti-della-corrente-elettrica"
+   ],
+   "risorse": {
+    "attivita": [
+     "esperimenti-con-i-circuiti-elettrici"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "energia-eolica",
+   "titolo": "L'energia eolica",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/energia-eolica",
+   "definizione": "L'energia eolica è l'energia ricavata dal vento mediante la conversione dell'energia cinetica delle masse d'aria in movimento in energia elettrica, attraverso dispositivi chiamati aerogeneratori o turbine eoliche.",
+   "relazioni": [
+    "forme-e-trasformazioni-dell-energia",
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "energia-idroelettrica",
+    "energia-solare-fotovoltaico-e-termico",
+    "geotermia-e-biomasse",
+    "risparmio-energetico-e-efficienza"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-modello-pala-eolica"
+    ],
+    "uda": [
+     "uda-energia-sostenibile"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "energia-idroelettrica",
+   "titolo": "L'energia idroelettrica",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/energia-idroelettrica",
+   "definizione": "L'energia idroelettrica è l'energia elettrica prodotta sfruttando la forza dell'acqua in movimento. Nelle centrali idroelettriche, l'acqua raccolta in quota in un bacino possiede energia potenziale: quando scende lungo una condotta forzata si trasforma in energia cinetica e mette in rotazione una turbina collegata a un alternatore, che genera corrente elettrica. È una fonte rinnovabile, non produce emissioni inquinanti e ha un rendimento molto elevato.",
+   "relazioni": [
+    "forme-e-trasformazioni-dell-energia",
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "centrale-termoelettrica",
+    "energia-eolica",
+    "energia-solare-fotovoltaico-e-termico",
+    "risparmio-energetico-e-efficienza"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "energia-nucleare",
+   "titolo": "L'energia nucleare",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/energia-nucleare",
+   "definizione": "L'energia nucleare è l'energia liberata durante le trasformazioni del nucleo di alcuni atomi. Si può ottenere attraverso due processi distinti: la fissione (spaccatura di nuclei pesanti come l'uranio) e la fusione (unione di nuclei leggeri come gli isotopi dell'idrogeno). Attualmente, l'unica applicazione su scala industriale è la fissione.",
+   "relazioni": [
+    "forme-e-trasformazioni-dell-energia",
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "combustibili-fossili-carbone-petrolio-gas",
+    "centrale-termoelettrica",
+    "risparmio-energetico-e-efficienza"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "energia-solare-fotovoltaico-e-termico",
+   "titolo": "L'energia solare: fotovoltaico e solare termico",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/energia-solare-fotovoltaico-e-termico",
+   "definizione": "L'energia solare è l'energia proveniente dal Sole sotto forma di radiazioni elettromagnetiche. Viene sfruttata in due modi principali: solare termico (i collettori catturano il calore per produrre acqua calda) e fotovoltaico (le celle convertono direttamente la luce in energia elettrica tramite l'effetto fotovoltaico nei materiali semiconduttori come il silicio).",
+   "relazioni": [
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "forme-e-trasformazioni-dell-energia",
+    "risparmio-energetico-e-efficienza",
+    "energia-eolica"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ],
+    "inclusione": [
+     "inclusione-energia"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "etichette-e-sicurezza-alimentare",
+   "titolo": "Etichette alimentari e sicurezza dei cibi",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/etichette-e-sicurezza-alimentare",
+   "definizione": "L'etichetta alimentare è la \"carta d'identità\" di un prodotto: un insieme di informazioni obbligatorie per legge, stampate sulla confezione, che permettono al consumatore di sapere che cosa sta comprando e di compiere una scelta consapevole. Insieme alla data di scadenza, alle indicazioni di conservazione e ai marchi di qualità, l'etichetta è uno degli strumenti principali della sicurezza alimentare, cioè dell'insieme di pratiche che garantiscono che il cibo arrivi sano e commestibile sulla nostra tavola.",
+   "relazioni": [
+    "principi-nutritivi",
+    "conservazione-degli-alimenti",
+    "alimentazione-equilibrata-e-piramide-alimentare"
+   ],
+   "risorse": {
+    "attivita": [
+     "lettura-etichette-alimentari"
+    ],
+    "inclusione": [
+     "inclusione-alimentazione"
+    ],
+    "uda": [
+     "uda-alimentazione-dalla-materia-prima-alla-tavola"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "fattori-e-ciclo-della-produzione",
+   "titolo": "I fattori e il ciclo della produzione",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/fattori-e-ciclo-della-produzione",
+   "definizione": "I fattori della produzione sono le risorse necessarie per produrre beni e servizi: le risorse naturali (terra, materie prime, acque, energia), il lavoro (l'apporto fisico e intellettuale umano), il capitale (macchine, impianti, denaro investito) e, secondo alcuni testi, l'organizzazione o imprenditorialità che coordina i primi tre. La combinazione efficace di questi fattori si chiama impresa. Il ciclo della produzione è il percorso che va dall'estrazione della materia prima fino al prodotto finito; nella sua versione circolare, include anche il recupero e il riciclo al termine del ciclo di vita, trasformando gli scarti in nuove risorse.",
+   "relazioni": [
+    "sistema-economico-e-mercato",
+    "i-settori-produttivi",
+    "settore-primario-agricoltura-allevamento-pesca",
+    "settore-secondario-industria-e-artigianato",
+    "il-mondo-del-lavoro",
+    "globalizzazione-ed-economia-sostenibile"
+   ],
+   "risorse": {
+    "strumenti": [
+     "foglio-di-calcolo-per-i-dati-economici"
+    ],
+    "uda": [
+     "uda-economia-lavoro-settori"
+    ],
+    "valutazione": [
+     "valutazione-economia"
+    ],
+    "inclusione": [
+     "inclusione-economia"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "filiera-agroalimentare",
+   "titolo": "La filiera agroalimentare: dal campo alla tavola",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/filiera-agroalimentare",
+   "definizione": "La filiera agroalimentare è l'insieme di tutte le attività che permettono a un prodotto di passare dalla materia prima al prodotto finito pronto per il consumo. Comprende quattro fasi principali: produzione, trasformazione, distribuzione e consumo. È anche il percorso tracciabile di un alimento, cioè la registrazione di tutti i momenti della produzione e di tutte le aziende coinvolte.",
+   "relazioni": [
+    "produzioni-vegetali-e-colture",
+    "allevamento-e-zootecnia",
+    "pesca-e-acquacoltura",
+    "agricoltura-sostenibile-e-biologica"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-analisi-etichetta-filiera-alimentare"
+    ],
+    "uda": [
+     "uda-agricoltura-allevamento-pesca-orto-scolastico"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "fonti-rinnovabili-e-non-rinnovabili",
+   "titolo": "Fonti rinnovabili e non rinnovabili",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/fonti-rinnovabili-e-non-rinnovabili",
+   "definizione": "Le fonti di energia sono tutto ciò che in natura permette di ottenere energia. Si dividono in fonti rinnovabili — disponibili in quantità praticamente illimitata o capaci di rigenerarsi in tempi brevi (Sole, vento, acqua, geotermia, biomasse) — e fonti non rinnovabili (o esauribili) — presenti in quantità definita e destinate ad esaurirsi perché la loro ricostituzione richiede milioni di anni (combustibili fossili: carbone, petrolio, gas naturale; uranio).",
+   "relazioni": [
+    "forme-e-trasformazioni-dell-energia",
+    "combustibili-fossili-carbone-petrolio-gas",
+    "energia-solare-fotovoltaico-e-termico",
+    "energia-eolica",
+    "energia-idroelettrica",
+    "geotermia-e-biomasse",
+    "energia-nucleare",
+    "risparmio-energetico-e-efficienza"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ]
+   },
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "forme-e-trasformazioni-dell-energia",
+   "titolo": "Forme e trasformazioni dell'energia",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/forme-e-trasformazioni-dell-energia",
+   "definizione": "L'energia è la capacità di un corpo di compiere un lavoro. Si manifesta in forme diverse — meccanica (cinetica e potenziale), termica, chimica, elettrica, luminosa, nucleare — che possono trasformarsi l'una nell'altra tramite dispositivi detti convertitori. La sua unità di misura nel Sistema Internazionale è il joule (J).",
+   "relazioni": [
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "combustibili-fossili-carbone-petrolio-gas",
+    "centrale-termoelettrica",
+    "energia-idroelettrica",
+    "risparmio-energetico-e-efficienza"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "generatori-e-pile",
+   "titolo": "Generatori elettrici e pile",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/generatori-e-pile",
+   "definizione": "Un generatore elettrico è un dispositivo che crea e mantiene una differenza di potenziale (tensione) tra due poli, costringendo gli elettroni a muoversi in modo ordinato e producendo così una corrente elettrica. Le pile sono generatori chimici: trasformano energia chimica in energia elettrica tramite una reazione tra sostanze a contatto; gli accumulatori (batterie ricaricabili) fanno la stessa cosa ma possono essere ricaricati invertendo il processo. I generatori meccanici (dinamo, alternatori) trasformano invece energia meccanica di rotazione in energia elettrica per induzione elettromagnetica.",
+   "relazioni": [
+    "grandezze-elettriche-e-circuito",
+    "legge-di-ohm",
+    "sicurezza-elettrica",
+    "impianto-elettrico-domestico",
+    "circuiti-in-serie-e-in-parallelo",
+    "effetti-della-corrente-elettrica",
+    "il-motore-elettrico",
+    "magnetismo-ed-elettromagnetismo"
+   ],
+   "risorse": {
+    "attivita": [
+     "esperimenti-con-i-circuiti-elettrici"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "geotermia-e-biomasse",
+   "titolo": "Geotermia e biomasse",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/geotermia-e-biomasse",
+   "definizione": "La geotermia è lo sfruttamento del calore naturale proveniente dall'interno della Terra per produrre energia elettrica o per riscaldare edifici. Le biomasse sono materiali di origine organica — vegetale, animale o microbica — che possono essere bruciati direttamente o trasformati in biogas e biocombustibili liquidi per ricavarne energia. Entrambe sono fonti di energia rinnovabile.",
+   "relazioni": [
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "centrale-termoelettrica",
+    "energia-solare-fotovoltaico-e-termico",
+    "energia-eolica",
+    "risparmio-energetico-e-efficienza"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "globalizzazione-ed-economia-sostenibile",
+   "titolo": "Globalizzazione ed economia sostenibile",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/globalizzazione-ed-economia-sostenibile",
+   "definizione": "La globalizzazione è il processo di integrazione economica, sociale e culturale tra Paesi di tutto il mondo, accelerato dallo sviluppo di internet e dei trasporti. L'economia sostenibile è un modello di produzione e consumo che integra la crescita economica con la tutela dell'ambiente e i diritti sociali, per non compromettere le possibilità delle generazioni future.",
+   "relazioni": [
+    "sistema-economico-e-mercato",
+    "fattori-e-ciclo-della-produzione",
+    "i-settori-produttivi",
+    "il-mondo-del-lavoro"
+   ],
+   "risorse": {
+    "strumenti": [
+     "foglio-di-calcolo-per-i-dati-economici"
+    ],
+    "uda": [
+     "uda-economia-lavoro-settori"
+    ],
+    "valutazione": [
+     "valutazione-economia"
+    ],
+    "inclusione": [
+     "inclusione-economia"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "grafica-raster-e-vettoriale",
+   "titolo": "Grafica raster e vettoriale",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/grafica-raster-e-vettoriale",
+   "definizione": "La grafica digitale è la tecnica con cui si creano o si modificano immagini al computer usando programmi appositi. Si divide in due grandi tipi. La grafica raster (o bitmap) costruisce l'immagine con una griglia di puntini colorati, i pixel: è perfetta per le fotografie, ma se la ingrandisci troppo si \"sgrana\" e perde definizione. La grafica vettoriale descrive l'immagine con forme geometriche generate da equazioni matematiche (punti, linee, archi, curve): si può ingrandire quanto si vuole senza perdere qualità ed è ideale per loghi, marchi, pittogrammi e disegno tecnico. (Infinito Tecnologico, p.227; Techno logics, p.237; Futura, p.180)",
+   "relazioni": [
+    "strumenti-del-disegno-tecnico",
+    "poligoni-regolari-e-curve",
+    "struttura-modulare-e-disegno-geometrico"
+   ],
+   "risorse": {
+    "strumenti": [
+     "cad-disegno-assistito-dal-computer",
+     "sketchup-modellazione-3d"
+    ],
+    "inclusione": [
+     "inclusione-disegno-tecnico"
+    ]
+   },
+   "grado": 3,
+   "fondamentale": false
+  },
+  {
+   "id": "grandezze-elettriche-e-circuito",
+   "titolo": "Grandezze elettriche e il circuito elettrico",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/grandezze-elettriche-e-circuito",
+   "definizione": "La corrente elettrica è un flusso ordinato di elettroni che scorre in un conduttore. Le grandezze fondamentali che la descrivono sono: l'intensità di corrente (I, in ampere), la tensione o differenza di potenziale (V, in volt) e la resistenza (R, in ohm). Il circuito elettrico è il percorso chiuso in cui scorre la corrente, formato almeno da un generatore, un utilizzatore e i fili conduttori.",
+   "relazioni": [
+    "legge-di-ohm",
+    "sicurezza-elettrica",
+    "circuiti-in-serie-e-in-parallelo",
+    "generatori-e-pile",
+    "effetti-della-corrente-elettrica"
+   ],
+   "risorse": {
+    "inclusione": [
+     "inclusione-elettricita"
+    ],
+    "attivita": [
+     "esperimenti-con-i-circuiti-elettrici"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "i-materiali-ceramici",
+   "titolo": "I materiali ceramici",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/i-materiali-ceramici",
+   "definizione": "I materiali ceramici sono prodotti che si ottengono dalla cottura ad alta temperatura di un impasto a base di argilla e acqua. Sono duri, resistenti, isolanti termici ed elettrici, ma anche fragili; con essi si realizzano stoviglie, piastrelle, sanitari, mattoni e tegole.",
+   "relazioni": [
+    "proprieta-e-classificazione-dei-materiali",
+    "il-vetro",
+    "i-nuovi-materiali",
+    "materiali-da-costruzione-e-cemento-armato",
+    "riciclo-e-sostenibilita-dei-materiali"
+   ],
+   "risorse": {
+    "inclusione": [
+     "inclusione-materiali"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": true
+  },
+  {
+   "id": "i-metalli-e-le-leghe",
+   "titolo": "I metalli e le leghe",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/i-metalli-e-le-leghe",
+   "definizione": "I metalli sono elementi chimici, in genere lucenti e buoni conduttori di calore ed elettricità, che si estraggono dai minerali presenti nelle rocce. Le leghe sono miscele di due o più metalli, o di un metallo con altri elementi (come il carbonio), che hanno proprietà migliori dei componenti singoli: le più importanti sono la ghisa e l'acciaio, leghe di ferro e carbonio.",
+   "relazioni": [
+    "proprieta-e-classificazione-dei-materiali",
+    "i-nuovi-materiali",
+    "riciclo-e-sostenibilita-dei-materiali"
+   ],
+   "risorse": {
+    "attivita": [
+     "prove-sulle-proprieta-dei-materiali"
+    ],
+    "uda": [
+     "uda-materiali-oggetto-sostenibile"
+    ],
+    "inclusione": [
+     "inclusione-materiali"
+    ]
+   },
+   "grado": 3,
+   "fondamentale": false
+  },
+  {
+   "id": "i-nuovi-materiali",
+   "titolo": "I nuovi materiali",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/i-nuovi-materiali",
+   "definizione": "I nuovi materiali sono materiali messi a punto o migliorati dalla ricerca scientifica e tecnologica per ottenere caratteristiche che i materiali tradizionali non hanno o hanno in misura inferiore: per esempio essere più leggeri dell'acciaio ma altrettanto resistenti, cambiare forma con il calore, imitare proprietà degli esseri viventi.",
+   "relazioni": [
+    "proprieta-e-classificazione-dei-materiali",
+    "i-metalli-e-le-leghe",
+    "i-materiali-ceramici",
+    "materie-plastiche-e-gomme",
+    "le-fibre-tessili",
+    "riciclo-e-sostenibilita-dei-materiali"
+   ],
+   "risorse": {},
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "i-settori-produttivi",
+   "titolo": "I settori produttivi: primario, secondario, terziario",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/i-settori-produttivi",
+   "definizione": "Le attività economiche si classificano in settori produttivi in base al tipo di operazione compiuta: il settore primario sfrutta direttamente le risorse naturali, il secondario trasforma le materie prime in prodotti finiti, il terziario eroga servizi. Alcuni testi aggiungono un settore quaternario (conoscenza, ICT, alta formazione) e un quinario (organizzazioni no profit e alte professioni).",
+   "relazioni": [
+    "sistema-economico-e-mercato",
+    "fattori-e-ciclo-della-produzione",
+    "settore-primario-agricoltura-allevamento-pesca",
+    "settore-secondario-industria-e-artigianato",
+    "settore-terziario-commercio-trasporti-servizi",
+    "il-mondo-del-lavoro",
+    "globalizzazione-ed-economia-sostenibile"
+   ],
+   "risorse": {
+    "strumenti": [
+     "foglio-di-calcolo-per-i-dati-economici"
+    ],
+    "attivita": [
+     "attivita-mappa-dei-settori-del-territorio"
+    ],
+    "uda": [
+     "uda-economia-lavoro-settori"
+    ],
+    "valutazione": [
+     "valutazione-economia"
+    ],
+    "inclusione": [
+     "inclusione-economia"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "il-legno",
+   "titolo": "Il legno: dall'albero al prodotto",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/il-legno",
+   "definizione": "Il legno è un materiale biologico ricavato dal tronco degli alberi, costituito soprattutto da due composti organici: la cellulosa (elemento di sostegno dei tessuti vegetali) e la lignina. Quando viene usato per costruire o lavorare si chiama legname; quando viene usato come combustibile per riscaldamento o cottura si chiama legna. Dall'albero al prodotto finito il legno attraversa una filiera precisa: abbattimento, taglio in segheria, stagionatura, lavorazione.",
+   "relazioni": [
+    "riciclo-e-sostenibilita-dei-materiali",
+    "proprieta-e-classificazione-dei-materiali",
+    "la-carta"
+   ],
+   "risorse": {
+    "inclusione": [
+     "inclusione-materiali"
+    ],
+    "uda": [
+     "uda-materiali-oggetto-sostenibile"
+    ],
+    "attivita": [
+     "prove-sulle-proprieta-dei-materiali"
+    ]
+   },
+   "grado": 3,
+   "fondamentale": false
+  },
+  {
+   "id": "il-mondo-del-lavoro",
+   "titolo": "Il mondo del lavoro",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/il-mondo-del-lavoro",
+   "definizione": "Il lavoro è l'attività umana — manuale o intellettuale — svolta in cambio di una retribuzione, finalizzata alla produzione di beni o all'erogazione di servizi; è riconosciuto dalla Costituzione italiana come fondamento della Repubblica (art. 1) e come diritto e dovere di ogni cittadino.",
+   "relazioni": [
+    "i-settori-produttivi",
+    "sistema-economico-e-mercato",
+    "fattori-e-ciclo-della-produzione",
+    "globalizzazione-ed-economia-sostenibile"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-economia-lavoro-settori"
+    ],
+    "valutazione": [
+     "valutazione-economia"
+    ],
+    "inclusione": [
+     "inclusione-economia"
+    ],
+    "metodologie": [
+     "compito-di-realta-in-economia"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "il-motore-elettrico",
+   "titolo": "Il motore elettrico: come funziona",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/il-motore-elettrico",
+   "definizione": "Il motore elettrico è una macchina che trasforma energia elettrica in energia meccanica, producendo un movimento rotatorio. È composto da una parte fissa (statore) e da una parte mobile (rotore); l'interazione tra i campi magnetici dei due componenti fa girare il rotore e, con esso, l'albero motore collegato al dispositivo da azionare.",
+   "relazioni": [
+    "trasmissione-del-moto",
+    "motore-a-combustione-interna",
+    "magnetismo-ed-elettromagnetismo",
+    "generatori-e-pile"
+   ],
+   "risorse": {
+    "strumenti": [
+     "simulazioni-macchine-e-motori"
+    ],
+    "attivita": [
+     "attivita-trasmissione-bicicletta"
+    ],
+    "uda": [
+     "uda-macchine-motori-meccanismi"
+    ],
+    "valutazione": [
+     "valutazione-macchine-motori"
+    ],
+    "inclusione": [
+     "inclusione-macchine-motori"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "il-vetro",
+   "titolo": "Il vetro",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/il-vetro",
+   "definizione": "Il vetro è un materiale composto principalmente da silice, fuso ad altissima temperatura (circa 1500 °C) insieme ad altre sostanze (fondenti e coloranti) per formare una pasta vetrosa che, lavorata e raffreddata, dà origine a oggetti trasparenti, impermeabili e inalterabili.",
+   "relazioni": [
+    "proprieta-e-classificazione-dei-materiali",
+    "i-materiali-ceramici",
+    "i-nuovi-materiali",
+    "riciclo-e-sostenibilita-dei-materiali"
+   ],
+   "risorse": {
+    "attivita": [
+     "prove-sulle-proprieta-dei-materiali"
+    ],
+    "inclusione": [
+     "inclusione-materiali"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "impianti-dell-abitazione",
+   "titolo": "Gli impianti dell'abitazione",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/impianti-dell-abitazione",
+   "definizione": "Gli impianti dell'abitazione sono i sistemi tecnologici che rendono la casa abitabile e confortevole: portano l'acqua, l'energia elettrica, il calore e il gas, e allontanano le acque di scarico. I cinque impianti principali sono l'impianto idrico-sanitario, l'impianto termico, l'impianto elettrico, l'impianto del gas e gli impianti \"accessori\" (videocitofono, telefono, TV, antifurto).",
+   "relazioni": [
+    "costruire-un-edificio-dalle-fondazioni-al-tetto",
+    "domotica-e-casa-intelligente",
+    "bioedilizia-ed-efficienza-energetica",
+    "materiali-da-costruzione-e-cemento-armato"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-progetto-stanza-domotica"
+    ],
+    "inclusione": [
+     "inclusione-edilizia-citta"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "impianto-elettrico-domestico",
+   "titolo": "L'impianto elettrico domestico",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/impianto-elettrico-domestico",
+   "definizione": "L'impianto elettrico domestico è l'insieme dei cavi, dei dispositivi di sicurezza e dei punti di utilizzo (prese, interruttori, punti luce) che porta la corrente elettrica dalla rete di distribuzione fino agli apparecchi di casa. I suoi componenti principali sono il contatore, l'interruttore differenziale (salvavita), l'impianto di messa a terra, le scatole di derivazione e i cavi.",
+   "relazioni": [
+    "grandezze-elettriche-e-circuito",
+    "effetti-della-corrente-elettrica",
+    "sicurezza-elettrica"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-elettricita-impianto-sicuro"
+    ],
+    "attivita": [
+     "esperimenti-con-i-circuiti-elettrici"
+    ],
+    "valutazione": [
+     "valutazione-elettricita"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "impronta-ecologica",
+   "titolo": "L'impronta ecologica",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/impronta-ecologica",
+   "definizione": "L'impronta ecologica è un indicatore che misura quante risorse naturali consumano gli esseri umani per soddisfare i loro bisogni, confrontandole con la capacità della Terra di rigenerarle. In pratica indica quanta superficie terrestre serve per produrre ciò che usiamo e per assorbire i rifiuti che produciamo.",
+   "relazioni": [
+    "sviluppo-sostenibile",
+    "risorse-rinnovabili-e-non-rinnovabili",
+    "cambiamento-climatico-ed-effetto-serra",
+    "agenda-2030",
+    "economia-circolare"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-impronta-ecologica-personale"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "infrastrutture-di-trasporto",
+   "titolo": "Le infrastrutture di trasporto",
+   "tema": "I trasporti",
+   "url": "/concetti/infrastrutture-di-trasporto",
+   "definizione": "Le infrastrutture di trasporto sono l'insieme delle opere fisse costruite dall'uomo che rendono possibile lo spostamento di persone e merci: strade, autostrade, ferrovie, ponti, gallerie, porti, aeroporti. Costituiscono la rete fisica su cui si appoggiano tutti i sistemi di trasporto.",
+   "relazioni": [
+    "sistema-dei-trasporti-e-mobilita",
+    "trasporto-su-gomma-e-automobile",
+    "trasporto-ferroviario",
+    "trasporto-su-acqua-e-navi",
+    "trasporto-aereo",
+    "mobilita-sostenibile-e-trasporto-green",
+    "logistica-e-trasporto-intermodale"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-analisi-rete-trasporti-territorio"
+    ],
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ],
+    "valutazione": [
+     "valutazione-trasporti"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "inquinamento-aria-acqua-suolo",
+   "titolo": "L'inquinamento di aria, acqua e suolo",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/inquinamento-aria-acqua-suolo",
+   "definizione": "L'inquinamento è l'immissione nell'ambiente di sostanze o forme di energia che ne alterano l'equilibrio naturale, danneggiando gli ecosistemi e la salute degli esseri viventi. Riguarda i tre principali comparti ambientali: l'aria (atmosfera), l'acqua (fiumi, mari, falde) e il suolo (terreno). Quasi sempre ha origine dalle attività umane: traffico, industria, riscaldamento, agricoltura intensiva, rifiuti.",
+   "relazioni": [
+    "cambiamento-climatico-ed-effetto-serra",
+    "rifiuti-e-raccolta-differenziata",
+    "combustibili-fossili-carbone-petrolio-gas",
+    "sviluppo-sostenibile",
+    "agenda-2030",
+    "impronta-ecologica"
+   ],
+   "risorse": {},
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "intelligenza-artificiale-a-scuola",
+   "titolo": "L'intelligenza artificiale a scuola",
+   "tema": "Coding, robotica e pensiero computazionale",
+   "url": "/concetti/intelligenza-artificiale-a-scuola",
+   "definizione": "L'intelligenza artificiale (IA) è una macchina o un sistema capace di gestire in modo autonomo stimoli esterni, simulando alcune funzioni della mente umana. Funziona grazie a sequenze logiche chiamate algoritmi e, nelle sue forme più recenti, grazie all'apprendimento automatico (in inglese *machine learning*): la capacità di un computer di migliorare le proprie prestazioni da solo, \"imparando\" da grandi quantità di dati senza un intervento umano diretto.",
+   "relazioni": [
+    "algoritmo-e-diagrammi-di-flusso",
+    "robotica-educativa",
+    "pensiero-computazionale"
+   ],
+   "risorse": {
+    "strumenti": [
+     "scratch",
+     "micro-bit"
+    ],
+    "inclusione": [
+     "inclusione-coding-robotica"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": true
+  },
+  {
+   "id": "internet-e-il-web",
+   "titolo": "Internet e il web",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/internet-e-il-web",
+   "definizione": "Internet è una rete mondiale di reti di computer che comunicano tra loro tramite un insieme di protocolli comuni (TCP/IP); il World Wide Web (WWW) è il principale servizio di Internet, formato da pagine multimediali collegate tra loro attraverso link ipertestuali.",
+   "relazioni": [
+    "la-comunicazione-elementi-e-modello",
+    "analogico-e-digitale-il-segnale",
+    "telefonia-e-telecomunicazioni",
+    "social-network-e-cittadinanza-digitale"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-riconoscere-le-fake-news"
+    ],
+    "uda": [
+     "uda-comunicazione-e-media"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "la-carta",
+   "titolo": "La carta e i suoi derivati",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/la-carta",
+   "definizione": "La carta è un materiale formato da minutissime fibre di cellulosa (ricavate dal legno, dalla carta da macero e dagli stracci) tenute insieme con acqua, colla e altre sostanze. È leggera, pieghevole, assorbente e facilmente stampabile: per questo è alla base di quaderni, libri, imballaggi e prodotti per l'igiene.",
+   "relazioni": [
+    "il-legno",
+    "proprieta-e-classificazione-dei-materiali",
+    "riciclo-e-sostenibilita-dei-materiali"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-riciclo-carta-fatta-a-mano"
+    ],
+    "inclusione": [
+     "inclusione-materiali"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "la-comunicazione-elementi-e-modello",
+   "titolo": "La comunicazione: elementi e modello",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/la-comunicazione-elementi-e-modello",
+   "definizione": "La comunicazione è un processo nel quale almeno due soggetti si scambiano informazioni attraverso un messaggio trasmesso via un canale, codificato secondo regole condivise; l'esito del processo può essere verificato attraverso il feedback.",
+   "relazioni": [
+    "dalla-scrittura-alla-stampa",
+    "radio-televisione-e-cinema",
+    "analogico-e-digitale-il-segnale",
+    "internet-e-il-web",
+    "social-network-e-cittadinanza-digitale"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-riconoscere-le-fake-news"
+    ],
+    "metodologie": [
+     "digital-storytelling"
+    ],
+    "uda": [
+     "uda-comunicazione-e-media"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "la-fotografia-dall-analogico-al-digitale",
+   "titolo": "La fotografia: dall'analogico al digitale",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/la-fotografia-dall-analogico-al-digitale",
+   "definizione": "La fotografia è la tecnica che usa la luce per registrare, su appositi supporti, immagini della realtà. Il termine deriva dal greco *phōs* (\"luce\") e *graphē* (\"scrittura\"): significa letteralmente \"scrittura con la luce\". Il principio di funzionamento di qualsiasi fotocamera — analogica o digitale — è quello della camera oscura.",
+   "relazioni": [
+    "analogico-e-digitale-il-segnale",
+    "radio-televisione-e-cinema",
+    "dalla-scrittura-alla-stampa",
+    "la-comunicazione-elementi-e-modello",
+    "social-network-e-cittadinanza-digitale",
+    "diritto-d-autore-e-licenze"
+   ],
+   "risorse": {},
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "latte-e-derivati",
+   "titolo": "Il latte e i suoi derivati",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/latte-e-derivati",
+   "definizione": "Il latte è un alimento completo, prodotto dalla mungitura di animali come mucca, pecora, capra e bufala. Per legge, con il nome semplice di \"latte\" si indica solo quello di mucca; per gli altri occorre specificare l'animale (latte di pecora, di capra, di bufala). Prima di arrivare in tavola il latte viene lavorato dall'industria lattiero-casearia, che lo trasforma anche in derivati come yogurt, formaggio e burro.",
+   "relazioni": [
+    "principi-nutritivi",
+    "alimentazione-equilibrata-e-piramide-alimentare",
+    "conservazione-degli-alimenti",
+    "etichette-e-sicurezza-alimentare",
+    "carne-pesce-e-uova",
+    "alimenti-da-fermentazione-vino-birra-olio"
+   ],
+   "risorse": {},
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "le-fibre-tessili",
+   "titolo": "Le fibre tessili",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/le-fibre-tessili",
+   "definizione": "Una fibra tessile è un materiale formato da filamenti che, opportunamente lavorati, possono essere uniti in un filo continuo chiamato filato, base dell'industria tessile. Le fibre si classificano in base alla loro origine in naturali (animali o vegetali), sintetiche e artificiali.",
+   "relazioni": [
+    "proprieta-e-classificazione-dei-materiali",
+    "materie-plastiche-e-gomme",
+    "la-carta",
+    "i-nuovi-materiali",
+    "riciclo-e-sostenibilita-dei-materiali"
+   ],
+   "risorse": {
+    "inclusione": [
+     "inclusione-materiali"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": true
+  },
+  {
+   "id": "legge-di-ohm",
+   "titolo": "La legge di Ohm",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/legge-di-ohm",
+   "definizione": "La legge di Ohm descrive la relazione tra le tre grandezze fondamentali di un circuito elettrico: tensione (V), intensità di corrente (I) e resistenza (R). L'intensità di corrente che scorre in un conduttore è direttamente proporzionale alla tensione applicata e inversamente proporzionale alla resistenza: I = V / R (ampere = volt / ohm) Da cui si ricavano le formule inverse: R = V / I e V = R × I.",
+   "relazioni": [
+    "grandezze-elettriche-e-circuito",
+    "circuiti-in-serie-e-in-parallelo",
+    "generatori-e-pile",
+    "effetti-della-corrente-elettrica",
+    "sicurezza-elettrica",
+    "impianto-elettrico-domestico",
+    "elettronica-di-base"
+   ],
+   "risorse": {
+    "attivita": [
+     "esperimenti-con-i-circuiti-elettrici"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "logistica-e-trasporto-intermodale",
+   "titolo": "Logistica e trasporto intermodale delle merci",
+   "tema": "I trasporti",
+   "url": "/concetti/logistica-e-trasporto-intermodale",
+   "definizione": "La logistica è la disciplina che si occupa di organizzare il trasporto delle merci in modo efficiente, scegliendo i mezzi, i percorsi e i tempi migliori. Il trasporto intermodale è un sistema che combina più mezzi di trasporto (camion, treno, nave, aereo) mantenendo le merci all'interno dello stesso contenitore standardizzato — il container — per tutto il viaggio.",
+   "relazioni": [
+    "sistema-dei-trasporti-e-mobilita",
+    "infrastrutture-di-trasporto",
+    "trasporto-su-acqua-e-navi",
+    "trasporto-ferroviario",
+    "mobilita-sostenibile-e-trasporto-green"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "macchine-e-tecniche-agricole",
+   "titolo": "Macchine e tecniche agricole: dall'aratura alla raccolta",
+   "tema": "Agricoltura, allevamento e pesca",
+   "url": "/concetti/macchine-e-tecniche-agricole",
+   "definizione": "Le macchine e le tecniche agricole sono l'insieme degli strumenti, dei mezzi meccanici e delle operazioni con cui l'agricoltore prepara il terreno, semina, coltiva, irriga e raccoglie i prodotti della terra. Il loro sviluppo, chiamato meccanizzazione, ha trasformato il lavoro agricolo permettendo di coltivare superfici più ampie con minore fatica.",
+   "relazioni": [
+    "terreno-e-clima-in-agricoltura",
+    "produzioni-vegetali-e-colture",
+    "agricoltura-sostenibile-e-biologica",
+    "coltivazioni-fuori-suolo-serra-idroponica"
+   ],
+   "risorse": {
+    "strumenti": [
+     "agricoltura-di-precisione"
+    ],
+    "attivita": [
+     "attivita-classificazione-terreni"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "macchine-semplici-leva",
+   "titolo": "Le macchine semplici: la leva e i suoi generi",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/macchine-semplici-leva",
+   "definizione": "La leva è una macchina semplice costituita da un'asta rigida che ruota intorno a un punto fisso chiamato fulcro. In base alla posizione reciproca di fulcro, forza applicata (potenza) e carico da vincere (resistenza), si distinguono tre generi di leva con comportamenti diversi.",
+   "relazioni": [
+    "piano-inclinato-vite-cuneo",
+    "carrucola-verricello-paranco",
+    "attrito-e-vantaggio-meccanico",
+    "trasmissione-del-moto"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-leva-bilanciamento"
+    ],
+    "strumenti": [
+     "simulazioni-macchine-e-motori"
+    ],
+    "metodologie": [
+     "apprendimento-laboratoriale-meccanismi"
+    ],
+    "uda": [
+     "uda-macchine-motori-meccanismi"
+    ],
+    "inclusione": [
+     "inclusione-macchine-motori"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "magnetismo-ed-elettromagnetismo",
+   "titolo": "Magnetismo ed elettromagnetismo",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/magnetismo-ed-elettromagnetismo",
+   "definizione": "Il magnetismo è il fenomeno per cui alcuni corpi — le calamite o magneti — attraggono materiali ferrosi (ferro, nichel, cobalto). L'elettromagnetismo è la relazione bidirezionale tra corrente elettrica e campo magnetico: una corrente genera un campo magnetico; un campo magnetico variabile genera una corrente. Questo legame è alla base di motori elettrici, generatori, trasformatori e di buona parte degli apparecchi tecnologici moderni.",
+   "relazioni": [
+    "il-motore-elettrico",
+    "effetti-della-corrente-elettrica",
+    "generatori-e-pile",
+    "grandezze-elettriche-e-circuito",
+    "elettronica-di-base"
+   ],
+   "risorse": {
+    "attivita": [
+     "esperimenti-con-i-circuiti-elettrici"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "materiali-da-costruzione-e-cemento-armato",
+   "titolo": "Materiali da costruzione e cemento armato",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/materiali-da-costruzione-e-cemento-armato",
+   "definizione": "I materiali da costruzione sono le sostanze con cui si realizzano gli edifici: pietre naturali, laterizi, leganti (calce, gesso, cemento) e il calcestruzzo. Il cemento armato (o calcestruzzo armato) è il materiale più diffuso nell'edilizia moderna: si ottiene gettando il calcestruzzo attorno a barre di acciaio, in modo da unire la resistenza alla compressione del calcestruzzo con la resistenza alla trazione dell'acciaio.",
+   "relazioni": [
+    "strutture-portanti-e-sollecitazioni",
+    "arco-e-strutture-spingenti",
+    "costruire-un-edificio-dalle-fondazioni-al-tetto",
+    "ponti-tipologie-e-forze",
+    "bioedilizia-ed-efficienza-energetica"
+   ],
+   "risorse": {},
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "materie-plastiche-e-gomme",
+   "titolo": "Materie plastiche e gomme",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/materie-plastiche-e-gomme",
+   "definizione": "Le materie plastiche sono materiali composti da polimeri, cioè molecole molto lunghe (macromolecole) ottenute unendo tante molecole più piccole, i monomeri, attraverso un processo chiamato polimerizzazione. La maggior parte è di origine sintetica, prodotta a partire dal petrolio. Le gomme (o elastomeri) appartengono alla stessa famiglia, ma hanno una proprietà particolare: sono molto elastiche, cioè si allungano se stirate e tornano alla forma di partenza quando lo sforzo cessa.",
+   "relazioni": [
+    "proprieta-e-classificazione-dei-materiali",
+    "i-nuovi-materiali",
+    "riciclo-e-sostenibilita-dei-materiali"
+   ],
+   "risorse": {
+    "inclusione": [
+     "inclusione-materiali"
+    ],
+    "uda": [
+     "uda-materiali-oggetto-sostenibile"
+    ],
+    "attivita": [
+     "prove-sulle-proprieta-dei-materiali"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "mobilita-sostenibile-e-trasporto-green",
+   "titolo": "Mobilità sostenibile e trasporto green",
+   "tema": "I trasporti",
+   "url": "/concetti/mobilita-sostenibile-e-trasporto-green",
+   "definizione": "La mobilità sostenibile è l'insieme di scelte e tecnologie che permettono di spostarsi riducendo al minimo l'impatto ambientale: emissioni di gas serra, inquinamento dell'aria e consumo di risorse non rinnovabili. Il trasporto \"green\" comprende veicoli elettrici, ibridi, biciclette, trasporto pubblico e servizi di condivisione (sharing).",
+   "relazioni": [
+    "sistema-dei-trasporti-e-mobilita",
+    "trasporto-su-gomma-e-automobile",
+    "trasporto-ferroviario",
+    "motori-e-propulsione",
+    "infrastrutture-di-trasporto",
+    "cambiamento-climatico-ed-effetto-serra"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-mezzo-di-trasporto-sostenibile",
+     "attivita-analisi-rete-trasporti-territorio"
+    ],
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ]
+   },
+   "grado": 10,
+   "fondamentale": true
+  },
+  {
+   "id": "moneta-banche-e-finanza",
+   "titolo": "Moneta, banche e finanza",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/moneta-banche-e-finanza",
+   "definizione": "La moneta è tutto ciò che viene generalmente accettato come mezzo di pagamento in cambio di beni o servizi. Le banche sono aziende che raccolgono il risparmio delle famiglie e lo concedono in prestito a chi vuole investire o acquistare beni, svolgendo così una funzione fondamentale nel sistema economico. La finanza è l'insieme delle attività legate alla gestione del denaro, del credito e degli investimenti.",
+   "relazioni": [
+    "sistema-economico-e-mercato",
+    "fattori-e-ciclo-della-produzione",
+    "i-settori-produttivi",
+    "settore-terziario-commercio-trasporti-servizi",
+    "moneta-elettronica-e-pagamenti-digitali",
+    "il-mondo-del-lavoro",
+    "globalizzazione-ed-economia-sostenibile"
+   ],
+   "risorse": {
+    "strumenti": [
+     "foglio-di-calcolo-per-i-dati-economici"
+    ],
+    "attivita": [
+     "attivita-simulazione-bilancio-familiare"
+    ],
+    "uda": [
+     "uda-economia-lavoro-settori"
+    ],
+    "valutazione": [
+     "valutazione-economia"
+    ],
+    "inclusione": [
+     "inclusione-economia"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "moneta-elettronica-e-pagamenti-digitali",
+   "titolo": "Moneta elettronica e pagamenti digitali",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/moneta-elettronica-e-pagamenti-digitali",
+   "definizione": "La moneta elettronica è una forma di denaro smaterializzato che non esiste in forma fisica ma viene conservata e scambiata per via digitale, attraverso carte di pagamento (bancomat, carte di credito, carte prepagate), conti online e applicazioni per smartphone. I pagamenti digitali (o *cashless*) sono tutte le transazioni economiche che avvengono senza l'uso di denaro contante.",
+   "relazioni": [
+    "moneta-banche-e-finanza",
+    "sistema-economico-e-mercato",
+    "settore-terziario-commercio-trasporti-servizi",
+    "globalizzazione-ed-economia-sostenibile"
+   ],
+   "risorse": {
+    "strumenti": [
+     "foglio-di-calcolo-per-i-dati-economici"
+    ],
+    "attivita": [
+     "attivita-simulazione-bilancio-familiare"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "motore-a-combustione-interna",
+   "titolo": "Il motore a combustione interna: il ciclo a quattro tempi",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/motore-a-combustione-interna",
+   "definizione": "Il motore a combustione interna (detto anche motore a scoppio) è una macchina motrice che trasforma in energia meccanica l'energia chimica di un combustibile liquido o gassoso (benzina, gasolio, GPL, metano), sfruttando una serie di piccole esplosioni controllate all'interno di una cavità chiamata cilindro.",
+   "relazioni": [
+    "trasformazione-del-moto",
+    "motore-diesel",
+    "il-motore-elettrico"
+   ],
+   "risorse": {
+    "strumenti": [
+     "simulazioni-macchine-e-motori"
+    ],
+    "inclusione": [
+     "inclusione-macchine-motori"
+    ],
+    "uda": [
+     "uda-macchine-motori-meccanismi"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "motore-diesel",
+   "titolo": "Il motore diesel e il confronto con il motore a benzina",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/motore-diesel",
+   "definizione": "Il motore diesel è un motore a combustione interna a quattro tempi che usa il gasolio come combustibile e sfrutta il calore prodotto dalla compressione dell'aria per innescare la combustione, senza bisogno di candele. A differenza del motore a benzina — che accende la miscela aria-carburante tramite una scintilla elettrica — nel diesel l'accensione è spontanea: l'aria compressa si scalda fino a circa 700-800 °C e il gasolio nebulizzato, iniettato nella camera di scoppio da un iniettore, si incendia immediatamente.",
+   "relazioni": [
+    "motore-a-combustione-interna",
+    "trasformazione-del-moto",
+    "il-motore-elettrico",
+    "attrito-e-vantaggio-meccanico"
+   ],
+   "risorse": {
+    "strumenti": [
+     "simulazioni-macchine-e-motori"
+    ],
+    "uda": [
+     "uda-macchine-motori-meccanismi"
+    ],
+    "valutazione": [
+     "valutazione-macchine-motori"
+    ],
+    "inclusione": [
+     "inclusione-macchine-motori"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "motori-e-propulsione",
+   "titolo": "Motori e sistemi di propulsione",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/motori-e-propulsione",
+   "definizione": "Un motore è una macchina che trasforma una forma di energia (chimica, elettrica, termica) in energia meccanica utile a muovere un veicolo o un dispositivo. La propulsione è il complesso di forze che mettono in moto un mezzo di trasporto. I principali sistemi di propulsione usati nei trasporti sono: il motore a combustione interna (o \"a scoppio\"), il motore elettrico, il motore a reazione (turboreattore) e il motore a razzo.",
+   "relazioni": [
+    "sistema-dei-trasporti-e-mobilita",
+    "trasporto-su-gomma-e-automobile",
+    "mobilita-sostenibile-e-trasporto-green",
+    "trasporto-aereo",
+    "trasporto-spaziale",
+    "motore-a-combustione-interna",
+    "il-motore-elettrico"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-mezzo-di-trasporto-sostenibile"
+    ]
+   },
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "ogm-e-biotecnologie-agrarie",
+   "titolo": "OGM e biotecnologie in agricoltura",
+   "tema": "Agricoltura, allevamento e pesca",
+   "url": "/concetti/ogm-e-biotecnologie-agrarie",
+   "definizione": "Le biotecnologie agrarie sono l'insieme delle tecniche che utilizzano organismi viventi (o loro parti) per migliorare le piante coltivate e gli animali allevati. Un OGM (Organismo Geneticamente Modificato) è un essere vivente il cui DNA è stato modificato dall'uomo tramite l'ingegneria genetica, prelevando uno o più geni da un organismo e inserendoli nel DNA di un altro, per ottenere caratteristiche desiderate (per esempio piante più resistenti alle malattie o meno bisognose d'acqua).",
+   "relazioni": [
+    "produzioni-vegetali-e-colture",
+    "agricoltura-sostenibile-e-biologica",
+    "macchine-e-tecniche-agricole",
+    "filiera-agroalimentare",
+    "allevamento-e-zootecnia"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-analisi-etichetta-filiera-alimentare"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": true
+  },
+  {
+   "id": "pensiero-computazionale",
+   "titolo": "Il pensiero computazionale",
+   "tema": "Coding, robotica e pensiero computazionale",
+   "url": "/concetti/pensiero-computazionale",
+   "definizione": "Il pensiero computazionale è il modo di ragionare che usiamo per risolvere un problema in modo che anche una macchina possa eseguirlo: si scompone il problema in parti più semplici, si individua ciò che conta davvero e si descrive la soluzione come una sequenza precisa di istruzioni (un algoritmo). Non riguarda solo i computer: è una competenza logica e di problem solving utile in qualsiasi attività.",
+   "relazioni": [
+    "coding-e-programmazione-a-blocchi",
+    "algoritmo-e-diagrammi-di-flusso",
+    "robotica-educativa",
+    "intelligenza-artificiale-a-scuola"
+   ],
+   "risorse": {
+    "strumenti": [
+     "scratch",
+     "code-org-e-app-lab",
+     "micro-bit",
+     "mbot"
+    ],
+    "uda": [
+     "uda-robotica-micro-bit"
+    ],
+    "attivita": [
+     "attivita-robot-percorso-mbot"
+    ],
+    "metodologie": [
+     "tinkering-e-making",
+     "coding-unplugged",
+     "debugging-come-strategia"
+    ],
+    "valutazione": [
+     "valutazione-coding-robotica"
+    ],
+    "inclusione": [
+     "inclusione-coding-robotica"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": true
+  },
+  {
+   "id": "pesca-e-acquacoltura",
+   "titolo": "Pesca e acquacoltura",
+   "tema": "Agricoltura, allevamento e pesca",
+   "url": "/concetti/pesca-e-acquacoltura",
+   "definizione": "La pesca è l'attività di cattura di pesci, molluschi e crostacei nei mari, nei laghi e nei fiumi. L'acquacoltura è invece l'allevamento controllato di queste stesse specie acquatiche in spazi confinati (vasche, gabbie, vivai, valli) o in ambienti naturali gestiti dall'uomo. Insieme costituiscono il settore che fornisce i prodotti ittici per l'alimentazione.",
+   "relazioni": [
+    "allevamento-e-zootecnia",
+    "filiera-agroalimentare",
+    "agricoltura-sostenibile-e-biologica"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-agricoltura-allevamento-pesca-orto-scolastico"
+    ],
+    "valutazione": [
+     "valutazione-agricoltura-allevamento-pesca"
+    ],
+    "inclusione": [
+     "inclusione-agricoltura-allevamento-pesca"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "piano-inclinato-vite-cuneo",
+   "titolo": "Piano inclinato, vite e cuneo",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/piano-inclinato-vite-cuneo",
+   "definizione": "Il piano inclinato, il cuneo e la vite sono tre macchine semplici strettamente legate: il cuneo e la vite derivano dal piano inclinato. Tutte e tre permettono di vincere una forza resistente applicando una forza motrice più piccola, sfruttando la geometria della superficie inclinata.",
+   "relazioni": [
+    "macchine-semplici-leva",
+    "attrito-e-vantaggio-meccanico",
+    "carrucola-verricello-paranco",
+    "trasmissione-del-moto"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-macchine-motori-meccanismi"
+    ],
+    "inclusione": [
+     "inclusione-macchine-motori"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "poligoni-regolari-e-curve",
+   "titolo": "Poligoni regolari e curve",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/poligoni-regolari-e-curve",
+   "definizione": "I poligoni regolari sono figure piane che hanno tutti i lati e tutti gli angoli uguali (per esempio il pentagono, l'esagono, l'ettagono, l'ottagono, il dodecagono). Le curve che si studiano nel disegno geometrico sono le figure delimitate da linee curve: circonferenza, ellisse, ovale, ovolo, oltre agli archi di raccordo che uniti tra loro permettono di disegnare profili armoniosi. Si costruiscono tutte con riga, squadre e compasso, seguendo procedure precise dette costruzioni geometriche.",
+   "relazioni": [
+    "grafica-raster-e-vettoriale",
+    "strumenti-del-disegno-tecnico",
+    "costruzioni-geometriche",
+    "struttura-modulare-e-disegno-geometrico"
+   ],
+   "risorse": {
+    "strumenti": [
+     "cad-disegno-assistito-dal-computer",
+     "sketchup-modellazione-3d"
+    ],
+    "valutazione": [
+     "valutazione-disegno-tecnico"
+    ],
+    "inclusione": [
+     "inclusione-disegno-tecnico"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": true
+  },
+  {
+   "id": "ponti-tipologie-e-forze",
+   "titolo": "I ponti: tipologie e forze in gioco",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/ponti-tipologie-e-forze",
+   "definizione": "Un ponte è una costruzione che permette di superare un ostacolo — naturale come un fiume o artificiale come un'altra strada — collegando due aree separate. Ogni ponte è formato da una struttura verticale (fondazioni e piloni) e da una struttura orizzontale detta impalcato, su cui transitano persone e veicoli. I tipi di ponte si distinguono per il modo in cui raccolgono i carichi e li trasferiscono a terra, con forze prevalentemente di trazione e compressione che agiscono sugli elementi strutturali.",
+   "relazioni": [
+    "strutture-portanti-e-sollecitazioni",
+    "arco-e-strutture-spingenti",
+    "materiali-da-costruzione-e-cemento-armato",
+    "citta-e-urbanistica",
+    "costruire-un-edificio-dalle-fondazioni-al-tetto"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-modello-di-ponte-di-carta"
+    ],
+    "inclusione": [
+     "inclusione-edilizia-citta"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": true
+  },
+  {
+   "id": "principi-nutritivi",
+   "titolo": "I principi nutritivi degli alimenti",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/principi-nutritivi",
+   "definizione": "I principi nutritivi (o nutrienti) sono le sostanze contenute negli alimenti, indispensabili alla vita, che introduciamo nel corpo quando mangiamo o beviamo. Si dividono in macronutrienti (proteine, lipidi/grassi, carboidrati/glucidi) e micronutrienti (vitamine e sali minerali); a questi si aggiunge l'acqua. Svolgono tre funzioni: energetica, plastica (di costruzione) e regolatrice/protettiva.",
+   "relazioni": [
+    "alimentazione-equilibrata-e-piramide-alimentare",
+    "etichette-e-sicurezza-alimentare"
+   ],
+   "risorse": {
+    "attivita": [
+     "lettura-etichette-alimentari",
+     "diario-alimentare-e-piramide"
+    ],
+    "inclusione": [
+     "inclusione-alimentazione"
+    ],
+    "uda": [
+     "uda-alimentazione-dalla-materia-prima-alla-tavola"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "produzioni-vegetali-e-colture",
+   "titolo": "Le produzioni vegetali: cereali, ortaggi, vite e olivo",
+   "tema": "Agricoltura, allevamento e pesca",
+   "url": "/concetti/produzioni-vegetali-e-colture",
+   "definizione": "Le produzioni vegetali sono i prodotti che l'uomo ottiene coltivando le piante. Si raggruppano in grandi categorie: cereali, ortaggi, frutta (compresa l'uva della vite) e piante industriali/officinali. Da queste colture ricaviamo cibo, ma anche fibre, oli, energia e materie prime per l'industria.",
+   "relazioni": [
+    "terreno-e-clima-in-agricoltura",
+    "macchine-e-tecniche-agricole",
+    "trasformazione-dei-cereali-pane-e-pasta",
+    "coltivazioni-fuori-suolo-serra-idroponica",
+    "agricoltura-sostenibile-e-biologica",
+    "filiera-agroalimentare"
+   ],
+   "risorse": {},
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "proiezioni-ortogonali",
+   "titolo": "Le proiezioni ortogonali",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/proiezioni-ortogonali",
+   "definizione": "Le proiezioni ortogonali sono un metodo di disegno tecnico che permette di rappresentare un oggetto tridimensionale su un foglio bidimensionale per mezzo di più viste (figure) perpendicolari tra loro. Servono a \"trasferire su un piano bidimensionale forme che nello spazio hanno tre dimensioni e viceversa\". In genere bastano tre viste per descrivere completamente un oggetto: la vista dall'alto, la vista di fronte (da davanti) e la vista di lato.",
+   "relazioni": [
+    "strumenti-del-disegno-tecnico",
+    "assonometrie",
+    "prospettiva",
+    "scale-di-riduzione-e-quotatura"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-proiezioni-oggetto-quotidiano"
+    ],
+    "strumenti": [
+     "cad-disegno-assistito-dal-computer",
+     "sketchup-modellazione-3d"
+    ],
+    "valutazione": [
+     "valutazione-disegno-tecnico"
+    ],
+    "inclusione": [
+     "inclusione-disegno-tecnico"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": true
+  },
+  {
+   "id": "proprieta-e-classificazione-dei-materiali",
+   "titolo": "Proprietà e classificazione dei materiali",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/proprieta-e-classificazione-dei-materiali",
+   "definizione": "I materiali sono le sostanze con cui produciamo oggetti. Ogni materiale possiede caratteristiche e proprietà (fisiche, meccaniche, tecnologiche) che lo rendono adatto a usi diversi; in base alla loro origine e alle loro caratteristiche i materiali possono essere classificati in famiglie.",
+   "relazioni": [
+    "riciclo-e-sostenibilita-dei-materiali",
+    "il-legno",
+    "i-metalli-e-le-leghe",
+    "materie-plastiche-e-gomme",
+    "i-nuovi-materiali"
+   ],
+   "risorse": {
+    "attivita": [
+     "prove-sulle-proprieta-dei-materiali"
+    ],
+    "inclusione": [
+     "inclusione-materiali"
+    ]
+   },
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "prospettiva",
+   "titolo": "La prospettiva",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/prospettiva",
+   "definizione": "La prospettiva è il metodo di rappresentazione grafica che permette di riprodurre su un piano bidimensionale l'immagine tridimensionale di un oggetto così come la percepisce il nostro occhio: gli oggetti appaiono più grandi se vicini e più piccoli se lontani. È una proiezione conica (i raggi visuali partono da un solo punto, l'occhio dell'osservatore), a differenza delle assonometrie, che sono proiezioni parallele.",
+   "relazioni": [
+    "proiezioni-ortogonali",
+    "assonometrie",
+    "strumenti-del-disegno-tecnico"
+   ],
+   "risorse": {
+    "strumenti": [
+     "sketchup-modellazione-3d",
+     "cad-disegno-assistito-dal-computer"
+    ],
+    "inclusione": [
+     "inclusione-disegno-tecnico"
+    ],
+    "uda": [
+     "uda-disegno-tecnico-progetto-cameretta"
+    ]
+   },
+   "grado": 3,
+   "fondamentale": false
+  },
+  {
+   "id": "radio-televisione-e-cinema",
+   "titolo": "Radio, televisione e cinema",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/radio-televisione-e-cinema",
+   "definizione": "Radio, televisione e cinema sono i tre principali mezzi di comunicazione audiovisiva di massa sviluppati tra la fine dell'Ottocento e il Novecento: il cinema trasmette immagini in movimento attraverso la proiezione di fotogrammi successivi; la radio diffonde segnali sonori tramite onde elettromagnetiche; la televisione combina suono e immagini in movimento trasmessi via etere, cavo o satellite.",
+   "relazioni": [
+    "la-comunicazione-elementi-e-modello",
+    "dalla-scrittura-alla-stampa",
+    "la-fotografia-dall-analogico-al-digitale",
+    "telefonia-e-telecomunicazioni",
+    "analogico-e-digitale-il-segnale"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-realizzare-un-podcast"
+    ],
+    "metodologie": [
+     "digital-storytelling"
+    ],
+    "uda": [
+     "uda-comunicazione-e-media"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "realta-aumentata",
+   "titolo": "Realtà aumentata nella didattica",
+   "tema": "Coding, robotica e pensiero computazionale",
+   "url": "/concetti/realta-aumentata",
+   "definizione": "La realtà aumentata (AR) sovrappone elementi digitali al mondo reale tramite dispositivi come tablet, smartphone o visori.",
+   "relazioni": [
+    "realta-virtuale"
+   ],
+   "risorse": {
+    "strumenti": [
+     "app-ar"
+    ],
+    "valutazione": [
+     "valutazione-museo-aumentato"
+    ],
+    "metodologie": [
+     "didattica-immersiva",
+     "apprendimento-esperienziale"
+    ],
+    "inclusione": [
+     "udl"
+    ]
+   },
+   "grado": 1,
+   "fondamentale": false
+  },
+  {
+   "id": "realta-virtuale",
+   "titolo": "Realtà virtuale nella didattica",
+   "tema": "Coding, robotica e pensiero computazionale",
+   "url": "/concetti/realta-virtuale",
+   "definizione": "La realtà virtuale (VR) immerge l'utente in un ambiente completamente digitale, simulato e interattivo, tramite visori o occhiali dedicati.",
+   "relazioni": [
+    "realta-aumentata"
+   ],
+   "risorse": {
+    "metodologie": [
+     "didattica-immersiva"
+    ]
+   },
+   "grado": 1,
+   "fondamentale": false
+  },
+  {
+   "id": "riciclo-e-sostenibilita-dei-materiali",
+   "titolo": "Riciclo e sostenibilità dei materiali",
+   "tema": "Tecnologia dei materiali",
+   "url": "/concetti/riciclo-e-sostenibilita-dei-materiali",
+   "definizione": "Il riciclo è il processo che recupera i materiali contenuti negli oggetti a fine vita e li reintroduce nel ciclo produttivo come nuove materie prime; la sostenibilità dei materiali è la scelta e l'uso di materiali in modo da soddisfare i bisogni di oggi senza compromettere le risorse delle generazioni future.",
+   "relazioni": [
+    "proprieta-e-classificazione-dei-materiali",
+    "la-carta",
+    "il-vetro",
+    "materie-plastiche-e-gomme"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-riciclo-carta-fatta-a-mano"
+    ],
+    "uda": [
+     "uda-materiali-oggetto-sostenibile"
+    ]
+   },
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "rifiuti-e-raccolta-differenziata",
+   "titolo": "I rifiuti e la raccolta differenziata",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/rifiuti-e-raccolta-differenziata",
+   "definizione": "I rifiuti sono tutti i materiali e gli oggetti che, dopo essere stati usati, vengono scartati perché non più utili. La raccolta differenziata è il sistema che permette di separare i rifiuti per tipo di materiale (carta, plastica, vetro, metalli, organico) così da poterli riciclare e trasformare di nuovo in materie prime, riducendo la quantità di rifiuti da mandare in discarica o all'inceneritore.",
+   "relazioni": [
+    "sviluppo-sostenibile",
+    "economia-circolare",
+    "risorse-rinnovabili-e-non-rinnovabili",
+    "inquinamento-aria-acqua-suolo",
+    "impronta-ecologica"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-mappa-rifiuti-scuola"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "risorse-rinnovabili-e-non-rinnovabili",
+   "titolo": "Risorse rinnovabili e non rinnovabili",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/risorse-rinnovabili-e-non-rinnovabili",
+   "definizione": "Le risorse naturali sono tutto ciò che la natura ci mette a disposizione (aria, acqua, foreste, minerali, fonti di energia): si dicono rinnovabili quando si rigenerano in tempi brevi o sono disponibili senza esaurirsi, non rinnovabili (o esauribili) quando esistono in quantità limitata e, una volta consumate, non tornano più disponibili o si riformano solo in tempi lunghissimi.",
+   "relazioni": [
+    "bisogni-e-risorse",
+    "sviluppo-sostenibile",
+    "agenda-2030",
+    "cambiamento-climatico-ed-effetto-serra",
+    "economia-circolare",
+    "impronta-ecologica"
+   ],
+   "risorse": {},
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "risparmio-energetico-e-efficienza",
+   "titolo": "Risparmio energetico ed efficienza",
+   "tema": "Energia e fonti energetiche",
+   "url": "/concetti/risparmio-energetico-e-efficienza",
+   "definizione": "Il risparmio energetico è l'insieme dei comportamenti e degli interventi finalizzati a ridurre i consumi di energia nelle attività quotidiane e nella produzione industriale, impiegando l'energia in modo più razionale ed evitando gli sprechi. L'efficienza energetica indica la capacità di un apparecchio o di un edificio di svolgere la propria funzione consumando la minore quantità di energia possibile.",
+   "relazioni": [
+    "forme-e-trasformazioni-dell-energia",
+    "fonti-rinnovabili-e-non-rinnovabili",
+    "combustibili-fossili-carbone-petrolio-gas",
+    "cambiamento-climatico-ed-effetto-serra"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-energia-sostenibile"
+    ],
+    "attivita": [
+     "attivita-misura-consumi-domestici"
+    ],
+    "valutazione": [
+     "valutazione-energia"
+    ],
+    "inclusione": [
+     "inclusione-energia"
+    ]
+   },
+   "grado": 10,
+   "fondamentale": true
+  },
+  {
+   "id": "robotica-educativa",
+   "titolo": "La robotica educativa",
+   "tema": "Coding, robotica e pensiero computazionale",
+   "url": "/concetti/robotica-educativa",
+   "definizione": "La robotica educativa è l'uso di robot programmabili (come mBot o piccoli robot costruiti con micro:bit) come strumento per imparare. Più che costruire macchine, serve a sviluppare il pensiero computazionale: si scrive un programma, lo si carica nel robot, si osserva cosa fa e lo si corregge. Un robot è una macchina capace di \"sentire\" l'ambiente con i sensori, \"decidere\" tramite un programma e \"agire\" sul mondo con gli attuatori (motori, LED, cicalino).",
+   "relazioni": [
+    "pensiero-computazionale",
+    "coding-e-programmazione-a-blocchi",
+    "sensori-e-attuatori"
+   ],
+   "risorse": {
+    "strumenti": [
+     "mbot",
+     "micro-bit"
+    ],
+    "metodologie": [
+     "debugging-come-strategia"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "scale-di-riduzione-e-quotatura",
+   "titolo": "Scale di riduzione e quotatura",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/scale-di-riduzione-e-quotatura",
+   "definizione": "La scala di rappresentazione (o scala di proporzione) è il rapporto tra la misura disegnata sul foglio e la misura reale dell'oggetto, espresso nella stessa unità di misura. La quotatura è l'insieme dei segni grafici (linee e numeri) con cui si indicano sul disegno le dimensioni reali dell'oggetto rappresentato.",
+   "relazioni": [
+    "strumenti-del-disegno-tecnico",
+    "proiezioni-ortogonali",
+    "assonometrie"
+   ],
+   "risorse": {
+    "strumenti": [
+     "cad-disegno-assistito-dal-computer",
+     "sketchup-modellazione-3d"
+    ],
+    "inclusione": [
+     "inclusione-disegno-tecnico"
+    ],
+    "uda": [
+     "uda-disegno-tecnico-progetto-cameretta"
+    ],
+    "valutazione": [
+     "valutazione-disegno-tecnico"
+    ]
+   },
+   "grado": 3,
+   "fondamentale": false
+  },
+  {
+   "id": "sensori-e-attuatori",
+   "titolo": "Sensori e attuatori",
+   "tema": "Coding, robotica e pensiero computazionale",
+   "url": "/concetti/sensori-e-attuatori",
+   "definizione": "I sensori sono i dispositivi che fanno \"percepire\" l'ambiente a una macchina: rilevano una grandezza fisica (luce, temperatura, pressione, distanza, movimento...) e la trasformano in un segnale elettrico, cioè in un input che la scheda può elaborare. Gli attuatori sono i dispositivi che fanno \"agire\" la macchina sul mondo: ricevono un comando dalla scheda, cioè un output, e lo trasformano in un effetto fisico (luce, suono, movimento). In mezzo c'è la scheda di controllo (Arduino, micro:bit, mCore di mBot), che riceve gli input dai sensori, li elabora secondo il programma e invia i comandi di output agli attuatori.",
+   "relazioni": [
+    "robotica-educativa",
+    "pensiero-computazionale"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-robot-percorso-mbot",
+     "attivita-semaforo-arduino"
+    ],
+    "strumenti": [
+     "micro-bit",
+     "mbot",
+     "arduino",
+     "scratch",
+     "tinkercad"
+    ],
+    "inclusione": [
+     "inclusione-coding-robotica"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": true
+  },
+  {
+   "id": "settore-primario-agricoltura-allevamento-pesca",
+   "titolo": "Il settore primario: agricoltura, allevamento e pesca",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/settore-primario-agricoltura-allevamento-pesca",
+   "definizione": "Il settore primario comprende tutte le attività che ricavano direttamente risorse dall'ambiente naturale: l'agricoltura (coltivazione della terra), l'allevamento (zootecnia), la pesca (e l'acquacoltura) e la silvicoltura. È il settore che fornisce le materie prime e gli alimenti di base a tutta l'economia.",
+   "relazioni": [
+    "i-settori-produttivi",
+    "fattori-e-ciclo-della-produzione",
+    "settore-secondario-industria-e-artigianato",
+    "filiera-agroalimentare",
+    "agricoltura-sostenibile-e-biologica",
+    "pesca-e-acquacoltura"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-mappa-dei-settori-del-territorio"
+    ],
+    "uda": [
+     "uda-economia-lavoro-settori"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "settore-secondario-industria-e-artigianato",
+   "titolo": "Il settore secondario: industria e artigianato",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/settore-secondario-industria-e-artigianato",
+   "definizione": "Il settore secondario comprende tutte le attività industriali e artigianali che trasformano le materie prime in semilavorati e prodotti finiti. Include fabbriche, industrie manifatturiere, imprese edili, laboratori artigianali e industrie dell'energia. È il settore della trasformazione: prende ciò che viene dal primario (risorse naturali) e lo converte in beni tangibili destinati al mercato.",
+   "relazioni": [
+    "i-settori-produttivi",
+    "settore-primario-agricoltura-allevamento-pesca",
+    "settore-terziario-commercio-trasporti-servizi",
+    "fattori-e-ciclo-della-produzione",
+    "il-mondo-del-lavoro",
+    "globalizzazione-ed-economia-sostenibile"
+   ],
+   "risorse": {
+    "strumenti": [
+     "foglio-di-calcolo-per-i-dati-economici"
+    ],
+    "attivita": [
+     "attivita-mappa-dei-settori-del-territorio"
+    ],
+    "uda": [
+     "uda-economia-lavoro-settori"
+    ],
+    "valutazione": [
+     "valutazione-economia"
+    ],
+    "inclusione": [
+     "inclusione-economia"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "settore-terziario-commercio-trasporti-servizi",
+   "titolo": "Il settore terziario: commercio, trasporti e servizi",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/settore-terziario-commercio-trasporti-servizi",
+   "definizione": "Il settore terziario comprende tutte le attività economiche che non sono né agricole né industriali: non produce beni materiali, bensì servizi (beni immateriali) utili alle imprese dei settori primario e secondario e alle persone. Vi rientrano commercio, trasporti, comunicazioni, turismo, istruzione, sanità, servizi bancari e finanziari.",
+   "relazioni": [
+    "i-settori-produttivi",
+    "settore-primario-agricoltura-allevamento-pesca",
+    "settore-secondario-industria-e-artigianato",
+    "sistema-economico-e-mercato",
+    "moneta-elettronica-e-pagamenti-digitali",
+    "globalizzazione-ed-economia-sostenibile",
+    "il-mondo-del-lavoro"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-mappa-dei-settori-del-territorio"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "sicurezza-elettrica",
+   "titolo": "La sicurezza elettrica e i rischi della corrente",
+   "tema": "Elettricità ed elettronica",
+   "url": "/concetti/sicurezza-elettrica",
+   "definizione": "La sicurezza elettrica è l'insieme dei dispositivi, delle norme e dei comportamenti che proteggono le persone dalla folgorazione (la \"scossa\") e gli impianti da cortocircuiti, sovraccarichi e incendi. I tre presìdi fondamentali sono l'interruttore magnetotermico, l'interruttore differenziale (detto anche salvavita) e l'impianto di messa a terra.",
+   "relazioni": [
+    "impianto-elettrico-domestico",
+    "grandezze-elettriche-e-circuito",
+    "effetti-della-corrente-elettrica",
+    "generatori-e-pile"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-elettricita-impianto-sicuro"
+    ],
+    "inclusione": [
+     "inclusione-elettricita"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "sistema-dei-trasporti-e-mobilita",
+   "titolo": "Il sistema dei trasporti e la mobilità",
+   "tema": "I trasporti",
+   "url": "/concetti/sistema-dei-trasporti-e-mobilita",
+   "definizione": "Il sistema dei trasporti è l'insieme organizzato di mezzi, infrastrutture e reti che permettono lo spostamento di persone, animali e merci da un luogo all'altro. I mezzi di trasporto si dividono in terrestri (su gomma e su rotaia), navali (marittimi e fluviali), aerei e spaziali. La mobilità è la capacità di spostarsi in modo efficiente, sicuro e — sempre più — sostenibile.",
+   "relazioni": [
+    "logistica-e-trasporto-intermodale",
+    "mobilita-sostenibile-e-trasporto-green",
+    "infrastrutture-di-trasporto",
+    "trasporto-su-gomma-e-automobile",
+    "trasporto-ferroviario"
+   ],
+   "risorse": {
+    "inclusione": [
+     "inclusione-trasporti"
+    ],
+    "attivita": [
+     "attivita-analisi-rete-trasporti-territorio"
+    ],
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ]
+   },
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "sistema-economico-e-mercato",
+   "titolo": "Il sistema economico e il mercato",
+   "tema": "Economia, lavoro e settori produttivi",
+   "url": "/concetti/sistema-economico-e-mercato",
+   "definizione": "L'economia è l'insieme dei modi e dei processi attraverso cui una comunità gestisce le risorse disponibili per rispondere ai bisogni collettivi e individuali. Il mercato è il luogo — fisico o virtuale — in cui domanda e offerta si incontrano e si forma il prezzo dei beni e dei servizi.",
+   "relazioni": [
+    "fattori-e-ciclo-della-produzione",
+    "i-settori-produttivi",
+    "moneta-banche-e-finanza",
+    "il-mondo-del-lavoro",
+    "globalizzazione-ed-economia-sostenibile"
+   ],
+   "risorse": {
+    "strumenti": [
+     "foglio-di-calcolo-per-i-dati-economici"
+    ],
+    "attivita": [
+     "attivita-simulazione-bilancio-familiare"
+    ],
+    "uda": [
+     "uda-economia-lavoro-settori"
+    ]
+   },
+   "grado": 7,
+   "fondamentale": true
+  },
+  {
+   "id": "smart-city-e-mobilita-sostenibile",
+   "titolo": "La smart city e la mobilità sostenibile",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/smart-city-e-mobilita-sostenibile",
+   "definizione": "Una smart city (\"città intelligente\") è una città che usa la tecnologia, la comunicazione e i dati per offrire a chi la abita una migliore qualità della vita, riducendo gli sprechi di energia, l'inquinamento e i costi. La mobilità sostenibile è il modo di spostarsi che limita le emissioni inquinanti: a piedi, in bicicletta, con i mezzi pubblici e con i servizi di condivisione (bike sharing, car sharing) e i veicoli elettrici.",
+   "relazioni": [
+    "citta-e-urbanistica",
+    "domotica-e-casa-intelligente",
+    "bioedilizia-ed-efficienza-energetica"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-edilizia-citta-sostenibile"
+    ],
+    "inclusione": [
+     "inclusione-edilizia-citta"
+    ]
+   },
+   "grado": 3,
+   "fondamentale": false
+  },
+  {
+   "id": "social-network-e-cittadinanza-digitale",
+   "titolo": "Social network e cittadinanza digitale",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/social-network-e-cittadinanza-digitale",
+   "definizione": "I social network sono piattaforme digitali che permettono agli utenti di creare un profilo personale, costruire una rete di contatti e condividere contenuti (testi, immagini, video). La cittadinanza digitale è l'insieme di competenze, diritti e responsabilità che consentono di partecipare in modo consapevole, etico e sicuro alla vita in rete.",
+   "relazioni": [
+    "internet-e-il-web",
+    "la-comunicazione-elementi-e-modello",
+    "telefonia-e-telecomunicazioni",
+    "diritto-d-autore-e-licenze"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-riconoscere-le-fake-news"
+    ],
+    "metodologie": [
+     "digital-storytelling"
+    ],
+    "uda": [
+     "uda-comunicazione-e-media"
+    ],
+    "valutazione": [
+     "valutazione-comunicazione-e-media"
+    ],
+    "inclusione": [
+     "inclusione-comunicazione-e-media"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "strumenti-del-disegno-tecnico",
+   "titolo": "Gli strumenti del disegno tecnico",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/strumenti-del-disegno-tecnico",
+   "definizione": "Gli strumenti del disegno tecnico sono gli attrezzi che permettono di tracciare con precisione linee, angoli e curve su un foglio. I più importanti sono la matita (o il portamine), la riga, le due squadre, il compasso e il goniometro, a cui si aggiungono carta da disegno, gomma e temperamatite. Servono a produrre disegni esatti e ripetibili, dove ogni segno ha una misura precisa e non è lasciato al caso come in un disegno a mano libera.",
+   "relazioni": [
+    "costruzioni-geometriche",
+    "poligoni-regolari-e-curve",
+    "scale-di-riduzione-e-quotatura",
+    "proiezioni-ortogonali"
+   ],
+   "risorse": {
+    "strumenti": [
+     "cad-disegno-assistito-dal-computer"
+    ],
+    "inclusione": [
+     "inclusione-disegno-tecnico"
+    ]
+   },
+   "grado": 8,
+   "fondamentale": true
+  },
+  {
+   "id": "struttura-modulare-e-disegno-geometrico",
+   "titolo": "Moduli, reticoli e disegno geometrico",
+   "tema": "Disegno tecnico e grafica",
+   "url": "/concetti/struttura-modulare-e-disegno-geometrico",
+   "definizione": "Un modulo è una figura semplice di forma costante, ripetibile e intercambiabile, presa a modello e ripetuta su una superficie senza lasciare vuoti e senza sovrapporsi. Tanti moduli accostati secondo uno schema regolare formano una struttura modulare, che può prendere il nome di tassellazione o pattern a seconda delle caratteristiche. Il reticolo (o griglia modulare) è la rete di linee che guida la distribuzione dei singoli moduli.",
+   "relazioni": [
+    "costruzioni-geometriche",
+    "poligoni-regolari-e-curve",
+    "strumenti-del-disegno-tecnico",
+    "grafica-raster-e-vettoriale"
+   ],
+   "risorse": {
+    "valutazione": [
+     "valutazione-disegno-tecnico"
+    ],
+    "inclusione": [
+     "inclusione-disegno-tecnico"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": true
+  },
+  {
+   "id": "strutture-portanti-e-sollecitazioni",
+   "titolo": "Le strutture portanti e le sollecitazioni",
+   "tema": "Abitazione, edilizia e città",
+   "url": "/concetti/strutture-portanti-e-sollecitazioni",
+   "definizione": "La struttura portante è l'ossatura resistente che permette a una costruzione di stare in piedi sopportando il proprio peso e le forze esterne; le sollecitazioni sono le forze che agiscono sui suoi elementi (trave, pilastro, muro) tendendo a deformarli o romperli.",
+   "relazioni": [
+    "arco-e-strutture-spingenti",
+    "materiali-da-costruzione-e-cemento-armato",
+    "costruire-un-edificio-dalle-fondazioni-al-tetto",
+    "ponti-tipologie-e-forze"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-modello-di-ponte-di-carta"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "sviluppo-sostenibile",
+   "titolo": "Lo sviluppo sostenibile",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/sviluppo-sostenibile",
+   "definizione": "Lo sviluppo sostenibile è un modello di sviluppo che soddisfa i bisogni delle generazioni presenti senza compromettere la possibilità che le generazioni future riescano a soddisfare i propri. Si fonda sull'equilibrio tra tre dimensioni: ambiente, economia e società.",
+   "relazioni": [
+    "agenda-2030",
+    "risorse-rinnovabili-e-non-rinnovabili",
+    "impronta-ecologica",
+    "economia-circolare",
+    "cambiamento-climatico-ed-effetto-serra",
+    "bisogni-e-risorse"
+   ],
+   "risorse": {},
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "tecnologia-e-tecnica",
+   "titolo": "Tecnologia e tecnica",
+   "tema": "Tecnologia, ambiente e sostenibilità",
+   "url": "/concetti/tecnologia-e-tecnica",
+   "definizione": "La tecnica è il modo concreto di operare per fare qualcosa: l'insieme delle procedure, delle abilità e dei gesti pratici con cui si realizza un oggetto o si risolve un problema. La tecnologia è la disciplina che, conoscendo le tecniche esistenti, ne studia e ne progetta di nuove per risolvere problemi pratici e migliorare le condizioni di vita delle persone. In breve: la tecnica è il \"saper fare\", la tecnologia è lo studio sistematico e l'innovazione di quel saper fare.",
+   "relazioni": [
+    "bisogni-e-risorse",
+    "sviluppo-sostenibile",
+    "economia-circolare",
+    "risorse-rinnovabili-e-non-rinnovabili"
+   ],
+   "risorse": {
+    "valutazione": [
+     "valutazione-sostenibilita"
+    ],
+    "inclusione": [
+     "inclusione-sostenibilita"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "telefonia-e-telecomunicazioni",
+   "titolo": "Telefonia e telecomunicazioni",
+   "tema": "Comunicazione e media",
+   "url": "/concetti/telefonia-e-telecomunicazioni",
+   "definizione": "La telecomunicazione è la trasmissione a distanza di informazioni (voce, testi, immagini, dati) tra un trasmettitore e un ricevitore, attraverso cavi o onde elettromagnetiche. Il telefono è il mezzo di telecomunicazione interpersonale più importante del Novecento; lo smartphone ne è l'evoluzione digitale contemporanea.",
+   "relazioni": [
+    "la-comunicazione-elementi-e-modello",
+    "analogico-e-digitale-il-segnale",
+    "internet-e-il-web",
+    "radio-televisione-e-cinema",
+    "social-network-e-cittadinanza-digitale"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-comunicazione-e-media"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "terreno-e-clima-in-agricoltura",
+   "titolo": "Terreno e clima: i fattori naturali della produzione agricola",
+   "tema": "Agricoltura, allevamento e pesca",
+   "url": "/concetti/terreno-e-clima-in-agricoltura",
+   "definizione": "Il terreno e il clima sono i due fattori naturali che condizionano di più la produzione agricola. Il terreno (o suolo agrario) è lo strato superficiale della crosta terrestre capace di ospitare e nutrire le piante; il clima è l'insieme delle condizioni di temperatura, luce, acqua e umidità di un territorio. Insieme determinano dove, come e quali colture si possono coltivare.",
+   "relazioni": [
+    "macchine-e-tecniche-agricole",
+    "produzioni-vegetali-e-colture",
+    "agricoltura-sostenibile-e-biologica",
+    "coltivazioni-fuori-suolo-serra-idroponica"
+   ],
+   "risorse": {
+    "strumenti": [
+     "agricoltura-di-precisione"
+    ],
+    "attivita": [
+     "attivita-classificazione-terreni"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "trasformazione-dei-cereali-pane-e-pasta",
+   "titolo": "Dalla farina al pane e alla pasta",
+   "tema": "Alimentazione e industria alimentare",
+   "url": "/concetti/trasformazione-dei-cereali-pane-e-pasta",
+   "definizione": "La trasformazione dei cereali è l'insieme dei processi industriali che, partendo dal chicco di grano, portano prima alla farina (attraverso la molitura) e poi a prodotti alimentari come il pane, la pasta e i prodotti da forno. È uno degli esempi più chiari di come l'industria alimentare trasformi una materia prima agricola in alimenti pronti per il consumo.",
+   "relazioni": [
+    "filiera-agroalimentare",
+    "principi-nutritivi",
+    "alimenti-da-fermentazione-vino-birra-olio",
+    "produzioni-vegetali-e-colture",
+    "conservazione-degli-alimenti"
+   ],
+   "risorse": {
+    "inclusione": [
+     "inclusione-alimentazione"
+    ],
+    "uda": [
+     "uda-alimentazione-dalla-materia-prima-alla-tavola"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  },
+  {
+   "id": "trasformazione-del-moto",
+   "titolo": "La trasformazione del moto: biella-manovella e camme",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/trasformazione-del-moto",
+   "definizione": "La trasformazione del moto è l'insieme dei meccanismi che convertono un tipo di moto in un altro: il sistema biella-manovella trasforma il moto rettilineo alternativo in moto rotatorio continuo (e viceversa); la camma trasforma il moto rotatorio in moto rettilineo alternativo in modo non reversibile.",
+   "relazioni": [
+    "macchine-semplici-leva",
+    "trasmissione-del-moto",
+    "attrito-e-vantaggio-meccanico",
+    "motore-a-combustione-interna"
+   ],
+   "risorse": {
+    "strumenti": [
+     "simulazioni-macchine-e-motori"
+    ],
+    "metodologie": [
+     "apprendimento-laboratoriale-meccanismi"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": true
+  },
+  {
+   "id": "trasmissione-del-moto",
+   "titolo": "La trasmissione del moto: ingranaggi, cinghie e catene",
+   "tema": "Macchine, motori e meccanismi",
+   "url": "/concetti/trasmissione-del-moto",
+   "definizione": "La trasmissione del moto è il trasferimento del moto rotatorio da un organo meccanico a un altro tramite sistemi rigidi (ruote dentate) o flessibili (cinghie e catene). Il rapporto tra le dimensioni degli organi coinvolti determina se la velocità aumenta o diminuisce.",
+   "relazioni": [
+    "macchine-semplici-leva",
+    "carrucola-verricello-paranco",
+    "attrito-e-vantaggio-meccanico",
+    "trasformazione-del-moto"
+   ],
+   "risorse": {
+    "strumenti": [
+     "simulazioni-macchine-e-motori"
+    ],
+    "attivita": [
+     "attivita-trasmissione-bicicletta"
+    ],
+    "uda": [
+     "uda-macchine-motori-meccanismi"
+    ],
+    "inclusione": [
+     "inclusione-macchine-motori"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "trasporto-aereo",
+   "titolo": "Il trasporto aereo",
+   "tema": "I trasporti",
+   "url": "/concetti/trasporto-aereo",
+   "definizione": "Il trasporto aereo è il sistema di spostamento di persone e merci mediante aeromobili (aerei, elicotteri) che volano lungo corridoi aerei controllati e atterrano in apposite infrastrutture chiamate aeroporti.",
+   "relazioni": [
+    "sistema-dei-trasporti-e-mobilita",
+    "infrastrutture-di-trasporto",
+    "motori-e-propulsione",
+    "mobilita-sostenibile-e-trasporto-green",
+    "trasporto-su-gomma-e-automobile",
+    "trasporto-ferroviario",
+    "trasporto-su-acqua-e-navi",
+    "logistica-e-trasporto-intermodale"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ],
+    "attivita": [
+     "attivita-mezzo-di-trasporto-sostenibile"
+    ]
+   },
+   "grado": 9,
+   "fondamentale": true
+  },
+  {
+   "id": "trasporto-ferroviario",
+   "titolo": "Il trasporto ferroviario",
+   "tema": "I trasporti",
+   "url": "/concetti/trasporto-ferroviario",
+   "definizione": "Il trasporto ferroviario è il sistema di spostamento di persone e merci mediante treni che circolano su una rete di rotaie d'acciaio (binari), alimentati prevalentemente da motori elettrici.",
+   "relazioni": [
+    "sistema-dei-trasporti-e-mobilita",
+    "infrastrutture-di-trasporto",
+    "mobilita-sostenibile-e-trasporto-green",
+    "motori-e-propulsione",
+    "logistica-e-trasporto-intermodale"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-analisi-rete-trasporti-territorio"
+    ],
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": true
+  },
+  {
+   "id": "trasporto-spaziale",
+   "titolo": "Il trasporto spaziale",
+   "tema": "I trasporti",
+   "url": "/concetti/trasporto-spaziale",
+   "definizione": "Il trasporto spaziale è l'insieme delle tecnologie e dei sistemi che permettono di lanciare oggetti o persone oltre l'atmosfera terrestre, mettere in orbita satelliti artificiali e stazioni spaziali, e far rientrare veicoli sulla Terra.",
+   "relazioni": [
+    "motori-e-propulsione",
+    "trasporto-aereo",
+    "mobilita-sostenibile-e-trasporto-green",
+    "sistema-dei-trasporti-e-mobilita"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-mezzo-di-trasporto-sostenibile"
+    ],
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ]
+   },
+   "grado": 4,
+   "fondamentale": false
+  },
+  {
+   "id": "trasporto-su-acqua-e-navi",
+   "titolo": "Il trasporto su acqua e le navi",
+   "tema": "I trasporti",
+   "url": "/concetti/trasporto-su-acqua-e-navi",
+   "definizione": "Il trasporto via acqua è il sistema di spostamento di persone e merci attraverso mari, fiumi, laghi e canali mediante imbarcazioni; è la modalità più economica per spostare grandi quantità di merci su lunghe distanze e si conclude nei porti.",
+   "relazioni": [
+    "sistema-dei-trasporti-e-mobilita",
+    "infrastrutture-di-trasporto",
+    "motori-e-propulsione",
+    "logistica-e-trasporto-intermodale",
+    "mobilita-sostenibile-e-trasporto-green"
+   ],
+   "risorse": {
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ],
+    "attivita": [
+     "attivita-analisi-rete-trasporti-territorio"
+    ]
+   },
+   "grado": 6,
+   "fondamentale": false
+  },
+  {
+   "id": "trasporto-su-gomma-e-automobile",
+   "titolo": "Il trasporto su gomma e l'automobile",
+   "tema": "I trasporti",
+   "url": "/concetti/trasporto-su-gomma-e-automobile",
+   "definizione": "Il trasporto su gomma è il sistema di spostamento di persone e merci che avviene su strade e autostrade mediante veicoli dotati di pneumatici: automobili, autobus, autocarri, motocicli e biciclette. L'automobile è il veicolo a motore privato più diffuso al mondo ed è costituita da telaio/carrozzeria, motore (a combustione interna o elettrico), organi di trasmissione e sistemi di sicurezza.",
+   "relazioni": [
+    "sistema-dei-trasporti-e-mobilita",
+    "infrastrutture-di-trasporto",
+    "motori-e-propulsione",
+    "mobilita-sostenibile-e-trasporto-green"
+   ],
+   "risorse": {
+    "attivita": [
+     "attivita-mezzo-di-trasporto-sostenibile"
+    ],
+    "uda": [
+     "uda-trasporti-mobilita-sostenibile"
+    ]
+   },
+   "grado": 5,
+   "fondamentale": false
+  }
+ ]
+}
