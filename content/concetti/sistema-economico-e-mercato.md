@@ -1,4 +1,5 @@
 ---
+title: "Il sistema economico e il mercato"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

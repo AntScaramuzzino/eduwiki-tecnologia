@@ -1,4 +1,5 @@
 ---
+title: "Social network e cittadinanza digitale"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

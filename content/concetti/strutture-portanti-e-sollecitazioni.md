@@ -1,4 +1,5 @@
 ---
+title: "Le strutture portanti e le sollecitazioni"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

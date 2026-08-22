@@ -1,4 +1,5 @@
 ---
+title: "I fattori e il ciclo della produzione"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

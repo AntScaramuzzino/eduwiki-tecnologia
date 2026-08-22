@@ -1,4 +1,5 @@
 ---
+title: "Forme e trasformazioni dell'energia"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

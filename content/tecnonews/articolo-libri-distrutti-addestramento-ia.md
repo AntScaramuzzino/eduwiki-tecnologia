@@ -1,4 +1,5 @@
 ---
+title: "Libri cartacei distrutti per addestrare l'IA"
 tipo: fonte_sintetizzata
 titolo_fonte: "Per addestrare l'IA stanno comprando e distruggendo milioni di libri"
 autore_fonte: Focus.it

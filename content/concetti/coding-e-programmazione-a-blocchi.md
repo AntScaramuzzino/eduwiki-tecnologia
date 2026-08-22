@@ -1,4 +1,5 @@
 ---
+title: "Coding e programmazione a blocchi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

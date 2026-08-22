@@ -1,4 +1,5 @@
 ---
+title: "Moneta elettronica e pagamenti digitali"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

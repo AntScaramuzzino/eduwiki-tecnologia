@@ -1,3 +1,7 @@
+---
+title: "Prompt — Costruire una UDA"
+---
+
 # Prompt — Costruire una UDA
 
 Usa le pagine su {CONCETTI/METODOLOGIE} per costruire una UDA di {DISCIPLINA} per

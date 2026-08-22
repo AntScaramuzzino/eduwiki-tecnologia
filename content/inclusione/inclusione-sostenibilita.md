@@ -1,4 +1,5 @@
 ---
+title: "Inclusione: tecnologia, ambiente e sostenibilità per tutti"
 tipo: inclusione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

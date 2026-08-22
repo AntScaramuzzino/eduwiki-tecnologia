@@ -1,3 +1,7 @@
+---
+title: "Prompt — Progettare/revisionare un corso per docenti"
+---
+
 # Prompt — Progettare/revisionare un corso per docenti
 
 Trasforma le fonti e le pagine su {TEMA} in un corso di formazione docenti:

@@ -1,4 +1,5 @@
 ---
+title: "Attività: proiezioni ortogonali di un oggetto quotidiano"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

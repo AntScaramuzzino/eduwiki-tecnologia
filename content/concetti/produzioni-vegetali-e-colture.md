@@ -1,4 +1,5 @@
 ---
+title: "Le produzioni vegetali: cereali, ortaggi, vite e olivo"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

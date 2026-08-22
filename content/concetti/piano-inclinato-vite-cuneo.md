@@ -1,4 +1,5 @@
 ---
+title: "Piano inclinato, vite e cuneo"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

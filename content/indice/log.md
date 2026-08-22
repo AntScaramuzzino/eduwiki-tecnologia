@@ -1,3 +1,7 @@
+---
+title: "Log del Wiki"
+---
+
 # Log del Wiki
 
 Registro cronologico append-only. Formato: `AAAA-MM-GG [INGEST|QUERY|LINT] descrizione`.

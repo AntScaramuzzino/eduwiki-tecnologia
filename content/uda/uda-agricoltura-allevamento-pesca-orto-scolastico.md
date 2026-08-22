@@ -1,4 +1,5 @@
 ---
+title: "UDA: l'orto scolastico e la filiera del cibo sostenibile"
 tipo: uda
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

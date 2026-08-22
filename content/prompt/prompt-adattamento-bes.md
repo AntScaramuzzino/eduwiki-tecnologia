@@ -1,3 +1,7 @@
+---
+title: "Prompt — Adattare un'attività per BES/DSA e inclusione"
+---
+
 # Prompt — Adattare un'attività per BES/DSA e inclusione
 
 Per l'attività {RIFERIMENTO}, genera adattamenti inclusivi distinti per: BES/DSA

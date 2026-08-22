@@ -1,4 +1,5 @@
 ---
+title: "La filiera agroalimentare: dal campo alla tavola"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

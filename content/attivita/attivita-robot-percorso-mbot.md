@@ -1,4 +1,5 @@
 ---
+title: "Attività: il robot che segue un percorso (mBot)"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Attrito, rendimento e vantaggio meccanico"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

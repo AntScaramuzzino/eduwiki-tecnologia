@@ -1,4 +1,5 @@
 ---
+title: "Divieto dei social ai minori nel Regno Unito"
 tipo: fonte_sintetizzata
 titolo_fonte: "Divieto dei social ai minori nel Regno Unito: che cosa c'è da sapere"
 autore_fonte: Focus.it

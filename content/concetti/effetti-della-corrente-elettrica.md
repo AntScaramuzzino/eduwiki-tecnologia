@@ -1,4 +1,5 @@
 ---
+title: "Gli effetti della corrente elettrica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Attività: leggere e confrontare le etichette"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

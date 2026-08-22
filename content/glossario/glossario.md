@@ -1,4 +1,5 @@
 ---
+title: "Glossario"
 tipo: glossario
 ultima_revisione: 2026-06-23
 ---

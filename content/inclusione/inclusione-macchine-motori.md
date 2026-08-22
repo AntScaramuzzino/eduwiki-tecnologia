@@ -1,4 +1,5 @@
 ---
+title: "Inclusione: macchine e motori per BES e DSA"
 tipo: inclusione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

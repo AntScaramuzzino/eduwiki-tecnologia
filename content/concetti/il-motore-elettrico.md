@@ -1,4 +1,5 @@
 ---
+title: "Il motore elettrico: come funziona"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

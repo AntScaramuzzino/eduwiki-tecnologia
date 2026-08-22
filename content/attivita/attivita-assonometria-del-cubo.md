@@ -1,4 +1,5 @@
 ---
+title: "Attività: assonometria isometrica del cubo e dei solidi"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

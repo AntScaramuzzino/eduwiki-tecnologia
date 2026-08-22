@@ -1,4 +1,5 @@
 ---
+title: "Valutare le competenze su tecnologia e sostenibilità"
 tipo: valutazione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

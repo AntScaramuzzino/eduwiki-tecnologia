@@ -1,4 +1,5 @@
 ---
+title: "Strategie inclusive per il modulo agricoltura, allevamento e pesca"
 tipo: inclusione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

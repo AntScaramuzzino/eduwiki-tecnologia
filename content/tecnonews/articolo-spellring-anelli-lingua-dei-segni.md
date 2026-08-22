@@ -1,4 +1,5 @@
 ---
+title: "Sette anelli smart traducono la lingua dei segni in tempo reale"
 tipo: fonte_sintetizzata
 titolo_fonte: "Sette anelli smart traducono il linguaggio dei segni in tempo reale: ecco come funzionano"
 autore_fonte: Focus.it

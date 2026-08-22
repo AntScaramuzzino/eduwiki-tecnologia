@@ -1,4 +1,5 @@
 ---
+title: "UDA: dalla materia prima alla tavola"
 tipo: uda
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

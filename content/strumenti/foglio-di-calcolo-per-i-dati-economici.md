@@ -1,4 +1,5 @@
 ---
+title: "Il foglio di calcolo per i dati economici"
 tipo: strumento_digitale
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

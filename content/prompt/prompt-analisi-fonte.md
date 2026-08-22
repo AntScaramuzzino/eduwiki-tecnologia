@@ -1,3 +1,7 @@
+---
+title: "Prompt — Analizzare una fonte (Ingest)"
+---
+
 # Prompt — Analizzare una fonte (Ingest)
 
 Analizza la fonte indicata in `raw/` e applica la *Regola d'oro* dello schema: non

@@ -1,4 +1,5 @@
 ---
+title: "Risolto grazie a Claude un enigma fisico"
 tipo: fonte_sintetizzata
 titolo_fonte: "Risolto grazie a Claude un enigma fisico che durava da oltre 10 anni"
 autore_fonte: Focus.it

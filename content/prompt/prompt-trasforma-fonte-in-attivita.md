@@ -1,3 +1,7 @@
+---
+title: "Prompt — Trasformare una fonte in attività didattica"
+---
+
 # Prompt — Trasformare una fonte in attività didattica
 
 Analizza la fonte indicata e trasformala in una proposta didattica per la scuola

@@ -1,4 +1,5 @@
 ---
+title: "Inclusione e didattica accessibile per l'elettricità"
 tipo: inclusione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

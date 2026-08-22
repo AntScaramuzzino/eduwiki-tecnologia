@@ -1,4 +1,5 @@
 ---
+title: "SketchUp: modellazione 3D per la scuola"
 tipo: strumento_digitale
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

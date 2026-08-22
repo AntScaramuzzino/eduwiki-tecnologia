@@ -1,4 +1,5 @@
 ---
+title: "Globalizzazione ed economia sostenibile"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Attività: la trasmissione del moto nella bicicletta"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

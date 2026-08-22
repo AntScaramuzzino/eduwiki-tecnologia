@@ -1,4 +1,5 @@
 ---
+title: "Il CAD: disegno assistito dal computer"
 tipo: strumento_digitale
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "La trasformazione del moto: biella-manovella e camme"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

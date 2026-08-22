@@ -1,4 +1,5 @@
 ---
+title: "Il settore primario: agricoltura, allevamento e pesca"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

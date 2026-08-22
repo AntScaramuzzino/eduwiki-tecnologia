@@ -1,4 +1,5 @@
 ---
+title: "Attività: indagine sui rifiuti della classe"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

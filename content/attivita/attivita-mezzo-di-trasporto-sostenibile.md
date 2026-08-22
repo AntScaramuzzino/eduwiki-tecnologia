@@ -1,4 +1,5 @@
 ---
+title: "Attività: progetta un mezzo di trasporto sostenibile"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

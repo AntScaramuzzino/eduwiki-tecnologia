@@ -1,4 +1,5 @@
 ---
+title: "UDA: progettiamo con micro:bit"
 tipo: uda
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

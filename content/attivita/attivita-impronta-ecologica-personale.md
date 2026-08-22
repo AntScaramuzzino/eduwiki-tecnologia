@@ -1,4 +1,5 @@
 ---
+title: "Attività: calcola la tua impronta ecologica"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

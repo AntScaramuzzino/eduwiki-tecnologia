@@ -1,4 +1,5 @@
 ---
+title: "Possiamo recuperare l'oro dall'e-waste in meno di 20 minuti"
 tipo: fonte_sintetizzata
 titolo_fonte: "Possiamo recuperare l'oro dall'e-waste in meno di 20 minuti"
 autore_fonte: Focus.it

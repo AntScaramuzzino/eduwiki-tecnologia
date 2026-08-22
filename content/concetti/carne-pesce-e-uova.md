@@ -1,4 +1,5 @@
 ---
+title: "Carne, pesce e uova"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

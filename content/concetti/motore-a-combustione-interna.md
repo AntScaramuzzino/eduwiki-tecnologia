@@ -1,4 +1,5 @@
 ---
+title: "Il motore a combustione interna: il ciclo a quattro tempi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

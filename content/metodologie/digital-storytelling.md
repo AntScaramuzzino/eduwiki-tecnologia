@@ -1,4 +1,5 @@
 ---
+title: "Il digital storytelling in classe"
 tipo: metodologia
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "La smart city e la mobilità sostenibile"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,3 +1,7 @@
+---
+title: "Prompt — Creare una rubrica di valutazione"
+---
+
 # Prompt — Creare una rubrica di valutazione
 
 Per l'attività/UDA {RIFERIMENTO}, genera: criteri per il prodotto finale, una rubrica

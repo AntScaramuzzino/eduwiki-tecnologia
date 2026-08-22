@@ -1,4 +1,5 @@
 ---
+title: "L'appello dell'ONU sui consumi dei data center di IA"
 tipo: fonte_sintetizzata
 titolo_fonte: "L'appello dell'ONU scuote l'hi-tech: le aziende di IA rivelino i consumi nascosti dei loro data center"
 autore_fonte: Focus.it

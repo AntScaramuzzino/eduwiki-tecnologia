@@ -1,4 +1,5 @@
 ---
+title: "L'Agenda 2030 e gli obiettivi di sviluppo sostenibile"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

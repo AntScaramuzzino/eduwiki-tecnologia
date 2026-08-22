@@ -1,4 +1,5 @@
 ---
+title: "Il cibo al microscopio"
 tipo: fonte_sintetizzata
 titolo_fonte: "Il cibo al microscopio: come funziona un laboratorio della filiera agroalimentare"
 autore_fonte: Focus.it

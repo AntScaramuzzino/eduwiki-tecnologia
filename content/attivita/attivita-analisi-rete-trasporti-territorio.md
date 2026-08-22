@@ -1,4 +1,5 @@
 ---
+title: "Attività: analizza la rete dei trasporti del tuo territorio"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

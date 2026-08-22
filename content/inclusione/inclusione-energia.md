@@ -1,4 +1,5 @@
 ---
+title: "Energia per tutti: strategie inclusive"
 tipo: inclusione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

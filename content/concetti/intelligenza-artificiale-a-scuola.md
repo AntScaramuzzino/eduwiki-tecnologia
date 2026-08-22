@@ -1,4 +1,5 @@
 ---
+title: "L'intelligenza artificiale a scuola"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

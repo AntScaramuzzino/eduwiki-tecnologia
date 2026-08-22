@@ -1,4 +1,5 @@
 ---
+title: "Dacia Hybrid G 150: la 4x4 senza albero di trasmissione"
 tipo: fonte_sintetizzata
 titolo_fonte: "Dacia Hybrid G 150: la 4x4 senza albero di trasmissione"
 autore_fonte: Focus.it

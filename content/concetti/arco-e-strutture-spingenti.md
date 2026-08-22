@@ -1,4 +1,5 @@
 ---
+title: "L'arco e le strutture spingenti"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

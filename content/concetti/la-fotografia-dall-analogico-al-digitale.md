@@ -1,4 +1,5 @@
 ---
+title: "La fotografia: dall'analogico al digitale"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,3 +1,7 @@
+---
+title: "Prompt — Progettare una lezione"
+---
+
 # Prompt — Progettare una lezione
 
 Partendo dalle pagine già consolidate del wiki (concetti, metodologie, attività),

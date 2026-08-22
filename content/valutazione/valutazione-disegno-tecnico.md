@@ -1,4 +1,5 @@
 ---
+title: "Valutare il disegno tecnico: rubriche e criteri"
 tipo: valutazione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

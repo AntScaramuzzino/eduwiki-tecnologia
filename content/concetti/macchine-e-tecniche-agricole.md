@@ -1,4 +1,5 @@
 ---
+title: "Macchine e tecniche agricole: dall'aratura alla raccolta"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

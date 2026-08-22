@@ -1,3 +1,7 @@
+---
+title: "Prompt — Generare un quiz"
+---
+
 # Prompt — Generare un quiz
 
 Dal concetto/attività {RIFERIMENTO}, genera un quiz per {CLASSE}: 8-10 domande miste

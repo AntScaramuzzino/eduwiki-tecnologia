@@ -1,4 +1,5 @@
 ---
+title: "UDA: economia, lavoro e settori produttivi"
 tipo: uda
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

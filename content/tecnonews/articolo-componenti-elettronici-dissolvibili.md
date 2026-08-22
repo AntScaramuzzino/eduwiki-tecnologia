@@ -1,4 +1,5 @@
 ---
+title: "Componenti elettronici che si dissolvono in acqua in 3 ore"
 tipo: fonte_sintetizzata
 titolo_fonte: "Componenti elettronici che si dissolvono in acqua in 3 ore: il futuro del riciclo"
 autore_fonte: Focus.it

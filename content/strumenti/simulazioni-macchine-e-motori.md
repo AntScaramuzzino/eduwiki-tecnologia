@@ -1,4 +1,5 @@
 ---
+title: "Simulazioni online di macchine e motori (PhET, animazioni)"
 tipo: strumento_digitale
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

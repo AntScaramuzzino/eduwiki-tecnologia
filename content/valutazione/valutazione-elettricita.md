@@ -1,4 +1,5 @@
 ---
+title: "Valutazione del modulo Elettricità ed elettronica"
 tipo: valutazione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

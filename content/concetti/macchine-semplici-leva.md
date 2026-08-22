@@ -1,4 +1,5 @@
 ---
+title: "Le macchine semplici: la leva e i suoi generi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

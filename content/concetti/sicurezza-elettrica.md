@@ -1,4 +1,5 @@
 ---
+title: "La sicurezza elettrica e i rischi della corrente"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

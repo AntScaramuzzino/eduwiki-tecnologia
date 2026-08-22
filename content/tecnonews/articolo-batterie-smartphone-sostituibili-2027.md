@@ -1,4 +1,5 @@
 ---
+title: "Batterie degli smartphone di nuovo sostituibili dal 2027"
 tipo: fonte_sintetizzata
 titolo_fonte: "Perché gli smartphone non hanno la batteria sostituibile e come cambieranno nel 2027"
 autore_fonte: Focus.it

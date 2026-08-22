@@ -1,4 +1,5 @@
 ---
+title: "Finti medici generati dall'IA su TikTok"
 tipo: fonte_sintetizzata
 titolo_fonte: "L'IA gioca a fare il medico su TikTok: è allarme fake news"
 autore_fonte: Focus.it

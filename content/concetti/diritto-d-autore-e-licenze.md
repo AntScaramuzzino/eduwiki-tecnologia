@@ -1,4 +1,5 @@
 ---
+title: "Diritto d'autore e licenze d'uso"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Apprendimento laboratoriale: imparare i meccanismi smontando e costruendo"
 tipo: metodologia
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

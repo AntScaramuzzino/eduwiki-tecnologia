@@ -1,4 +1,5 @@
 ---
+title: "La trasmissione del moto: ingranaggi, cinghie e catene"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Algoritmi e diagrammi di flusso"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

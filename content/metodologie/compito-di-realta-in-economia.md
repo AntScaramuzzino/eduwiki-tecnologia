@@ -1,4 +1,5 @@
 ---
+title: "Il compito di realtà applicato all'economia"
 tipo: metodologia
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

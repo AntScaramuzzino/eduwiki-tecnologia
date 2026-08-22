@@ -1,4 +1,5 @@
 ---
+title: "Attività: costruire una leva e misurare l'equilibrio"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

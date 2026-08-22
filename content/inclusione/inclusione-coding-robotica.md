@@ -1,4 +1,5 @@
 ---
+title: "Inclusione nelle attività di coding e robotica"
 tipo: inclusione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

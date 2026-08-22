@@ -1,4 +1,5 @@
 ---
+title: "I metodi di conservazione degli alimenti"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

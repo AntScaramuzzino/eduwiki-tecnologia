@@ -1,4 +1,5 @@
 ---
+title: "Attività: prove sulle proprietà dei materiali"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

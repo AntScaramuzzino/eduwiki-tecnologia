@@ -1,4 +1,5 @@
 ---
+title: "Attività: leggere l'etichetta e ricostruire la filiera di un alimento"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

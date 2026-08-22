@@ -1,4 +1,5 @@
 ---
+title: "Valutazione — Museo aumentato della classe"
 tipo: valutazione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

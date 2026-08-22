@@ -1,4 +1,5 @@
 ---
+title: "Attività: riciclo e carta fatta a mano"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

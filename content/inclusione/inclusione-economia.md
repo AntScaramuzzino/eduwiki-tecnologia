@@ -1,4 +1,5 @@
 ---
+title: "Inclusione: economia, lavoro e settori produttivi"
 tipo: inclusione
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Panoramica"
 tipo: sintesi
 ultima_revisione: 2026-06-22
 ---

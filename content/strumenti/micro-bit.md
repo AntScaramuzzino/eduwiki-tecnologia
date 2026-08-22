@@ -1,4 +1,5 @@
 ---
+title: "micro:bit"
 tipo: strumento_digitale
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

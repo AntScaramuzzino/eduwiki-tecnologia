@@ -1,4 +1,5 @@
 ---
+title: "Agricoltura di precisione: droni, sensori e GPS nei campi"
 tipo: strumento_digitale
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

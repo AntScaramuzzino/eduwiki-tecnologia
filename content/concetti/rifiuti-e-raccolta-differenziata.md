@@ -1,4 +1,5 @@
 ---
+title: "I rifiuti e la raccolta differenziata"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Bisogni e risorse"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

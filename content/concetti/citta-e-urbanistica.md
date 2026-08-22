@@ -1,4 +1,5 @@
 ---
+title: "La città e l'urbanistica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

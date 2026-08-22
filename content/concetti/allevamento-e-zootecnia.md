@@ -1,4 +1,5 @@
 ---
+title: "Allevamento e zootecnia: bovini, suini e avicoli"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

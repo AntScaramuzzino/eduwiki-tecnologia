@@ -1,4 +1,5 @@
 ---
+title: "Attività: il semaforo con Arduino"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

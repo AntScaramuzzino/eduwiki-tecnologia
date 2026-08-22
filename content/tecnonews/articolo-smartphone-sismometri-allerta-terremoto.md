@@ -1,4 +1,5 @@
 ---
+title: "Cellulari come sismometri: l'allerta terremoto di Android"
 tipo: fonte_sintetizzata
 titolo_fonte: "Cellulari come sismometri: così Google ha allertato gli utenti del terremoto in Venezuela"
 autore_fonte: Focus.it

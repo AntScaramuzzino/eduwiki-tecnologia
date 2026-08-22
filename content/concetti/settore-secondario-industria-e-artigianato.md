@@ -1,4 +1,5 @@
 ---
+title: "Il settore secondario: industria e artigianato"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

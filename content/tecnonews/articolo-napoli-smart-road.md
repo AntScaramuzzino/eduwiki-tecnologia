@@ -1,4 +1,5 @@
 ---
+title: "Napoli ha la prima smart road d'Italia"
 tipo: fonte_sintetizzata
 titolo_fonte: "Napoli ha la prima smart road d'Italia"
 autore_fonte: Focus.it

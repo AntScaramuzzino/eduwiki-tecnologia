@@ -1,4 +1,5 @@
 ---
+title: "Come si fa oggi un'auto elettrica: Volvo EX60"
 tipo: fonte_sintetizzata
 titolo_fonte: "Come si fa oggi un'auto elettrica: Volvo EX60"
 autore_fonte: Focus.it

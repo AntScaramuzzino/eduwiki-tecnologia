@@ -1,4 +1,5 @@
 ---
+title: "Realtà aumentata nella didattica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Attività: riconoscere e classificare i tipi di terreno"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,4 +1,5 @@
 ---
+title: "Coltivazioni protette: serra e idroponica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

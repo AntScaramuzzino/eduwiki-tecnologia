@@ -1,4 +1,5 @@
 ---
+title: "Attività: realizzare un podcast di classe"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

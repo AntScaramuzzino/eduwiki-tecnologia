@@ -1,4 +1,5 @@
 ---
+title: "Attività: progettare una stanza domotica"
 tipo: attività_didattica
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado
