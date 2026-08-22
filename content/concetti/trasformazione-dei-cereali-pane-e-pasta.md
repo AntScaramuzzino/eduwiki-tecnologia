@@ -1,5 +1,6 @@
 ---
 title: "Dalla farina al pane e alla pasta"
+tema: "Alimentazione e industria alimentare"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

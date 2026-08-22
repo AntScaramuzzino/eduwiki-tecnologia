@@ -1,5 +1,6 @@
 ---
 title: "Moduli, reticoli e disegno geometrico"
+tema: "Disegno tecnico e grafica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

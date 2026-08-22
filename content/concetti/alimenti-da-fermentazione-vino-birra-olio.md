@@ -1,5 +1,6 @@
 ---
 title: "Vino, birra e olio: fermentazione e spremitura"
+tema: "Alimentazione e industria alimentare"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

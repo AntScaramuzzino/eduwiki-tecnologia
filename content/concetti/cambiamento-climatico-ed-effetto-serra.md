@@ -1,5 +1,6 @@
 ---
 title: "Cambiamento climatico ed effetto serra"
+tema: "Tecnologia, ambiente e sostenibilità"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

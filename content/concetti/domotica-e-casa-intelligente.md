@@ -1,5 +1,6 @@
 ---
 title: "La domotica e la casa intelligente"
+tema: "Abitazione, edilizia e città"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

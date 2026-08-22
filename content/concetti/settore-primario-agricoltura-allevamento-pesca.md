@@ -1,5 +1,6 @@
 ---
 title: "Il settore primario: agricoltura, allevamento e pesca"
+tema: "Economia, lavoro e settori produttivi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

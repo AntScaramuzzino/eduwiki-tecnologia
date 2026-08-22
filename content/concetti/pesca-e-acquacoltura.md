@@ -1,5 +1,6 @@
 ---
 title: "Pesca e acquacoltura"
+tema: "Agricoltura, allevamento e pesca"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

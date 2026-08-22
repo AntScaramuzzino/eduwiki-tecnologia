@@ -1,5 +1,6 @@
 ---
 title: "La fotografia: dall'analogico al digitale"
+tema: "Comunicazione e media"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,5 +1,6 @@
 ---
 title: "L'impronta ecologica"
+tema: "Tecnologia, ambiente e sostenibilità"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

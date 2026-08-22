@@ -1,5 +1,6 @@
 ---
 title: "I fattori e il ciclo della produzione"
+tema: "Economia, lavoro e settori produttivi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

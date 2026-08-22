@@ -1,5 +1,6 @@
 ---
 title: "Realtà aumentata nella didattica"
+tema: "Coding, robotica e pensiero computazionale"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

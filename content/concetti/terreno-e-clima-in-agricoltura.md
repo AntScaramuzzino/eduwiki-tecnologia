@@ -1,5 +1,6 @@
 ---
 title: "Terreno e clima: i fattori naturali della produzione agricola"
+tema: "Agricoltura, allevamento e pesca"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

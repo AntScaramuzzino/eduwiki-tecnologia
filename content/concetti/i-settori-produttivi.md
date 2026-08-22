@@ -1,5 +1,6 @@
 ---
 title: "I settori produttivi: primario, secondario, terziario"
+tema: "Economia, lavoro e settori produttivi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,5 +1,6 @@
 ---
 title: "Piano inclinato, vite e cuneo"
+tema: "Macchine, motori e meccanismi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,5 +1,6 @@
 ---
 title: "L'inquinamento di aria, acqua e suolo"
+tema: "Tecnologia, ambiente e sostenibilità"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

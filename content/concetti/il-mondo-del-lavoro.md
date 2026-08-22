@@ -1,5 +1,6 @@
 ---
 title: "Il mondo del lavoro"
+tema: "Economia, lavoro e settori produttivi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

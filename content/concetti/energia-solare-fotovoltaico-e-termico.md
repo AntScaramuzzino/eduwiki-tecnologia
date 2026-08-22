@@ -1,5 +1,6 @@
 ---
 title: "L'energia solare: fotovoltaico e solare termico"
+tema: "Energia e fonti energetiche"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

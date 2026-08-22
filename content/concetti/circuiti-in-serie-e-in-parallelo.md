@@ -1,5 +1,6 @@
 ---
 title: "Circuiti in serie e in parallelo"
+tema: "Elettricità ed elettronica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

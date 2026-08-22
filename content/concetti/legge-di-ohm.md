@@ -1,5 +1,6 @@
 ---
 title: "La legge di Ohm"
+tema: "Elettricità ed elettronica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

@@ -1,5 +1,6 @@
 ---
 title: "Diritto d'autore e licenze d'uso"
+tema: "Comunicazione e media"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

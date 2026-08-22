@@ -1,5 +1,6 @@
 ---
 title: "Il motore diesel e il confronto con il motore a benzina"
+tema: "Macchine, motori e meccanismi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

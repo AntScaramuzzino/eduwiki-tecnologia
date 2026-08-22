@@ -1,5 +1,6 @@
 ---
 title: "Il sistema economico e il mercato"
+tema: "Economia, lavoro e settori produttivi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

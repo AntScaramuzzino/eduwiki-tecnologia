@@ -1,5 +1,6 @@
 ---
 title: "Le strutture portanti e le sollecitazioni"
+tema: "Abitazione, edilizia e città"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

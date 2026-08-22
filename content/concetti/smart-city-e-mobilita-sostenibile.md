@@ -1,5 +1,6 @@
 ---
 title: "La smart city e la mobilità sostenibile"
+tema: "Abitazione, edilizia e città"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

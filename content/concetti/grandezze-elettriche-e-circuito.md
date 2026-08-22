@@ -1,5 +1,6 @@
 ---
 title: "Grandezze elettriche e il circuito elettrico"
+tema: "Elettricità ed elettronica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

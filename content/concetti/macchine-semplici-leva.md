@@ -1,5 +1,6 @@
 ---
 title: "Le macchine semplici: la leva e i suoi generi"
+tema: "Macchine, motori e meccanismi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

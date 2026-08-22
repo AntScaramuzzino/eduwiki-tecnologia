@@ -1,5 +1,6 @@
 ---
 title: "Dalla scrittura alla stampa"
+tema: "Comunicazione e media"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

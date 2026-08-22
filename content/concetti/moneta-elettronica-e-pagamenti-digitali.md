@@ -1,5 +1,6 @@
 ---
 title: "Moneta elettronica e pagamenti digitali"
+tema: "Economia, lavoro e settori produttivi"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado

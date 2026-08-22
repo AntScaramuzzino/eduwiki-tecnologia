@@ -1,5 +1,6 @@
 ---
 title: "Elettronica di base: componenti e segnali"
+tema: "Elettricità ed elettronica"
 tipo: concetto
 disciplina: tecnologia
 ordine_scolastico: secondaria_primo_grado
