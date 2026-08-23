@@ -1,3 +1,57 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* ------------------------------------------------------------------
+   Più spazio ai contenuti sugli schermi grandi.
+
+   Quartz limita .page a 1500px: su un monitor da 1920 restano 420px di
+   margini vuoti ai lati. Qui il contenitore si allarga fino a 1760px.
+
+   La prosa però NON viene allargata, di proposito: già a 1500px la riga
+   misurava ~106 caratteri, oltre la soglia di leggibilità (45-90). Allungarla
+   ancora peggiorerebbe la lettura invece di migliorarla. Lo spazio recuperato
+   va quindi a ciò che ne trae davvero vantaggio: tabelle delle rubriche,
+   video, immagini, blocchi di codice e le griglie di card.
+   ------------------------------------------------------------------ */
+
+@media all and (min-width: 1200px) {
+  .page {
+    max-width: min(1760px, 95vw);
+  }
+}
+
+article {
+  /* misura di lettura confortevole per il testo corrente */
+  & > p,
+  & > ul,
+  & > ol,
+  & > blockquote,
+  & > h1,
+  & > h2,
+  & > h3,
+  & > h4 {
+    max-width: 78ch;
+  }
+
+  /* questi invece usano tutta la larghezza disponibile */
+  & > figure,
+  & > table,
+  & > pre,
+  & > .table-container,
+  & > div,
+  & > p:has(> img),
+  & > p:has(> iframe) {
+    max-width: none;
+  }
+
+  /* le tabelle delle rubriche respirano e restano scorrevoli se troppo larghe */
+  & table {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+  }
+
+  /* i video mantengono il rapporto 16:9 senza superare una larghezza sensata */
+  & figure iframe {
+    max-width: 900px;
+  }
+}
