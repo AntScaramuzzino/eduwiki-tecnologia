@@ -116,7 +116,22 @@ def main():
     for n in restanti[:max(0, TARGET - sum(x["fondamentale"] for x in nodi.values()))]:
         n["fondamentale"] = True
 
-    temi = sorted({n["tema"] for n in nodi.values() if n["tema"]})
+    # 4. temi con colore e slug, letti dalle pagine in content/temi/ (fonte unica)
+    temi = []
+    for f in sorted((CONTENT / "temi").glob("*.md")):
+        t = f.read_text(encoding="utf-8")
+        nome = campo(t, "title")
+        temi.append({
+            "nome": nome,
+            "slug": f.stem,
+            "colore": campo(t, "colore") or "#64748b",
+            "url": f"/temi/{f.stem}",
+            "concetti": sum(1 for n in nodi.values() if n["tema"] == nome),
+        })
+    # segnala eventuali temi presenti sui concetti ma senza pagina
+    noti = {t["nome"] for t in temi}
+    orfani = sorted({n["tema"] for n in nodi.values() if n["tema"] and n["tema"] not in noti})
+
     dati = {
         "generato_da": "scripts/export_sfera.py (EduWiki Tecnologia)",
         "fonte": "https://eduwiki-tecnologia.vercel.app",
@@ -126,13 +141,16 @@ def main():
         "temi": temi,
         "nodi": [nodi[k] for k in sorted(nodi)],
     }
+    if orfani:
+        print(f"  ATTENZIONE temi senza pagina in content/temi/: {orfani}")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(dati, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    archi = sum(len(n["relazioni"]) for n in nodi.values())
+    coppie = {tuple(sorted((i, r))) for i, n in nodi.items() for r in n["relazioni"]}
+    archi = len(coppie)
     isolati = [n["id"] for n in nodi.values() if n["grado"] == 0]
     print(f"  concetti:      {len(nodi)}")
-    print(f"  archi:         {archi}  (grado medio {2*archi/len(nodi):.1f})")
+    print(f"  archi unici:   {archi}  (grado medio {2*archi/len(nodi):.1f})")
     print(f"  fondamentali:  {dati['totale_fondamentali']}  (stratificati: min {PER_TEMA}/tema)")
     print(f"  temi:          {len(temi)}")
     print(f"  isolati:       {len(isolati)} {isolati or ''}")

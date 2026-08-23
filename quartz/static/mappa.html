@@ -1,0 +1,358 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>La mappa dei concetti · EduWiki Tecnologia</title>
+<meta name="description" content="I 121 concetti di Tecnologia per la scuola secondaria di primo grado, disposti su una sfera navigabile e collegati fra loro.">
+<style>
+  :root{
+    --bg:#0b1120; --bg2:#111a2e; --testo:#e8eef7; --tenue:#93a4bd; --bordo:#22304d;
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%;margin:0}
+  body{
+    background:radial-gradient(1200px 800px at 50% 40%, #16223c 0%, var(--bg) 70%);
+    color:var(--testo); overflow:hidden;
+    font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+  }
+  #scena{position:fixed;inset:0;cursor:grab;touch-action:none}
+  #scena.trascino{cursor:grabbing}
+  #archi{position:absolute;inset:0;width:100%;height:100%}
+  #nodi{position:absolute;inset:0}
+  .nodo{
+    position:absolute;transform:translate(-50%,-50%);
+    background:none;border:0;padding:2px 5px;margin:0;
+    color:inherit;font:inherit;white-space:nowrap;cursor:pointer;
+    border-radius:6px;transition:background .12s,box-shadow .12s;
+    text-shadow:0 1px 3px #0b1120,0 0 6px #0b1120;
+  }
+  .nodo::before{
+    content:"";display:inline-block;width:7px;height:7px;border-radius:50%;
+    background:currentColor;margin-right:5px;vertical-align:1px;
+  }
+  .nodo:hover,.nodo:focus-visible{background:#ffffff1a;outline:none}
+  .nodo.sel{background:#ffffff26;box-shadow:0 0 0 1px currentColor}
+  .nodo.spento{opacity:.12 !important;pointer-events:none}
+  /* nodi rivolti all'indietro: solo il punto, il testo tornerebbe illeggibile */
+  .nodo.soloPunto{font-size:0 !important;padding:3px}
+  .nodo.soloPunto::before{margin-right:0}
+  .nodo.soloPunto:hover{font-size:12px !important;padding:2px 5px;background:#0b1120e6;
+    box-shadow:0 0 0 1px currentColor;z-index:9999 !important}
+  .nodo.soloPunto:hover::before{margin-right:5px}
+
+  /* intestazione */
+  header{position:fixed;top:0;left:0;right:0;padding:14px 18px;z-index:10;pointer-events:none;
+    background:linear-gradient(#0b1120e0,#0b112000)}
+  header h1{margin:0;font-size:1.02rem;font-weight:600;letter-spacing:.2px}
+  header p{margin:2px 0 0;font-size:.8rem;color:var(--tenue)}
+  header a{color:#7cb0ff;pointer-events:auto}
+
+  /* barra strumenti */
+  #barra{position:fixed;top:14px;right:18px;z-index:11;display:flex;gap:8px;align-items:center}
+  #cerca{
+    background:#0e1729;border:1px solid var(--bordo);color:var(--testo);
+    padding:7px 11px;border-radius:8px;width:210px;font:inherit;font-size:.86rem;
+  }
+  #cerca::placeholder{color:#6c7f9b}
+  #cerca:focus{outline:none;border-color:#3b82f6}
+  .btn{background:#0e1729;border:1px solid var(--bordo);color:var(--tenue);
+    padding:7px 11px;border-radius:8px;cursor:pointer;font:inherit;font-size:.86rem}
+  .btn:hover{color:var(--testo);border-color:#3b5a8c}
+  .btn[aria-pressed="true"]{color:var(--testo);border-color:#3b82f6}
+
+  /* legenda temi */
+  #legenda{position:fixed;left:18px;bottom:18px;z-index:11;display:flex;flex-direction:column;gap:3px;
+    max-height:52vh;overflow:auto;padding-right:4px}
+  #legenda button{
+    display:flex;align-items:center;gap:7px;background:none;border:0;color:var(--tenue);
+    font:inherit;font-size:.8rem;cursor:pointer;padding:2px 4px;border-radius:5px;text-align:left;
+  }
+  #legenda button:hover{color:var(--testo);background:#ffffff10}
+  #legenda button[aria-pressed="true"]{color:var(--testo)}
+  #legenda .pallino{width:9px;height:9px;border-radius:50%;flex:none}
+  #legenda .n{color:#5f7391}
+
+  /* pannello dettaglio */
+  #pannello{
+    position:fixed;top:0;right:0;bottom:0;width:min(400px,92vw);z-index:20;
+    background:#0d1526f2;backdrop-filter:blur(10px);border-left:1px solid var(--bordo);
+    padding:22px 22px 30px;overflow:auto;transform:translateX(100%);transition:transform .22s ease;
+  }
+  #pannello.aperto{transform:none}
+  #pannello h2{margin:.2rem 0 .1rem;font-size:1.16rem;line-height:1.3}
+  #pannello .tema{font-size:.78rem;font-weight:600;letter-spacing:.3px;text-transform:uppercase}
+  #pannello .def{color:#c6d3e6;font-size:.92rem;margin:.8rem 0 1.1rem}
+  #pannello h3{font-size:.74rem;text-transform:uppercase;letter-spacing:.6px;color:var(--tenue);
+    margin:1.2rem 0 .45rem;font-weight:600}
+  #pannello ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px}
+  #pannello li a,#pannello li button{
+    display:inline-block;background:#16203a;border:1px solid var(--bordo);color:#cfe0f5;
+    padding:4px 9px;border-radius:999px;font-size:.82rem;text-decoration:none;cursor:pointer;font-family:inherit;
+  }
+  #pannello li a:hover,#pannello li button:hover{border-color:#3b82f6;color:#fff}
+  .apri{display:inline-block;margin-top:1.3rem;background:#2563eb;color:#fff;text-decoration:none;
+    padding:9px 15px;border-radius:9px;font-size:.9rem;font-weight:600}
+  .apri:hover{background:#1d4ed8}
+  #chiudi{position:absolute;top:12px;right:14px;background:none;border:0;color:var(--tenue);
+    font-size:1.5rem;line-height:1;cursor:pointer}
+  #chiudi:hover{color:#fff}
+
+  #stato{position:fixed;inset:0;display:grid;place-content:center;text-align:center;gap:10px;padding:24px}
+  #stato a{color:#7cb0ff}
+  @media (max-width:760px){ #barra{top:auto;bottom:18px;right:18px} #legenda{display:none} }
+</style>
+</head>
+<body>
+
+<div id="stato">
+  <p>Carico la mappa…</p>
+  <p style="color:#93a4bd;font-size:.9rem">Se non si carica, i contenuti restano consultabili su
+    <a href="/">EduWiki Tecnologia</a>.</p>
+</div>
+
+<header hidden id="testata">
+  <h1>La mappa dei concetti</h1>
+  <p><span id="conteggio"></span> · trascina per ruotare · scegli un nodo per aprirlo ·
+     <a href="/">torna al wiki</a></p>
+</header>
+
+<div id="barra" hidden>
+  <input id="cerca" type="search" placeholder="Cerca un concetto…" aria-label="Cerca un concetto">
+  <button class="btn" id="soloFond" aria-pressed="false" title="Mostra solo i concetti più collegati">Fondamentali</button>
+  <button class="btn" id="rotazione" aria-pressed="true" title="Attiva o ferma la rotazione">Ruota</button>
+</div>
+
+<div id="legenda" hidden></div>
+
+<main id="scena" hidden>
+  <canvas id="archi"></canvas>
+  <div id="nodi"></div>
+</main>
+
+<aside id="pannello" aria-live="polite">
+  <button id="chiudi" aria-label="Chiudi">×</button>
+  <div id="contenuto"></div>
+</aside>
+
+<script>
+(async function () {
+  const $ = s => document.querySelector(s);
+  const stato = $('#stato');
+
+  let dati;
+  try {
+    const r = await fetch('sfera.json');
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    dati = await r.json();
+  } catch (e) {
+    stato.innerHTML = '<p>Non riesco a caricare i dati della mappa.</p>' +
+      '<p style="color:#93a4bd;font-size:.9rem">I contenuti restano consultabili su <a href="/">EduWiki Tecnologia</a>.</p>';
+    return;
+  }
+
+  const nodi = dati.nodi;
+  const perId = new Map(nodi.map(n => [n.id, n]));
+  const coloreTema = new Map(dati.temi.map(t => [t.nome, t.colore]));
+  const slugTema = new Map(dati.temi.map(t => [t.nome, t.slug]));
+
+  // archi unici (il grafo è non orientato)
+  const archi = [];
+  const visti = new Set();
+  for (const n of nodi) for (const r of n.relazioni) {
+    if (!perId.has(r)) continue;
+    const k = n.id < r ? n.id + '|' + r : r + '|' + n.id;
+    if (visti.has(k)) continue;
+    visti.add(k); archi.push([n.id, r]);
+  }
+
+  // posizione sulla sfera: distribuzione di Fibonacci, i fondamentali più vicini al nucleo
+  const N = nodi.length;
+  nodi.forEach((n, i) => {
+    const y = 1 - (i / (N - 1)) * 2;
+    const rad = Math.sqrt(Math.max(0, 1 - y * y));
+    const th = Math.PI * (1 + Math.sqrt(5)) * i;
+    const k = n.fondamentale ? 0.66 : 1;
+    n.p = { x: Math.cos(th) * rad * k, y: y * k, z: Math.sin(th) * rad * k };
+    n.col = coloreTema.get(n.tema) || '#64748b';
+  });
+
+  // DOM dei nodi
+  const cont = $('#nodi');
+  nodi.forEach(n => {
+    const b = document.createElement('button');
+    b.className = 'nodo'; b.textContent = n.titolo; b.style.color = n.col;
+    b.addEventListener('click', ev => { ev.stopPropagation(); seleziona(n.id); });
+    n.el = b; cont.appendChild(b);
+  });
+
+  const cv = $('#archi'), ctx = cv.getContext('2d');
+  let rx = -0.25, ry = 0, zoom = 1, W = 0, H = 0, dpr = 1;
+  let sel = null, temiSpenti = new Set(), filtro = '', soloFond = false, ruota = true;
+
+  function ridimensiona() {
+    dpr = Math.min(devicePixelRatio || 1, 2);
+    W = innerWidth; H = innerHeight;
+    cv.width = W * dpr; cv.height = H * dpr;
+    cv.style.width = W + 'px'; cv.style.height = H + 'px';
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  }
+  addEventListener('resize', ridimensiona); ridimensiona();
+
+  const visibile = n =>
+    !temiSpenti.has(n.tema) &&
+    (!soloFond || n.fondamentale) &&
+    (!filtro || (n.titolo + ' ' + n.tema).toLowerCase().includes(filtro));
+
+  function disegna() {
+    const cx = W / 2, cy = H / 2;
+    const R = Math.min(W, H) * 0.36 * zoom;
+    const FOV = 2.6;
+    const cosY = Math.cos(ry), sinY = Math.sin(ry), cosX = Math.cos(rx), sinX = Math.sin(rx);
+
+    for (const n of nodi) {
+      const { x, y, z } = n.p;
+      const x1 = x * cosY + z * sinY, z1 = -x * sinY + z * cosY;
+      const y1 = y * cosX - z1 * sinX, z2 = y * sinX + z1 * cosX;
+      const s = FOV / (FOV + z2);
+      n.sx = cx + x1 * R * s; n.sy = cy + y1 * R * s; n.s = s; n.z = z2;
+    }
+
+    // archi
+    ctx.clearRect(0, 0, W, H);
+    const vicini = sel ? new Set(perId.get(sel).relazioni) : null;
+    for (const [a, b] of archi) {
+      const na = perId.get(a), nb = perId.get(b);
+      if (!visibile(na) || !visibile(nb)) continue;
+      const evid = sel && (a === sel || b === sel);
+      if (sel && !evid) continue;                       // con selezione: solo i suoi archi
+      ctx.beginPath();
+      ctx.moveTo(na.sx, na.sy); ctx.lineTo(nb.sx, nb.sy);
+      const prof = (na.s + nb.s) / 2;
+      ctx.strokeStyle = evid ? (na.id === sel ? na.col : nb.col) : '#5b7bb0';
+      ctx.globalAlpha = evid ? 0.85 : Math.max(0, (prof - 0.55) * 0.30);
+      ctx.lineWidth = evid ? 1.6 : 0.7;
+      ctx.stroke();
+    }
+    ctx.globalAlpha = 1;
+
+    // nodi
+    for (const n of nodi) {
+      const el = n.el;
+      if (!visibile(n)) { el.style.display = 'none'; continue; }
+      el.style.display = '';
+      el.style.left = n.sx + 'px'; el.style.top = n.sy + 'px';
+      el.style.zIndex = String(500 + Math.round(n.z * 200));
+      const f = Math.max(0, Math.min(1, (n.s - 0.62) / 0.75));
+      el.style.opacity = String(0.28 + f * 0.72);
+      el.style.fontSize = (10.5 + f * 4.5).toFixed(1) + 'px';
+      el.classList.toggle('sel', n.id === sel);
+      el.classList.toggle('spento', !!(sel && n.id !== sel && !vicini.has(n.id)));
+      // Con 121 etichette il centro diventa illeggibile: il testo compare solo per i
+      // nodi rivolti verso di noi. Gli altri restano punti, e tornano leggibili ruotando.
+      const conTesto = f > 0.46 || n.id === sel || (vicini && vicini.has(n.id)) || !!filtro;
+      el.classList.toggle('soloPunto', !conTesto);
+    }
+  }
+
+  // ---- interazione ----
+  const scena = $('#scena');
+  let trascino = false, px = 0, py = 0, mosso = 0;
+  scena.addEventListener('pointerdown', e => {
+    trascino = true; mosso = 0; px = e.clientX; py = e.clientY;
+    scena.classList.add('trascino'); scena.setPointerCapture(e.pointerId);
+  });
+  scena.addEventListener('pointermove', e => {
+    if (!trascino) return;
+    const dx = e.clientX - px, dy = e.clientY - py;
+    px = e.clientX; py = e.clientY; mosso += Math.abs(dx) + Math.abs(dy);
+    ry += dx * 0.005; rx += dy * 0.005;
+    rx = Math.max(-1.35, Math.min(1.35, rx));
+    disegna();
+  });
+  const finePointer = e => {
+    if (!trascino) return;
+    trascino = false; scena.classList.remove('trascino');
+    if (mosso < 4 && e.target === scena) chiudiPannello();   // clic sul vuoto
+  };
+  scena.addEventListener('pointerup', finePointer);
+  scena.addEventListener('pointercancel', () => { trascino = false; scena.classList.remove('trascino'); });
+  scena.addEventListener('wheel', e => {
+    e.preventDefault();
+    zoom = Math.max(0.55, Math.min(2.4, zoom * (e.deltaY > 0 ? 0.93 : 1.07)));
+    disegna();
+  }, { passive: false });
+
+  // ---- pannello ----
+  const pannello = $('#pannello'), contenuto = $('#contenuto');
+  const ETICH = { attivita: 'Attività', uda: 'UDA', valutazione: 'Valutazione',
+                  inclusione: 'Inclusione', strumenti: 'Strumenti', metodologie: 'Metodologie' };
+
+  function seleziona(id) {
+    sel = id;
+    const n = perId.get(id);
+    const rel = n.relazioni.filter(r => perId.has(r));
+    const pezzi = [
+      `<div class="tema" style="color:${n.col}">${esc(n.tema)}</div>`,
+      `<h2>${esc(n.titolo)}</h2>`,
+      n.definizione ? `<p class="def">${esc(n.definizione)}</p>` : '',
+      `<a class="apri" href="${n.url}">Apri la pagina completa →</a>`,
+    ];
+    if (rel.length) pezzi.push(
+      '<h3>Concetti collegati</h3><ul>' +
+      rel.map(r => `<li><button data-va="${r}">${esc(perId.get(r).titolo)}</button></li>`).join('') + '</ul>');
+    for (const [k, lista] of Object.entries(n.risorse || {})) {
+      if (!lista.length) continue;
+      pezzi.push(`<h3>${ETICH[k] || k}</h3><ul>` +
+        lista.map(s => `<li><a href="/${k}/${s}">${esc(s.replace(/-/g, ' '))}</a></li>`).join('') + '</ul>');
+    }
+    pezzi.push(`<h3>Tema</h3><ul><li><a href="/temi/${slugTema.get(n.tema)}">Tutti i concetti del tema</a></li></ul>`);
+    contenuto.innerHTML = pezzi.join('');
+    contenuto.querySelectorAll('[data-va]').forEach(b =>
+      b.addEventListener('click', () => seleziona(b.dataset.va)));
+    pannello.classList.add('aperto');
+    disegna();
+  }
+  function chiudiPannello() { sel = null; pannello.classList.remove('aperto'); disegna(); }
+  $('#chiudi').addEventListener('click', chiudiPannello);
+  addEventListener('keydown', e => { if (e.key === 'Escape') chiudiPannello(); });
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+  // ---- legenda ----
+  const leg = $('#legenda');
+  dati.temi.forEach(t => {
+    const b = document.createElement('button');
+    b.setAttribute('aria-pressed', 'true');
+    b.innerHTML = `<span class="pallino" style="background:${t.colore}"></span>` +
+                  `<span>${esc(t.nome)}</span><span class="n">${t.concetti}</span>`;
+    b.addEventListener('click', () => {
+      temiSpenti.has(t.nome) ? temiSpenti.delete(t.nome) : temiSpenti.add(t.nome);
+      b.setAttribute('aria-pressed', String(!temiSpenti.has(t.nome)));
+      disegna();
+    });
+    leg.appendChild(b);
+  });
+
+  $('#cerca').addEventListener('input', e => { filtro = e.target.value.trim().toLowerCase(); disegna(); });
+  $('#soloFond').addEventListener('click', e => {
+    soloFond = !soloFond; e.currentTarget.setAttribute('aria-pressed', String(soloFond)); disegna();
+  });
+  $('#rotazione').addEventListener('click', e => {
+    ruota = !ruota; e.currentTarget.setAttribute('aria-pressed', String(ruota));
+  });
+
+  // ---- avvio ----
+  stato.remove();
+  ['#testata', '#barra', '#legenda', '#scena'].forEach(s => $(s).hidden = false);
+  $('#conteggio').textContent =
+    `${dati.totale_concetti} concetti · ${archi.length} collegamenti · ${dati.temi.length} temi`;
+
+  (function anima() {
+    if (ruota && !trascino && !sel) { ry += 0.0016; disegna(); }
+    requestAnimationFrame(anima);
+  })();
+  disegna();
+})();
+</script>
+</body>
+</html>

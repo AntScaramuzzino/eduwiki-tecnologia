@@ -5,19 +5,97 @@
  "totale_concetti": 121,
  "totale_fondamentali": 70,
  "temi": [
-  "Abitazione, edilizia e città",
-  "Agricoltura, allevamento e pesca",
-  "Alimentazione e industria alimentare",
-  "Coding, robotica e pensiero computazionale",
-  "Comunicazione e media",
-  "Disegno tecnico e grafica",
-  "Economia, lavoro e settori produttivi",
-  "Elettricità ed elettronica",
-  "Energia e fonti energetiche",
-  "I trasporti",
-  "Macchine, motori e meccanismi",
-  "Tecnologia dei materiali",
-  "Tecnologia, ambiente e sostenibilità"
+  {
+   "nome": "Abitazione, edilizia e città",
+   "slug": "abitazione-edilizia-e-citta",
+   "colore": "#0ea5e9",
+   "url": "/temi/abitazione-edilizia-e-citta",
+   "concetti": 10
+  },
+  {
+   "nome": "Agricoltura, allevamento e pesca",
+   "slug": "agricoltura-allevamento-pesca",
+   "colore": "#84cc16",
+   "url": "/temi/agricoltura-allevamento-pesca",
+   "concetti": 8
+  },
+  {
+   "nome": "Alimentazione e industria alimentare",
+   "slug": "alimentazione-e-industria-alimentare",
+   "colore": "#ef4444",
+   "url": "/temi/alimentazione-e-industria-alimentare",
+   "concetti": 9
+  },
+  {
+   "nome": "Coding, robotica e pensiero computazionale",
+   "slug": "coding-robotica-pensiero-computazionale",
+   "colore": "#3b82f6",
+   "url": "/temi/coding-robotica-pensiero-computazionale",
+   "concetti": 8
+  },
+  {
+   "nome": "Comunicazione e media",
+   "slug": "comunicazione-e-media",
+   "colore": "#ec4899",
+   "url": "/temi/comunicazione-e-media",
+   "concetti": 9
+  },
+  {
+   "nome": "Disegno tecnico e grafica",
+   "slug": "disegno-tecnico-e-grafica",
+   "colore": "#8b5cf6",
+   "url": "/temi/disegno-tecnico-e-grafica",
+   "concetti": 9
+  },
+  {
+   "nome": "Economia, lavoro e settori produttivi",
+   "slug": "economia-lavoro-settori-produttivi",
+   "colore": "#a855f7",
+   "url": "/temi/economia-lavoro-settori-produttivi",
+   "concetti": 11
+  },
+  {
+   "nome": "Elettricità ed elettronica",
+   "slug": "elettricita-ed-elettronica",
+   "colore": "#eab308",
+   "url": "/temi/elettricita-ed-elettronica",
+   "concetti": 9
+  },
+  {
+   "nome": "Energia e fonti energetiche",
+   "slug": "energia-e-fonti-energetiche",
+   "colore": "#f97316",
+   "url": "/temi/energia-e-fonti-energetiche",
+   "concetti": 10
+  },
+  {
+   "nome": "I trasporti",
+   "slug": "i-trasporti",
+   "colore": "#06b6d4",
+   "url": "/temi/i-trasporti",
+   "concetti": 9
+  },
+  {
+   "nome": "Macchine, motori e meccanismi",
+   "slug": "macchine-motori-e-meccanismi",
+   "colore": "#64748b",
+   "url": "/temi/macchine-motori-e-meccanismi",
+   "concetti": 10
+  },
+  {
+   "nome": "Tecnologia, ambiente e sostenibilità",
+   "slug": "tecnologia-ambiente-sostenibilita",
+   "colore": "#10b981",
+   "url": "/temi/tecnologia-ambiente-sostenibilita",
+   "concetti": 9
+  },
+  {
+   "nome": "Tecnologia dei materiali",
+   "slug": "tecnologia-dei-materiali",
+   "colore": "#f59e0b",
+   "url": "/temi/tecnologia-dei-materiali",
+   "concetti": 10
+  }
  ],
  "nodi": [
   {

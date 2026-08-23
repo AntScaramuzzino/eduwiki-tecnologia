@@ -27,7 +27,7 @@ UDA, rubriche e adattamenti già pronti.
 <div style="border:1px solid var(--lightgray);border-radius:12px;padding:1.1rem 1.3rem;background:var(--light)">
 <h3 style="margin:0 0 .2rem">Esplora</h3>
 <p style="margin:0 0 .7rem;color:var(--gray);font-size:.9em">Vuoi vedere come i temi si collegano fra loro.</p>
-<ul style="margin:0;padding-left:1.1rem;list-style:none"><li style="margin:.3rem 0"><a href="./temi/coding-robotica-pensiero-computazionale">Mappa dei temi</a> <span style="color:var(--gray);font-size:.85em">121 concetti</span></li><li style="margin:.3rem 0"><a href="./prompt/prompt-analisi-fonte">Prompt per docenti</a> <span style="color:var(--gray);font-size:.85em">8</span></li><li style="margin:.3rem 0"><a href="./indice/index">Indice generale</a> <span style="color:var(--gray);font-size:.85em">tutte le pagine</span></li></ul>
+<ul style="margin:0;padding-left:1.1rem;list-style:none"><li style="margin:.3rem 0"><a href="/static/mappa.html" target="_blank" rel="noopener">La mappa dei concetti ↗</a> <span style="color:var(--gray);font-size:.85em">sfera navigabile</span></li><li style="margin:.3rem 0"><a href="./temi/coding-robotica-pensiero-computazionale">I temi</a> <span style="color:var(--gray);font-size:.85em">121 concetti</span></li><li style="margin:.3rem 0"><a href="./prompt/prompt-analisi-fonte">Prompt per docenti</a> <span style="color:var(--gray);font-size:.85em">8</span></li><li style="margin:.3rem 0"><a href="./indice/index">Indice generale</a> <span style="color:var(--gray);font-size:.85em">tutte le pagine</span></li></ul>
 </div>
 </div>
 
