@@ -22,8 +22,13 @@ Il trasporto aereo è il sistema di spostamento di persone e merci mediante aero
 
 ---
 
-![Aviazione](https://upload.wikimedia.org/wikipedia/it/thumb/2/2f/Patchwork_Aviazione.JPG/330px-Patchwork_Aviazione.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+![Aviazione](https://thumb.wikimedia.org/wikipedia/it/thumb/2/2f/Patchwork_Aviazione.JPG/330px-Patchwork_Aviazione.JPG?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 insieme di attività che coinvolgono qualsiasi tipo di apparecchio adatto al volo · [Wikipedia](https://it.wikipedia.org/wiki/Aviazione) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/So9Pdu5hGy0" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come fanno a volare gli aerei? La spiegazione animata della fisica del volo"></iframe>
+<figcaption>📺 Come fanno a volare gli aerei? La spiegazione animata della fisica del volo · Geopop · <a href="https://www.youtube.com/watch?v=So9Pdu5hGy0" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

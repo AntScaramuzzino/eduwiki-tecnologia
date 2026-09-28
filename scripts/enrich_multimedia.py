@@ -176,6 +176,10 @@ YT_MAP = {
     "energia-eolica":                  ("GmZCO7TZd9U", "Haliade X: la pala eolica più grande del mondo", "Geopop"),
     # Motore elettrico — Tecnologia Duepuntozero
     "il-motore-elettrico":             ("2LIO7TEKook", "Laboratorio: motorino elettrico", "Tecnologia Duepuntozero"),
+    # Mobilità sostenibile — Geopop
+    "mobilita-sostenibile-e-trasporto-green": ("brik4M1g2GM", "Come ridurre le emissioni di CO2 nel quotidiano?", "Geopop"),
+    # Trasporto aereo — Geopop
+    "trasporto-aereo":                 ("So9Pdu5hGy0", "Come fanno a volare gli aerei? La spiegazione animata della fisica del volo", "Geopop"),
     # Domotica — S. Lattes & C. Editori
     "domotica-e-casa-intelligente":    ("dAIkxQUDRI0", "Alcuni esempi di domotica", "S. Lattes & C. Editori"),
     # HUB Scuola — canale ufficiale piattaforma didattica

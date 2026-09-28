@@ -16,7 +16,7 @@ ultima_revisione: 2026-06-22
 
 Il latte è un alimento completo, prodotto dalla mungitura di animali come mucca, pecora, capra e bufala. Per legge, con il nome semplice di "latte" si indica solo quello di mucca; per gli altri occorre specificare l'animale (latte di pecora, di capra, di bufala). Prima di arrivare in tavola il latte viene lavorato dall'industria lattiero-casearia, che lo trasforma anche in derivati come yogurt, formaggio e burro.
 
-![Latte](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/330px-Milk_glass.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+![Latte](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Milk_glass.jpg/330px-Milk_glass.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 liquido secreto dalla ghiandola mammaria delle femmine dei mammiferi · [Wikipedia](https://it.wikipedia.org/wiki/Latte) · CC BY-SA*
 
 <figure>

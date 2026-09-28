@@ -20,7 +20,7 @@ ultima_revisione: 2026-06-22
 
 L'energia è la **capacità di un corpo di compiere un lavoro**. Si manifesta in forme diverse — meccanica (cinetica e potenziale), termica, chimica, elettrica, luminosa, nucleare — che possono trasformarsi l'una nell'altra tramite dispositivi detti **convertitori**. La sua unità di misura nel Sistema Internazionale è il **joule (J)**.
 
-![Energia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg/330px-Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+![Energia](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg/330px-Percentuali_di_elettricit%C3%A0_generata_per_tipo_di_combustibile_nel_2025.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 capacità di un corpo o di un sistema di compiere lavoro · [Wikipedia](https://it.wikipedia.org/wiki/Energia) · CC BY-SA*
 
 <figure>

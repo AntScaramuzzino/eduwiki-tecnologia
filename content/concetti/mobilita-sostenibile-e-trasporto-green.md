@@ -23,8 +23,13 @@ La mobilità sostenibile è l'insieme di scelte e tecnologie che permettono di s
 
 ---
 
-![Mobilità sostenibile](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clean_mobility_instead_of_dirty_traffic.jpg/330px-Clean_mobility_instead_of_dirty_traffic.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+![Mobilità sostenibile](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Clean_mobility_instead_of_dirty_traffic.jpg/330px-Clean_mobility_instead_of_dirty_traffic.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 modalità di spostamento ambientalmente sostenibile · [Wikipedia](https://it.wikipedia.org/wiki/Mobilit%C3%A0_sostenibile) · CC BY-SA*
+
+<figure>
+<iframe src="https://www.youtube-nocookie.com/embed/brik4M1g2GM" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="Come ridurre le emissioni di CO2 nel quotidiano?"></iframe>
+<figcaption>📺 Come ridurre le emissioni di CO2 nel quotidiano? · Geopop · <a href="https://www.youtube.com/watch?v=brik4M1g2GM" target="_blank">Guarda su YouTube</a></figcaption>
+</figure>
 
 ## Spiegazione per docenti
 

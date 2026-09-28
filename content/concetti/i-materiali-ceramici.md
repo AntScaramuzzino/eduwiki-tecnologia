@@ -15,8 +15,8 @@ ultima_revisione: 2026-06-22
 ## Definizione breve
 I materiali ceramici sono prodotti che si ottengono dalla **cottura ad alta temperatura** di un impasto a base di **argilla** e acqua. Sono duri, resistenti, isolanti termici ed elettrici, ma anche **fragili**; con essi si realizzano stoviglie, piastrelle, sanitari, mattoni e tegole.
 
-![Ceramica](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chinese_-_Storage_Jar_-_Walters_492392.jpg/330px-Chinese_-_Storage_Jar_-_Walters_492392.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
-*📖 materiale inorganico non metallico · [Wikipedia](https://it.wikipedia.org/wiki/Ceramica) · CC BY-SA*
+![Ceramica](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Chinese_-_Storage_Jar_-_Walters_492392.jpg/330px-Chinese_-_Storage_Jar_-_Walters_492392.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+*📖 materiale inorganico non metallico e relativa attività di lavorazione · [Wikipedia](https://it.wikipedia.org/wiki/Ceramica) · CC BY-SA*
 
 <figure>
 <iframe src="https://www.youtube-nocookie.com/embed/PqbrZEdoQtw" width="100%" style="aspect-ratio:16/9;border:none;border-radius:8px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" title="La ceramica"></iframe>

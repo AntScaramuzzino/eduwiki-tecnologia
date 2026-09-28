@@ -16,7 +16,7 @@ ultima_revisione: 2026-06-22
 
 I metalli sono elementi chimici, in genere lucenti e buoni conduttori di calore ed elettricità, che si estraggono dai minerali presenti nelle rocce. Le leghe sono miscele di due o più metalli, o di un metallo con altri elementi (come il carbonio), che hanno proprietà migliori dei componenti singoli: le più importanti sono la ghisa e l'acciaio, leghe di ferro e carbonio.
 
-![Metallurgia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iron-Making.jpg/330px-Iron-Making.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+![Metallurgia](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Iron-Making.jpg/330px-Iron-Making.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 disciplina tecnica che riguarda essenzialmente lo studio dei metalli · [Wikipedia](https://it.wikipedia.org/wiki/Metallurgia) · CC BY-SA*
 
 <figure>

@@ -18,7 +18,7 @@ Il trasporto spaziale è l'insieme delle tecnologie e dei sistemi che permettono
 
 ---
 
-![Esplorazione spaziale](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vostok1_descent_module.jpg/330px-Vostok1_descent_module.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+![Esplorazione spaziale](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Vostok1_descent_module.jpg/330px-Vostok1_descent_module.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 viaggi nello spazio di strumenti tecnologici e dell'uomo · [Wikipedia](https://it.wikipedia.org/wiki/Esplorazione_spaziale) · CC BY-SA*
 
 ## Spiegazione per docenti

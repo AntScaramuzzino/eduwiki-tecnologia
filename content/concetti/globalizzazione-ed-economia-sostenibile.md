@@ -23,7 +23,7 @@ La **globalizzazione** è il processo di integrazione economica, sociale e cultu
 
 ---
 
-![Globalizzazione](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Geokeys.jpg/330px-Geokeys.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
+![Globalizzazione](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Geokeys.jpg/330px-Geokeys.jpg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail)
 *📖 fenomeno di crescente interdipendenza delle economie e dei mercati internazionali · [Wikipedia](https://it.wikipedia.org/wiki/Globalizzazione) · CC BY-SA*
 
 ## Spiegazione per docenti
