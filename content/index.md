@@ -17,7 +17,7 @@ UDA, rubriche e adattamenti già pronti.
 <div style="border:1px solid var(--lightgray);border-radius:12px;padding:1.1rem 1.3rem;background:var(--light)">
 <h3 style="margin:0 0 .2rem">Studia</h3>
 <p style="margin:0 0 .7rem;color:var(--gray);font-size:.9em">Sei uno studente o vuoi ripassare un argomento.</p>
-<ul style="margin:0;padding-left:1.1rem;list-style:none"><li style="margin:.3rem 0"><a href="./temi/energia-e-fonti-energetiche">Concetti per tema</a> <span style="color:var(--gray);font-size:.85em">13 temi</span></li><li style="margin:.3rem 0"><a href="./glossario/glossario">Glossario</a> <span style="color:var(--gray);font-size:.85em">termini chiave</span></li><li style="margin:.3rem 0"><a href="./tecnonews/articolo-napoli-smart-road">TecnoNews</a> <span style="color:var(--gray);font-size:.85em">26 notizie</span></li></ul>
+<ul style="margin:0;padding-left:1.1rem;list-style:none"><li style="margin:.3rem 0"><a href="./temi/energia-e-fonti-energetiche">Concetti per tema</a> <span style="color:var(--gray);font-size:.85em">13 temi</span></li><li style="margin:.3rem 0"><a href="./glossario/glossario">Glossario</a> <span style="color:var(--gray);font-size:.85em">termini chiave</span></li><li style="margin:.3rem 0"><a href="./tecnonews/articolo-napoli-smart-road">TecnoNews</a> <span style="color:var(--gray);font-size:.85em">30 notizie</span></li></ul>
 </div>
 <div style="border:1px solid var(--lightgray);border-radius:12px;padding:1.1rem 1.3rem;background:var(--light)">
 <h3 style="margin:0 0 .2rem">Insegna</h3>
