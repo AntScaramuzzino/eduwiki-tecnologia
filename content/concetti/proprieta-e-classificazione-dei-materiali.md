@@ -159,7 +159,7 @@ I contenuti di definizione e classificazione delle proprietà sono ripresi dai t
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Analizza 5 oggetti di casa: per ognuno identifica la materia prima principale, una proprietà che lo rende adatto alla sua funzione, e come va smaltito a fine vi…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-MAT-1-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-MAT-1-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

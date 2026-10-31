@@ -304,7 +304,7 @@ L'energia non scompare: si è convertita in calore (dissipato nell'ambiente) e i
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Progetta il sistema di accumulo per la scuola fotovoltaica del tuo comune: usando dati reali di produzione FV e consumo scolastico, dimensiona la batteria, calc…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-ENE-3-06/" target="_blank" style="display:inline-block;margin-top:10px;background:#f97316;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-ENE-3-06/" target="_blank" style="display:inline-block;margin-top:10px;background:#f97316;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

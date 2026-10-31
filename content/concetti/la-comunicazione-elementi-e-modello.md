@@ -210,7 +210,7 @@ Gli studenti scelgono un post virale o una notizia online e analizzano: chi è l
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Mappa la copertura WiFi della scuola: misura la potenza del segnale in 8 punti diversi dell'edificio usando un'app apposita, crea una mappa di calore e identifi…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-COM-3-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#06b6d4;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-COM-3-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#06b6d4;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

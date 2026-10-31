@@ -11,7 +11,7 @@ from pathlib import Path
 # ─── percorsi ────────────────────────────────────────────────────────────────
 CONTENT   = Path("/Users/antonioscaramuzzino/Projects/eduwiki-tecnologia/content")
 MC_DIR    = Path("/Users/antonioscaramuzzino/Projects/ProfTecnologIA/data/mc")
-BASE_URL  = "https://proftecnologia.vercel.app/mc"
+BASE_URL  = "https://book.proftecnologia.it/mc"
 
 # ─── mapping slug EduWiki → [MC ID] ─────────────────────────────────────────
 MAPPING = {

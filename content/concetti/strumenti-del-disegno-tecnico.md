@@ -157,7 +157,7 @@ Approfondimenti in [[inclusione-disegno-tecnico]].
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Disegna in scala 1:20 la tua aula: misura le dimensioni reali con un metro, converti in scala e riproduci la pianta su foglio A4 con strumenti tecnici.…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-DIS-1-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#8b5cf6;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-DIS-1-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#8b5cf6;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

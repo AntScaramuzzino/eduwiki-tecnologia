@@ -137,7 +137,7 @@ Rubrica per l'attività sul ciclo di vita / indagine sulla raccolta differenziat
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Traccia il 'passaporto tecnologico' di un oggetto: scegli un oggetto di casa (es. una felpa, uno smartphone), mappa le 7 fasi del ciclo tecnologico, indica chi …
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-MAT-1-02/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-MAT-1-02/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>
@@ -153,7 +153,7 @@ Rubrica per l'attività sul ciclo di vita / indagine sulla raccolta differenziat
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Analizza la raccolta differenziata della scuola: conta i bidoni presenti, osserva per un giorno cosa viene gettato, identifica 3 errori frequenti e proponi una …
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-MAT-1-04/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-MAT-1-04/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

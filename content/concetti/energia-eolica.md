@@ -242,7 +242,7 @@ Contro: se non c'è vento, non funziona.
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Progetta il piano energetico della scuola: stima il consumo annuo (bollette se disponibili, o dato medio per m²), dimensiona un impianto fotovoltaico e calcola …
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-ENE-3-03/" target="_blank" style="display:inline-block;margin-top:10px;background:#f97316;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-ENE-3-03/" target="_blank" style="display:inline-block;margin-top:10px;background:#f97316;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

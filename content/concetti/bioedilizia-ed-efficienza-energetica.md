@@ -193,7 +193,7 @@ Le sezioni "Strumenti digitali utili" e parte delle attività di livello base e 
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Analizza la tua casa o scuola: osserva i materiali usati per pareti, pavimenti, finestre e tetto, crea una tabella con 4 materiali identificati e valuta per cia…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-AMB-2-04/" target="_blank" style="display:inline-block;margin-top:10px;background:#10b981;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-AMB-2-04/" target="_blank" style="display:inline-block;margin-top:10px;background:#10b981;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

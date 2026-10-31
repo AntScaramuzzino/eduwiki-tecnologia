@@ -104,4 +104,4 @@ UDA, rubriche e adattamenti già pronti.
 ---
 
 Pattern: [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) di A. Karpathy, adattato alla scuola.
-Autore: [Antonio Scaramuzzino](https://proftecnologia.vercel.app) · Licenza: CC BY-SA 4.0
+Autore: [Antonio Scaramuzzino](https://book.proftecnologia.it) · Licenza: CC BY-SA 4.0

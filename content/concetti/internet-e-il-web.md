@@ -219,7 +219,7 @@ Obiettivo: collegare i concetti tecnici a questioni di equità e cittadinanza di
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Usando uno strumento di traceroute online (traceroute.org o simile), traccia il percorso di un pacchetto dati da Roma a tre destinazioni diverse (Tokyo, New Yor…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-COM-3-05/" target="_blank" style="display:inline-block;margin-top:10px;background:#06b6d4;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-COM-3-05/" target="_blank" style="display:inline-block;margin-top:10px;background:#06b6d4;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

@@ -275,7 +275,7 @@ Il prodotto finale può essere stampato e affisso nella scuola o pubblicato sul 
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Produci un podcast di 3 minuti su un tema tecnologico scelto: scrivi lo script, registra l'audio, aggiungi musica con licenza CC, cita tutte le fonti usate nel …
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-COM-3-02/" target="_blank" style="display:inline-block;margin-top:10px;background:#06b6d4;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-COM-3-02/" target="_blank" style="display:inline-block;margin-top:10px;background:#06b6d4;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>
@@ -291,7 +291,7 @@ Il prodotto finale può essere stampato e affisso nella scuola o pubblicato sul 
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Scegli un contenuto virale che hai visto recentemente che ti sembrava dubbio. Applica il metodo SIFT completo, documenta ogni passo, determina se è affidabile o…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-COM-3-06/" target="_blank" style="display:inline-block;margin-top:10px;background:#06b6d4;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-COM-3-06/" target="_blank" style="display:inline-block;margin-top:10px;background:#06b6d4;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

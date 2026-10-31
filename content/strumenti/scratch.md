@@ -117,7 +117,7 @@ I concetti appresi con Scratch sono trasferibili a linguaggi di programmazione t
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Crea un quiz interattivo in Scratch sull'alimentazione: almeno 5 domande, punteggio, feedback per risposta corretta/sbagliata, schermata finale con il risultato…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-DIG-2-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#3b82f6;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-DIG-2-01/" target="_blank" style="display:inline-block;margin-top:10px;background:#3b82f6;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

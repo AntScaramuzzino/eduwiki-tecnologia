@@ -151,7 +151,7 @@ Rubrica per la comprensione del concetto e il suo uso in attività di coding/rob
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Progetta e realizza una stazione di monitoraggio per la tua aula: usa un micro:bit o Arduino con sensore di temperatura e luminosità, raccogli dati per 3 giorni…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-DIG-3-03/" target="_blank" style="display:inline-block;margin-top:10px;background:#3b82f6;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-DIG-3-03/" target="_blank" style="display:inline-block;margin-top:10px;background:#3b82f6;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>

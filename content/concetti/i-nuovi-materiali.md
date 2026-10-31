@@ -163,7 +163,7 @@ Le sezioni "Definizione", "Spiegazione per docenti/studenti", "Versione ultra-se
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Progetta un packaging sostenibile per un prodotto alimentare: scegli il materiale, giustifica la scelta con almeno 2 proprietà e confrontalo con l'imballaggio o…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-MAT-1-03/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-MAT-1-03/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>
@@ -179,7 +179,7 @@ Le sezioni "Definizione", "Spiegazione per docenti/studenti", "Versione ultra-se
   <div style="margin-top:10px;font-size:12px;color:#64748b;border-top:1px solid #e2e8f0;padding-top:8px">
     <strong>Compito di realtà:</strong> Ricerca un prodotto commerciale che dichiara di usare bioplastica: verifica la composizione reale sull'etichetta, cerca come va smaltito e valuta se l'etichetta…
   </div>
-  <a href="https://proftecnologia.vercel.app/mc/MC-MAT-1-06/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
+  <a href="https://book.proftecnologia.it/mc/MC-MAT-1-06/" target="_blank" style="display:inline-block;margin-top:10px;background:#f59e0b;color:#fff;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;text-decoration:none">
     Apri scheda completa →
   </a>
 </div>
