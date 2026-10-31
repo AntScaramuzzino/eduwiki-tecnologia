@@ -134,7 +134,7 @@ def main():
 
     dati = {
         "generato_da": "scripts/export_sfera.py (EduWiki Tecnologia)",
-        "fonte": "https://wikitecno.proftecnologia.it",
+        "fonte": "https://eduwikitecno.proftecnologia.it",
         "licenza": "CC BY-SA 4.0",
         "totale_concetti": len(nodi),
         "totale_fondamentali": sum(1 for n in nodi.values() if n["fondamentale"]),
