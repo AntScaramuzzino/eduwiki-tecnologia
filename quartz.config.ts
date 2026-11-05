@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "vercel",
     },
     locale: "it-IT",
     baseUrl: "eduwiki.proftecnologia.it",
